@@ -1,0 +1,17 @@
+# Core RAG Dependencies (Minimal - Python 3.14 compatible)
+sentence-transformers>=2.7.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Optional: For ChatGPT integration
+# openai>=1.3.0
+
+# Optional: For Ollama local LLM
+# ollama>=0.0.1
+
+# Optional: For future GUI support
+# PyQt6>=6.6.0
+
+# Optional: For FastAPI backend
+# fastapi>=0.109.0
+# uvicorn>=0.27.0
