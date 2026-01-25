@@ -1,10 +1,3 @@
-"""
-Setup Verification Script
-Checks that all dependencies and files are properly configured
-
-Run with: python verify_setup.py
-"""
-
 import os
 import sys
 from pathlib import Path

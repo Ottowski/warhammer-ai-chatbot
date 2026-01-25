@@ -1,9 +1,3 @@
-"""
-Warhammer: The Old World - AI Rules Assistant
-Main entry point for the RAG-based chatbot
-
-Run with: python main.py
-"""
 import sys
 import os
 

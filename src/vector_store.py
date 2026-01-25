@@ -1,7 +1,3 @@
-"""
-Vector Store Management
-Handles creation and querying of Chroma vector database for rules documents
-"""
 import os
 import chromadb
 from chromadb.config import Settings

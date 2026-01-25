@@ -1,7 +1,3 @@
-"""
-Embeddings Management
-Handles generation and caching of embeddings using sentence-transformers
-"""
 from sentence_transformers import SentenceTransformer
 
 class EmbeddingManager:

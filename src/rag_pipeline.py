@@ -1,7 +1,3 @@
-"""
-RAG Pipeline
-Orchestrates the Retrieval Augmented Generation process
-"""
 from typing import List, Tuple
 import numpy as np
 from src.embeddings import EmbeddingManager

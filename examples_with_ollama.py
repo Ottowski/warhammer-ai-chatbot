@@ -1,22 +1,3 @@
-"""
-Example: Using Local LLM via Ollama
-
-This example shows how to use a fully local LLM without any API keys.
-
-Setup:
-1. Download Ollama from https://ollama.ai
-2. Run: ollama pull llama2
-3. Ollama will run on localhost:11434
-4. Install: pip install ollama
-5. Run: python examples/with_ollama.py
-
-Ollama models:
-- llama2: Good general purpose (7B, ~4GB)
-- mistral: Faster, more efficient (7B)
-- neural-chat: Optimized for chat (7B)
-- orca2: Good reasoning (7B, 13B)
-"""
-
 import os
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

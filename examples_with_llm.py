@@ -1,17 +1,3 @@
-"""
-Example: Integrating OpenAI LLM with the RAG Pipeline
-
-This is an optional enhancement. To use this:
-
-1. Get an API key from https://platform.openai.com/api-keys
-2. Install: pip install openai langchain langchain-openai
-3. Set environment variable: 
-   - Windows PowerShell: $env:OPENAI_API_KEY = "your-key-here"
-   - Windows CMD: set OPENAI_API_KEY=your-key-here
-   - Linux/Mac: export OPENAI_API_KEY="your-key-here"
-4. Run: python examples/with_llm.py
-"""
-
 import os
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

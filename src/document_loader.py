@@ -1,7 +1,3 @@
-"""
-Document Loader
-Loads rule documents from markdown/txt files and chunks them appropriately
-"""
 import os
 from pathlib import Path
 from typing import List, Tuple
