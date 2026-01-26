@@ -1,4 +1,4 @@
-# Removing Casualties
+# Warhammer: The Old World - Removing Casualties
 
 ## Single Wound Models
 
