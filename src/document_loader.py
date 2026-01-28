@@ -65,7 +65,7 @@ class DocumentLoader:
     
     def _chunk_text(self, text: str, chunk_size: int = 500, overlap: int = 100) -> List[str]:
         """
-        Split text into overlapping chunks
+        Split text into overlapping chunks at section boundaries
         
         Args:
             text: Text to chunk
@@ -78,13 +78,39 @@ class DocumentLoader:
         if len(text) <= chunk_size:
             return [text]
         
-        chunks = []
-        step = chunk_size - overlap
+        # Split by markdown headings first (better for question matching)
+        import re
+        # Split on markdown headings (## or ###)
+        sections = re.split(r'(\n#{2,3}\s+[^\n]+\n)', text)
         
-        for i in range(0, len(text), step):
-            chunk = text[i:i + chunk_size]
-            if chunk.strip():
-                chunks.append(chunk)
+        chunks = []
+        current_chunk = ""
+        
+        for section in sections:
+            section = section.strip()
+            if not section:
+                continue
+                
+            # If this would exceed chunk size, save current and start new
+            if len(current_chunk) + len(section) > chunk_size and current_chunk:
+                chunks.append(current_chunk.strip())
+                # Start new chunk with heading if current section is a heading
+                if section.startswith('#'):
+                    current_chunk = section
+                else:
+                    # Create small overlap from previous chunk
+                    lines = current_chunk.split('\n')
+                    overlap_text = '\n'.join(lines[-3:]) if len(lines) > 3 else current_chunk
+                    current_chunk = overlap_text + '\n\n' + section
+            else:
+                if current_chunk:
+                    current_chunk += '\n' + section
+                else:
+                    current_chunk = section
+        
+        # Add the last chunk
+        if current_chunk.strip():
+            chunks.append(current_chunk.strip())
         
         return chunks
     

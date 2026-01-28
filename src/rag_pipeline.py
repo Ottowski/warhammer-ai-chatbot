@@ -52,7 +52,7 @@ class RAGPipeline:
     
     def retrieve_context(self, query: str, top_k: int = 3) -> Tuple[List[str], List[dict]]:
         """
-        Retrieve relevant context for a query using cosine similarity
+        Retrieve relevant context using hybrid search (semantic + keyword)
         
         Args:
             query: User's question
@@ -69,10 +69,33 @@ class RAGPipeline:
         
         # Compute cosine similarity
         from sklearn.metrics.pairwise import cosine_similarity
-        similarities = cosine_similarity([query_embedding], self.embeddings)[0]
+        semantic_scores = cosine_similarity([query_embedding], self.embeddings)[0]
+        
+        # Add keyword boosting for better results
+        query_lower = query.lower()
+        query_words = set(query_lower.split())
+        
+        keyword_scores = np.zeros(len(self.documents))
+        for i, doc in enumerate(self.documents):
+            doc_lower = doc.lower()
+            # Boost if document contains query words
+            matching_words = sum(1 for word in query_words if word in doc_lower)
+            # Give extra boost if heading matches query
+            if any(heading in doc_lower for heading in ['###', '##']):
+                for word in query_words:
+                    if f"## {word}" in doc_lower or f"### {word}" in doc_lower:
+                        matching_words += 3
+            keyword_scores[i] = matching_words
+        
+        # Normalize keyword scores
+        if keyword_scores.max() > 0:
+            keyword_scores = keyword_scores / keyword_scores.max()
+        
+        # Combine scores (70% semantic, 30% keyword)
+        combined_scores = 0.7 * semantic_scores + 0.3 * keyword_scores
         
         # Get top-k indices
-        top_indices = np.argsort(similarities)[-top_k:][::-1]
+        top_indices = np.argsort(combined_scores)[-top_k:][::-1]
         
         # Retrieve documents and metadata
         retrieved_docs = [self.documents[i] for i in top_indices]
@@ -123,8 +146,8 @@ Answer:"""
         Returns:
             Dictionary with answer and references
         """
-        # Step 1: Retrieve relevant context
-        relevant_docs, metadatas = self.retrieve_context(query, top_k=3)
+        # Step 1: Retrieve relevant context (retrieve more chunks for better results)
+        relevant_docs, metadatas = self.retrieve_context(query, top_k=5)
         
         # Step 2: Generate answer
         if use_llm:
@@ -144,13 +167,18 @@ Answer:"""
         }
     
     def _simple_answer(self, documents: List[str]) -> str:
-        """Generate a simple answer by summarizing retrieved documents"""
+        """Generate a simple answer by presenting retrieved documents cleanly"""
         if not documents:
             return "No relevant information found."
         
-        # Combine and truncate for simple answer
-        combined = " ".join(documents)
-        if len(combined) > 500:
-            combined = combined[:500] + "..."
+        # Return the top chunks separated clearly
+        answer_parts = []
+        for i, doc in enumerate(documents[:3], 1):
+            # Clean up the text
+            doc = doc.strip()
+            # Add separator between chunks for readability
+            if i > 1:
+                answer_parts.append("\n" + "─" * 60 + "\n")
+            answer_parts.append(doc)
         
-        return combined
+        return "".join(answer_parts)
