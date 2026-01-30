@@ -218,3 +218,114 @@ With casualties removed, check to see if there are any models with a lower Initi
 ## Calculate Combat Result
 
 Once every model engaged in the combat has fought, you must determine which side has won that round of combat. If one side has been completely wiped out, the other side is automatically the winner, regardless of the rules that follow.
+
+### Combat Result Score
+
+To determine your combat result score, consult the table below and calculate how many 'combat result points' your unit(s) scored:
+
+### Combat Result Table
+
+| Result | Points |
+| --- | --- |
+| Unsaved wounds inflicted | 1 point each |
+| Rank Bonus | +1 point/rank |
+| Standard | +1 point |
+| Battle Standard | +1 point |
+| Flank attack | +1 point |
+| Rear attack | +2 points |
+| High ground | +1 point |
+| Overkill | +1 point/excess wound |
+| Massed Infantry | +1 point if higher Unit Strength |
+| Other bonuses | As applicable |
+
+### Unsaved Wounds Inflicted
+
+Each side's basic combat result is equal to the number of unsaved wounds it caused during this Combat phase, plus any unsaved wounds a unit caused by shooting if it chose to Stand & Shoot as a charge reaction during this turn. In other words, each Wound the enemy side lost this turn due to a Stand & Shoot charge reaction or during the Combat phase is counted and is worth 1 combat result point.
+
+Should an attack or rule cause an enemy model to be removed from play as a casualty, it counts as having lost a number of Wounds equal to the number it had remaining at the time it was removed.
+
+Note that it is important to count the number of Wounds lost, rather than the number of casualties, because many models have more than one wound.
+
+### Rank Bonus
+
+Depending upon its formation, and if it is wide enough, a unit can claim a Rank Bonus of +1 for each extra rank behind the first, up to the maximum determined by its troop type. How many models a rank must contain to claim a Rank Bonus, as well as the maximum Rank Bonus a unit can claim, is determined by its troop type.
+
+Note that this bonus can be claimed for an incomplete rear rank, as long as there are sufficient models in it. However, a Disrupted unit cannot claim a Rank Bonus.
+
+### Standards
+
+Warriors fight all the harder beneath the colours and symbols of their city, nation, tribe or god:
+
+**Standard**
+
+If your unit includes a standard bearer, you may claim a bonus of +1 combat result point. Standard bearers are covered in the Command Groups section.
+
+**The Battle Standard**
+
+If your unit includes a Battle Standard, you may claim an additional bonus of +1 combat result point, cumulative with any bonus for a 'normal' standard. Battle Standards are covered in the Characters section.
+
+### Flank & Rear Attacks
+
+Fighting a foe in its flank or rear is a great advantage as tightly formed units cannot easily turn to face their foe. To represent this:
+
+**Flank Attack**
+
+If your unit is engaged with the enemy's flank arc, you may claim a bonus of +1 combat result point.
+
+**Rear Attack**
+
+If your unit is engaged with the enemy's rear arc, you may claim a bonus of +2 combat result points.
+
+Note that these bonuses are cumulative.
+
+### The High Ground
+
+If the fighting rank of your unit occupies a higher position than that of the enemy, for example, your unit is fighting along the crest of a hill, you may claim a bonus of +1 combat result point.
+
+### Overkill (Combat)
+
+If a character fighting in a challenge kills their opponent and causes more unsaved wounds than their opponent has Wounds remaining, then for each excess wound you may claim a bonus of +1 combat result point, up to a maximum of +5.
+
+Challenges are a special type of combat fought between characters, and are covered in the Characters section.
+
+### Other Bonuses
+
+Many special rules confer additional bonus combat result points. For example, a Close Order formation that is in Combat Order may claim a bonus of +1 combat result point. Any special rules that confer such bonuses will detail the criteria that must be met and how many bonus combat result points can be claimed.
+
+### Who is the Winner?
+
+Once both sides have calculated their combat result, you will be able to determine the winner of that round of combat, i.e., the side that scored the most. If there is a clear winner, the loser will have to make a Break test during the next sub-phase.
+
+### Drawn Combat
+
+If both sides have the same score, the combat is a draw. In such cases, the units remain locked in place until the next player's turn when the combat will continue and they will fight another round, hoping to break the deadlock.
+
+### Combat Results & Multiple Units In Combat
+
+It is possible (indeed, it is highly likely) that more than two units will become engaged in a single combat. When this happens, calculating the combat result can become quite complex. This section attempts to offer some clarity to confusing situations.
+
+#### Rank Bonus in Multiple Combats
+
+Where you have several units engaged in a single combat, you do not count the Rank Bonus for all of them. Instead, count only the Rank Bonus that grants the highest number of bonus combat result points.
+
+For example, if you have two units engaging a single enemy unit in combat, one of which has a Rank Bonus of +1, the other of which has a Rank Bonus of +2, you may claim a bonus of +2 combat result points as that is the higher.
+
+#### Standards (Multiple Combats)
+
+Regardless of how many units engaged in a single combat have standards, you may only claim the combat result bonus granted by a single standard. If one or more of those standards grants additional bonuses (as many magic standards do, for example), you may choose which standard to count.
+
+As most armies can only include a single Battle Standard, this is counted as normal, regardless of how many units are engaged in the combat.
+
+#### Flank & Rear Attacks (Multiple Combats)
+
+Bonuses for flank and rear attacks can only be earned once per enemy unit – having multiple units engaging the same enemy unit in either its flank or in its rear does not grant additional bonuses.
+
+For example, if you have two units engaging a single enemy unit in combat, each of which is engaging a different flank of that unit, you can only claim a single flank attack bonus. However, if one unit is engaging the enemy unit's flank and the other is engaging the enemy unit's rear, you can claim both the flank attack and the rear attack bonus.
+
+#### The High Ground (Multiple Combats)
+
+Only a single unit engaged in a multiple combat can claim the combat result bonus granted for the high ground. The unit that has its fighting rank in the highest position may claim this bonus for its side. If two opposing units are tied in terms of position, they will cancel one another out and neither side may claim this bonus.
+
+#### Other Bonuses (Multiple Combats)
+
+As mentioned previously, many special rules confer additional bonus combat result points. Unless stated otherwise, these other bonuses can always be counted. For example, a Close Order formation that is in Combat Order may claim a bonus of +1 combat result point. If two such units are engaged in the same multiple combat, you may claim this bonus twice because the rule that grants it does not state otherwise.
