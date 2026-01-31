@@ -22,6 +22,56 @@ Each unit on the losing side of a combat must make a Break test. The outcome of 
 
 Units on the winning side of a combat can choose to follow up an enemy that Gives Ground, to pursue an enemy that Falls Back in Good Order or breaks, or to restrain from pursuit.
 
+## Follow Up & Pursuit
+
+### Overrun
+
+If a unit completely destroys its enemy before the Break Test sub-phase, it may attempt to restrain and reform, or it may 'overrun'. A unit that overruns makes a normal pursuit move but must move directly forwards, without pivoting.
+
+### Unable to Follow Up or Pursue
+
+A unit may find itself unable to follow up or pursue:
+
+- Still Engaged
+- Unable to Move
+
+#### Still Engaged
+
+A unit that is still in base contact with an enemy unit cannot follow up or pursue.
+
+#### Unable to Move
+
+A unit may be unable to complete its chosen move due to the presence of other friendly units or terrain. In such cases, the unit moves as far as possible before halting.
+
+### Catching the Curs!
+
+Once the unit being pursued has completed its move, the pursuing unit is moved. If the pursuing unit makes contact with the pursued unit, it has caught its enemy and halts:
+
+- If the enemy unit is fleeing, it is hacked to pieces and immediately removed from play, exactly as if it had been run down by a charging unit. The pursuing unit may then attempt to reform.
+- If the enemy unit Fell Back in Good Order, the units become engaged in combat once more, becoming locked in place until the next player's turn when the combat will continue. During the next turn, the pursuing unit counts as having charged.
+
+### Pursuit into an Obstacle
+
+Units making a pursuit move are affected by terrain as normal. A pursuing unit must stop moving if it makes contact with a friendly unit or with impassable terrain.
+
+### Pursuit off the Battlefield
+
+Should any part of a pursuing unit move into contact with, or cross beyond, the edge of the battlefield, it is removed from play but is not destroyed. The unit returns to the battlefield during its controlling player's next Compulsory Moves subphase as if it were a unit of reinforcements, and must be placed as close as possible to the point at which it left the battlefield.
+
+### Pursuit into a Fresh Enemy
+
+Pursuing units will often make contact with an enemy unit other than the one they are pursuing. In such cases, the pursuing unit counts as charging the enemy unit it will make contact with, wheeling to maximise contact if required and wheeling to align as normal. The unit that was being pursued is not caught.
+
+### Pursuit into a Fleeing Enemy
+
+If a pursuing unit makes contact with a fleeing enemy unit, that fleeing enemy unit is run down exactly as if caught by a charging unit. The pursuing unit may then attempt to reform.
+
+### Pursuit into a New Combat
+
+If a pursuing unit makes contact with an enemy unit that is not fleeing, the units become engaged in combat. If the enemy unit was engaged in combat at the start of this phase, and if that combat has not yet been fought, the pursuing unit will fight again when that combat is fought (and counts as having charged). However, it cannot pursue again this turn. Instead, it will automatically restrain and reform with no Restraint test required.
+
+Otherwise, the units become locked in place until the next player's turn when they will fight a round of combat. During the next turn, the pursuing unit counts as having charged.
+
 ## End of Turn
 
 Once all combats have been resolved, the active player's turn ends. Play then passes to the inactive player and their turn begins. As each turn ends and a new one begins, it is worth making a note of how many turns and rounds have been played.
@@ -214,6 +264,78 @@ In such cases, and if the unit suffering the casualties is able to make supporti
 ### Fight On!
 
 With casualties removed, check to see if there are any models with a lower Initiative still to fight in this combat. If there are, repeat steps 1.2, 1.3 and 1.4 for those models. If there are no models left to fight in this combat, move on to the next sub-phase.
+
+## Assailment Spells
+
+If a Wizard that is engaged in combat knows any Assailment spells, they may attempt to cast them in addition to making normal attacks when it is their turn to fight, as determined by their Initiative.
+
+### Templates
+
+Hits caused by an Assailment spell that uses a template are distributed among the rear ranks of the enemy unit – in other words, they do not reduce the number of models within the fighting rank.
+
+## Shrinking Units
+
+The removal of casualties may cause units engaged with one another to no longer be in base contact. In such cases, move the units by the smallest amount possible to bring them back into base contact. This move cannot be used to alter facing, nor is it an opportunity to redress the ranks or engage another unit.
+
+### No More Foes
+
+In multiple combats, the shrinking of units can make it impossible for all of the units to maintain contact. In such cases, a unit that can no longer make base contact with the enemy ceases to be part of the combat at the end of the turn.
+
+## Incomplete Ranks
+
+If a unit is fighting to its flank or rear, or has been joined by a character that does not fit neatly within its ranks, its fighting rank might be incomplete. In such cases, warriors from the middle of the unit would press forward to complete the rank. To represent this, a fighting rank is always assumed to contain the same number of models as the largest rank or file behind it.
+
+## Split Profiles (Combat)
+
+If a model with a split profile has Attacks at two or more Initiative values, each set of Attacks is resolved when their Initiative value is reached. If the model is slain before it can make all of its attacks, any not yet made are lost. Similarly, a model with a split profile might be unable to make all of its attacks if all of its potential targets have been slain.
+
+## Different Weapons
+
+It is not uncommon for models in the fighting rank to be equipped with different weapons. In such cases, you must roll different batches of dice when rolling To Hit and To Wound, making it clear to your opponent what they represent, where they are being directed and the target number you need.
+
+## Characteristics of Zero (Combat)
+
+Some models have a Weapon Skill or Attacks characteristic of 0 and will find themselves at the mercy of their enemies. If a model has a WS of 0, all of its attacks miss automatically, whilst attacks directed against it will hit automatically. If a model has 0 Attacks, it simply cannot make any attacks.
+
+## Terrain & Combat
+
+Terrain is covered in more detail in the Battlefield Terrain section. This section explains how certain types of terrain affect combat. Players should discuss before the battle begins which category a terrain feature falls into.
+
+### Open Ground & Hills (Combat)
+
+Open ground is the ideal setting for combat. However, care should be taken to consider the role of hills when calculating combat results. Remember, units that occupy the high ground can claim a bonus.
+
+### Difficult Terrain (Combat)
+
+If a quarter (25%) or more of the models within a unit are within difficult terrain at the start of the Combat phase, it becomes Disrupted and cannot claim a Rank Bonus.
+
+### Dangerous Terrain & Woods
+
+For the purposes of combat, both dangerous terrain and woods are treated as difficult terrain.
+
+### Impassable Terrain (Combat)
+
+Should a charging unit ever be unable to align to the enemy due to the presence of impassable terrain, the charging unit has made a disordered charge. In addition, should it prove impossible to align the units once contact has been made, causing a gap to be left, the charging unit becomes Disrupted.
+
+### Linear Obstacles
+
+Linear obstacles can have a considerable impact upon combat, depending upon their height.
+
+### Low Linear Obstacles (Combat)
+
+Should a unit engaged in combat ever find itself straddling a low linear obstacle (i.e., less than 2" high), such as walls and hedges, it becomes Disrupted.
+
+### Defended Low Linear Obstacles (Combat)
+
+A unit behind a low linear obstacle can defend it by moving its front rank into base contact with the obstacle. Enemies can charge the defenders as normal but do not have to physically cross the obstacle. Instead, the front rank of a charging unit moves into base contact with the opposite side of the obstacle. Unless it has the Fly (X) special rule, a unit that charges an enemy behind a defended obstacle makes a disordered charge.
+
+### High Linear Obstacles (Combat)
+
+For the purposes of combat, high linear obstacles (i.e., 2" high or more) are treated as impassable terrain.
+
+### Battlefield Decoration (Combat)
+
+Some terrain features are so small that they cannot reasonably be expected to interfere with combat. Very small decorative elements of terrain less than 2" across, such as a signpost or well, should be ignored as if they were not there – units can freely fight around them. Should the presence of such a feature ever interfere with the positioning of units, simply make note of its position and move it aside, replacing it when it is convenient to do so.
 
 ## Calculate Combat Result
 
