@@ -1,11 +1,13 @@
 # Model Profiles
 
+The Citadel miniatures used to play games of Warhammer: the Old World are referred to as 'models' in the rules that follow. Models represent a huge variety of troops, each with its own skills and capabilities. To reflect this, each model has its own characteristics profile.
+
 ## Characteristics Profile
 
 Each model in Warhammer: the Old World has a profile of nine characteristics:
 
 | M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|-----|
+|---|----|----|---|---|---|---|---|----|
 | Soldier of the Empire | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
 
 These are used to describe the various attributes of different models. All characteristics are rated on a scale from 0 to 10 – they cannot go below 0 and only in the rarest of cases will they rise above 10. These characteristics are:
@@ -50,7 +52,7 @@ This indicates how fast a model can react. In combat, Initiative dictates the or
 
 ## Attacks (A)
 
-This characteristic indicates the number of times a model can strike in close combat.
+This shows the number of attacks a model makes in combat. Most models have a single Attack. Elite troops, monsters or heroes may be able to strike several times and will usually have more Attacks.
 
 ## Leadership (Ld)
 
