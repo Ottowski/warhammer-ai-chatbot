@@ -191,3 +191,121 @@ A charging unit might find its path unexpectedly blocked by another enemy unit, 
 ## Halting a Charge
 
 If the charging unit wishes to halt its charge, it is moved towards its charge target as normal, stopping 1" away from the unit that has blocked its path. A halted charge is not a failed charge.
+
+## Continuing Ahead
+
+If the charging unit chooses to continue ahead, the outcome will depend upon the enemy unit:
+
+If a charging unit makes accidental contact with a fleeing enemy unit, it will wheel to align as normal. The fleeing unit is considered to have been run down by the charging unit and is immediately removed from play. The charging unit's movement comes to an end and, due to the confused circumstances, cannot attempt to reform.
+
+If a charging unit makes accidental contact with an enemy unit that is not fleeing, simply treat the charging unit as having redirected its charge into that unit.
+
+## Flee!
+
+Units flee for many reasons. Units that fail to rally during the Strategy phase will flee in the Compulsory Moves sub-phase, others will flee from a charging enemy, and so forth. When a unit flees, it abandons all formation and heads to safety by the most direct route possible.
+
+## Direction of Flight
+
+When a unit flees, the direction of its flight will be determined by whatever caused it to flee. In most cases, this is an enemy unit. Units that fail to Rally will continue in the direction of their earlier flight, rarely changing direction.
+
+## Fleeing from an Enemy Unit
+
+When the rules call for a unit to flee directly away from an enemy unit, pivot the fleeing unit about its centre so that it is facing directly away from the centre of the enemy unit it is fleeing from, as shown in Fig 132.1. After pivoting, the unit makes an immediate flee move, as shown in Fig 132.2.
+
+## Fleeing Through Terrain
+
+A fleeing unit moves through difficult and dangerous terrain without suffering any negative modifiers to its Movement characteristic, though it must make any Dangerous Terrain tests required. Should a fleeing unit come into contact with impassable terrain, it must pivot around its centre in order to move around it by the shortest possible route.
+
+## The Greater the Danger
+
+If a unit is required to flee directly away from two or more enemy units at the same time, it will flee directly away from the enemy unit with the highest Unit Strength. If two enemy units have the same Unit Strength, randomly determine which the unit flees from.
+
+## The Limits of Endurance
+
+No matter how determined the coward, there is a limit to how far a model can run. A unit can only ever make one flee move per phase of the game. Should a unit ever be required to make a second flee move during a phase in which it has already fled, it does not pivot (if required to do so) and will flee 0".
+
+## Give Ground & Fall Back in Good Order
+
+The rules will often call for units to Give Ground or Fall Back in Good Order. Most often, they will do this after losing a round of combat or after suffering heavy casualties from enemy shooting.
+
+## Give Ground
+
+A unit that Gives Ground does so reluctantly, maintaining its formation whilst attempting to put a bit of much needed distance between itself and the enemy.
+
+When a unit Gives Ground, it moves 2" directly away from the enemy unit or units that caused it to Give Ground, without turning, pivoting or otherwise changing its facing in any way, stopping immediately should it come into contact with another unit or terrain, or if continuing to move would bring it within 1" of an enemy unit.
+
+## Fall Back in Good Order
+
+When a unit Falls Back in Good Order, it is beating a hasty retreat, but has not yet lost all courage and is able to quickly rally its fighting spirit. A unit that Falls Back in Good Order moves exactly like a fleeing unit, with the following exceptions:
+
+When making its Flee roll, a unit that Falls Back in Good Order rolls two D6 and discards the lowest result. If both dice roll the same result, discard either.
+
+A unit that Falls Back in Good Order automatically rallies at the end of its flee move.
+
+## Oddball Stuff (Movement)
+
+The movement rules are comprehensive and detailed. Despite this, there will always be situations in which something is unclear.
+
+## Conveyance Spells
+
+If any of the active player's Wizards know any Conveyance spells, they may attempt to cast them at any point during the Remaining Moves sub-phase.
+
+## Lone Models
+
+Lone models, such as characters, monsters or chariots, are units and move as such.
+
+## Different Formations
+
+The rules in this section deal with units in Close Order formation. Units in different formations may move differently. These formations are explained in greater detail in the Unusual Formations section.
+
+## Moving off the Battlefield
+
+Except in the case of fleeing units and pursuing units, no unit is permitted to move off the battlefield.
+
+## Reinforcements
+
+A unit that enters the battle as reinforcements does so during the Compulsory Moves sub-phase. It is placed with its rear arc in full contact with the battlefield edge (upon which edge, and where, will depend upon the rule that triggers its arrival) facing towards the centre of the battlefield.
+
+A unit that enters as reinforcements cannot march and counts as having moved for the purposes of shooting, but can otherwise move normally during the Remaining Moves sub-phase.
+
+## Terrain & Movement
+
+Terrain is covered in more detail in the Battlefield Terrain section. For now, it is sufficient to explain that terrain is divided into seven categories; open ground, hills, difficult, dangerous and impassable terrain, linear obstacles (including both low and high) and woods.
+
+This section focuses on how certain types of terrain hinder movement. Players should discuss before the battle begins which category a terrain feature falls into.
+
+## Open Ground & Hills (Movement)
+
+Any part of the battlefield not taken up by a terrain feature is open ground. Unless otherwise agreed, hills are open ground. Open ground does not impede movement at all.
+
+## Difficult Terrain (Movement)
+
+If any part of a unit moves through difficult terrain, that unit suffers a -1 modifier to its Movement characteristic (to a minimum of 1). This modifier is applied whether the unit begins its movement in difficult terrain, passes through difficult terrain during its movement, or ends its movement in difficult terrain.
+
+In addition, a unit that ends its movement with a quarter (25%) or more of its models within difficult terrain (or straddling a low linear obstacle, below) becomes Disrupted.
+
+## Low Linear Obstacles (Movement)
+
+For the purposes of movement, low linear obstacles (i.e., less than 2" high), such as walls and hedges, are treated as difficult terrain.
+
+## Dangerous Terrain (Movement)
+
+Dangerous terrain hinders movement just like difficult terrain. In addition, make a 'Dangerous Terrain' test for each model in the unit that either begins its movement in dangerous terrain, passes through dangerous terrain during its movement, or ends its movement in dangerous terrain. To make a Dangerous Terrain test, roll a D6. On a roll of 2+, the model successfully negotiates the dangers of the terrain without incident. On a roll of 1, the model has suffered a terrible mishap and loses a single Wound.
+
+Note that a model must make a Dangerous Terrain test for each separate dangerous terrain feature it encounters during a single move.
+
+## Impassable Terrain (Movement)
+
+Impassable terrain is terrain so difficult to move through that it cannot be crossed during the course of a battle. Units must go around impassable terrain.
+
+## High Linear Obstacles (Movement)
+
+For the purposes of movement, high linear obstacles (i.e., 2" high or more), such as castle walls, are treated as impassable terrain.
+
+## Woods (Movement)
+
+For the purposes of movement, woods are treated as either difficult or dangerous terrain, as agreed by the players.
+
+## Battlefield Decoration (Movement)
+
+Some terrain features are so small that, whilst they might provide a vital objective in a scenario, they cannot reasonably be expected to interfere with movement. Models can freely move through very small decorative elements of terrain less than 2" across.
