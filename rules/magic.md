@@ -157,3 +157,71 @@ Whenever your opponent casts a spell, you can make a dispel attempt (unless, of 
 ### Types of Dispel
 
 Before making a dispel attempt, you must first decide if one of your Wizards will attempt a Wizardly Dispel, or if you will trust to fate and attempt a Fated Dispel.
+
+## Wizardly Dispel
+
+To attempt a Wizardly dispel, nominate a single Wizard in your army that is within 'Dispel range' of the Wizard that cast the spell. Dispel range varies depending upon the Level of the Wizard nominated:
+
+Level 1 and Level 2 Wizards have a Dispel range of 18".
+
+Level 3 and Level 4 Wizards have a Dispel range of 24".
+
+Wizards that are fleeing or that are not on the battlefield cannot be nominated. Wizards that are engaged in combat can only be nominated to dispel spells that target them or their unit.
+
+## Fated Dispel
+
+Once per turn, if you do not have any Wizards able to make a Wizardly dispel attempt, or if you wish to avoid the risk, you may instead attempt a Fated dispel.
+
+## Dispel Roll & Dispel Result
+
+To dispel a spell, you must make a 'Dispel' roll. To make a Dispel roll, roll 2D6. This represents either the efforts of a Wizard to counter enemy magic, or the twists of fate that can see the Winds of Magic suddenly dissipate.
+
+If you are attempting a Wizardly dispel, the Dispel roll is modified by adding the Wizard's Level of Wizardry divided by 2 (rounding fractions up) to give a 'dispel result. If you are attempting a Fated dispel, nothing is added – the result of the Dispel roll is itself the dispel result:
+
+If the dispel result exceeds the casting result, the spell is successfully dispelled and immediately ends.
+
+If the dispel result is equal to or less than the casting result, the dispel attempt has failed. The spell is not dispelled.
+
+## Outclassed in the Art & Unbinding
+
+Sometimes, no matter the skill of the casting Wizard, the Winds of Magic prove fickle and a spell is destined to unbind. At other times, a Wizard can be so outclassed by their opponent's skill that they are themselves bombarded by magical energy:
+
+Unbinding
+
+Outclassed in the Art
+
+## Unbinding
+
+If a natural double 6 is rolled when attempting any type of dispel, the magic unbinds and the spell is dispelled and immediately ends, regardless of the casting result.
+
+Note that a perfect invocation cannot be dispelled, even by an unbinding.
+
+## Outclassed in the Art
+
+If a natural double 1 is rolled when attempting a Wizardly dispel, the Wizard is outclassed by their opponent's skill. Roll immediately on the Miscast table to see what fate befalls your Wizard (changing references from 'cast' to 'dispel' and from 'perfect invocation' to 'unbinding').
+
+## Spell Resolution
+
+Once a spell has been successfully cast and if the enemy has failed their dispel attempt (or not even made a dispel attempt!), the casting is complete and the spell's effect is now resolved. Each spell in Warhammer: the Old World provides all the information you need.
+
+## Remains in Play
+
+Some spells are marked 'Remains in Play'. Such spells stay in effect indefinitely when cast. They only come to an end when the caster is slain, chooses to end the spell (which they can do at the start of any sub-phase) or leaves the battlefield. The casting Wizard can continue to cast other spells (but not the same Remains in Play spell) as it requires only a little concentration to keep a Remains in Play spell going.
+
+## Dispelling Remains in Play Spells
+
+If not immediately dispelled when cast, you may attempt to dispel a Remains in Play spell cast by your opponent during the Conjuration sub-phase of any of your subsequent turns. To do so, you may attempt either a Fated dispel or a Wizardly dispel (provided the Wizard making the attempt is within Dispel range of the Wizard that cast the spell or, in the case of a Magical Vortex, within range of the template representing the spell).
+
+Remains in Play spells do not retain the energy of their casting, and so you do not need to beat the original casting result if attempting to dispel in subsequent turns, but rather the minimum casting value given in the spell's description.
+
+## Perfect Invocations (Remains In Play)
+
+A Remains in Play spell cast with a perfect invocation cannot be dispelled immediately, but may be dispelled in the Conjuration sub-phase of a subsequent turn, as described above.
+
+## Wizards & Armour
+
+Generally speaking, Wizards dislike armour. Its stifling bulk creates a deadening aura about the Wizard's physical body that blinds their Mage sight and makes it all but impossible for them to manipulate the Winds of Magic.
+
+To represent this, a Wizard cannot wear armour or carry a shield. Should a Wizard ever do so, they are unable to make any Casting or Dispel rolls. This penalty applies to all armour and shields, magical or otherwise, but does not include barding (which is worn not by the Wizard, but by their mount).
+
+Note, however, that there are some exceptions. Certain special rules, such as 'Chaos Armour' (found in the Warriors of Chaos army list), make a Wizard exempt from this penalty. Similarly, some suits of magical armour are crafted in such a way as to be exempt from this penalty.
