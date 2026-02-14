@@ -1,4 +1,4 @@
-# Special Rules
+# Warhammer: The Old World - The Special Rules
 
 A game of Warhammer: the Old World is packed with fantastic creatures and skilled warriors with abilities so incredible and varied that the basic rules cannot possibly cover them all. For such circumstances we have special rules – uncommon rules to govern uncommon circumstances.
 
@@ -193,3 +193,215 @@ Fire is a fearsome thing on the battlefield, but some creatures are more vulnera
 Any attack made or hits caused by a model with this special rule, or made using a weapon or spell with this special rule, is a 'Flaming' attack. In addition, a model with this special rule causes Fear in models whose troop type is war beasts or swarms.
 
 Unless otherwise stated, a model with this special rule makes Flaming attacks both when shooting and in combat (though any spells cast by the model are unaffected, as are any attacks made with magic weapons they might be wielding).
+
+## Flammable
+
+Some creatures are especially vulnerable to fire. Once flame has been set to their flesh, it will burn out of control.
+
+A model with this special rule cannot make a Regeneration save against a wound caused by a Flaming attack.
+
+## Fly (X)
+
+Many creatures of the Warhammer world can fly, held aloft either by mighty pinions or by means of magic, soaring from one side of the battlefield to the other.
+
+Except when following up or pursuing, a model with this special rule can choose to move by flying through the air, rather than moving across the ground as normal. When a model flies it uses a special 'Fly Movement' characteristic, shown in brackets after the name of this special rule (shown here as 'X'). Models that choose to move by flying:
+
+May move as normal (i.e., they may charge, march and manoeuvre as if moving on the ground), except that they are able to pass freely above other models, units and terrain features without any penalty, and they can march whilst within 8" of an enemy unit without first having to make a Leadership test.
+
+May end their movement in terrain, but will suffer its effects if they do. They cannot end their movement 'on top' of impassable terrain or another unit, or within 1" of an enemy unit.
+
+Models that can Fly must begin and end all of their movement on the ground. A character with this special rule cannot join a unit without this special rule, and vice versa.
+
+## Frenzy
+
+For warriors gripped by a fighting frenzy, all rational thought is consumed by a hunger for violence.
+
+During a turn in which it made a charge move, or during the turn after it made a follow up move, a Frenzied model has a +1 modifier to its Attacks characteristic. This modifier does not apply to the model's mount (in the case of a cavalry model), to the beasts that draw it (in the case of a chariot), or to its rider (in the case of a monster).
+
+In addition:
+
+If the majority of the models in a unit are Frenzied, the unit automatically passes any Fear, Panic or Terror tests it is required to make.
+
+If a unit that includes one or more Frenzied models is able to declare a charge during the Declare Charges & Charge Reactions sub-phase of its turn, it must do so.
+
+If the majority of the models in a unit are Frenzied, it cannot choose to Flee as a charge reaction, nor can it ever choose to make a Restraint test.
+
+### Losing Frenzy
+
+Unlike other special rules, Frenzy can be lost during a game. Any model that loses a round of combat will immediately lose this special rule.
+
+## Furious Charge
+
+Some creatures charge with such fury, the very ground shakes beneath their feet.
+
+During a turn in which it made a charge move of 3" or more, a model with this special rule gains a +1 modifier to its Attacks characteristic.
+
+## Hatred (X)
+
+Enmity is rife in the Warhammer world, but hatred is nurtured over thousands of years.
+
+A model with this special rule may re-roll any failed rolls To Hit made against a hated enemy during the first round of combat.
+
+Which enemies are hated varies from model to model and will be shown in brackets after the name of this special rule (shown here as 'X'). Some models hate 'all enemies', meaning they hate all enemy models equally.
+
+## Horde
+
+Some troops find strength in numbers, gathering in deep formations that crowd together tightly.
+
+A unit with this special rule may increase the maximum Rank Bonus it can claim (as determined by its troop type) by one.
+
+## Howdah
+
+A howdah is an armoured platform built atop a mighty behemoth. From here, a crew of warriors rain missiles upon the enemy.
+
+To represent its howdah and crew, a behemoth with this special rule has a split profile and follows both the Split Profile (Chariots) and Firing Platform. In all other respects, this model is a behemoth.
+
+## Ignores Cover
+
+Even dense cover offers no safe haven from a skilled marksman wielding a wellcrafted weapon.
+
+If a model making a shooting attack has this special rule, it ignores any To Hit modifiers caused by partial or full cover.
+
+## Immune to Psychology
+
+There are warriors so brave, or perhaps so jaded by the dangers of the world, that they heed no peril.
+
+If the majority of the models in a unit are Immune to Psychology, the unit automatically passes any Fear, Panic or Terror tests it is required to make. However, if the majority of the models in a unit have this special rule, the unit cannot choose to Flee as a charge reaction.
+
+Note that this special rule does not make a unit immune to any test made against Leadership not stated here.
+
+## Impact Hits (X)
+
+The impact of a charge can itself cause severe casualties amongst the foe.
+
+The number of Impact Hits caused varies from model to model, and will be shown in brackets after the name of this special rule (shown here as 'X'). Often, this is determined by the roll of a dice.
+
+### Resolving Impact Hits
+
+Impact Hits can only be made by a charging model that moved 3" or more and that is in base contact with the enemy. Impact Hits are resolved against the charged unit when the combat is chosen during Step 1.1 of the Choose Combat & Fight sub-phase, before issuing challenges. They hit automatically and use the unmodified Strength of the model making them.
+
+## Impetuous
+
+The eagerness of brash and brave warriors can lead them into foolish charges.
+
+If during the Declare Charges & Charge Reactions sub-phase of its turn, a unit that includes one or more Impetuous models is able to declare a charge, it must make a Leadership test. If this test is failed, the unit must declare a charge. If this test is passed, the unit may act as normal.
+
+## Killing Blow
+
+The most skilled of warriors can slay their enemies with a single deadly blow.
+
+If a model with this special rule rolls a natural 6 when making a roll To Wound for an attack made in combat, it has struck a 'Killing Blow'. Enemy models whose troop type is infantry or cavalry are not permitted an armour or Regeneration save against a Killing Blow (Ward saves can be attempted as normal). If an enemy model whose troop type is infantry or cavalry suffers an unsaved wound from a Killing Blow, it loses all of its remaining Wounds.
+
+Note that if an attack wounds automatically, this special rule cannot be used.
+
+## Large Target
+
+Monstrous creatures tower above the battlefield, visible to all for leagues around.
+
+Large Targets do not benefit from partial or full cover. In addition, a unit can draw a line of sight to a Large Target over or through another unit, and vice versa, provided that unit is not also a Large Target. Finally, a unit that shoots at a Large Target can shoot with one additional rank. For example, a unit armed with crossbows can shoot with its first two ranks when shooting at a Large Target, or with its first three if also standing on a hill.
+
+## Levies
+
+Many regiments are made up of unwilling fighters, pressed into service.
+
+Models with this special rule cannot use the Inspiring Presence rule of the army's General nor the "Hold your Ground" rule of a Battle Standard. However, little is expected from Levies in battle. Therefore, units that do not have this special rule are not required to make a Panic test when a friendly unit of Levies Breaks and flees from combat.
+
+## Loner
+
+Some warriors do not mix well with others, preferring to keep their distance.
+
+A character with this special rule cannot be your General and cannot join a unit without this special rule. A unit with this special rule cannot be joined by a character without this special rule.
+
+## Magical Attacks
+
+The Warhammer world is a deeply magical place. Consequently, magical weapons are quite commonplace.
+
+Any attack made or hit caused by a model with this special rule, or made using a weapon with this special rule, is a 'Magical' attack.
+
+Note that all spells are considered to have this special rule, as are any hits caused by magic items.
+
+## Magic Resistance (-X)
+
+Some creatures are naturally resistant to magic, whilst others bear charms or fetishes intended to ward off its effects.
+
+The Casting roll of any enemy spell (including Bound spells) that targets a unit that includes one or more models with this special rule suffers a modifier, as shown in brackets after the name of this special rule (shown here as '-X').
+
+Note that this special rule is not cumulative. If two or more models in a unit have this special rule, use the highest modifier.
+
+## Mercenaries
+
+Mercenary bands roam the Warhammer world, looking for employment in the armies of foreign lands.
+
+Often, an army can include certain units drawn from another army list as mercenaries. Any such units included in your army gain this special rule. Mercenaries cannot use the Inspiring Presence rule of the army's General nor the "Hold your Ground" rule of a Battle Standard. Mercenaries cannot be joined by characters drawn from another army list.
+
+## Monster Handlers
+
+Colossal beasts are goaded into battle by beastmasters hurrying at their heels.
+
+A monster with this special rule is accompanied by one or more models representing its handlers. During deployment, position these models anywhere that is adjacent to, and in base contact with, the monster. If the handlers are found to be blocking movement or line of sight, simply move them aside.
+
+In combat, each handler adds its attacks to those of the monster. If the monster suffers an unsaved wound, roll a D6. On a roll of 1-4 the monster loses a Wound, but on a roll of 5+ one of the handlers is removed instead. If the monster is removed from play, so are its handlers.
+
+## Monster Slayer
+
+Legends tell of warriors so mighty they can slay terrible monsters with but a single blow!
+
+If a model with this special rule rolls a natural 6 when making a roll To Wound for an attack made in combat, it has struck a 'Monster Slaying Blow'. Enemy models whose troop type is monster are not permitted an armour or Regeneration save against a Monster Slaying Blow (Ward saves can be attempted as normal). If an enemy model whose troop type is monster suffers an unsaved wound from a Monster Slaying Blow, it loses all of its remaining Wounds.
+
+Note that if an attack wounds automatically, this special rule cannot be used.
+
+## Motley Crew
+
+Some regiments contain an assortment of differently armed and armoured warriors.
+
+Units with this special rule may include models of the same type that are equipped differently to one another, and/or models of different types that fight together in a single unit. If necessary, the army list entry for such units will be accompanied by a brief explanation of the unit's composition.
+
+### Different Weapons
+
+The fighting rank of a Motley Crew may contain models that are armed with different weapons. In such cases, the controlling player must roll different batches of dice for the different models, making it clear to their opponent which model's attacks they represent and where they are being directed. These attacks are made in the Initiative order of the individual models, as usual.
+
+### Different Armour
+
+Models within a Motley Crew may have different armour values. In combat, use the armour value of the majority of the models in the fighting rank. Against enemy shooting, use the armour value of the majority of the models in the unit.
+
+### Casualty Removal
+
+Against enemy shooting, casualty removal should be divided as equally as possible between the different models within the unit. In combat, casualties should be removed from among the majority of the models that make up the fighting rank. In either case, available models are brought forward from rear ranks to fill any gaps, as chosen by the controlling player.
+
+## Move & Shoot
+
+Weapons that are easy to use when moving at speed may lack power or range, but make up for it with their versatility.
+
+A weapon with this special rule can be used in the Shooting phase even if the model equipped with it marched this turn.
+
+## Move or Shoot
+
+Artillery weapons sacrifice a speedy reload and manoeuvrability for range and power, making them impossible to fire on the move.
+
+A weapon with this special rule cannot be used in the Shooting phase if the model equipped with it moved for any reason during this turn (including rallying and reforming).
+
+## Move Through Cover
+
+A well-trained or naturally skilled warrior can traverse unhindered through the densest terrain.
+
+Models with this special rule do not suffer any modifiers to their Movement characteristic for moving through difficult or dangerous terrain. In addition, a model with this special rule may re-roll any rolls of 1 when making Dangerous Terrain tests.
+
+## Multiple Shots (X)
+
+Some weapons fire a fusillade of shots, sacrificing accuracy for sheer volume.
+
+A weapon with this special rule can either fire a single shot as normal, or it can be fired a number of times, as shown in brackets after the name of this special rule (shown here as 'X'). If multiple shots are fired, each roll To Hit suffers an additional -1 To Hit modifier. All models in a unit equipped with weapons with this special rule must fire either a single or Multiple Shots. Where the number of Multiple Shots is generated by a dice roll, roll separately for each model.
+
+## Open Order
+
+Many regiments adopt an open formation, increasing their manoeuvrability.
+
+A unit consisting of models with this special rule may adopt an Open Order formation.
+
+## Poisoned Attacks
+
+Deadly toxins can turn an otherwise minor injury into a mortal wound.
+
+If a model with Poisoned Attacks rolls a natural 6 when making a roll To Hit, it may apply a +2 modifier to that hit's roll To Wound. Unless otherwise stated, a model with this special rule may use it when making both shooting and combat attacks. Any spells cast by the model are unaffected, as are any attacks made with magic weapons.
+
+Note that if an attack needs a To Hit roll of 7+, or hits automatically, this special rule cannot be used.
