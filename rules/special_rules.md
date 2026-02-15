@@ -405,3 +405,203 @@ Deadly toxins can turn an otherwise minor injury into a mortal wound.
 If a model with Poisoned Attacks rolls a natural 6 when making a roll To Hit, it may apply a +2 modifier to that hit's roll To Wound. Unless otherwise stated, a model with this special rule may use it when making both shooting and combat attacks. Any spells cast by the model are unaffected, as are any attacks made with magic weapons.
 
 Note that if an attack needs a To Hit roll of 7+, or hits automatically, this special rule cannot be used.
+
+## Ponderous
+
+Many weapons are too unwieldy to be used with any accuracy by a warrior on the move.
+
+A weapon with this special rule suffers a To Hit modifier of -2 for Moving and Shooting, rather than the usual -1.
+
+## Quick Shot
+
+Weapons designed for speed can be brought to bear in less than a heartbeat.
+
+A weapon with this special rule does not suffer the usual -1 To Hit modifier for Moving and Shooting. In addition, a unit equipped with weapons with this special rule can use them to make a Stand & Shoot charge reaction regardless of how close the charging unit is.
+
+## Rallying Cry
+
+Striking a heroic pose, a bold leader treats their loyal followers to a short but inspiring speech.
+
+During the Command sub-phase of their turn, if they are not engaged in combat, this character may nominate a single fleeing friendly unit that is within their Command range. The nominated unit immediately makes a Rally test. If this test is failed, the unit may attempt to rally again as normal during the Rally sub-phase.
+
+## Random Attacks
+
+Not all creatures fight with discipline; many flail about in careless abandon with unpredictable results.
+
+Models with this special rule do not have a normal Attacks characteristic. Instead, a dice roll is given (D3+1, for example). Each time a model with this special rule attacks in combat, roll the dice to determine the number of attacks it will make, then roll To Hit as normal. If a fighting rank contains more than one model with this special rule, roll separately for each, unless specified otherwise.
+
+## Random Movement
+
+Some creatures rush forward at one moment, only to falter clumsily in the next.
+
+Models with this special rule do not have a normal Movement characteristic. Instead, a dice roll is given (2D6, for example). When a model with this special rule moves, roll the dice to determine its maximum movement.
+
+Models with this special rule move during the Compulsory Moves sub-phase. They cannot march or declare a charge. They can wheel to change direction, but cannot perform any other manoeuvres. If the model is able to make contact with an enemy unit during the Compulsory Moves sub-phase or whilst pursuing, it may do so and counts as having charged. The model aligns against the enemy unit and stops moving. A unit charged in this way must Hold.
+
+If every model in a unit has this special rule, roll once for the entire unit. If two or more models in a unit have different Random Movement characteristics, roll for each and use the lowest result for the entire unit.
+
+## Regeneration (X+)
+
+Foul and unnatural creatures, such as Trolls, Daemons and the Undead, can regenerate all but the most grievous of wounds with ease.
+
+Immediately after a Wound is lost, but before models with zero Wounds remaining are removed from play, a model with this special rule may make a 'Regeneration save' roll by rolling a D6 and comparing the result to its 'Regeneration value', shown in brackets after the name of this special rule (shown here as 'X+'). If the Regeneration save roll equals or exceeds the model's Regeneration value, the lost Wound is recovered, but is still counted for the purposes of calculating the combat result. Rules that affect armour values do not affect Regeneration values unless stated otherwise.
+
+## Regimental Unit
+
+Sometimes, large units are supported in battle by smaller detachments.
+
+A unit with this special rule can be accompanied by detachment.
+
+## Requires Two Hands
+
+Many weapons are unwieldy, requiring a firm two-handed grip in order to use effectively.
+
+A model cannot use a shield alongside a weapon with this special rule during the Combat phase (a shield can still be used against wounds caused by shooting or magic during other phases of the game).
+
+## Reserve Move
+
+Warriors that excel at hit and run warfare advance quickly, unleashing a deadly volley before withdrawing.
+
+Unless it charged, marched or fled during the Movement phase, a unit in which the majority of the models have this special rule may make a Reserve move at the end of the Shooting phase of its turn, after all shooting has been resolved. A unit making a Reserve move moves as described in the Basic Movement rules. It may manoeuvre normally, but cannot march.
+
+## Scouts
+
+Scouts are advance troops who sneak onto the battlefield in order to seize vital locations before the two armies clash.
+
+Units with this special rule may be deployed after all other units from both armies. They can be deployed anywhere on the battlefield that is more than 12" away from an enemy model. If deployed in this way, Scouts cannot declare a charge during their first turn.
+
+If both armies contain Scouts, a roll-off should determine which player deploys Scouts first. The players then alternate deploying their scouting units one at a time, starting with the player who won the roll-off.
+
+## Shieldwall
+
+Presenting an impenetrable wall of shields to the foe, a regiment becomes almost unmovable.
+
+Once per game, during a turn in which it was charged, a unit with this special rule that is arrayed in a Close Order formation, and that is equipped with and chooses to use shields, may Give Ground rather than Fall Back in Good Order.
+
+## Skirmishers
+
+Units of skirmishers move quickly and freely, harassing the enemy's flanks.
+
+A unit consisting of models with this special rule may adopt a Skirmish formation.
+
+## Stomp Attacks (X)
+
+Some creatures are so massive that their sheer bulk is a threat all of its own.
+
+The number of Stomp Attacks caused varies from model to model, and will be shown in brackets after the name of this special rule (shown here as 'X'). Often, this is determined by the roll of a dice.
+
+### Resolving Stomp Attacks
+
+Stomp Attacks can only be made by a model that is in base contact with the enemy. Stomp Attacks are attacks made in combat that must be made last, after all other attacks have been made, including attacks made at Initiative 1. They hit automatically and use the unmodified Strength of the model making them.
+
+## Strike First
+
+Some warriors are gifted with supernatural speed and reactions, whilst others bear weapons enchanted to move like quicksilver through the air.
+
+During the Combat phase, a model with this special rule that is engaged in combat improves its Initiative characteristic to 10 (before any other modifiers are applied). If a model has both this rule and Strike Last, the two rules cancel one another out.
+
+## Strike Last
+
+Some warriors are incredibly slow and ponderous by nature, whilst others may be encumbered by massive weapons that slow them down.
+
+During the Combat phase, a model with this special rule that is engaged in combat reduces its Initiative characteristic to 1 (before any other modifiers are applied). If a model has both this special rule and Strike First, the two rules cancel one another out.
+
+## Stubborn
+
+Elite troops will often fight on, refusing to flee from the enemy, regardless of casualties.
+
+The first time this unit is required to make a Break test it may choose not to and will automatically Falling Back in Good Order instead, even if the Unit Strength of the winning side is more than twice that of the losing side. A unit that is not Stubborn does not become Stubborn when joined by a character that is. A Stubborn character cannot use this special rule whilst part of a unit that is not Stubborn.
+
+## Stupidity
+
+Dull-witted creatures can often become hopelessly confused by the tumult of battle.
+
+Unless it is fleeing or engaged in combat, a unit with this special rule must test for Stupidity by making a Leadership test during the Start of Turn sub-phase of each of its turns. If this test is failed, the unit succumbs to Stupidity until its next Start of Turn sub-phase. A unit that has succumbed to Stupidity:
+
+Cannot move (except to flee).
+
+Cannot shoot or cast spells.
+
+Cannot attempt a Wizardly dispel.
+
+Must Hold if charged by an enemy.
+
+A unit or mount that does not have this special rule becomes subject to it when joined or ridden by a character that does (Stupidity is contagious).
+
+## Swiftstride
+
+Mounted warriors, warbeasts and chariots, amongst others, are swift and deadly, crossing the battlefields of the Old World with unexpected speed.
+
+A unit which consists entirely of models with this special rule increases its maximum possible charge range by 3" and, before making a Charge, Flee or Pursuit roll, may choose to apply a +D6 modifier to the result.
+
+## Terror
+
+There are creatures so fierce that their mere appearance can cause the bravest to flee.
+
+Models with this special rule cause Terror. Models that cause Terror also cause Fear:
+
+When a unit that causes Terror declares a charge, the charge target must immediately make a Leadership test. If this test is failed, it must Flee. If this test is passed, it can declare its charge reaction normally.
+
+If the winning side of a combat includes one or more units that cause Terror, each unit that belongs to the losing side must apply a -1 modifier to its Leadership characteristic when making its Break test.
+
+Note that if a charged unit cannot choose to Flee, it does not make this Leadership test.
+
+Models with the Fear special rule Fear models that cause Terror. Models that cause Terror are immune to Terror. A unit that does not cause Terror does not become immune to Terror when joined by a character that does.
+
+## Timmm-berrr!
+
+When a behemoth falls in battle, it can cause utter devastation.
+
+When this model is reduced to zero Wounds, the winner of a roll-off chooses one of its arcs (front, flank or rear) for it to fall into. Any units that are within the chosen arc and in base contact with this model suffer D6 hits, each using the Strength characteristic of this model, with an AP of -1. Once these hits are resolved, this model is removed from play.
+
+## Unbreakable
+
+Some warriors are so fearless that they will never run from the enemy.
+
+If a unit with this special rule loses a round of combat, it is not required to make a Break test. Instead, it will automatically Give Ground as it is pushed back by the enemy. Characters that are not Unbreakable cannot join units that are, and vice versa.
+
+## Unstable
+
+Many evil creatures are not truly alive, but are driven instead by magic. Should the tide of battle turn, this magic can quickly fail.
+
+If a unit with this special rule loses a round of combat, it loses one additional Wound for every combat result point by which it lost. These Wounds are lost after combat results have been calculated but before Break tests are made. These Wounds cannot be recovered by a Regeneration save.
+
+If an Unstable unit contains any Unstable characters, allocate wounds to the unit until each model has been allocated one wound. Any remaining wounds are divided as equally as possible between the character(s) and the unit.
+
+## Vanguard
+
+An army's vanguard advances to occupy and engage the foe ahead of their comrades.
+
+After deployment, units with this special rule may make a Vanguard move. A unit making a Vanguard move moves as described in the Basic Movement rules. It may manoeuvre normally but cannot march.
+
+If both armies contain Vanguard units, a roll-off determines who moves first. The players then alternate moving their Vanguard units one at a time, starting with the player who won the roll-off. Units that make a Vanguard move cannot declare a charge during their first turn.
+
+## Veteran
+
+Veteran warriors have seen and done it all, and it takes a lot to unsettle them.
+
+If the majority of the models in a unit have this special rule, the unit may re-roll any failed Leadership test.
+
+Note that a Break test is not a Leadership test.
+
+## Volley Fire
+
+Bows and other weapons can loose their projectiles in a high-arcing volley. Even warriors who cannot see the foe can shoot in their general direction.
+
+When a unit with this special rule makes a shooting attack, half of the models in each rank other than the front rank (or front two ranks if the unit is on a hill), rounding up, can shoot (in addition to the usual models that shoot from the front rank, or front two ranks if the unit is on a hill). A unit cannot Volley Fire if it has moved for any reason during this turn (including reforming), or when making a Stand & Shoot charge reaction.
+
+Note that models in rear ranks use the line of sight of the model at the front of their file.
+
+## Warband
+
+A warband is an unruly mob, keen for the fray but easily dismayed when things go poorly.
+
+Unless it is fleeing, a Warband gains a positive (+) modifier to its Leadership characteristic equal to its current Rank Bonus, up to a maximum of Leadership 10. However, a Warband cannot use this modifier to its Leadership should it ever choose to make a Restraint test or, if it is Impetuous, when testing to see if it must declare a charge or may act as normal. In addition, if the majority of the models in a unit have this special rule, it may re-roll its Charge roll.
+
+Note that unless a character also has this special rule, their Leadership cannot be modified by this special rule. A Warband can use either its own modified Leadership, the modified Leadership of a Warband character, or the unmodified Leadership of a non-Warband character, whichever is the higher.
+
+## Warp-spawned
+
+Creatures of the supernatural feed upon magic to manifest as physical beings and, as such, are vulnerable to magical attacks.
+
+A model with this special rule cannot make a Regeneration save against a wound caused by a Magical attack. In addition, characters that are not Warp-spawned cannot join units that are, and vice versa.
