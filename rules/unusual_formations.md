@@ -94,3 +94,62 @@ As mentioned previously, Skirmishers can shoot in any direction. However, indivi
 ## Enemy Fire (Skirmishers)
 
 Due to their comparatively small size and ability to make use of all available cover, enemy units shooting at a unit of Skirmishers that consists entirely of models with a Unit Strength of 1 suffer a -1 To Hit modifier.
+
+## Skirmishers & Panic
+
+Skirmishers cause panic in friendly units as normal should they be annihilated or Break and flee. Skirmishers cause panic in friendly Skirmishers if they flee through them as normal. However, Skirmishers do not cause panic in formed friendly units of any type (be they Close Order, Open Order and so on) that they themselves flee through.
+
+## Skirmishers in Combat
+
+When engaged in combat, Skirmishers do not remain in their usual, dispersed formation. Instead, they will 'form up' into base contact with one another, edge-to-edge and front corner to front corner, against the enemy in order to create a fighting rank. Skirmishers that charge the enemy, or that are themselves charged by the enemy, must always form up in this way once contact is made. Any Skirmishers that cannot make base contact with the enemy cannot form part of the fighting rank and must instead form up into ranks behind the fighting rank.
+
+Skirmishers will maintain this close formation until the combat is over (i.e., until they are not engaged with any enemy at the end of a Combat phase), at which point the models must separate, moving the smallest amount possible to once again adopt Skirmish formation.
+
+## Skirmishers & Rank Bonus
+
+Despite forming up when engaged in combat, a unit that is in Skirmish formation when it becomes engaged in combat cannot claim a Rank Bonus.
+
+## Skirmishers & Disruption
+
+Enemy units do not become Disrupted when engaged in their flank or rear by a unit that is in Skirmish formation.
+
+## Characters Joining Skirmishers
+
+Characters may only join a unit of Skirmishers if they are of the same sub-category of troop type. For example, a character whose troop type is light cavalry could join a unit of Skirmishers that are also light cavalry, but could not join a unit of Skirmishers that are heavy cavalry. This is an exception to the normal rules for characters joining units.
+
+## Skirmishers & Charging
+
+A unit of Skirmishers may charge an enemy unit that is visible to more than half (50%) of its models when charges are declared. In which arc the enemy is charged is determined as normal.
+
+When a unit of Skirmishers charges, each model is moved individually, starting with the model closest to the charge target, as shown in Fig 186.1. Each model moves as directly as possible towards the charge target in order to make base contact with it and form a fighting rank. Models that cannot make base contact with the charge target must form up behind the fighting rank, as shown in Fig 186.2. If any Skirmishers are unable to form up, the unit is considered to have lost its coherency.
+
+186-1-skirmishers-and-charging
+Fig 186.1 - 1. The Skirmisher closest to the formed unit is moved into base contact.
+186-2-skirmishers-and-charging
+Fig 186.2 - 2. The remaining Skirmishers move. Seven can make base contact with the enemy, forming a fighting rank. The eighth model cannot make base contact with the enemy so forms up behind the fighting rank.
+
+## Formed Units Charging Skirmishers
+
+When a formed unit of any type (be it Close Order, Open Order and so on) charges a unit of Skirmishers, it must endeavour to move as directly as possible into contact with the closest visible model in the target unit. As usual, the charging unit may wheel once, at any point, during its move, as shown in Fig 186.3.
+
+Once the charging unit has made contact with the target unit, it does not wheel to align. Instead, the Skirmishers must form up against the fighting rank of the charging unit, as shown in Fig 186.4 and Fig 186.5. However, no model in the charged unit can move further than its Movement characteristic. Any Skirmishers that cannot make base contact must instead form up behind the fighting rank.
+
+186-3-formed-units-charging-skirmishers
+Fig 186.3 - 1. The formed unit is charging the unit of Skirmishers. It wheels and moves directly towards the closest model in the unit of Skirmishers.
+186-4-formed-units-charging-skirmishers
+Fig 186.4 - 2. The formed unit completes its charge move.
+186-5-formed-units-charging-skirmishers
+Fig 186.5 - 3. The Skirmishers form up against the charging unit. One of the Skirmishers cannot make base contact with the enemy, so forms up behind the fighting rank.
+
+## Skirmishers Charging Skirmishers
+
+When a unit of Skirmishers charges another unit of Skirmishers, each model is moved individually, starting with the model closest to the charge target (which must move by the shortest route possible to reach the charge target). Once the first model's move is complete, as shown in Fig 187.1, the remaining models in the charging unit are moved as directly as possible towards the charge target in order to form a fighting rank with the first model that moved, as shown in Fig 187.2, making sure that this model is as close to the centre of this rank as possible. Any models that do not have sufficient movement to form part of the fighting rank must form up behind it.
+
+Once the charging unit has completed its charge move, models in the target unit form up against the charging unit's fighting rank, as shown in Fig 187.3. However, no model in the charged unit can move further than its Movement characteristic. Any Skirmishers that cannot make base contact must instead form up behind the fighting rank.
+
+187-1-skirmishers-charging-skirmishers
+Fig 187.1 - 1. The Skirmisher closest to a model in the charged unit is moved into base contact with that model.
+187-2-skirmishers-charging-skirmishers
+Fig 187.2 - 2. The rest of the models in the charging unit are moved forward and form up around the first model moved. However, three of these models do not have sufficient movement to join the fighting rank so must form up behind it.
+187-3-skirmishers-charging-skirmishers
+Fig 187.3 - 3. Finally, the models in the charged unit are formed up against the charging unit, making sure that none of them move further than their Movement characteristic.
