@@ -484,7 +484,7 @@ Templates: Should an occupied building be hit by a template, every model within 
 
 ## Buildings & Combat
 
-Assaulting a Building: When an enemy unit charges a unit within a building, it charges the building itself rather than the models) within it. Whilst engaged in combat, both units are considered to be in Skirmish formation (regardless of their actual formation). However, due to the close confines of the tower, only five models from either unit can join the fighting rank.
+Assaulting a Building: When an enemy unit charges a unit within a building, it charges the building itself rather than the models within it. Whilst engaged in combat, both units are considered to be in Skirmish formation (regardless of their actual formation). However, due to the close confines of the tower, only five models from either unit can join the fighting rank.
 
 Nowhere to Run: A unit that occupies a building will not Give Ground or Fall Back in Good Order. Instead, the unit holds its ground and the combat continues.
 Should a unit occupying a building Break and flee from combat, it will find itself trapped within the walls, unable to escape quickly. Such units are completely destroyed and removed from play. In such cases, a unit belonging to the winning side may choose to take occupancy of the building.
