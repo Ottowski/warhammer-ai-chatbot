@@ -8,6 +8,8 @@
 
 ## Narrative Battles
 
+## The Lores of Magic
+
 ## Magic Items (and Abilities)
 
 ## Named Character Units

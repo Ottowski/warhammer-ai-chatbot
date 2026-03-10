@@ -266,9 +266,704 @@ Notes: This weapon shoots like a stone thrower, using the Bombardment special ru
 
 ## Warhammer Armies
 
+### Beastmen Brayherds Army List
+"This section details the Grand Army composition list for the Beastmen Brayherds. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force."
+
+This army list is intended for use alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook.
+
+#### Grand Army Composition List
+##### Characters
+Up to 50% of your army's points value may be spent on:
+
+0-1 Beastlord, Great Bray-Shaman or Doombull per 1,000 points
+
+Wargors, Bray-shamans, Gorebulls and Centigor Chieftains
+
+##### Core
+At least 25% of your army's points value must be spent on:
+
+1+ Gor Herd
+
+Ungor Herds, Chaos Warhounds, Razorgor Herds and Tuskgor Chariots
+
+If your General is a Beastlord or Wargor, 0-1 Bestigor Herd may be taken as a Core choice
+
+If your General is a Doombull or Gorebull, 0-1 Minotaur Herd may be taken as a Core choice
+
+##### Special
+Up to 50% of your army's points value may be spent on:
+
+Bestigor Herds, Harpies, Minotaur Herds, Centigor Herds, Dragon Ogres, Razorgor Chariots and Cockatrice
+
+Chaos Ogres
+
+If your General is a Great Bray-Shaman or Bray-Shaman, 0-1 Jabberslythe or Cygor may be taken as a Special choice
+
+If your General is a Doombull or Gorebull, 0-1 Ghorgon may be taken as a Special choice
+
+0-1 Preyton per 1,000 points
+
+0-1 Herdstone
+
+##### Rare
+Up to 25% of your army's points value may be spent on:
+
+Dragon Ogre Shaggoths, Jabberslythes, Cygors, Ghorgons and Chaos Giants
+
+Chaos Trolls and Chaos Spawn
+
+0-1 Gigantic Spawn of Chaos per 1,000 point
+
+##### Mercenaries
+Up to 20% of your army's points value may be spent on mercenaries, including:
+
+Badlands Ogre Bulls
+
+0-1 Bonegrinder Giant
+
+Note that mercenary units drawn from another army list gain the Mercenaries special rule and become subject to the Misbehaving Mercenaries rules.
+
+##### Allies
+Up to 25% of your army's points value may be spent on a single allied contingent drawn from:
+
+Any Beastmen Brayherds Army of Infamy composition list
+
+One of the following Grand Army composition lists:
+
+Orc & Goblin Tribes (Uneasy)
+
+Warriors of Chaos
+
+Tomb Kings of Khemri (Suspicious)
+
+#### Battle Standard Bearer
+A single Wargor in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
+
+### Minotaur Blood Herd
+"This Army of Infamy composition list is designed to be used with the Beastmen Brayherds army list found in Ravening Hordes, and alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook."
+
+If you wish to field a Minotaur Blood Herd army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
+
+#### Army of Infamy Composition List
+##### Characters
+Up to 50% of your army's points value may be spent on:
+
+0-1 Doombull per 1,000 points
+
+0-1 Bray-Shaman per 1,000 points
+
+Gorebulls, Wargors and Centigor Chieftains
+
+##### Core
+At least 33% of your army's points value must be spent on:
+
+1 Minotaur Herd per 1,000 points
+
+0-1 Herdstone
+
+Gor Herds, Ungor Herds and Chaos Warhounds
+
+##### Special
+Up to 50% of your army's points value may be spent on:
+
+0-1 unit of Dragon Ogres per 1,000 points
+
+Harpies, Minotaur Herds, Centigor Herds, Razorgor Herds and Ghorgons
+
+##### Rare
+Up to 33% of your army's points value may be spent on:
+
+0-1 Dragon Ogre Shaggoth per 1,000 points
+
+Chaos Giants
+
+Chaos Ogres and Chaos Trolls
+
+#### Battle Standard Bearer
+A single Gorebull or Wargor in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single Magic Banner with no points limit.
+
+#### Magic Items
+Any models that have the option to purchase magic items may purchase Common or Beastmen Brayherds magic items.
+
+### Wild Herd
+"This Army of Infamy composition list is designed to be used with the Beastmen Brayherds army list found in Ravening Hordes, and alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook."
+
+If you wish to field a Wild Herd army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
+
+#### Army of Infamy Composition List
+##### Characters
+Up to 50% of your army's points value may be spent on:
+
+0-1 Beastlord or Great Bray-Shaman per 1,000 points
+
+Wargors, Bray-Shamans and Centigor Chieftains
+
+##### Core
+At least 33% of your army's points value must be spent on:
+
+1+ Primal Warherd
+
+0-1 Tuskgor Chariot per 1,000 points
+
+0-1 Centigor Herd may be taken as a Core choice per Centigor Chieftain taken
+
+Gor Herds, Ungor Herds, Chaos Warhounds, Primal Warhounds and Razorgor Herds
+
+##### Special
+Up to 50% of your army's points value may be spent on:
+
+0-1 unit of Dragon Ogres
+
+Warped Gors, Bestigor Herds, Harpies, Centigor Herds, Tuskgor Chariots and Razorgor Chariots
+
+0-1 Cockatrice or Preyton per 1,000 points
+
+0-1 Herdstone
+
+##### Rare
+Up to 32% of your army's points value may be spent on:
+
+Dragon Ogre Shaggoths, Jabberslythes, Cygors, and Chaos Giants
+
+Chaos Spawn
+
+#### Battle Standard Bearer
+A single Wargor in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single Magic Banner with no points limit.
+
+#### Magic Items
+Any models that have the option to purchase magic items may purchase Common or Beastmen Brayherds magic items.
+
 ## Narrative Battles
 
+### Clash at the Northern Crossroads
+"Beastmen raced towards the camp as the snow continued to fall, the blizzard concealing their approach. Their hot, foul breath came in great gouts of fog against the freezing air, and the pristine white blanket of snow became stained with blood and filth as they passed. The soldiers in the encampment would only have moments to sound the alarm before the Cloven Ones were upon them."
+
+#### Historical Recreation
+This midwinter encounter on the eastern borders of the Drakwald was fought between a Beastmen Brayherd under the direction of Kralmaw, the Prophet of Ruin and a company of mercenary soldiers from Middenheim. To represent this, the players should write two muster lists (one for the attacker and one for the defender) as follows:
+
+##### The Attacker
+The attacker should write a single 2,500 points muster list using the Wild Herd Army of Infamy composition list. The General of this army must be Kralmaw, the Prophet of Ruin.
+
+##### The Defender
+The defender should write a single 2,500 points muster list using the Empire of Man Grand Army composition list found in Forces of Fantasy.
+
+Alternatively, this scenario may be played with any two armies of the players' choosing.
+
+#### Set-up
+Place terrain as described. As this battle is taking place on an otherwise empty stretch of road, we advise keeping the terrain fairly sparse save for a few copses of trees clustered around the edges of the board and perhaps some tents and campfires towards the centre.
+
+#### Deployment
+The defender deploys their entire army anywhere in the defender's deployment zone as shown on the map. Once complete, the attacker then deploys their entire army within the attacker's deployment zone, as shown on the map below.
+
+clash-at-the-northern-crossroads
+
+#### First Turn
+In this scenario, the attacker will automatically take the first turn.
+
+#### Game Length
+There is no turn limit for this scenario. Instead, the battle will last until one side reaches its break point or until one side concedes.
+
+#### Scenario Special Rules
+Break Point: All armies in this scenario have a breaking point. This is equal to a quarter (25%) of the total Unit Strength of the army at the start of the game. To calculate the break point of your army, simply add together the Unit Strength of every unit (including characters) in your muster list and divide the total by four, rounding fractions down.
+
+With each model removed from play as a casualty and with each unit destroyed, an army approaches its break point. If, during any Start of Turn sub-phase, the remaining Unit Strength of either army has fallen below its break point, that army is considered to have broken. At this point, the game ends as models begin to flee.
+
+Note that units that have pursued a fleeing enemy off the battlefield and units held in reserve count as being on the battlefield for the purposes of determining whether or not an army has reached its break point.
+
+Heavy Snowfall: To represent the swirling snow, all missile weapons (including magic missiles) suffer a -3" modifier to their Range characteristic. In addition, due to the thick blanket of snow covering the earth, all Charge rolls suffer a -1 modifier (to a minimum of 1).
+
+#### Victory!
+If the game ends with one army having broken, the unbroken army achieves a crushing victory. Should both armies fall below their break point at the same time, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook.
+
+## The Lores of Magic
+
+### Lore of Beasts
+"Bray-Shamans are born into magic, and wield it with an instinctive ease. A palpable miasma of fell sorcery surrounds them and when their wrath is roused, reality itself is distorted and maimed. Tree roots twist and writhe at their passing, the undergrowth boils with unholy life and repugnant parasites scurry at their feet."
+
+A Wizard with the "Lore of Beasts" special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.
+
+#### Viletide (Signature Spell)
+The Shaman calls to the creeping things that nest in the decaying undergrowth, creating a vile wave of spiders, centipedes and slugbeetles that swarm over the foe.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Magic Missile | 9+ | 15" |
+
+The target enemy unit suffers 5D6 Strength 1 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal).
+
+#### Devolve (Signature Spell)
+Delving into their enemies' minds, the Shaman magnifies the savage and animalistic parts of their psyche until they are no more than growling beasts.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Magic Missile | 8+ | 15" |
+
+The target enemy unit must immediately make a Leadership test. If this test is failed, it loses a number of Wounds equal to the amount by which it failed the test.
+
+#### Mantle of Ghorok (Signature Spell)
+Ghorok was a legendary Minotaur, ferocious as a storm. When possessed by his spirit-mantle, a Shaman becomes a terror on the battlefield, though to summon his rage is not without risk.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Enchantment | 8+ | Self |
+
+Until the end of this turn, the caster gains a +D6 modifier to their Strength and Attacks characteristics (to a maximum of 10). However, if a 6 is rolled, this modifier is lost and the caster instead loses a single Wound.
+
+### Lore of Primal Magic
+"In addition to the Lores of Magic detailed in the Warhammer: the Old World rulebook, some Wizards, especially those of a wild and chaotic nature, may know spells from the 'Primal Magic' Lore of Magic. As usual, if it is stated that a Wizard knows spells from one of a number of given Lores of Magic, you must choose one of these Lores when writing your muster list."
+
+#### Primordial Gloom (Signature Spell)
+As the Bray-Shaman bellows praise to the gods, the sky above darkens and the soil underfoot swarms with unclean creatures.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Magical Vortex | 9+ | 12" |
+
+Remains in Play. Place a small (3") blast template so that its central hole is within 12" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Whilst within 6" of the template, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2) and treat open ground as difficult terrain.
+
+#### 1. Call of the Wild
+Filled with primal energy, the Children of Chaos move across the battlefield with unwholesome vigour.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Conveyance | 8+ | 12" |
+
+This spell can only target friendly models whose troop type is infantry or cavalry. Until the end of this turn, the target friendly unit gains the Reserve Move special rule.
+
+#### 2. In the Gloaming Wildwood
+The words of half-forgotten folk tales fill the enemy's minds, instilling them with a childlike fear of the dark forests.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Hex | 10+ | 15" |
+
+Remains in Play. Whilst this spell is in play, the target enemy unit Fears all models in the caster's army (not including allies or mercenaries). Models in the caster's army that already have the Fear special rule cause Terror in the target unit instead. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.
+
+#### 3. Flock of Doom (Beastmen)
+Summoned by the Bray-Shaman's cries, a flock of carrion birds descends upon the foe, striking at eyes and tearing through flesh.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Assailment | 8+ | Combat |
+
+Place a small (3") blast template so that its central hole is directly over the centre of a unit the caster is engaged in combat with. Once placed, the template will scatter D3+1". Any enemy model whose base lies underneath the template's final position risks being hit and suffering a single Strength 3 hit with an AP of -. These hits have the Multiple Wounds (2) special rule.
+
+#### 4. Fury of the Beast
+Driven by the Bray-Shaman's invocations, the Children of Chaos flow like a tide of violence over the enemy.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Enchantment | 9+ | Self |
+
+Until the end of this turn, the caster and any unit they have joined gains the Fight in Extra Rank special rule.
+
+#### 5. Strangleroot
+The Bray-Shaman gestures towards the foe, summoning twisted and blackened roots to grasp and strangle its enemies.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Magic Missile | 8+ | 4D6" |
+
+Draw a straight line, 4D6" in length, from the caster's base edge. Any enemy model whose base falls under this line suffers D3 Strength 3 hits, each with an AP of -2.
+
+#### 6. 'Neath The Shaden Wodespan
+Spectral forests loom above the battlefield, spreading creeping shadows that fill the enemy with dread.
+
+| Type | Casting Value | Range |
+|---|---|---|
+| Magical Vortex | 10+ | 15" |
+
+Remains in Play. Place a large (5") blast template so that its central hole is within 15" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain over which no line of sight can be drawn. Whilst within 6" of the template, enemy units suffer a -2 modifier to their Ballistic Skill characteristic (to a minimum of 1). Any enemy unit that ends its movement within 3" of the template must immediately make a Panic test. If this test is failed, the unit will flee directly away from the nearest enemy unit which is not itself fleeing.
+
 ## Magic Items (and Abilities)
+
+### Chaos Mutations
+"As Beastmen grow in power and infamy, they attract the attention of the Chaos powers. This is both a blessing and a curse, for many mutations pleasing to the gods are anathema to those they are thrust upon."
+
+To represent these strange attributes, some models may be given Chaos Mutations. A Mutation does not affect a model's mount (should it have one). Each Mutation may only be chosen once per army.
+
+#### Slug-skin (Ability)
+50 points
+
+This grotesque gift of the Chaos gods causes the recipient's skin to constantly ooze with a vile, foul smelling slime.
+
+Any enemy model that directs its attacks against this model or any unit it has joined during the Combat phase suffers a -1 modifier to its rolls To Hit.
+
+#### Crown of Horns (Beastmen) (Ability)
+45 points
+
+A Beastman that sprouts an excessively sharp, large or twisted set of horns is supremely confident in their position at the pinnacle of the Warherd, so obvious are the Dark Gods' blessings.
+
+Characters only. This character and any unit they have joined gains the Stubborn special rule.
+
+#### Muscular Monstrosity (Ability)
+35 points
+
+The Beastman has been blessed by the Gods of Chaos, and its torso bulges with huge muscles.
+
+This model (but not its mount) has a +1 modifier to its Strength characteristic.
+
+#### Pelt of Midnight (Ability)
+35 points
+
+The Beastman's pelt exudes clouds of smokey darkness, hiding them from the eyes of the enemy.
+
+Characters only. Any enemy model that targets this character or any unit they have joined during the Shooting phase suffers an additional -1 To Hit modifier.
+
+#### Gouge-tusks (Ability)
+30 points
+
+This Beastman's lower incisors have grown into sharp or excessively large tusks with which they gouge savage wounds into the flesh of their enemies.
+
+During the Combat phase, the Armour Piercing characteristic of any weapon used by this model (but not its mount) is improved by 1.
+
+#### Rune of the Beast Ascendant (Ability)
+25 points
+
+The Beastman's horns have twisted into the semblance of a potent daemonic rune. This promise of ascendency to the ranks of Daemonhood fills its followers with courage.
+
+Beastman Chieftains only. Unless this character is fleeing, friendly Bestigor, Gor and Ungor Herds gain a +1 modifier to their Leadership characteristic whilst within this character's Command range (to a maximum of 10).
+
+#### Many-limbed Fiend (Ability)
+20 points
+
+Some Beastman grow additional arms, allowing them to unleash even more carnage upon the battlefield.
+
+This model (but not its mount) has a +1 modifier to its Attacks characteristic. However, this bonus attack must be made using an ordinary hand weapon.
+
+#### Gnarled Hide (Ability)
+15 points
+
+The Beastman's skin has encysted, forming a dense layer of crusty natural armour as tough as chainmail.
+
+Models whose troop type is infantry only. This model gains the Armoured Hide (1) special rule.
+
+#### Uncanny Senses (Ability)
+10 points
+
+The Dark Gods gift some Beastman with acute senses, additional eyes or even extra heads, granting them unnaturally fast reactions.
+
+This model (but not its mount) has a +1 modifier to its Initiative characteristic.
+
+### Beastmen Brayherds Magic Items
+"These magic items are unique to Beastmen Brayherds armies. These can be purchased by models within a Beastmen Brayherds army in exactly the same way as common magic items, as described in the Warhammer: the Old World rulebook."
+
+#### Magic Weapons
+
+##### The Black Maul (Magic Weapon)
+80 points
+
+This brutal, spiked cudgel is stained black with the blood of a thousand victims. Those that wield the club for too long become overwhelmed by its thirst for violence.
+
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+2 | -3 | Extra Attacks (+D6); Magical Attacks |
+
+Notes: Each time a natural 6 is rolled for the Extra Attacks (+D6) special rule, the wielder of the Black Maul suffers a -1 modifier to their Weapon Skill characteristic (to a minimum of 1, and for the remainder of the game).
+
+##### Primeval Club (Magic Weapon)
+60 points
+
+This ancient club, bound in cracked leather and infested with spiders and slugs, has been stained red with blood since the dawn of civilisation and is the bane of all order and hope.
+
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | * | -3 | Hatred (Empire); Magical Attacks; Poisoned Attacks |
+
+Notes: The Strength characteristic of the Primeval Club is equal to the current Leadership characteristic of the model that wields it.
+
+##### Axe of Men (Magic Weapon)
+50 points
+
+A single, mighty stroke from this fearsome axe can cut even the most powerful warrior clean in half, a sight which emboldens the bearer's followers and horrifies their enemies in equal measure.
+
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S | -1 | Killing Blow; Magical Attacks |
+
+Notes: Should the wielder of the Axe of Men kill an enemy character (including champions) in a challenge, they gain the Terror special rule for the remainder of the game.
+
+##### The Axes of Khorgor (Magic Weapon)
+40 points
+
+When the Banebeast Khorgor was slain, his axes were taken by his successor and so they have continued to be passed down through the centuries.
+
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1 | -2 | Extra Attacks (+1); Magical Attacks; Requires Two Hands |
+
+Notes: The wielder of the Axes of Khorgor may re-roll any rolls To Wound of a natural 1 made during the Combat phase.
+
+##### Mangelder (Magic Weapon)
+40 points
+
+The Mangelder saps the strength of its victims' minds as well as of their bodies, and those few who survive wounds inflicted by the weapon rarely fight again.
+
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1 | -1 | Magical Attacks; Terror |
+
+Notes: The wielder of the Mangelder causes Terror. Any enemy unit that suffers one or more unsaved wounds from the Mangelder suffers a -1 modifier to its Leadership characteristic (to a minimum of 2) until the end of the turn.
+
+##### Hunter's Spear (Magic Weapon)
+35 points
+
+Crafted to fell the mighty beasts of the far north, this thick-hafted spear bears enchantments allowing it to penetrate yards of flesh and muscle, skewering the foe through-and-through.
+
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| 24" | 6 | -3 | Cumbersome; Magical Attacks; Multiple Wounds (2); Through & Through |
+
+Notes: The Hunter's Spear shoots like a bolt thrower, using the Through & Through special rule.
+
+##### The Brass Cleaver (Magic Weapon)
+30 points
+
+The Brass Cleaver is said to be an artefact from another realm. Ancient and terrible, its outline blurs with a barely restrained thirst for carnage.
+
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S | -2 | Magical Attacks |
+
+Notes: Enemy models are not permitted an armour, Ward or Regeneration save against an attack made with this weapon if the wielder rolls a natural 6 when making a roll To Wound.
+
+##### Scimitar of Skultar (Magic Weapon)
+25 points
+
+The dark, serrated blade of this weapon is engraved with words of power in the Dark Tongue, keeping its biting edge keen and sharp for all time.
+
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S | -1 | Armour Bane (1); Magical Attacks; Multiple Wounds (2) |
+
+#### Magic Armour
+
+##### Full Plate Chaos Armour* (Magic Armour)
+40 points
+
+Chaos Armour is a gift of the gods, a symbol of the wearer's status as a true champion of Chaos.
+
+Full Plate Chaos Armour is a suit of full plate armour. May be purchased and worn by a Wizard, even if they do not have the option to be equipped with armour, a shield or barding, without penalty. In addition, the wearer of Chaos Armour has a 5+ Ward save against any wounds suffered.
+
+*Extremely Common
+
+##### Pelt of the Dark Young (Magic Armour)
+40 points
+
+The Pelt of the Dark Young is shrouded in tendrils of darkness that gather about the wearer.
+
+May be worn with other armour. The wearer of the Pelt of the Dark Young improves their armour value by 1 (to a maximum of 2+). In addition, its wearer (and any unit they have joined) has Magic Resistance (-2).
+
+##### Heavy Chaos Armour* (Magic Armour)
+30 points
+
+Chaos Armour is a gift of the gods, a symbol of the wearer's status as a true champion of Chaos.
+
+Heavy Chaos Armour is a suit of heavy armour. May be purchased and worn by a Wizard, even if they do not have the option to be equipped with armour, a shield or barding, without penalty. In addition, the wearer of Chaos Armour has a 5+ Ward save against any wounds suffered.
+
+*Extremely Common
+
+##### The Blackened Plate (Magic Armour)
+25 points
+
+This battered suit of plate mail is blackened with the soot of burning palaces and temples.
+
+The Blackened Plate is a suit of full plate armour. In addition, its wearer has a 3+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.
+
+##### The Fur of Sharggu (Magic Armour)
+20 points
+
+When the beast-spawn Sharggu was slain, its hide was roughly cut to make a heavy cloak.
+
+May be worn with other armour. The wearer of the Fur of Sharggu improves their armour value by 2 (to a maximum of 2+) against non-magical shooting attacks.
+
+#### Talismans
+
+##### Chalice of Dark Rain (Talisman)
+50 points
+
+It is said that to quaff from this blackened and rotted cup is to command the elements.
+
+Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of the Chalice of Dark Rain may drink from it. Until your next Start of Turn sub-phase, the range of all enemy missile weapons is halved (rounding fractions up) and enemy war machines cannot shoot.
+
+##### Cornucopia of Corpulence (Talisman)
+30 points
+
+This twisted basket overflows with such abundant filth that the weak might drown in its bounty.
+
+When the bearer's combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, enemy models in base contact with the bearer of the Cornucopia of Corpulence must make a Toughness test. If this test is failed, they lose a single Wound.
+
+##### Rune of the True Beast (Talisman)
+30 points
+
+This sigil of pure savagery is carved into the flesh of only the mightiest Beastlords, causing even the greatest of monsters to cower before the unbridled ferocity of this raging predator.
+
+Enemy models whose troop type is monster suffer a -1 modifier to their Weapon Skill characteristic whilst within 6" of the bearer of the Rune of the True Beast.
+
+##### Dark Heart* (Talisman)
+25 points
+
+Beastmen rip the still beating hearts from their defeated rivals. In battle, they will feed upon these grisly trophies, claiming the strength of their vanquished enemies.
+
+Single use. During the Command sub-phase of their turn, the bearer of a Dark Heart can consume it. The model immediately recovers one lost Wound.
+
+*Extremely Common
+
+#### Magic Standards
+
+##### The Gore Banner (Magic Standard)
+50 points
+
+Enemies tremble to see the foul sigils daubed upon this blood-drenched standard.
+
+If a unit wishes to declare a charge against a unit carrying the Gore Banner, it must first make a Leadership test. If this test is failed, the unit cannot charge. It does not move and is considered to have made a failed charge. If this test is passed, the unit can charge as normal.
+
+##### Totem of Rust (Magic Standard)
+50 points
+
+Little more than a jagged spike upon which the corroded remains of armoured warriors are impaled, the Totem of Rust spreads an all-consuming aura of entropy.
+
+Every model (friend or foe) within 6" of the model carrying the Totem of Rust suffers a -1 modifier to its Armour Save rolls.
+
+##### Banner of the Warped Moon (Magic Standard)
+45 points
+
+Glowing with Morrslieb's light, creatures of the sky cower before the Banner of the Warped Moon.
+
+Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of this banner may attempt to unleash its power by making a Leadership test (using their own unmodified Leadership). If this test is passed, until your next Start of Turn sub-phase enemy units cannot use the Fly (X) special rule.
+
+##### The Beast Banner (Magic Standard)
+40 points
+
+Adorned with shattered beast skulls, the Beast Banner radiates an unquenchable thirst for battle.
+
+A unit carrying the Beast Banner increases its maximum possible charge range by 3" and, when it makes a Charge roll, may apply a +D3 modifier to the result.
+
+##### Manbane Standard (Magic Standard)
+40 points
+
+The Manbane Standard is a corpse beset by carrion birds. Any who behold it are filled with the dread that it will be upon their eyes that the birds next feast.
+
+All enemy units within 6" of the model carrying the Manbane Standard suffer a -1 modifier to their Leadership characteristic (to a minimum of 2).
+
+##### Vitriolic Totem (Magic Standard)
+30 points
+
+This gnarled and twisted bough is hung with the heads of the fallen. From these rotted trophies drips a constant rain of blackened ichor and poisoned blood.
+
+A unit carrying the Vitriolic Totem gains the Poisoned Attacks special rule.
+
+##### Banner of Outrage (Magic Standard)
+25 points
+
+This stolen standard has been befouled and stained as a terrible affront to the enemy. Its presence drives Beastmen to ever more vile extremes of savagery.
+
+A unit carrying the Banner of Outrage may re-roll its Leadership test when testing for Primal Fury.
+
+##### The Soiled Tapestry (Magic Standard)
+15 points
+
+Dragged through filth, this once-sacred banner is now a symbol of hatred.
+
+A unit carrying the Soiled Tapestry gains the Hatred (all enemies) special rule. However, all enemy models Hate the unit carrying this banner.
+
+#### Enchanted Items
+
+##### Stone of Spite (Enchanted Item)
+45 points
+
+Contained within this glowing stone is the soul of an Ungor, slain in a hideous ritual. When crushed underhoof, a wave of bitterness and spite is released, banishing the Winds of Magic.
+
+Single use. During the Command sub-phase of their turn, if they are not engaged in combat, this character may use the Stone of Spite. Until your next Start of Turn sub-phase, all Wizards (friend or foe) suffer a -2 modifier to their Casting rolls.
+
+##### Horn of the Great Hunt (Enchanted Item)
+35 points
+
+The dissonant blare of this twisted horn summons Beastmen to the blood grounds to hunt and slaughter the weak.
+
+Once per turn, after rolling to determine if a unit with the Ambushers special rule that is currently held in reserve as reinforcements arrives, and if the bearer of the Horn of the Great Hunt is on the battlefield and is not fleeing, you may apply a +1 or -1 modifier to the result.
+
+##### Horn of the First Beast (Enchanted Item)
+30 points
+
+This immeasurably ancient, fossilised horn is said to be taken from the skull of the First Beast. When it is sounded, Beastmen find the savage fury of their race swelling within their hearts.
+
+Unless the bearer of the Horn of the First Beast is fleeing, any friendly unit that is within 18" of this model may use its Leadership characteristic when testing for Primal Fury.
+
+##### Scourge of the Burdened (Enchanted Item)
+25 points
+
+Snatched from the petrified fingers of a cruel wagoner, the threat of this barbed whip inspires swiftness amongst all beasts.
+
+The wielder of the Scourge of the Burdened can cast the Call of the Wild spell from the Lore of Primal Magic as a Bound Spell, with a Power Level of 2.
+
+##### Cacophonous Dirge (Enchanted Item)
+15 points
+
+The march of the warherd is always accompanied by the raucous droning of pipes so deafeningly loud that it drowns out the instruments of all the foe.
+
+Whilst their unit is within 18" of the bearer of the Cacophonous Dirge, enemy musicians cannot use their Onwards to Victory!, Steadying Rhythm or Quick Time rules.
+
+##### Skin of Man (Enchanted Item)
+15 points
+
+The wearer of this flayed and sigil-encrusted human pelt is under a glamour, making them appear no more than a particularly ugly peasant. When the skin is cast aside, the awful truth is revealed.
+
+Beastmen Chieftains and Beastmen Shamans whose troop type is infantry only. The wearer of the Skin of Man gains the Scouts and Vanguard special rules.
+
+#### Arcane Items
+
+##### The Plague Chalice (Arcane Item)
+40 points
+
+This rotted wooden chalice is filled with a vile brew of blood and pus. Any Shaman that sups from it is wracked with pain, even as raw magic courses through their veins.
+
+If the bearer of the Plague Chalice rolls any natural double when making a Casting roll (not including rolls of a natural double 1), the spell is cast as a perfect invocation, regardless of its casting value or of any other modifiers. However, each time the bearer casts a perfect invocation, they suffer a Strength 4 hit with no armour save permitted (Ward and Regeneration saves can be attempted as normal).
+
+##### Blood of the Shadowgave* (Arcane Item)
+35 points
+
+When shattered upon the ground, clay jars of Morghur's blood boil and spit, birthing mewling beastlings that consume raw magic from the very air, before fading back into the cursed soil.
+
+Single use. A Wizard may use this item instead of making a Wizardly dispel attempt. If they do so, the spell is automatically dispelled with no Dispel roll required.
+
+Note that a perfect invocation cannot be dispelled.
+
+*Extremely Common
+
+##### Daemon Heart (Arcane Item)
+30 points
+
+Pulled still beating from the chest of a shadow-skinned Daemon, this gruesome artefact must constantly consume magic lest it fade to dust.
+
+When attempting a Wizardly dispel, the bearer of the Daemon Heart counts their Level of Wizardry as being one higher than that of the Wizard whose spell they are dispelling or, in the case of Bound Spells, one higher than that spell's Power Level.
+
+Note that this applies even if it would mean the bearer counts their Level of Wizardry as being lower than it actually is.
+
+##### Hagtree Fetish (Arcane Item)
+30 points
+
+A crudely carved effigy of a hagtree, this shamanic heirloom can spell doom for the Bray-Shaman's foe when brandished with the appropriate curse.
+
+Whenever the bearer of the Hagtree Fetish successfully casts a Magic Missile, they may re-roll any failed rolls To Wound.
+
+##### Goretooth* (Arcane Item)
+15 points
+
+In bloody rituals, Bray-Shamans tear the teeth from the jaws of raging beasts to make amulets that allow them to tap into the primal rage of their victims.
+
+In addition to the Lores of Magic they may normally know spells from, the bearer of a Goretooth may know spells from the Lore of Primal Magic.
+
+*Extremely Common
+
+##### Jagged Dagger (Arcane Item)
+15 points
+
+This potent sacrificial tool radiates the pain and anger of a thousand ritual offerings made to the Ruinous Powers.
+
+The Jagged Dagger can only be used by a Wizard that has joined a unit. Before making a Casting roll, the bearer of the Jagged Dagger may make a sacrifice. One model belonging to the bearer's unit is immediately removed from play as a casualty. The bearer may then modify their Casting roll by adding the Wounds characteristic of the sacrificed model to the result.
+
+Note that this is a modifier to the result of a roll - it does not negate a roll of a natural double 1.
 
 ## Named Character Units
 
