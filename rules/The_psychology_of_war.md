@@ -1,4 +1,4 @@
-# The Psychology of War
+# Warhammer: The Old World - The Psychology of War
 
 The battlefield is full of noise, confusion and death. Faced with allies and comrades meeting grisly ends all around whilst battling fearsome foes, you may find that your warriors succumb to panic and scatter, rather than fight on.
 

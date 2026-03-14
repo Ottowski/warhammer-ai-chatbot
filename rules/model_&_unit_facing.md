@@ -1,4 +1,4 @@
-# Model & Unit Facing
+# Warhammer: The Old World - Model & Unit Facing
 
 Most models have a front, flank and rear arc based on the direction they are facing. These arcs are used to determine what the model can see, and to determine the direction of an enemy charge.
 

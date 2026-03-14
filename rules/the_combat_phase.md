@@ -1,4 +1,4 @@
-# The Combat Phase
+# Warhammer: The Old World - The Combat Phase
 
 ## The Combat Phase Sequence
 

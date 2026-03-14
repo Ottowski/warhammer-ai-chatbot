@@ -1,4 +1,4 @@
-# Magic
+# Warhammer: The Old World - Magic
 
 The Warhammer world is an intrinsically magical place. In battle, magic is a force as real and potent as a sword blade, its use limited only by the imagination and skill of the Wizard that wields it. Magic can be a subtle force, infusing allies with strength and valour, or enemies with frailty and dread. More commonly, however, Wizards unshackle the raw power that lies at the heart of magic's chaotic nature, summoning hungry firestorms or devastating bolts of eldritch power.
 

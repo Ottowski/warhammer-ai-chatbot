@@ -1,4 +1,4 @@
-# Model Profiles
+# Warhammer: The Old World - Model Profiles
 
 The Citadel miniatures used to play games of Warhammer: the Old World are referred to as 'models' in the rules that follow. Models represent a huge variety of troops, each with its own skills and capabilities. To reflect this, each model has its own characteristics profile.
 

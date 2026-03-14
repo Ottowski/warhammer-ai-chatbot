@@ -1,4 +1,4 @@
-# The Lores of Magic
+# Warhammer: The Old World - The Lores of Magic
 
 Wizards are a formidable force on the battlefield, able to wreak incredible destruction, weaken or strengthen other warriors, or summon terrible beasts to fight at their side. The rules for using Wizards and casting spells in your games have already been covered in detail in the Magic section. In the following sections, you will find the Lores of Magic – lists from which Wizards generate their spells.
 
