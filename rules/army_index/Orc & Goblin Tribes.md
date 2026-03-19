@@ -595,37 +595,21 @@ Surrounded by Boyz, Orc Shamans tap into the superstitious beliefs of their mate
 
 A Wizard with the 'Lore of Gork' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.
 
-Brain Bursta (Signature Spell)
+#### Brain Bursta (Signature Spell)
 Channelling the violence of their peers, the Shaman projects it against their enemies in a brain-bursting wave.
 
-Type
-
-Assailment
-
-Casting Value
-
-9+
-
-Range
-
-Combat
+| Type | Casting Value | Range |
+|---|---|---|
+| Assailment | 9+ | Combat |
 
 A single enemy model the caster is engaged in combat with suffers a single Strength 6 hit with the Multiple Wounds (D3) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).
 
-Gaze of Gork (Signature Spell)
+#### Gaze of Gork (Signature Spell)
 Gork gives the Shaman the ability to project beams of coruscating energy from their eyes, burning massive holes through everything they look at.
 
-Type
-
-Magic Missile
-
-Casting Value
-
-9+
-
-Range
-
-5D6"
+| Type | Casting Value | Range |
+|---|---|---|
+| Magic Missile | 9+ | 5D6" |
 
 Draw a straight line, 5D6" in length, from the caster's base edge. Any model (friend or foe) whose base falls under this line suffers a Strength 5 hit, with an AP of -3.
 
@@ -634,159 +618,87 @@ Goblin Shamans delight in casting cunning curses upon their enemies. These petty
 
 A Wizard with the 'Lore of Mork' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.
 
-Mork's Curse (Signature Spell)
+#### Mork's Curse (Signature Spell)
 The Shaman points a bony finger at the enemy and utters a curse. Almost immediately, buckles begin to break and rivets pop, causing armour plates to slip.
 
-Type
-
-Hex
-
-Casting Value
-
-7+
-
-Range
-
-18"
+| Type | Casting Value | Range |
+|---|---|---|
+| Hex | 7+ | 18" |
 
 Remains in Play. Whilst this spell is in play, the target enemy unit must re-roll any Armour Save roll of a natural 6.
 
-Itchy Nuisance (Signature Spell)
+#### Itchy Nuisance (Signature Spell)
 The Shaman begins vigorously scratching and cackling maniacally, their antics causing their enemies to feel uncomfortably hot and itchy.
 
-Type
-
-Hex
-
-Casting Value
-
-9+
-
-Range
-
-15"
+| Type | Casting Value | Range |
+|---|---|---|
+| Hex | 9+ | 15" |
 
 Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Toughness and Initiative characteristics (to a minimum of 1).
 
 ### Lore of Troll Magic
 In addition to the Lores of Magic detailed in the Warhammer: the Old World rulebook, some Wizards, especially those with an affinity for Trolls, may know spells from the Lore of Troll Magic. As usual, if it is stated that a Wizard knows spells from one of a number of given Lores of Magic, you must choose one of these Lores when writing your muster list.
 
-Big Smartz (Signature Spell)
+#### Big Smartz (Signature Spell)
 Gesturing lazily with a crooked staff, the caster enhances and sharpens the minds of those nearby, giving them a clearer look upon the world.
 
-Type
-
-Enchantment
-
-Casting Value
-
-8+
-
-Range
-
-Self
+| Type | Casting Value | Range |
+|---|---|---|
+| Enchantment | 8+ | Self |
 
 Remains in Play. Whilst this spell is in play, friendly units within the Command range of this model may re-roll any failed Stupidity tests. Additionally, if a friendly unit within the Command range of this model when this spell is cast failed its Stupidity test during the Start of Turn sub-phase of the same turn, it may immediately make this test again.
 
-1. Acidic Bile
+#### 1. Acidic Bile
 Spitting a guttural incantation, the caster launches a ball of sickly green and yellow Troll vomit toward the enemy, scorching flesh and dissolving armour.
 
-Type
-
-Magic Missile
-
-Casting Value
-
-8+
-
-Range
-
-18"
+| Type | Casting Value | Range |
+|---|---|---|
+| Magic Missile | 8+ | 18" |
 
 Place a small (3") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1". Any enemy model whose base lies underneath the template's final position risks being hit and suffering a Strength 3 hit with an AP of -2.
 
-2. Troll Brainz
+#### 2. Troll Brainz
 Under the beguiling influence of this crude magic, even the most experienced warriors can quickly find themselves hopelessly confused and at a loss for what to do.
 
-Type
-
-Hex
-
-Casting Value
-
-9+
-
-Range
-
-15"
+| Type | Casting Value | Range |
+|---|---|---|
+| Hex | 9+ | 15" |
 
 Remains in Play. Whilst this spell is in play, the target enemy unit becomes subject to the Stupidity special rule and reduces their Leadership characteristic by 1.
 
-3. Ravenous Recourse
+#### 3. Ravenous Recourse
 Through arcane means or by simply being reminded how hungry they are, the assembled Trolls race forward with a sudden burst of vigour.
 
-Type
-
-Conveyance
-
-Casting Value
-
-8+
-
-Range
-
-Self
+| Type | Casting Value | Range |
+|---|---|---|
+| Conveyance | 8+ | Self |
 
 Until the end of this turn, all friendly units that have the Stupidity special rule and are within 12" of the caster gain a +2 modifier to their Movement characteristic.
 
-4. Foetid Whirlpool
+#### 4. Foetid Whirlpool
 A deluge of foul swamp water and unmentionable waste is spun into a swirling tornado and unleashed onto the battlefield.
 
-Type
-
-Magical Vortex
-
-Casting Value
-
-9+
-
-Range
-
-18"
+| Type | Casting Value | Range |
+|---|---|---|
+| Magical Vortex | 9+ | 18" |
 
 Remains in Play. Place a small (3") blast template so that its central hole is within 18" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase. Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 4 hits, each with an AP of -3.
 
-5. Torrent of Filth
+#### 5. Torrent of Filth
 With an almighty belch, the caster heaves a stream of burning bile across their foes as the battlelines clash.
 
-Type
-
-Assailment
-
-Casting Value
-
-7+
-
-Range
-
-Combat
+| Type | Casting Value | Range |
+|---|---|---|
+| Assailment | 7+ | Combat |
 
 Place a flame template so that the narrow end touches the caster's base edge and the broad end is over a unit they are engaged in combat with. Any model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -2.
 
-6. Rapid Regeneration
+#### 6. Rapid Regeneration
 Drawing on the regenerative properties of theTrolls, the caster channels that enhanced healing towards those in harm's way.
 
-Type
-
-Enchantment
-
-Casting Value
-
-8+
-
-Range
-
-12"
+| Type | Casting Value | Range |
+|---|---|---|
+| Enchantment | 8+ | 12" |
 
 Until the end of your next Start of Turn sub-phase, the target friendly unit gains the Flammable and Regeneration (5+) special rules.
 
@@ -795,89 +707,87 @@ Until the end of your next Start of Turn sub-phase, the target friendly unit gai
 ### Orc & Goblin Tribes Magic Items
 These magic items are unique to Orc & Goblin Tribes armies. These can be purchased by models within an Orc & Goblin Tribes army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook.
 
-### Magic Weapons
-Battleaxe of the Last Big Waaagh! (Magic Weapon)
+#### Magic Weapons
+##### Battleaxe of the Last Big Waaagh!  (Magic Weapon)
 75 points
 Vague legend tells that this huge, beaten battleaxe once belonged to either Gork or Mork. How true this is, there is no way of knowing, but it certainly is a great tool for hitting things with!
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S+2       -2                Extra Attacks (+D6)
-Magical Attacks
-Requires Two Hands
-Strike Last
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+2 | -2 | Extra Attacks (+D6); Magical Attacks; Requires Two Hands; Strike Last |
 
 Notes: If a natural 6 is rolled for the Extra Attacks (+D6) special rule, the Battleaxe of the Last Big Waaagh! loses the Extra Attacks (+D6) special rule at the end of the current Combat phase.
 
-Bigger, Choppier Axe (Magic Weapon)
+##### Bigger, Choppier Axe  (Magic Weapon)
 55 points
 While Warbosses love having a big, choppy axe, there is nothing they love more than a bigger, choppier axe!
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S+2       -2                Killing Blow
-Magical Attacks
-Requires Two Hands
-Strike Last
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+2 | -2 | Killing Blow; Magical Attacks; Requires Two Hands; Strike Last |
 
-Martog's Best Basha (Magic Weapon)
+##### Martog's Best Basha  (Magic Weapon)
 50 points
 Warboss Martog the Mauler was renowned for his vast collection of 'legitimately acquired' weapons. The most prized of which was a massive Dwarfen hammer, covered with intricately carved runes and (since Martog's acquisition of the weapon) plenty of Dwarfen blood.
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S+1       -2                Magical Attacks
-Requires Two Hands
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1 | -2 | Magical Attacks; Requires Two Hands |
 
 Notes: The wielder of this weapon has a +1 modifier to its Weapon Skill and Initiative characteristics.
 
-Porko's Pigstikka (Magic Weapon)
+##### Porko's Pigstikka  (Magic Weapon)
 40 points
 Most of the many spears wielded by Porko and his famous Boar Boyz lie shattered across a thousand battlefields. But this particular spear is special, having never broken nor lost its perfect point.
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S+1       -1                Armour Bane (1)
-Magical Attacks
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1 | -1 | Armour Bane (1); Magical Attacks |
 
 Notes: Models whose troop type is cavalry, monster or chariot only. This weapon's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged. In addition, during a turn in which the wielder charged, Porko's Pigstikka grants them +1 Attack for each rank the enemy unit has.
 
-Da Choppiest Choppa (Magic Weapon)
+##### Da Choppiest Choppa  (Magic Weapon)
 35 points
 This broad, heavy bladed choppa boasts a wickedly sharp cutting edge. What's more, no amount of relentless chopping through armour and hacking through bone ever seems to dull it.
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S+1       -3                Magical Attacks
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1 | -3 | Magical Attacks |
 
-Da Akrit Axe (Magic Weapon)
+##### Da Akrit Axe  (Magic Weapon)
 30 points
 In battle, this weapon seems to writhe in the hands of its wielder, seeking out the enemy's most vulnerable spots.
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S+1       -                 Armour Bane (1)
-Magical Attacks
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1 | - | Armour Bane (1); Magical Attacks |
 
 Notes: The wielder of Da Akrit Axe may re-roll any failed rolls To Hit made whilst using it. However, this weapon's Strength modifier applies only against enemy models the wielder charged this turn.
 
-Backstabber's Blade* (Magic Weapon)
+##### Backstabber's Blade*  (Magic Weapon)
 25 points
 Being bigger and meaner than most, Orcs are happy to fight anyone, anywhere. Goblins on the other hand, are far happier sticking the pointy end of their blades into their foe's back.
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S+1       -1                Magical Attacks
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1 | -1 | Magical Attacks |
 
 Notes: Goblin Bosses and Night Goblin Bosses only. If the wielder of this weapon is engaged with an enemy's flank arc, it may re-roll any failed rolls To Wound. If the wielder of this weapon is engaged with an enemy's rear arc, it may re-roll any failed rolls To Hit and To Wound.
 
 *Extremely Common
 
-Wollopa's One Hit Wunda (Magic Weapon)
+##### Wollopa's One Hit Wunda  (Magic Weapon)
 15 points
 The rebellious Goblin known as Wollopa wielded a wondrous weapon. Yet what he is most remembered for is his turn of speed, being able to easily outpace even the most irate of Orcs.
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  10        -3                Magical Attacks
-Strike First
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | 10 | -3 | Magical Attacks; Strike First |
 
 Notes: Goblin and Night Goblin Bosses only. Single use. Once per game, during the first round of combat, the wielder of this weapon can use it with this profile. At all other times, this weapon counts as a hand weapon with the Magical Attacks special rule.
 
-### Magic Armour
-Trollhide Trousers* (Magic Armour)
+#### Magic Armour
+##### Trollhide Trousers*  (Magic Armour)
 40 points
 Foul smelling and uncomfortable, Trollhide Trousers possess remarkable regenerative properties.
 
@@ -885,38 +795,38 @@ May be worn with other armour. The wearer of the Trollhide Trousers improves the
 
 *Extremely Common
 
-Dead 'Ard Armour (Magic Armour)
+##### Dead 'Ard Armour  (Magic Armour)
 35 points
 This battle-scarred armour is made up of thick armour plates capable of turning aside the most telling of blows.
 
 Black Orc Bosses and Orc Bosses whose troop type is infantry, cavalry or chariot only. The Dead 'Ard Armour is a suit of full plate armour. In addition, its wearer improves their Toughness characteristic by 1.
 
-Armour of Mork (Magic Armour)
+##### Armour of Mork  (Magic Armour)
 30 points
 This old and battered armour offers powerful protection against magic.
 
 The Armour of Mork is a suit of heavy armour. In addition, its wearer has Magic Resistance (-2).
 
-Spiteful Shield (Magic Armour)
+##### Spiteful Shield  (Magic Armour)
 20 points
 Possessed by an angry spirit and adorned with an enchanted maw filled with razor-sharp teeth, this shield snaps and snarls at unwary opponents.
 
 The Spiteful Shield is a shield. In addition, any enemy model that rolls a natural 1 when making a roll To Hit or To Wound against the wielder of the Spiteful Shield during the Combat phase immediately suffers a Strength 4 hit with an AP of -.
 
-### Talismans
-Sparkly Wizard Finda (Talisman)
+#### Talismans
+##### Sparkly Wizard Finda  (Talisman)
 45 points
 Disappointingly, this arcane gem has never helped find a single sparkly Wizard, though it does shine brightly when used to beat one to a bloody pulp!
 
 The bearer of the Sparkly Wizard Finda has the Magic Resistance (-2) and Hatred (enemy Wizards) special rules.
 
-Effigy of Mork (Talisman)
+##### Effigy of Mork  (Talisman)
 35 points
 Be it a string of lucky escapes, arcane enchantment, or perhaps the divine intervention of the cunning (yet brutal) Mork, this small trinket seems to keep the wearer out of danger.
 
 Any model that directs its attacks against the bearer of the Effigy of Mork during the Combat phase suffers a -1 modifier to its rolls To Hit.
 
-Glowy Green Amulet (Talisman)
+##### Glowy Green Amulet  (Talisman)
 35 points
 This unimposing green amulet glows ever brighter as it absorbs magic. Sooner or later it is going to explode!
 
@@ -924,87 +834,87 @@ If the bearer (and any unit they have joined) is the target of an enemy spell, t
 
 Note that the Glowy Green Amulet cannot be used against a perfect invocation.
 
-The Collar of Zorga (Talisman)
+##### The Collar of Zorga  (Talisman)
 20 points
 Zorga was a respected War Boar wrangler. When his magical collar was stolen, he became a snack for his porcine pets.
 
 Any enemy 'beast of burden' that directs its attacks against the wearer of the Collar of Zorga or their unit during the Combat phase suffers a -1 modifier to its rolls To Hit. For the purposes of this rule, a beast of burden is the mount of any model whose troop type is cavalry, the beast(s) that draw any model whose troop type is chariot, and the mount of any mounted character whose troop type is monster.
 
-### Magic Standards
-The Big Red Raggedy Flag (Magic Standard)
+#### Magic Standards
+##### The Big Red Raggedy Flag  (Magic Standard)
 50 points
 This tattered banner belonged to the great hero, Rowdy Porker, whose spirit imbues it to this day.
 
 A unit carrying the Big Red Raggedy Flag has a +1 modifier to its Weapon Skill characteristic (to a maximum of 10). In addition, when calculating its combat result, the unit may claim an additional bonus of +1 combat result point.
 
-Waaagh! Banner (Magic Standard)
+##### Waaagh! Banner  (Magic Standard)
 40 points
 Blessed by an Orc Shaman, this banner fills those that march under it with a great sense of urgency.
 
 A unit carrying the Waaagh! Banner increases its maximum possible charge range by 3" and, when it makes a Charge roll, may apply a +D3 modifier to the result.
 
-Da Angry Ladz Flag (Magic Standard)
+##### Da Angry Ladz Flag  (Magic Standard)
 35 points
 Those who fight under Da Angry Ladz Flag hurl themselves at the enemy with careless abandon.
 
 A unit carrying Da Angry Ladz Flag gains the Frenzy special rule.
 
-Da Banner of Butchery (Magic Standard)
+##### Da Banner of Butchery  (Magic Standard)
 35 points
 This rough-hewn totem has absorbed a great amount of primal Orc fury.
 
 All models in a unit carrying Da Banner of Butchery have a +1 modifier to their Strength characteristic during a turn in which they charge.
 
-Da Spider Banner (Magic Standard)
+##### Da Spider Banner  (Magic Standard)
 35 points
 Created by the Forest Goblins of the Rootgrubba tribe, this unsettling banner depicts their fearsome arachnid god, whom the tribe reveres alongside Gork and Mork.
 
 A unit carrying Da Spider Banner gains the Poisoned Attacks special rule. If the unit already has the Poisoned Attacks special rule, then their attacks will wound automatically on a roll of a natural 5 or 6 To Hit, rather than the usual 6.
 
-Da Banner of Da Nomadz (Magic Standard)
+##### Da Banner of Da Nomadz  (Magic Standard)
 25 points
 Though their Waaagh! takes them the length and breath of the known world, those who carry this banner seldom seem to tire and are constantly on the move.
 
 When a unit carrying Da Banner of Da Nomadz makes a Charge, Flee or Pursuit roll, it may re-roll any dice that roll a natural 1, before discarding any dice that are required to be discarded.
 
-Banner of the Wildz (Magic Standard)
+##### Banner of the Wildz  (Magic Standard)
 20 points
 The multitude of natural elements used in the construction of this ramshackle standard seem to possess some minor magical enchantment, allowing those who carry it to traverse through foetid swamps, dense forests and rocky slopes without pause.
 
 A unit carrying the Banner of the Wildz gains the Move Through Cover special rule.
 
-Guff's Windy Banner (Magic Standard)
+##### Guff's Windy Banner  (Magic Standard)
 20 points
 The banner of Guff's Garrison eternally flutters in an inexplicable breeze. Those that fight in its shadow display remarkable intestinal fortitude.
 
 A unit carrying the Guff's Windy Banner may re-roll any failed Panic test.
 
-### Enchanted Items
-Big Boss 'At (Enchanted Item)
+#### Enchanted Items
+##### Big Boss 'At  (Enchanted Item)
 50 points
 Orcs and Goblins are easily impressed, and this ornate helmet is particularly impressive. What's more, the Boss insists that wearing it makes them braver and cleverer, which must be true.
 
 During the Command sub-phase of their turn, a character wearing the Big Boss 'At that is not engaged in combat may treat their comrades to some inspiring words by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase this character and any unit they have joined gains the Unbreakable special rule.
 
-Necklace of Blessed Teef (Enchanted Item)
+##### Necklace of Blessed Teef  (Enchanted Item)
 50 points
 Plucked from the jaws of enemies and fashioned into crude jewellery, the teef that hang from this necklace have been blessed by Mork (or possibly Gork) to protect the wearer as they thunder into battle.
 
 The bearer of the Necklace of Blessed Teef may re-roll any Armour Save roll, Ward Save roll or Regeneration Save roll of a natural 1.
 
-Grisly Trophy Rack (Enchanted Item)
+##### Grisly Trophy Rack  (Enchanted Item)
 30 points
 Covered in the decaying scalps and flayed skulls of conquered enemies, this totem is a foul reminder of the fate that awaits those who fall to the boss' blade.
 
 Black Orc Bosses, Orc Bosses, Goblin Bosses and Night Goblin Bosses only. All enemy units within 6" of the bearer of the Grisly Trophy Rack suffer a -1 modifier to their Leadership characteristic (to a minimum of 2).
 
-Da Thinkin' Orc's 'At (Enchanted Item)
+##### Da Thinkin' Orc's 'At  (Enchanted Item)
 25 points
 With the overpowering need to bash skulls removed from their mind, the wearer might now think twice about charging headlong into an Empire artillery battery!
 
 The wearer of Da Thinkin' Orc's 'At improves their Initiative characteristic by 1. In addition, the wearer and any unit they have joined is not subject to the Impetuous special rule.
 
-'Eadbuttin' 'At* (Enchanted Item)
+##### 'Eadbuttin' 'At*  (Enchanted Item)
 15 points
 'Eadbuttin' contests are popular in Orc culture. Especially cunning (or brutal) participants employ magical means to improve their odds.
 
@@ -1012,7 +922,7 @@ The wearer of Da Thinkin' Orc's 'At improves their Initiative characteristic by 
 
 *Extremely Common
 
-Fungus Wine* (Enchanted Item)
+##### Fungus Wine*  (Enchanted Item)
 10 points
 Night Goblins cultivate many strange fungi, the most potent of which are fermented into mind-altering wines.
 
@@ -1020,8 +930,8 @@ Night Goblin characters only. Single use. During the Command sub-phase of their 
 
 *Extremely Common
 
-### Arcane Items
-Staff of Baduumm (Arcane Item)
+#### Arcane Items
+##### Staff of Baduumm  (Arcane Item)
 55 points
 Once carried by the famous Orc Shaman Baduumm, this charred wooden staff still contains large reserves of the raw Waaagh! power that evaporated its namesake.
 
@@ -1029,31 +939,31 @@ The bearer of the Staff of Baduumm applies a +D3 modifier to the result of any C
 
 Note that this item's effects are in addition to the effects of rolling a natural double 1 or double 6 when making a Casting roll.
 
-Glittering Wotnots (Arcane Item)
+##### Glittering Wotnots  (Arcane Item)
 40 points
 Supposedly made from the shards of a shattered magic mirror, these gaudy gems hung from a Shaman's staff will sometimes reflect hostile magic back upon its caster.
 
 If the bearer (or their unit) is the target of an enemy spell, they may use the Glittering Wotnots instead of making a Wizardly dispel attempt. Roll a D6. On a roll of 1-3, the Glittering Wotnots have no effect and the spell is cast as normal. On a roll of 4+, the spell is reflected back upon the caster and they (and their unit) become the target of the spell. The caster may make a Wizardly dispel attempt.
 
-Idol of Gork (Arcane Item)
+##### Idol of Gork  (Arcane Item)
 40 points
 Before heading into a scrap, Orc and Goblin Shamans will craft small idols of Gork, the most brutal (but cunning) of deities to aid them in crumpin' their enemies and disrupting their magic.
 
 The bearer of the Idol of Gork increases the range of all of their spells by 3". Additionally, once per turn, the bearer of the Idol of Gork may re-roll a Casting roll.
 
-Buzgob's Knobbly Staff (Arcane Item)
+##### Buzgob's Knobbly Staff  (Arcane Item)
 35 points
 The famed Great Shaman Buzgob once attempted to channel so much Waaagh! magic that he vanished in a flash of light, leaving behind only his staff and sticky green mist.
 
 Once per turn, the bearer of the Buzgob's Knobbly Staff may re-roll a Casting roll.
 
-Idol of Mork (Arcane Item)
+##### Idol of Mork  (Arcane Item)
 30 points
 On the eve of battle, Orc and Goblin Shamans often craft small idols of Mork, hoping that the most cunning (but brutal) of deities will watch over them.
 
 The bearer of the Idol of Mork increases their Dispel range by 3". Additionally, once per turn, when attempting a Wizardly dispel, the bearer of the Idol of Mork may re-roll the Dispel roll.
 
-Da Hag's Brew (Arcane Item)
+##### Da Hag's Brew  (Arcane Item)
 25 points
 Few are sure on exactly what goes into the foetid drink, but its effect is undeniable, imbuing the drinker with the ability to harness the dank magic of the Troll Hags.
 

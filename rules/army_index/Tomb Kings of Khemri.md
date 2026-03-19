@@ -606,7 +606,7 @@ Until the end of this turn, the target enemy unit suffers a -1 modifier to its S
 These magic items are unique to Tomb Kings of Khemri armies. These can be purchased by models within a Tomb Kings of Khemri army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook.
 
 #### Magic Weapons
-##### Destroyer of Eternities (Magic Weapon)
+##### Destroyer of Eternities  (Magic Weapon)
 75 points
 Imbued with powerful incantations, the great blade of this scything weapon is impossibly sharp and is said to destroy the souls of its victims, denying them any hope of reaching the afterlife.
 
@@ -619,7 +619,7 @@ Requires Two Hands
 Strike Last
 Notes: Rather than attacking normally, the wielder of the Destroyer of Eternities may choose to make a special 'Scything' attack. If they do, the enemy unit they are directing their attacks against suffers D6 automatic hits, each resolved using the Destroyer of Eternities' profile.
 
-##### The Conqueror's Blade (Magic Weapon)
+##### The Conqueror's Blade  (Magic Weapon)
 55 points
 Many a king and queen, warlord and emperor foolish enough to resist the rule of the Lord of Nehekhara have found their heads parted from their bodies by this wicked weapon.
 
@@ -632,7 +632,7 @@ Requires Two Hands
 Strike Last
 Notes: Whilst engaged in a challenge, the bearer of the Conqueror's Blade strikes a Killing Blow if they roll a natural 5 or 6 when making a To Wound roll, rather than the usual 6. In addition, should the wielder slay the enemy General in a challenge, you win a bonus of 100 Victory Points at the end of the game.
 
-##### Crook & Flail of Radiance (Magic Weapon)
+##### Crook & Flail of Radiance  (Magic Weapon)
 50 points
 These gleaming golden weapons represent the high status of the bearer, and all that enter their presence are humbled by the aura of majesty these weapons convey.
 
@@ -645,7 +645,7 @@ Requires Two Hands
 Strike First
 Notes: Monarchs of Nehekhara only.
 
-##### Blade of Antarhak (Magic Weapon)
+##### Blade of Antarhak  (Magic Weapon)
 45 points
 Those cut by the Blade of Antarhak age by decades in the blink of an eye, their vitality stolen and bestowed upon the wielder of this fell blade.
 
@@ -655,7 +655,7 @@ Those cut by the Blade of Antarhak age by decades in the blink of an eye, their 
 Magical Attacks
 Notes: The Blade of Antarhak may only be taken by models in a Nehekharan Royal Host Army of Infamy. For each Wound an enemy unit loses as a result of an attack made with the Blade of Antarhak, its wielder immediately recovers a single lost Wound.
 
-##### Flail of Skulls (Magic Weapon)
+##### Flail of Skulls  (Magic Weapon)
 35 points
 This flail is made from the gilded skulls of conquered enemies. Foes struck by these skulls are lacerated and savaged by their sharpened teeth, and bleed profusely from their wounds.
 
@@ -667,7 +667,7 @@ Multiple Wounds (2)
 Requires Two Hands
 Notes: The Flail of Skulls Strength modifier applies only against enemy models the wielder charged this turn.
 
-##### Phakth's Blades of Justice (Magic Weapon)
+##### Phakth's Blades of Justice  (Magic Weapon)
 35 points
 Crackling lightning arcs from these twin blades as they slice through the ranks of Nehekhara's foes.
 
@@ -678,7 +678,7 @@ Magical Attacks
 Requires Two Hands
 Notes: Models whose troop type is infantry only. Phakth's Blades of Justice grant the wielder +1 Attack for each rank an enemy unit the wielder is engaged with has.
 
-##### Staff of Aeons (Magic Weapon)
+##### Staff of Aeons  (Magic Weapon)
 30 points
 A single blow from this accursed weapon can cause armour to rust and tarnish in a matter of moments, leaving those wearing it vulnerable to the Liche Priest's minions.
 
@@ -689,7 +689,7 @@ Magical Attacks
 Requires Two Hands
 Notes: The Staff of Aeons may only be taken by a Liche Priest in a Mortuary Cult Army of Infamy. Any model that is hit by one or more close combat attacks made using this weapon suffers a -1 modifier to its armour value for the remainder of the game.
 
-##### Serpent Staff (Magic Weapon)
+##### Serpent Staff  (Magic Weapon)
 20 points
 Crafted in the likeness of a rearing cobra, this tall, heavy-headed staff writhes with an unnatural life, striking at the enemies of its bearer with venomous fangs.
 
@@ -702,38 +702,38 @@ Requires Two Hands
 Notes: Liche Priests only.
 
 #### Magic Armour
-##### Armour of the Ages (Magic Armour)
+##### Armour of the Ages  (Magic Armour)
 50 points
 Forged from bronze, cooled in blood and plated with gold, this ancient armour can turn aside even the strongest blow.
 
 Models whose troop type is infantry, cavalry or chariot only. The Armour of the Ages is a suit of light armour. In addition, enemy models must re-roll successful rolls To Wound made against the wearer.
 
-##### Royal Mantle (Magic Armour)
+##### Royal Mantle  (Magic Armour)
 40 points
 It is said that the wisdom of the kings and queens of Nehekhara is held within these armoured plates, giving counsel to the wearer as they command their warriors on the battlefield.
 
 The Royal Mantle may only be taken by models in a Nehekharan Royal Host Army of Infamy. May be worn with other armour. The wearer of the Royal Mantle improves their armour value by 1 (to a maximum of 2+). In addition, the wearer's My Will Be Done special rule affects all friendly units with the Nehekharan Undead special rule within 6" of them, not just a unit they have joined.
 
-##### Warding Splint (Magic Armour)
+##### Warding Splint  (Magic Armour)
 35 points
 Protective strips of bronze and iron inscribed with regenerative hieroglyphics are placed across the Liche Priest's shrivelled body, for without their power the armies of the Tomb Kings will crumble.
 
 The Warding Splint is a suit of heavy armour which may be purchased and worn by a Liche Priest, even if they do not have the option to be equipped with armour, a shield or barding, without penalty. In addition, its wearer has a 5+ Ward save against any wounds suffered.
 
-##### Shield of Ptra (Magic Armour)
+##### Shield of Ptra  (Magic Armour)
 25 points
 Bursting from the face of this ornate shield, the radiance of the Sun God Ptra blinds the enemy.
 
 The Shield of Ptra is a shield. In addition, any enemy model that directs their attacks against the bearer during the Combat phase suffers a -1 modifier to their Weapon Skill characteristic.
 
 #### Talismans
-##### Amulet of the Serpent (Talisman)
+##### Amulet of the Serpent  (Talisman)
 30 points
 Cast in antique gold with glittering emeralds for eyes, this magical snake amulet laces the weapons of nearby Nehekharan warriors with a fast-acting and deadly venom.
 
 The bearer of the Amulet of the Serpent and any unit they have joined gains the Poisoned Attacks special rule.
 
-##### Crown of Kings* (Talisman)
+##### Crown of Kings*  (Talisman)
 30 points
 Ancient and ornate crowns are a symbol that servitude extends beyond the bounds of death.
 
@@ -741,87 +741,87 @@ Monarch of Nehekhara only. During the Command sub-phase of their turn, if they a
 
 *Extremely Common
 
-##### Collar of Shapesh (Talisman)
+##### Collar of Shapesh  (Talisman)
 25 points
 This ornate collar is a powerful charm that trades the life of one for that of another.
 
 Single use. When the wearer of the Collar of Shapesh loses their last Wound, roll a D6. On a roll of 4+, the Wound is not lost. Instead, a single friendly model within the wearer's Command range is removed from play as a casualty.
 
-##### Relic of the Desert Sun (Talisman)
+##### Relic of the Desert Sun  (Talisman)
 25 points
 With their withered, mummified forms vulnerable to open flame, some Tomb Kings placed their faith in the sun god Ptra to protect them.
 
 The bearer of the Relic of the Desert Sun is not subject to the Dry as Dust or Flammable special rules.
 
 #### Magic Standards
-##### Standard of the Cursing Word (Magic Standard)
+##### Standard of the Cursing Word  (Magic Standard)
 80 points
 This potent icon contains a powerful curse, similar to that which protects the mortal remains of the ancient monarchs of Nehekhara.
 
 Battle Standard Bearer only. At the end of any phase in which one or more models in a unit joined by the bearer of the Standard of the Cursing Word lost its last Wound to an enemy attack, the unit that made the attack must make a Leadership test. If this test is failed, the enemy unit suffers D3 Strength 2 hits, each with an AP of -, for each model that lost its last Wound.
 
-##### Icon of the Sacred Eye (Magic Standard)
+##### Icon of the Sacred Eye  (Magic Standard)
 50 points
 The arcane power contained within this unblinking eye guides the arms of those that march beneath it.
 
 A unit carrying the Icon of the Sacred Eye has a +1 modifier to its Weapon Skill characteristic (to a maximum of 10).
 
-##### Royal Standard of Settra (Magic Standard)
+##### Royal Standard of Settra  (Magic Standard)
 50 points
 When Settra's personal banner marches to war, it is an omen of doom for those who stand against him. For the True King of Nehekhara kneels to no one; all shall bow to him or face annihilation.
 
 The Royal Standard of Settra may only be taken in a muster list that includes Settra the Imperishable and/or Nekaph, Emissary of Settra. A unit carrying the Royal Standard of Settra gains the Hatred (enemy characters) and Terror special rules.
 
-##### Sigil of Centuries (Magic Standard)
+##### Sigil of Centuries  (Magic Standard)
 45 points
 Time behaves strangely around this odd icon, the weight of years slowing even the most agile warriors to a sluggish crawl.
 
 All enemy units within 6" of the model carrying the Sigil of Centuries suffer a -1 modifier to their Initiative characteristic (to a minimum of 1).
 
-##### Icon of Rakaph (Magic Standard)
+##### Icon of Rakaph  (Magic Standard)
 40 points
 Those that march beneath the banner of King Rakaph II are instilled with unrivalled discipline.
 
 Unless making a charge move, a unit carrying the Icon of Rakaph may perform a single free reform at any point during its movement.
 
-##### Tapestry of Conquered Lands (Magic Standard)
+##### Tapestry of Conquered Lands  (Magic Standard)
 35 points
 Woven from the standards of vanquished enemies, this patchwork banner serves as a warning to those who stand against the rulers of Nehekhara.
 
 Any enemy standard captured by a unit carrying the Tapestry of Conquered Lands is worth 100 Victory Points as a trophy of war.
 
-##### Banner of the Desert Winds (Magic Standard)
+##### Banner of the Desert Winds  (Magic Standard)
 30 points
 This tattered banner snaps and waves under the command of a spectral breeze, whose gusts drive forward those who march under it.
 
 Models whose troop type is infantry only. A unit carrying the Banner of the Desert Winds gains the Vanguard and Reserve Move special rules.
 
-##### Mirage Banner (Magic Standard)
+##### Mirage Banner  (Magic Standard)
 20 points
 Shimmering with the heat of the desert, this banner shifts constantly, confusing the eye of the enemy.
 
 Any enemy model that targets a unit carrying the Mirage Banner during the Shooting phase suffers an additional -1 To Hit modifier.
 
 #### Enchanted Items
-##### Cloak of the Dunes (Enchanted Item)
+##### Cloak of the Dunes  (Enchanted Item)
 50 points
 This tattered cloak is infused with the magic of the deserts, enabling its wearer to transform into an abrasive storm of sand that cuts through the foe.
 
 Models whose troop type is infantry only. The wearer of the Cloak of the Dunes gains the Fly (9) special rule. In addition, any enemy unit the wearer moves over during the Remaining Moves sub-phase suffers D6 Strength 2 hits, each with an AP of -1.
 
-##### Staff of Awakening (Enchanted Item)
+##### Staff of Awakening  (Enchanted Item)
 50 points
 Carried only by the most revered Liche Priests, this powerful artefact amplifies the wielder's already formidable necromantic talents.
 
 High Priest only. When the wielder of the Staff of Awakening uses the Arise! special rule on a friendly unit whose troop type is infantry or cavalry, that unit recovers an additional D3 Wounds.
 
-##### Orb of Ptra (Enchanted Item)
+##### Orb of Ptra  (Enchanted Item)
 40 points
 Upon uttering a prayer to the mighty Ptra, this orb becomes as bright as the midday sun, confounding enemy archers.
 
 Any enemy model that targets this character or any unit they have joined during the Shooting phase suffers an additional -1 To Hit modifier.
 
-##### Icon of Rulership* (Enchanted Item)
+##### Icon of Rulership*  (Enchanted Item)
 35 points
 The hero's chariot bears a totemic standard that pulses with greatness and proclaims their many victories over their enemies.
 
@@ -829,14 +829,14 @@ Models whose troop type is chariot only. This model doubles its Unit Strength, f
 
 *Extremely Common
 
-##### Death Mask of Kharnutt (Enchanted Item)
+##### Death Mask of Kharnutt  (Enchanted Item)
 20 points
 The expressionless Death Mask of Kharnutt has borne witness to the demise of untold thousands over its long millennia, causing an aura of dread and despair to hang heavily about it.
 
 The wearer of the Death Mask of Kharnutt gains the Terror special rule.
 
 #### Arcane Items
-##### Phâzerakt's Kanopi (Arcane Item)
+##### Phâzerakt's Kanopi  (Arcane Item)
 40 points
 It is said that Phâzerakt's spirit can be unleashed from within the ornate vessel in which it is trapped to aid in a mass summoning.
 
@@ -853,13 +853,13 @@ Special Rules: Horde, Nehekharan Undead, Regeneration (6+), Skirmishers
 
 Note that Summoned Skeleton Warriors are not worth any Victory Points.
 
-##### Enkhil's Kanopi (Arcane Item)
+##### Enkhil's Kanopi  (Arcane Item)
 30 points
 Within this dusty clay vessel resides the wicked heart of the Liche Priest Enkhil. Should it ever be opened, the spirit of the jealous priest consumes the magic of his rivals.
 
 Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of Enkhil's Kanopi may attempt to unleash its contents by making a Leadership test (using their own, unmodified Leadership). If this test is passed, all Remains in Play spells currently in play are dispelled, including spells cast by friendly Wizards.
 
-##### Hieratic Jar* (Arcane Item)
+##### Hieratic Jar*  (Arcane Item)
 25 points
 This earthenware jar, sealed with wax and bound with glyphs, contains the magically charged remains of a once-mighty Liche Priest.
 
@@ -867,19 +867,19 @@ Single use. During the Command sub-phase of their turn, if they are not engaged 
 
 *Extremely Common
 
-##### Curse-Weaver Wand (Arcane Item)
+##### Curse-Weaver Wand  (Arcane Item)
 20 points
 The power within this accursed wand seeks only to enfeeble the enemies of its wielder.
 
 The bearer of the Curse-weaver Wand gains a +1 modifier to their Casting roll when attempting to cast a Hex spell.
 
-##### Scarab Brooch (Arcane Item)
+##### Scarab Brooch  (Arcane Item)
 20 points
 From far beneath the desert sands, scuttling dead things are drawn towards this blackened brooch.
 
 When using the From Beneath the Sands special rule, a summoned unit can be placed on the battlefield anywhere completely within 18" of a Liche Priest wearing the Scarab Brooch, rather than the usual 12".
 
-##### Tablets of Tahoth* (Arcane Item)
+##### Tablets of Tahoth*  (Arcane Item)
 20 points
 These powerful relics of Tahoth's wisdom crumble to dust once their power is spent.
 

@@ -99,20 +99,13 @@ Through long centuries of study and practice of the elemental winds of Yang and 
 
 Miao Ying may discard up to two of her randomly generated spells (rather than the usual one). When she does so, she may replace them with spells chosen from the Lore of Yang, the Lore of Yin, the signature spell of her chosen Lore of Magic, or with the following spell: The Storm Dragon's Fury
 
-The Storm Dragon's Fury (Signature Spell)
+#### The Storm Dragon's Fury (Signature Spell)
 With a quick gesture, Miao Ying summons forth lightning from the skies to strike at her foes.
 
-Type
+| Type | Casting Value | Range |
+|---|---|---|
+| Magic Missile | 10+ | 18" |
 
-Magic Missile
-
-Casting Value
-
-10+
-
-Range
-
-18"
 
 The target enemy unit suffers 2D3 Strength 5 hits, each with an AP of -3. These hits have the Flaming Attacks special rule. Once these hits have been resolved, the target enemy unit must Give Ground.
 
@@ -489,54 +482,33 @@ In the teaching of Feng Shi sorcery, the Winds of Magic are divided into two gro
 
 A Wizard with the 'Lore of Yang' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.
 
-Constellation of the Dragon (Signature Spell)
+#### Constellation of the Dragon (Signature Spell)
 Blazing starlight leaps from the Wizard's fingertips, dancing and forming a simulacrum of the constellation of the Dragon Emperor above the battlefield.
 
-Type
+| Type | Casting Value | Range |
+|---|---|---|
+| Magic Missile | 7+/11+ | 18" |
 
-Magic Missile
-
-Casting Value
-
-7+/11+
-
-Range
-
-18"
 
 If this spell is cast with a casting result of 7 or more, the target enemy unit suffers D6+1 Strength 4 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6+2 Strength 4 hits, each with an AP of -1.
 
-Great Bastion (Signature Spell)
+#### Great Bastion (Signature Spell)
 With a word of power from the Wizard, the earth cracks and buckles as it is transformed into ramparts upon which gleaming battlements burn with celestial flame.
 
-Type
+| Type | Casting Value | Range |
+|---|---|---|
+| Enchantment | 9+ | 12" |
 
-Enchantment
-
-Casting Value
-
-9+
-
-Range
-
-12"
 
 Remains in Play. The target friendly unit gains a 6+ Ward save against any wounds suffered. In addition, every model within the front rank of an enemy unit that ends its charge move in base contact with the target unit whilst this spell is in play must make a Dangerous Terrain test. Any Wounds lost are counted as 'unsaved wounds inflicted' when calculating the combat result. However, whilst this spell is in play the target unit cannot march or charge. This spell may target a friendly unit engaged in combat.
 
-Might of Heaven & Earth (Signature Spell)
+#### Might of Heaven & Earth (Signature Spell)
 Calling upon the elemental energies of earth and heaven, the Wizard and those around them become imbued with the pure power of the Yang.
 
-Type
+| Type | Casting Value | Range |
+|---|---|---|
+| Enchantment | 9+/12+ | Self |
 
-Enchantment
-
-Casting Value
-
-9+/12+
-
-Range
-
-Self
 
 If this spell is cast with a casting result of 9 or more, the caster, their mount and any unit they have joined, gain a +1 modifier to their Weapon Skill and Strength characteristics (to a maximum of 10), and gain the Flaming Attacks special rule. If this spell is cast with a casting result of 12 or more, all friendly units that are within the caster's Command range when this spell is cast gain a + 1 modifier to their Weapon Skill and Strength characteristics (to a maximum of 10), and gain the Flaming Attacks special rule. This spell lasts until the end of this turn.
 
@@ -545,56 +517,35 @@ Those that study the art of Yin magic wield dark and dangerous powers. They twis
 
 A Wizard with the 'Lore of Yin' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.
 
-Spirits of Wind & Shadow (Signature Spell)
+#### Spirits of Wind & Shadow (Signature Spell)
 Elemental spirits descend upon the foe, enveloping them in a whirlwind of flickering shapes and ghostly gales.
 
 As they try to advance, those afflicted find themselves waylaid by the grasping talons of unseen spirits and buffeted by spectral winds.
 
-Type
+| Type | Casting Value | Range |
+|---|---|---|
+| Hex | 10+ | 15" |
 
-Hex
-
-Casting Value
-
-10+
-
-Range
-
-15"
 
 Until your next Start of Turn sub-phase, the target enemy unit becomes subject to the Random Movement (D6) special rule.
 
-Accursed Mirror (Signature Spell)
+#### Accursed Mirror (Signature Spell)
 The Wizard creates a magical barrier of shifting darkness and howling wind around the enemy. This barrier snatches the enemy's missiles from the air and swallows the tips of their spears, instantly turning the lethal power of these weapons back upon their bearers.
 
-Type
+| Type | Casting Value | Range |
+|---|---|---|
+| Hex | 9+ | 15" |
 
-Hex
-
-Casting Value
-
-9+
-
-Range
-
-15"
 
 Until your next Start of Turn sub-phase, any rolls To Hit of a natural 1 made by the target enemy unit during either the Shooting phase or the Combat phase result in a Strength 3 hit with an AP of -1 which must be resolved against the target enemy unit. This spell may target an enemy unit engaged in combat.
 
-Ancestral Warriors (Signature Spell)
+#### Ancestral Warriors (Signature Spell)
 TK
 
-Type
+| Type | Casting Value | Range |
+|---|---|---|
+| Assailment | 7+/11+ | Combat |
 
-Assailment
-
-Casting Value
-
-7+/11+
-
-Range
-
-Combat
 
 If this spell is cast with a casting result of 7 or more, a single enemy unit the caster is engaged in combat with suffers 2D3 Strength 2 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -1. This spell has the Armour Bane (2) special rule.
 
@@ -604,121 +555,113 @@ If this spell is cast with a casting result of 7 or more, a single enemy unit th
 These magic items are unique to Empire of Grand Cathay armies. These can be purchased by models within an Empire of Grand Cathay army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook.
 
 #### Magic Weapons
-The Monkey King's Wisdom (Magic Weapon)
+##### The Monkey King's Wisdom  (Magic Weapon)
 75 points
 A huge and ornate club, studded with jewels and wrapped with precious metals, the Monkey King's Wisdom is a huge and brutal weapon.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | 10 | -4 | Magical Attacks, Multiple Wounds (D3), Requires Two Hands, Strike Last
-
-Jade Blade of the Great Fleet (Magic Weapon)
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | 10  | -4  | Magical Attacks, Multiple Wounds (D3), Requires Two Hands, Strike Last |
+##### Jade Blade of the Great Fleet  (Magic Weapon)
 70 points
 The Jade Blade is an ancient weapon fashioned from the fang of a Lumbrian sea monster. Imbued with the monster's regenerative powers, it continually heals its wielder.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S+2 | -2 | Armour Bane (1), Magical Attacks, Regeneration (5+)
-
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+2  | -2  | Armour Bane (1), Magical Attacks, Regeneration (5+) |
 Notes: The wielder of the Jade Blade of the Great Fleet gains the Regeneration (5+) special rule.
 
-The Sword of Reason (Magic Weapon)
+##### The Sword of Reason  (Magic Weapon)
 65 points
 This great blade is sometimes wielded by Yuan Bo when his duties require him to enforce the Celestial Dragon's will upon the unruly.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S+2 | -2 | Killing Blow, Magical Attacks, Requires Two Hands
-
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+2  | -2  | Killing Blow, Magical Attacks, Requires Two Hands |
 Notes: The wielder of the Sword of Reason strikes a Killing Blow if they roll a natural 5 or 6 when making a roll To Wound, rather than the usual 6.
 
-The Brazen Blade (Magic Weapon)
+##### The Brazen Blade  (Magic Weapon)
 50 points
 Crafted in the forges of Nan-Gau, this unusual weapon carves deep wounds that no magic can heal.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S+1 | -1 | Magical Attacks, Multiple Wounds (2)
-
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1  | -1  | Magical Attacks, Multiple Wounds (2) |
 Notes: Enemy models are not permitted a Ward or Regeneration save against an attack made with this weapon if the wielder rolls a natural 6 when making a roll To Wound.
 
-The Wrath of Xen Yang (Magic Weapon)
+##### The Wrath of Xen Yang  (Magic Weapon)
 45 points
 Supposedly once wielded by the Celestial Dragon himself, this long and elegant spear burns with Dragon-fire.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S+1 | -1 | Amour Bane (1), Flaming Attacks, Magical Attacks
-
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1  | -1  | Amour Bane (1), Flaming Attacks, Magical Attacks |
 Notes: Enemy models cannot make Regeneration saves against a wound caused by this weapon.
 
-The Sword of Nan-Gau (Magic Weapon)
+##### The Sword of Nan-Gau  (Magic Weapon)
 35 points
 This shimmering blade strikes with a life of its own, seeking any weakness in the armour of those that serve the Ruinous Powers.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S | -3 | Hatred (Warriors of Chaos), Magical Attacks
-
-Spirit Longma Spear (Magic Weapon)
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S  | -3  | Hatred (Warriors of Chaos), Magical Attacks |
+##### Spirit Longma Spear  (Magic Weapon)
 25 points
 Made from the horn of the Great Spirit Longma Tian Wu and able to pierce any armour, heroes of Cathay carry this spear into battle with pride.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S+1 | -3 | Armour Bane (1), Magical Attacks
-
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S+1  | -3  | Armour Bane (1), Magical Attacks |
 Notes: Models whose troop type is cavalry, monster or chariot only. A Cathayan lance's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged.
 
-Sun & Moon Blades (Magic Weapon)
+##### Sun & Moon Blades  (Magic Weapon)
 20 points
 According to legend, the blade of the Sun brings enlightenment, whilst the blade of the Moon brings only death.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S | -1 | Extra Attacks (+1), Magical Attacks, Requires Two Hands
-
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| Combat | S  | -1  | Extra Attacks (+1), Magical Attacks, Requires Two Hands |
 Notes: If the wielder of the Sun & Moon Blades is struck a Killing Blow, roll a D6. On a roll of 4+, the Killing Blow is parried and the Killing Blow is discarded with no further effect.
 
 #### Magic Armour
-The Armour of the Warbird (Magic Armour)
+##### The Armour of the Warbird  (Magic Armour)
 45 points
 The wearer of the Armour of the Warbird takes to the skies to strike at their enemies from above.
 
 Models whose troop type is regular infantry or heavy infantry only. The Armour of the Warbird is a suit of heavy armour. In addition, the wearer gains the Counter Charge, Fly (9) and Swiftstride special rules. However, the bearer cannot join a unit.
 
-Jade Armour of Beichai (Magic Armour)
+##### Jade Armour of Beichai  (Magic Armour)
 40 points
 Crafted in secret in the city of Beichai, this jade armour glows from within with unwholesome power.
 
 The Jade Armour of Beichai is a suit of full plate armour. In addition, the wearer of the Jade Armour has a 5+ Ward save against any wounds suffered and gains the Magic Resistance (-2) special rule.
 
-The Mantle of Heaven (Magic Armour)
+##### The Mantle of Heaven  (Magic Armour)
 20 points
 Woven from silk harvested from the slopes of Kunlan, the wearer of these robes is filled with a measure of the Celestial Dragon's essence.
 
 Models whose troop type is infantry or cavalry only. May be worn with other armour. The wearer of the Mantle of Heaven improves their armour value by 2 (to a maximum of 2+) against non-magical shooting attacks.
 
-Shield of Nan-Gau (Magic Armour)
+##### Shield of Nan-Gau  (Magic Armour)
 20 points
 Carved from a section of the Great Bastion, the Shield of Nan-Gau is a massive stone and iron shield.
 
 The Shield of Nan-Gau is a shield. In addition, during a turn in which its bearer was charged, the Shield of Nan-Gau improves its bearer's armour value by 2 (to a maximum of 2+).
 
 #### Talismans
-Crystal of Kunlan (Talisman)
+##### Crystal of Kunlan  (Talisman)
 35 points
 The crystals that grow in the peaks of Kunlan unleash sorcerous energy when struck.
 
 The Crystal of Kunlan gives its bearer a 5+ Ward save against any wounds suffered. In addition, if a natural 6 is rolled when making the Ward save, every enemy model in base contact with the bearer suffers a Strength 3 hit with an AP of -. These attacks have the Flaming Attacks special rule.
 
-Sigil of Smoke & Powder (Talisman)
+##### Sigil of Smoke & Powder  (Talisman)
 35 points
 Clouds of gunpowder smoke hang about the bearer of this blackened sigil, obscuring them from the enemy's sight.
 
 Any enemy model that targets this character or any unit they have joined during the Shooting phase suffers an additional -1 To Hit modifier.
 
-Vermilion Quills* (Talisman)
+##### Vermilion Quills*  (Talisman)
 25 points
 Great heroes of Grand Cathay are awarded tokens of favour in the form of a Vermilion warbird's tail feather, tokens which are said to bless the bearer with unrivalled fortune.
 
@@ -726,87 +669,87 @@ Great heroes of Grand Cathay are awarded tokens of favour in the form of a Vermi
 
 *Extremely Common
 
-Crown of Jade (Talisman)
+##### Crown of Jade  (Talisman)
 20 points
 Hostile magic recoils from the wearer of this gleaming crown of office.
 
 The Crown of Jade gives its wearer a 4+ Ward save against any wounds suffered that were caused by a Magic Missile, a Magical Vortex, or an Assailment spell.
 
 #### Magic Standards
-Standard of Wei-Jin (Magic Standard)
+##### Standard of Wei-Jin  (Magic Standard)
 60 points
 The banner of the Dragon Emperor inspires all Cathayan soldiers who gaze upon it, while spreading disorder and panic in their foes.
 
 A unit carrying the Standard of Wei-jin causes Fear. In addition, all enemy units within 12" of the model carrying the Standard of Wei-jin suffer a -1 modifier to their Leadership characteristic when making a Fear, Panic or Terror test.
 
-Banner of the Dragon's Wrath (Magic Standard)
+##### Banner of the Dragon's Wrath  (Magic Standard)
 45 points
 Those that march to war beneath the Banner of the Dragon's Wrath descend upon the foe with the fury of Li Dao, the Fire Dragon.
 
 A unit carrying the Banner of the Dragon's Wrath gains the Flaming Attacks and Impact Hits (1) special rules.
 
-Icon of Heavenly Fury (Magic Standard)
+##### Icon of Heavenly Fury  (Magic Standard)
 45 points
 The heavens are the realm of the Celestial Dragon, and those that would encroach upon his domain must face his wrath.
 
 Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of this banner may attempt to unleash its power by making a Leadership test (using their own unmodified Leadership). If this test is passed, until your next Start of Turn sub-phase enemy units cannot use the Fly (X) special rule.
 
-The Jade Banner (Magic Standard)
+##### The Jade Banner  (Magic Standard)
 40 points
 Carved from purest jade by Cathay's finest artificers, this ancient banner fills the heart of a Jade Warrior with pride.
 
 When calculating its combat result, a unit carrying the Jade Banner may claim an additional bonus of +2 combat result points.
 
-Dragon's Eye Banner (Magic Standard)
+##### Dragon's Eye Banner  (Magic Standard)
 30 points
 Under the scrutiny of the Celestial Dragon, enemy Wizards falter.
 
 When an enemy Wizard chooses a unit carrying the Dragon's Eye Banner as the target of a spell, roll a D6. On a 4+, the Wizard's controlling player must choose another target. If there is no other viable target in range, the spell cannot be cast.
 
-Banner of the Bastion (Magic Standard)
+##### Banner of the Bastion  (Magic Standard)
 25 points
 Those that would fight beneath this venerable banner must be as solid and unwavering as the Great Bastion itself.
 
 A unit carrying the Banner of the Bastion gains the Shieldwall special rules.
 
-The Shroud of Shiyama (Magic Standard)
+##### The Shroud of Shiyama  (Magic Standard)
 25 points
 The spectral presence of Shiyama, the Spirit Dragon, lingers about those that fight beneath this silken standard crafted in her memory.
 
 A unit carrying the Shroud of Shiyama gains the Fear special rule. If they already have the Fear special rule, they instead gain the Terror special rule.
 
-The Banner of Xen Wun (Magic Standard)
+##### The Banner of Xen Wun  (Magic Standard)
 15 points
 Enemies often falter before this ashen banner, touched by the spirits of Xen Wun.
 
 Enemy units that wish to declare a Stand & Shoot or Fire & Flee charge reaction against a unit carrying the Banner of Xen Wun must first make a Leadership test. If this test is passed, they may declare a Stand & Shoot or Fire & Flee charge reaction. If this test is failed, they must Hold instead.
 
 #### Enchanted Items
-Maw Shard (Enchanted Item)
+##### Maw Shard  (Enchanted Item)
 50 points
 Some have travelled to the broken lands around the Great Maw and brought back strange objects - among them the Maw Shard, an extra-worldly artefact.
 
 If an enemy Wizard rolls any natural double when making a Casting roll whilst within 18" of the bearer of the Maw Shard, the spell is miscast, regardless of the casting result.
 
-Alchemist's Mask (Enchanted Item)
+##### Alchemist's Mask  (Enchanted Item)
 35 points
 Created in the House of Secrets of Shang Yang, this sorcerous mask gifts the wearer with the alchemical secrets of the Iron Dragon.
 
 The wearer of the Alchemist's Mask can cast the Plague of Rust spell from the Lore of Elementalism (see page 327 of the Warhammer: the Old World rulebook) as a Bound spell, with a Power Level of 1.
 
-Ring of Jet (Enchanted Item)
+##### Ring of Jet  (Enchanted Item)
 30 points
 Carved from purest jet quarried from the banks of the Dragon River, the Ring of Jet is infused with the power of Shiyama, allowing its wielder to summon ancestral spirits.
 
 The wielder of the Ring of Jet can cast the Unquiet Spirits spell from the Lore of Necromancy as a Bound Spell, with a Power Level of 1.
 
-Golden Lion (Enchanted Item)
+##### Golden Lion  (Enchanted Item)
 25 points
 Jade Lions are revered in Cathay for their bravery, and golden amulets carved into their likeness inspire great courage.
 
 The bearer of the Golden Lion and their unit may re-roll any failed Fear, Panic, Rally or Terror test.
 
-Spirit Lantern* (Enchanted Item)
+##### Spirit Lantern*  (Enchanted Item)
 25 points
 The ghostly light of a Spirit Lantern reveals the denizens of the underworld and lays bare their weaknesses.
 
@@ -814,32 +757,31 @@ A model carrying a Spirit Lantern causes Terror. In addition, a model carrying a
 
 *Extremely Common
 
-The Fires of Nan-Gau* (Enchanted Item)
+##### The Fires of Nan-Gau*  (Enchanted Item)
 20 points
 Cunningly crafted by the artificers of Nan-Gau, these earthenware jars contain the fury of the city's forges, ready to be unleashed upon Cathays enemies.
 
 0-1 per model. Single Use. The Fires of Nan-Gau is a breath weapon with the following profile:
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-N/A | 4 | -2 | Breath Weapon, Flaming Attacks, Magical Attacks
-
+| Range | Strength | Armour Piercing | Special Rules |
+|---|---|---|---|
+| N/A | 4  | -2  | Breath Weapon, Flaming Attacks, Magical Attacks |
 *Extremely Common
 
 #### Arcane Items
-Cloak of Po Mei (Arcane Item)
+##### Cloak of Po Mei  (Arcane Item)
 50 points
 This enchanted cloak grants its wearer exceptional magical strength and mastery over one of the Elemental Winds.
 
 In addition to their randomly generated spells, the wearer of the Cloak of Po Mei knows all three spells from the Lore of Yin or the Lore of Yang (chosen by their controlling player). However, they can only cast a number of spells equal to their Level of Wizardry per turn.
 
-Clockwork Compass (Arcane Item)
+##### Clockwork Compass  (Arcane Item)
 50 points
 This finely wrought clockwork mechanism emulates the properties of the Wu Xing compass in Wei-jin. When correctly used, it can temporarily still the Winds of Magic.
 
 Single use. The bearer may use this item instead of making a Wizardly dispel attempt. If they do so, the spell is automatically dispelled with no Dispel roll required. In addition, all Remains in Play spells currently in play are dispelled, including spells cast by friendly Wizards.
 
-Guardian Feng Shi Bo* (Arcane Item)
+##### Guardian Feng Shi Bo*  (Arcane Item)
 35 points
 Feng Shi Bo are elemental familiars summoned by Cathayan Wizards. Most often, these earthbound spirits guard their masters, protecting them from harm.
 
@@ -847,7 +789,7 @@ Any enemy model that directs its attacks against the owner of a Guardian Feng Sh
 
 *Extremely Common
 
-Seal of Xing Po* (Arcane Item)
+##### Seal of Xing Po*  (Arcane Item)
 35 points
 The bearer of a Seal of Xing Po has studied the elemental winds for decades, mastering the Winds of Yin or Yang.
 
@@ -855,7 +797,7 @@ The bearer of a Seal of Xing Po has studied the elemental winds for decades, mas
 
 *Extremely Common
 
-Learned Feng Shi Bo* (Arcane Item)
+##### Learned Feng Shi Bo*  (Arcane Item)
 15 points
 Some Wizards create Feng Shi Bo to aid them with their scholarly studies, tasking the spirits with remembering obscure lore.
 
@@ -865,7 +807,7 @@ Note that this does not increase the Wizard's Level.
 
 *Extremely Common
 
-Scrolls of Wei-jin (Arcane Item)
+##### Scrolls of Wei-jin  (Arcane Item)
 10 points
 Those fortunate enough to study the Elemental Winds in the heart of the Celestial City learn many arcane secrets. Such scholars carry with them many scrolls, heavy with knowledge.
 
@@ -886,4 +828,6 @@ The bearer of the Scrolls of Wei-jin knows one more spell (chosen in the usual w
 ## Monster Units
 
 ## War Machine Units
+
+
 

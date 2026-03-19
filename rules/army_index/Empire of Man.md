@@ -508,7 +508,7 @@ Once the battle has ended, use Victory Points to determine which player is the w
 
 #### Magic Weapons
 
-##### Runefang (Magic Weapon)
+##### Runefang  (Magic Weapon)
 100 points
 
 At the dawn of the Empire, a dozen magical blades were forged for Sigmar's chieftains. Those that survive are treasured artefacts, potent symbols of the status and authority of their wielders.
@@ -519,7 +519,7 @@ At the dawn of the Empire, a dozen magical blades were forged for Sigmar's chief
 
 Notes: When making a roll To Wound for a hit caused with a Runefang, a roll of 2+ is always a success, regardless of the target's Toughness.
 
-##### Mace of Helsturm (Magic Weapon)
+##### Mace of Helsturm  (Magic Weapon)
 65 points
 
 This mace was used in battle by the first Grand Theogonist, Johann Helsturm. It is said that Helsturm's faith in Sigmar was strong enough to shatter the walls of a castle.
@@ -538,7 +538,7 @@ Double-Handed:
 
 Notes: The Mace of Helsturm has two profiles. You must choose which the wielder will use at the start of each round of combat. If used double-handed, the wielder may make only one attack, regardless of their Attacks characteristic.
 
-##### Hammer of Righteousness (Magic Weapon)
+##### Hammer of Righteousness  (Magic Weapon)
 50 points
 
 This mighty hammer not only crushes flesh and bone but shatters evil with each swing.
@@ -549,7 +549,7 @@ This mighty hammer not only crushes flesh and bone but shatters evil with each s
 
 Notes: Models hit by the Hammer of Righteousness must make a Leadership test for each hit suffered. If the test is failed, the hit wounds automatically and no Armour save is allowed (Regeneration and Ward saves may be taken as normal). If the test is passed, rolls To Wound and Armour saves are made as normal.
 
-##### Sword of Justice (Magic Weapon)
+##### Sword of Justice  (Magic Weapon)
 50 points
 
 The Sword of Justice is an ancient weapon studded with Dwarf runes of vengeance and retribution that bestow the power of unswerving accuracy and deadly retribution upon it.
@@ -560,7 +560,7 @@ The Sword of Justice is an ancient weapon studded with Dwarf runes of vengeance 
 
 Notes: The wielder of the Sword of Justice may re-roll any failed rolls To Wound.
 
-##### Pearl Daggers (Magic Weapon)
+##### Pearl Daggers  (Magic Weapon)
 35 points
 
 Forged from burnished steel that glitters in the sunlight, the wielder of these lightweight daggers strikes with deadly speed and precision.
@@ -571,7 +571,7 @@ Forged from burnished steel that glitters in the sunlight, the wielder of these 
 
 Notes: The wielder of the Pearl Daggers may re-roll any failed rolls To Hit during the Combat phase.
 
-##### Blade of Silvered Steel (Magic Weapon)
+##### Blade of Silvered Steel  (Magic Weapon)
 30 points
 
 Those who wield this blessed weapon will hunt the dead and the damned with unmatched zeal.
@@ -582,7 +582,7 @@ Those who wield this blessed weapon will hunt the dead and the damned with unmat
 
 Notes: The Blade of Silvered Steel may only be taken by a model in a Knightly Order Army of Infamy. Undead models cannot make Armour or Regeneration saves against a wound caused by this weapon.
 
-##### Dragon Bow (Magic Weapon)
+##### Dragon Bow  (Magic Weapon)
 25 points
 
 A relic from the ancient Elven colonies of the Old World, this wondrously crafted bow enables the wielder to outshoot the finest archers in the Empire.
@@ -593,7 +593,7 @@ A relic from the ancient Elven colonies of the Old World, this wondrously crafte
 
 Notes: Commanders of the Empire only.
 
-##### Von Trickschotte's Wondrous Arquebus (Magic Weapon)
+##### Von Trickschotte's Wondrous Arquebus  (Magic Weapon)
 25 points
 
 This huge weapon shoots large calibre rounds capable of shattering a Troll's skull with a single shot.
@@ -606,28 +606,28 @@ Notes: Von Trickschotte's Wondrous Arquebus may only be taken by a model in a Ci
 
 #### Magic Armour
 
-##### Armour of Fortune (Magic Armour)
+##### Armour of Fortune  (Magic Armour)
 45 points
 
 Engraved with runes of luck and providence, the Armour of Fortune turns aside fatal blows harmlessly.
 
 The Armour of Fortune is a suit of heavy armour. In addition, its wearer has a 6+ Ward save against any wounds suffered and is immune to the Killing Blow special rule. If the wearer is struck by a Killing Blow, they are permitted armour and Regeneration saves as normal. If the wound is unsaved, they lose a single Wound.
 
-##### Shield of the Gorgon (Magic Armour)
+##### Shield of the Gorgon  (Magic Armour)
 40 points
 
 This burnished shield harnesses the petrifying power of the monstrous gorgons that inhabit the deserts of Araby.
 
 The Shield of the Gorgon is a shield that may only be taken by a model in a Knightly Order Army of Infamy. In addition, whilst in base contact with the bearer, enemy models suffer a -1 modifier to their Attacks characteristic (to a minimum of 1).
 
-##### Armour of Tarnus (Magic Armour)
+##### Armour of Tarnus  (Magic Armour)
 35 points
 
 This cunning armour was crafted to the specifications of the warrior-Wizard von Tarnus.
 
 The Armour of Tarnus is a suit of light armour which may be purchased and worn by an Imperial Wizard, even if they do not have the option to be equipped with armour, a shield or barding, without penalty. In addition, its wearer has a 5+ Ward save against any wounds suffered.
 
-##### Twice-Blessed Armour (Magic Armour)
+##### Twice-Blessed Armour  (Magic Armour)
 25 points
 
 Enchanted with magic and blessed by righteous hands, this armour stands as an example of what a unified Empire can achieve.
@@ -636,14 +636,14 @@ The Twice-Blessed Armour is a suit of full plate armour. In addition, the wearer
 
 #### Talismans
 
-##### The White Cloak (Talisman)
+##### The White Cloak  (Talisman)
 30 points
 
 Blessed by Ar-Ulric, the magics within this fine cloak protect the wearer from the hottest flame.
 
 The wearer of the White Cloak has a 5+ Ward save against any wounds suffered, and a 3+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.
 
-##### Jade Amulet* (Talisman)
+##### Jade Amulet*  (Talisman)
 25 points
 
 Potent jade talismans are given in thanks for services performed on behalf of the Cult of Sigmar.
@@ -652,7 +652,7 @@ The bearer is immune to the Killing Blow special rule. If the bearer is struck b
 
 *Extremely Common
 
-##### Witch Hunter's Ward* (Talisman)
+##### Witch Hunter's Ward*  (Talisman)
 20 points
 
 The hunters of witches have long carried blessed trinkets to shield them from the evils they stalk.
@@ -661,7 +661,7 @@ A model that bears a Witch Hunter's Ward has the Magic Resistance (-2) special r
 
 *Extremely Common
 
-##### Slayer's Hourglass (Talisman)
+##### Slayer's Hourglass  (Talisman)
 10 points
 
 As the sand tumbles through the hourglass, the decapitating strikes and snapping jaws of monstrous beasts become sluggish and slow.
@@ -670,49 +670,49 @@ Enemy models whose troop type is monster suffer a -1 modifier to their Weapon Sk
 
 #### Magic Standards
 
-##### Banner of the Knights Panther (Magic Standard)
+##### Banner of the Knights Panther  (Magic Standard)
 80 points
 
 The honour of bearing the heirloom banner of the Knights Panther into battle is known to only a few courageous individuals.
 
 Battle Standard Bearer belonging to the Order of the Knights Panther only. A unit carrying the Banner of the Knights Panther gains the Unbreakable special rule.
 
-##### Imperial Banner (Magic Standard)
+##### Imperial Banner  (Magic Standard)
 60 points
 
 This fine silken standard is a proud reminder of a time when the Empire was unified as one.
 
 All friendly units within the Command range of the model carrying the Imperial Banner roll 3D6 when making a Fear, Panic or Terror test and discard the highest result.
 
-##### Griffon Standard (Magic Standard)
+##### Griffon Standard  (Magic Standard)
 50 points
 
 A unit flying the Griffon Standard resolutely stands its ground, and few foes can break them.
 
 When determining your combat result, a unit carrying the Griffon Standard can claim a Rank Bonus of +2 for each extra rank behind the first, rather than the usual +1.
 
-##### Tapestry of Sigmar's Triumph (Magic Standard)
+##### Tapestry of Sigmar's Triumph  (Magic Standard)
 40 points
 
 Depicting Sigmar's heroic victories, this standard inspires others to meet the enemies of the Empire with weapons in hand.
 
 A unit carrying the Tapestry of Sigmar's Triumph may re-roll any rolls To Wound of a natural 1 during the first round of combat.
 
-##### Icon of Morr (Magic Standard)
+##### Icon of Morr  (Magic Standard)
 25 points
 
 The spine-chilling influence of the god of death can be felt most keenly around this macabre totem.
 
 A unit carrying the Icon of Morr gains the Fear special rule. If they already have the Fear special rule, they instead gain the Terror special rule.
 
-##### The Banner of the Free State of Nuln (Magic Standard)
+##### The Banner of the Free State of Nuln  (Magic Standard)
 20 points
 
 The City-state of Nuln has no stake in the War of the Three Emperors, instead taking pride in the prosperity of their great city.
 
 The Banner of the Free State of Nuln may only be taken by a model in a City-state of Nuln Army of Infamy. A unit carrying the Banner of the Free State of Nuln gains the Stubborn special rule.
 
-##### The Gleaming Pennant (Magic Standard)
+##### The Gleaming Pennant  (Magic Standard)
 15 points
 
 Shining with an inner radiance, the Gleaming Pennant offers hope to those that march beneath it.
@@ -721,7 +721,7 @@ Single use. A unit carrying the Gleaming Pennant may re-roll a single failed Lea
 
 Note that a Break test is not a Leadership test.
 
-##### Banner of Duty (Magic Standard)
+##### Banner of Duty  (Magic Standard)
 10 points
 
 This venerable banner steels the hearts of despairing warriors, renewing their will to fight on.
@@ -730,14 +730,14 @@ A unit carrying the Banner of Duty may re-roll any failed Rally test.
 
 #### Enchanted Items
 
-##### Laurels of Victory (Enchanted Item)
+##### Laurels of Victory  (Enchanted Item)
 40 points
 
 Celebrated heroes of the Empire are decorated with golden laurels which magnify their fearsome reputation in the eyes of their enemies.
 
 When determining your combat result, each unsaved wound caused by an attack made by the bearer of the Laurels of Victory (but not their mount) is worth 2 combat result points, rather than the usual 1.
 
-##### Squintsoffen's Marvellous Magnifier* (Enchanted Item)
+##### Squintsoffen's Marvellous Magnifier*  (Enchanted Item)
 35 points
 
 Popularised by its namesake, this pocket-sized spyglass allows the bearer to more easily target distant enemies on the battlefield.
@@ -746,26 +746,26 @@ A Squintsoffen's Marvellous Magnifier may only be taken by models in a City-stat
 
 *Extremely Common
 
-##### Ring of Fortune (Enchanted Item)
+##### Ring of Fortune  (Enchanted Item)
 20 points
 
 Though soldiers are encouraged not to be superstitious or carry lucky charms, even experienced commanders know not to tempt fate.
 
 Single use. The bearer of the Ring of Fortune can re-roll any failed rolls To Wound made during the Combat phase.
 
-##### Ring of Taal (Enchanted Item)
+##### Ring of Taal  (Enchanted Item)
 20 points
 
 By evoking the name of Taal, the primordial god of the wilderness, the wearer shields themselves in nature's grasp.
 
 Single use. The bearer of the Ring of Taal may cast the Oaken Shield spell from the Lore of Battle Magic as a Bound spell with a Power Level of 3.
 
-##### The Silver Horn (Enchanted Item)
+##### The Silver Horn  (Enchanted Item)
 15 points
 
 Characters with the Swiftstride special rule only. The bearer of the Silver Horn (and any unit they have joined) may re-roll the D6 when using the Swiftstride special rule.
 
-##### Shroud of Iron (Enchanted Item)
+##### Shroud of Iron  (Enchanted Item)
 10 points
 
 This strange device resembles a market trader's awning. When unfurled, the Shroud of Iron protects its bearer from harm falling from on high.
@@ -774,21 +774,21 @@ The bearer of the Shroud of Iron (and any unit they have joined) has a 6+ Ward s
 
 #### Arcane Items
 
-##### Book of Ashur (Arcane Item)
+##### Book of Ashur  (Arcane Item)
 85 points
 
 Written by an Elven Mage, this comprehensive book of magic is a priceless text for those that practice the art of magic... unless this copy is a poorly proofread and badly edited reproduction, that is.
 
 The bearer of the Book of Ashur increases their Dispel range by 3" and, unless they roll any natural double, may apply a +1 modifier to any of their Casting or Dispel rolls. However, if the bearer rolls any natural double when making a Casting or Dispel roll, the book has proven to be a poor reproduction, full of glaring errors, and the +1 modifier cannot be applied to that roll.
 
-##### Twin-Tailed Wand (Arcane Item)
+##### Twin-Tailed Wand  (Arcane Item)
 40 points
 
 Though its origin is unknown, this impractical wand allows its bearer to unleash a torrent of magical force.
 
 Once per turn, the bearer of the Twin-Tailed Wand may attempt to cast one of their spells a second time. However, should they miscast a spell, the bearer is overwhelmed by the Winds of Magic and, instead of rolling on the Miscast table, suffers D3 wounds with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).
 
-##### Wizard's Familiar* (Arcane Item)
+##### Wizard's Familiar*  (Arcane Item)
 35 points
 
 Many Wizards keep familiars, supernatural creatures that aid them in their arcane studies. Often, this aid is apparent in the ease with which the Wizard dispels the conjurations of their enemies.
@@ -799,21 +799,21 @@ Note that this is a modifier to the result of a roll; it does not negate a roll 
 
 *Extremely Common
 
-##### Tome of Midnight (Arcane Item)
+##### Tome of Midnight  (Arcane Item)
 30 points
 
 As Wizards are often left to pursue their own paths to power, many end up perusing texts unfit for mortal minds.
 
 The bearer of the Tome of Midnight may apply a +1 modifier to any of their Casting rolls when attempting to cast spells from the Lore of Daemonology, Dark Magic or Necromancy. In addition, they know one more spell, chosen in the usual way, than is normal for their Level of Wizardry. However, the bearer can only cast a number of spells equal to their Level of Wizardry per turn and is subject to the Loner special rule.
 
-##### Crystal Ball (Arcane Item)
+##### Crystal Ball  (Arcane Item)
 20 points
 
 Wizards who serve at court often rely upon reading portents and divining the future in order to best advise their masters.
 
 Once per turn, you may make your opponent re-roll a single roll To Hit or To Wound made against a friendly character model that is within the Command range of the bearer of the Crystal Ball.
 
-##### Wizard's Staff* (Arcane Item)
+##### Wizard's Staff*  (Arcane Item)
 20 points
 
 Throughout the Old World, Wizards carry ensorcelled staffs through which they can channel and direct their powers.
