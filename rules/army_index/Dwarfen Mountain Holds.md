@@ -726,43 +726,43 @@ Any models that have the option to purchase runic tattoos may do so as described
 ## Narrative Battles
 
 ### The Storming of Khazid Vosk
-As the booming of cannon filled the air, Burlok looked upon the horde spilling forth from the darkened halls of Khazid Vosk like water from a burst dam. Swearing an oath of vengeance for those who would meet the ancestors this day, Burlok hefted his hammer and ordered his warriors to make ready. If the Orcs were so eager to abandon their position, then Burlok would not waste the opportunity to reclaim it in the name of the Engineers Guild.
+"As the booming of cannon filled the air, Burlok looked upon the horde spilling forth from the darkened halls of Khazid Vosk like water from a burst dam. Swearing an oath of vengeance for those who would meet the ancestors this day, Burlok hefted his hammer and ordered his warriors to make ready. If the Orcs were so eager to abandon their position, then Burlok would not waste the opportunity to reclaim it in the name of the Engineers Guild."
 
-Historical Recreation
+#### Historical Recreation
 The Storming of Khazid Vosk took place when an expeditionary force led by Burlok Damminson attacked a horde of Orcs and Goblins that had overtaken Khazid Vosk and the surrounding hills. To represent this, the players should write two muster lists (one for the attacker and one for the defender) as follows:
 
-The Attacker
+##### The Attacker
 The attacker should write a 3,000 points muster list using the Expeditionary Force Army of Infamy composition list. The General of this army must be Burlok Damminson.
 
-The Defender
+##### The Defender
 The defender should write a 3,000 points muster list using the Orc & Goblin Tribes Grand Army composition list found in Ravening Hordes.
 
 Alternatively, this scenario may be played with any two armies of the players' choosing. If so, both the attacker and defender should each write a single 3,000 points muster list.
 
-Set-up
+#### Set-up
 Place terrain as described. As this battle takes place at the gates of Khazid Vosk, a Dwarfen hold on the wooded slopes of the Worlds Edge Mountains, the terrain should include clusters of trees, rocky outcrops and areas of raised ground. The defender's deployment zone should be left clear and open, with the exception of a pair of large pillars marking the entrance to Khazid Vosk.
 
-Deployment
+#### Deployment
 If this battle is being fought as a historical recreation, the Dwarf player is the attacker and the Orc and Goblin player is the defender. Otherwise, the players must decide who is the attacker and who is the defender.
 
 The defender deploys their entire army within the defender's deployment zone as shown on the map opposite. Then, the attacker deploys their entire army within the attacker's deployment zone.
 
 the-storming-of-khazid-vosk
 
-First Turn
+#### First Turn
 In this scenario, the attacker will automatically take the first turn.
 
-Game Length
+#### Game Length
 The battle will last for six rounds or until one side concedes.
 
-Scenario Special Rules
+#### Scenario Special Rules
 "The Mountains Are Crawling With 'Em": 0-6 units (0-3 of which may be characters) in the defender's army may have the Ambushers special rule for free.
 
 Entrenched Besiegers: Once both armies have been deployed, the attacker may nominate any number of units in their army. The nominated units count as being 'Entrenched'. In addition, any units in the defender's army that end their movement within the attacker's deployment zone must take a Dangerous Terrain test.
 
 The Gatehouse: The gatehouse is an area of open ground that extends 12" from the centre of the southern board edge, as shown on the map opposite. Any units inside the gatehouse may re-roll failed Panic tests and Rally tests.
 
-Victory!
+#### Victory!
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. In addition, at the end of the game:
 
 The defending player wins a bonus 50 Victory Points for each friendly unit that has half (50%) or more of its models within their deployment zone (not counting fleeing units).

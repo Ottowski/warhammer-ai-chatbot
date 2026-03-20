@@ -562,16 +562,15 @@ Any models within this army that have the option to purchase magic items may pur
 ## Narrative Battles
 
 ### The Battle of Matorea
+"With the darkness of night filling the skies, the black ships of Settra's fleet began to disgorge their Undead cargo onto the beaches before Matorea. As the royal host approached, Sir Cecil Gastonne, the Wyrm Slayer, looked to the west. From beyond the horizon, the knights of Brionne approached, though whether they would arrive to find the defenders embattled, or that Settra's forces had swept through Matorea and on towards distant Bretonnia, he could not say..."
 
-With the darkness of night filling the skies, the black ships of Settra's fleet began to disgorge their Undead cargo onto the beaches before Matorea. As the royal host approached, Sir Cecil Gastonne, the Wyrm Slayer, looked to the west. From beyond the horizon, the knights of Brionne approached, though whether they would arrive to find the defenders embattled, or that Settra's forces had swept through Matorea and on towards distant Bretonnia, he could not say...
-
-Historical Recreation
+#### Historical Recreation
 The Battle of Matorea was fought between an army of Bretonnian Exiles led by Sir Cecil Gastonne, the Wyrm Slayer, and the undying legions of the Tomb Kings of Khemri, commanded by Settra the Imperishable himself. To represent this, the players should write three muster lists (one for the attacker and two for the defender) as follows:
 
-The Attacker
+##### The Attacker
 The attacker should write a single 3,000 points muster list using the Tomb Kings of Khemri Grand Army composition list found in Warhammer: the Old World - Ravening Hordes.
 
-The Defender
+##### The Defender
 The defender should write two muster lists, one representing their main force, the other representing the rescue force:
 
 Main Force: The defender should write a 1,750 points muster list using the Bretonnian Exiles Army of Infamy composition list. The General of this army must be Sir Cecil Gastonne, the Wyrm Slayer.
@@ -584,30 +583,30 @@ The rescue force must include Lady Élisse Duchaard.
 
 Alternatively, this scenario may be played with any two armies of the players' choosing, in which case the defender must spend between 25% and 33% of their army's points value on an allied contingent to act as the rescue force.
 
-Set-up
+#### Set-up
 Place terrain as described. In addition, place a defensible position as shown on the map.
 
 Defensible Position: A defensible position is a hill measuring up to 16" at its widest point, featuring a single rock-strewn slope. A rock-strewn slope may be no more than 8" wide and counts as dangerous terrain. Atop the hill is a flat area measuring no more than 8" along its longest side. One edge of this flat area must be bordered by staked defences, as described below.
 
-Deployment
+#### Deployment
 The defender deploys their main force within the defender's deployment zone, as shown on the map. Once complete, the attacker deploys their entire army within the attacker's deployment zone.
 
 the-battle-of-matorea
 
-First Turn
+#### First Turn
 In this scenario, the attacker will automatically take the first turn.
 
-Game Length
+#### Game Length
 The battle will last for six rounds or until one side concedes.
 
-Scenario Special Rules
+#### Scenario Special Rules
 Reinforcements: The defender's rescue force gains the Ambushers special rule. However, from the beginning of round two onwards, the defender rolls a single D6 for their entire rescue force during each of their Start of Turn sub-phases (rather than rolling a D6 for each individual unit). Upon its arrival, the entire rescue force enters the battle as reinforcements from the western board edge. In other words, all units within the rescue force must be placed on the edge of the battlefield to the right of the defender's deployment zone. Any units belonging to the rescue force that cannot be placed on the battlefield during the turn it arrives may be left in reserve and can be brought on as described previously during the following turn.
 
 Fresh from victory at the Citadel Bouelia, all units in the reserve force benefit from the Blessings of the Lady special rule without having to pray at the start of the game.
 
 Staked Defences: Staked defences count as a low linear obstacle. However, unless it has the Fly (X) special rule, any unit that charges an enemy behind staked defences makes a disordered charge and becomes Disrupted. In addition, any model whose troop type is 'cavalry' or 'chariot' must make a Peril test (as if it had fled through an enemy unit) if it ends its charge move in base contact with staked defences.
 
-Victory!
+#### Victory!
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. In addition, at the end of the game:
 
 The defending player wins a bonus 250 Victory Points if there are no models belonging to the attacking player upon the flat area atop the defensible position.
