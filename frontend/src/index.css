@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Spectral:wght@400;500;700&display=swap');
+
+:root {
+  --paper: #e8d8bc;
+  --paper-light: #f2e6d2;
+  --line: #6c4f34;
+  --ink: #2e1f14;
+  --ink-soft: #4d3623;
+  --gold: #c8ab6c;
+  --title: 'Cinzel', Georgia, serif;
+  --body: 'Spectral', 'Times New Roman', serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--body);
+  color: #2d2015;
+  background:
+    radial-gradient(900px 460px at 8% -5%, rgba(255, 255, 255, 0.6), transparent 60%),
+    radial-gradient(720px 460px at 100% 110%, rgba(149, 109, 70, 0.25), transparent 60%),
+    linear-gradient(130deg, #ceb48e, #b9976f 45%, #9a7653);
+}
