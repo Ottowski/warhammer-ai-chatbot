@@ -116,21 +116,13 @@ Warpfire Dragons have a 5+ Ward save against any wounds suffered that were cause
 A Chaos Warhound Handler is a special type of character that can be taken as an upgrade to accompany a unit of Chaos Warhounds. During deployment, position a Chaos Warhound Handler with its unit of Chaos Warhounds, as you would a character that has joined a unit. Once placed, a Chaos Warhound Handler cannot leave its unit. Unless this model is fleeing, friendly units of Chaos Warhounds that are within its Command range can use this model's Leadership instead of their own.
 
 ### Hellcannon Misfire Table
-D6
+Roll a D6 during Caged Fury:
 
-Result
-
-1
-
-Free at Last! The Daemon breaks loose. Every unit (friend or foe) within 3D6" suffers D6 Strength 5 hits, each with an AP of -1. Once these hits are resolved, the Hellcannon is removed from play as a casualty.
-
-2-4
-
-Chomp! The Hellcannon's handlers are sucked towards the furnace of the ravenous Daemon. Remove one of the Hellcannon's Chaos Dwarf Handlers.
-
-5-6
-
-Blooood! The Hellcannon breaks its chains, immediately moving 3D6" as if it were subject to the Random Movement special rule and as if this were the Compulsory Moves sub-phase.
+| D6 | Result |
+|---|---|
+| 1 | **Free at Last!** The Daemon breaks loose. Every unit (friend or foe) within 3D6" suffers D6 Strength 5 hits, each with an AP of -1. Once these hits are resolved, the Hellcannon is removed from play as a casualty. |
+| 2-4 | **Chomp!** The Hellcannon's handlers are sucked towards the furnace of the ravenous Daemon. Remove one of the Hellcannon's Chaos Dwarf Handlers. |
+| 5-6 | **Blooood!** The Hellcannon breaks its chains, immediately moving 3D6" as if it were subject to the Random Movement special rule and as if this were the Compulsory Moves sub-phase. |
 
 ### Mark of Chaos Undivided
 "Many warriors and Beastmen worship the Gods of Chaos as a pantheon, favouring no one deity above the others."
@@ -198,21 +190,11 @@ Cult of the Fell Raptor
 
 When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, roll on the table below to determine which mutation it is currently afflicted with:
 
-D6
-
-Result
-
-1-2
-
-Venomous Fangs: With jaws distended, the Forsaken sink venomous fangs into their foes. Until the end of this Combat phase, the unit gains the Poisoned Attacks special rule.
-
-3-4
-
-Razor Talons: With talons like the blades of daggers, the Forsaken slash at their enemies. Until the end of this Combat phase, all of the unit's attacks have an Armour Piercing characteristic of -2.
-
-5-6
-
-Decapitating Claws: With gigantic, snapping claws, the Forsaken dismember the enemy. Until the end of this Combat phase, the unit gains the Killing Blow special rule.
+| D6 | Mutation |
+|---|---|
+| 1-2 | **Venomous Fangs:** With jaws distended, the Forsaken sink venomous fangs into their foes. Until the end of this Combat phase, the unit gains the Poisoned Attacks special rule. |
+| 3-4 | **Razor Talons:** With talons like the blades of daggers, the Forsaken slash at their enemies. Until the end of this Combat phase, all of the unit's attacks have an Armour Piercing characteristic of -2. |
+| 5-6 | **Decapitating Claws:** With gigantic, snapping claws, the Forsaken dismember the enemy. Until the end of this Combat phase, the unit gains the Killing Blow special rule. |
 
 ### Relentless Warriors
 "Be it religious fanaticism or just a desperate need to shed the blood of their enemies, these unhinged brawlers can shrug off wounds that would lay low even the hardiest warriors."

@@ -321,25 +321,12 @@ Multiple Wounds (D3+1)
 
 Notes: This weapon shoots like a cannon, using the Cannon Fire special rule. This weapon uses the Bombard Misfire table below.
 
-D6
-
-Result
-
-1
-
-Destroyed: The weapon explodes with a thunderous noise, leaving a hole in the ground and a cloud of black smoke hanging in the air. The model is destroyed and immediately removed from play.
-
-2-3
-
-Malfunction: The charge misfires, terminally inconveniencing one of the crew and knocking the war machine over. It can be righted, but it will take time. The crew immediately loses one Wound and the model fails to shoot this turn.
-
-4-5
-
-Pffft: The fuse has gone out. As far as mishaps go, it is not very serious, but one of the crew will be feeling rather foolish! The model fails to shoot this turn.
-
-6
-
-Boom!: The bombard discharges with an ear-splitting boom, the powerful report knocking the gun from its carriage. This weapon shoots this turn, as if a '2' had been rolled on the Artillery dice, rather than a 'Misfire'. However, it will take some time to right the toppled gun. This weapon cannot shoot during the next round.
+| D6 | Result |
+|---|---|
+| 1 | **Destroyed:** The weapon explodes with a thunderous noise, leaving a hole in the ground and a cloud of black smoke hanging in the air. The model is destroyed and immediately removed from play. |
+| 2-3 | **Malfunction:** The charge misfires, terminally inconveniencing one of the crew and knocking the war machine over. It can be righted, but it will take time. The crew immediately loses one Wound and the model fails to shoot this turn. |
+| 4-5 | **Pffft:** The fuse has gone out. As far as mishaps go, it is not very serious, but one of the crew will be feeling rather foolish! The model fails to shoot this turn. |
+| 6 | **Boom!:** The bombard discharges with an ear-splitting boom, the powerful report knocking the gun from its carriage. This weapon shoots this turn, as if a '2' had been rolled on the Artillery dice, rather than a 'Misfire'. However, it will take some time to right the toppled gun. This weapon cannot shoot during the next round. |
 
 ### Burning Braziers
 

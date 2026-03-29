@@ -293,53 +293,19 @@ This terrain generator represents the barren wilderness that stretches from the 
 
 In this wilderness, the landscape varies greatly. Shifting dunes dominate the coast of the Manaansport Sea, giving way inland to saltwater bogs and mist-shrouded moors. When armies march into the Wasteland, they do so with caution lest they be brought to battle in unfavourable terrain. Tales are told amongst the ranks of Westerland's armies of whole regiments drowning in the salty waters of hidden bogs, or becoming lost upon the endless moors when sudden fog rolls in from the sea.
 
-2D6
-
-Result
-
-2
-
-Shallow Stream: A shallow stream meanders through the battlefield. A shallow stream is a narrow linear terrain feature that counts as difficult terrain. Every 12" section must include either a 3" section of rocky rapids (dangerous terrain) or a ford.
-
-3
-
-Track: A track is a narrow linear terrain feature. Tracks are likely to be heavily rutted and full of potholes. Whilst most of their length counts as a well-maintained road, every 12" section of a track must also include a 3" section of difficult terrain.
-
-4
-
-Woods: The Tumble Downs are littered with windswept woodlands. Woods may count as either difficult or dangerous terrain.
-
-5
-
-Hill: The many low hills of the Tumble Downs are what gives the region its name. A hill may feature one rock-strewn slope, which counts as either difficult or dangerous terrain.
-
-6
-
-Marsh: Areas of wetland dominated by tall grasses can be found throughout the Wasteland, wherever rivers, streams and lakes meet dry ground. A marsh counts as difficult terrain.
-
-7
-
-Saltwater Bog: In the Wasteland, solid ground can quickly become a bottomless mire. A saltwater bog counts as dangerous terrain. However, any model that begins its movement within, passes through, or ends its movement within a saltwater bog will suffer a mishap on a roll of 1-2 (rather than the usual 1).
-
-8
-
-Fen: A fen is an area of reed-filled wetland, dead trees and stagnant pools of water. A fen counts as difficult terrain.
-
-9
-
-Scrubland: An area of rocky and uneven ground on which grows tangled scrub, thorn bushes and stunted trees. Scrubland is a type of wood and may be classed as either difficult or dangerous terrain.
-
-10
-
-Standing Ruins: The Wasteland is scattered with the ruins of the past. Standing ruins are an area of difficult terrain within an enclosure measuring no more than 12" along its longest side. At least two edges of the enclosure must be bordered by a low linear obstacle.
-
-11
-
-Fishing Village: A fishing village consists of a single building measuring between no more than 6" along its longest side and an enclosure measuring no more than 9" along its longest side. At least three edges of the enclosure must be bordered by a low linear obstacle.
-
-12
-
-Sand Dune: Sand dunes are gently sloping hills of wind-blown sand that can rise to great heights. Because they consist entirely of deep and shifting sand, a sand dune counts as difficult terrain.
+| 2D6 | Result |
+|---|---|
+| 2 | **Shallow Stream:** A shallow stream meanders through the battlefield. A shallow stream is a narrow linear terrain feature that counts as difficult terrain. Every 12" section must include either a 3" section of rocky rapids (dangerous terrain) or a ford. |
+| 3 | **Track:** A track is a narrow linear terrain feature. Tracks are likely to be heavily rutted and full of potholes. Whilst most of their length counts as a well-maintained road, every 12" section of a track must also include a 3" section of difficult terrain. |
+| 4 | **Woods:** The Tumble Downs are littered with windswept woodlands. Woods may count as either difficult or dangerous terrain. |
+| 5 | **Hill:** The many low hills of the Tumble Downs are what gives the region its name. A hill may feature one rock-strewn slope, which counts as either difficult or dangerous terrain. |
+| 6 | **Marsh:** Areas of wetland dominated by tall grasses can be found throughout the Wasteland, wherever rivers, streams and lakes meet dry ground. A marsh counts as difficult terrain. |
+| 7 | **Saltwater Bog:** In the Wasteland, solid ground can quickly become a bottomless mire. A saltwater bog counts as dangerous terrain. However, any model that begins its movement within, passes through, or ends its movement within a saltwater bog will suffer a mishap on a roll of 1-2 (rather than the usual 1). |
+| 8 | **Fen:** A fen is an area of reed-filled wetland, dead trees and stagnant pools of water. A fen counts as difficult terrain. |
+| 9 | **Scrubland:** An area of rocky and uneven ground on which grows tangled scrub, thorn bushes and stunted trees. Scrubland is a type of wood and may be classed as either difficult or dangerous terrain. |
+| 10 | **Standing Ruins:** The Wasteland is scattered with the ruins of the past. Standing ruins are an area of difficult terrain within an enclosure measuring no more than 12" along its longest side. At least two edges of the enclosure must be bordered by a low linear obstacle. |
+| 11 | **Fishing Village:** A fishing village consists of a single building measuring between no more than 6" along its longest side and an enclosure measuring no more than 9" along its longest side. At least three edges of the enclosure must be bordered by a low linear obstacle. |
+| 12 | **Sand Dune:** Sand dunes are gently sloping hills of wind-blown sand that can rise to great heights. Because they consist entirely of deep and shifting sand, a sand dune counts as difficult terrain. |
 
 ## Shadowlands Terrain Generator
 
@@ -347,53 +313,19 @@ This terrain generator represents the windswept northern reaches of the Wastelan
 
 The land upon the shores of the Sea of Claws is cold and uncaring at the best of times, but with the arrival of the Chainmaker it has become far worse. Great monoliths dot the landscape, raised in praise of the Ruinous Powers. These crude menhirs attract the winds of dark magic, which twists and warps the landscape, causing the northern reaches of Sigmar's Empire to resemble the trackless wilderness of the far north, creating a shadowland in which the influence of Chaos grows with each passing day.
 
-2D6
-
-Result
-
-2
-
-Road: A road is a linear terrain feature that can be either narrow or wide. If the road is wide, it is well-maintained. If the road is narrow, it is likely to be poorly maintained, heavily rutted and full of potholes. Every 12" section of a poorly maintained narrow road must include a 3" section of difficult terrain.
-
-3
-
-Dense Woods: Darksome forests border the northern edges of the Wasteland. Dense woods count as dangerous terrain. However, any model that begins its movement within, passes through, or ends its movement within dense woodland will suffer a mishap on a roll of 1-2 (rather than the usual 1).
-
-4
-
-Hill: Along the shores of the Sea of Claws, barren hills rise, their slopes scoured by gales. A hill may feature one rock-strewn slope, which counts as either difficult or dangerous terrain.
-
-5
-
-Ravine: A treacherous ravine cuts through the landscape. A ravine is a linear terrain feature that can be either narrow or wide. A narrow ravine counts as difficult terrain. A wide ravine counts as dangerous terrain.
-
-6
-
-Standing Stones: Huge slabs of crudely dressed stone rise from the cold earth. An area of standing stones counts as difficult terrain, over which no line of sight can be drawn.
-
-7
-
-Scrubland: An area of uneven ground on which grows tangled scrub and stunted trees. Scrubland is a type of wood and may be classed as either difficult or dangerous terrain.
-
-8
-
-Rocky Ground: Patches of rocky ground break the earth, tripping and slowing the progress of formed troops. Rocky ground counts as either difficult or dangerous terrain.
-
-9
-
-Haunted Ruins: Fallen debris lies thick upon the site of an abandoned dwelling, bordered by the remnants of once mighty walls. Haunted ruins consist of a single building measuring up to 6" along its longest side and an enclosure measuring no more than 12" along its longest side. At least two edges of the enclosure must be bordered by a low linear obstacle.
-
-10
-
-Shardlands: The tortured land shifts and cracks underfoot, revealing lava flows beneath. Shardlands count as dangerous terrain. However, any model that begins its movement within, passes through, or ends its movement within shardlands will suffer a mishap on a roll of 1-3 (rather than the usual 1).
-
-11
-
-Chasm: A deep chasm cuts through the landscape. A chasm is a wide and impassable linear terrain feature. Every 12" section must include a bridge.
-
-12
-
-Bottomless Pit: A seemingly bottomless pit opens within the landscape. A bottomless pit is an impassable terrain feature measuring between 3" and 6" at its widest point.
+| 2D6 | Result |
+|---|---|
+| 2 | **Road:** A road is a linear terrain feature that can be either narrow or wide. If the road is wide, it is well-maintained. If the road is narrow, it is likely to be poorly maintained, heavily rutted and full of potholes. Every 12" section of a poorly maintained narrow road must include a 3" section of difficult terrain. |
+| 3 | **Dense Woods:** Darksome forests border the northern edges of the Wasteland. Dense woods count as dangerous terrain. However, any model that begins its movement within, passes through, or ends its movement within dense woodland will suffer a mishap on a roll of 1-2 (rather than the usual 1). |
+| 4 | **Hill:** Along the shores of the Sea of Claws, barren hills rise, their slopes scoured by gales. A hill may feature one rock-strewn slope, which counts as either difficult or dangerous terrain. |
+| 5 | **Ravine:** A treacherous ravine cuts through the landscape. A ravine is a linear terrain feature that can be either narrow or wide. A narrow ravine counts as difficult terrain. A wide ravine counts as dangerous terrain. |
+| 6 | **Standing Stones:** Huge slabs of crudely dressed stone rise from the cold earth. An area of standing stones counts as difficult terrain, over which no line of sight can be drawn. |
+| 7 | **Scrubland:** An area of uneven ground on which grows tangled scrub and stunted trees. Scrubland is a type of wood and may be classed as either difficult or dangerous terrain. |
+| 8 | **Rocky Ground:** Patches of rocky ground break the earth, tripping and slowing the progress of formed troops. Rocky ground counts as either difficult or dangerous terrain. |
+| 9 | **Haunted Ruins:** Fallen debris lies thick upon the site of an abandoned dwelling, bordered by the remnants of once mighty walls. Haunted ruins consist of a single building measuring up to 6" along its longest side and an enclosure measuring no more than 12" along its longest side. At least two edges of the enclosure must be bordered by a low linear obstacle. |
+| 10 | **Shardlands:** The tortured land shifts and cracks underfoot, revealing lava flows beneath. Shardlands count as dangerous terrain. However, any model that begins its movement within, passes through, or ends its movement within shardlands will suffer a mishap on a roll of 1-3 (rather than the usual 1). |
+| 11 | **Chasm:** A deep chasm cuts through the landscape. A chasm is a wide and impassable linear terrain feature. Every 12" section must include a bridge. |
+| 12 | **Bottomless Pit:** A seemingly bottomless pit opens within the landscape. A bottomless pit is an impassable terrain feature measuring between 3" and 6" at its widest point. |
 
 ## Scattered Terrain Placement
 
