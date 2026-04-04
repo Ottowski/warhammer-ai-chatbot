@@ -3,6 +3,7 @@
 ## Points and Composition
 
 ### Points-Based Army Building
+
 Armies are built using a points system. Each unit costs a certain number of points, and you build an army up to an agreed limit.
 
 **Typical Point Limits**:
@@ -32,6 +33,7 @@ Armies are built using a points system. Each unit costs a certain number of poin
 ## Unit Entry Breakdown
 
 ### Unit Stats Profile
+
 Each unit has the following statistics:
 - **M (Movement)**: How many inches the unit can move
 - **WS (Weapon Skill)**: Ability in close combat (1-10 scale)
@@ -44,6 +46,7 @@ Each unit has the following statistics:
 - **Ld (Leadership)**: Ability to resist fear and hold formation
 
 ### Unit Special Rules
+
 Listed after the statistics, these grant special abilities like:
 - Immune to Psychology
 - Regeneration (5+ saves for wounds)

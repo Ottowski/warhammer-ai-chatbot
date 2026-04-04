@@ -21,12 +21,15 @@ Some models will have the word 'Character' in brackets after their troop type, i
 Each of the following categories is accompanied by a table containing a summary of the important information needed for that troop type:
 
 ### Models Per Rank
+
 This is the minimum number required to claim a Rank Bonus. Ranks can contain more models or fewer models, as you wish, but in order for a rank to count towards Rank Bonus, it must contain at least this many models.
 
 ### Maximum Rank Bonus
+
 This is the maximum Rank Bonus a unit can claim. In some cases this can be increased by special rules and other effects.
 
 ### Unit Strength
+
 Sometimes, you may be required to work out the Unit Strength of a unit. There are a number of reasons you might need to know this, for example, to determine if one of your units is outnumbered by an enemy, and if they are, by how much. Simply counting the number of models does not account for the sheer power and destructive ability of large and ferocious creatures. Unit Strength represents this well.
 
 To determine Unit Strength, simply count the number of models currently in the unit and multiply this by the Unit Strength per model as shown on the Troop Type table.
@@ -54,12 +57,15 @@ Due to their ubiquity, the basic rules of Warhammer: the Old World are written a
 | Regular Infantry | 5 | +2 | 1 | Press of Battle; Massed Infantry; Parry |
 
 #### Press of Battle
+
 In the heat of battle, orderly ranks become a swirling melee. Except during a turn in which it charged, the fighting rank of a unit that has this rule and is arrayed in combat order is not one, but two ranks deep. In other words, models that are directly behind and in base contact with models in the units actual fighting rank are also considered to be within its fighting rank.
 
 #### Massed Infantry
+
 Numbers alone can sometimes overcome the foe. When determining combat results, if one side has a higher Unit Strength than the other and includes one or more units with this rule, that side may claim a bonus of +1 combat result point.
 
 #### Parry
+
 With sword and shield, warriors attempt to deflect enemy attacks. Whilst engaged in close combat, a model with this rule that is equipped with and chooses to use a hand weapon and shield improves its armour value by 1, to a maximum of 3+.
 
 ### Heavy Infantry
@@ -71,6 +77,7 @@ This sub-category covers the many warriors that are larger than the average man,
 | Heavy Infantry | 4 | +2 | 1 | Steady in the Ranks; Press of Battle; Massed Infantry; Parry |
 
 #### Steady in the Ranks
+
 Due to their solid stature, heavy armour and often elite nature, heavy infantry are rarely concerned by inferior numbers. To represent this, a unit of heavy infantry arrayed in either Close Order or Open Order formation does not become Disrupted when engaged in its flank or rear unless the enemy unit has a Unit Strength of ten or more.
 
 ### Monstrous Infantry
@@ -82,6 +89,7 @@ The monstrous infantry sub-category covers things like Trolls, Ogres and Minotau
 | Monstrous Infantry | 3 | +2 | 3 | Clumsy |
 
 #### Clumsy
+
 A unit with this rule can only be joined by a character that also has this rule. Smaller characters are unwilling to risk being trampled.
 
 ### Swarms
@@ -93,12 +101,15 @@ Swarms are seething masses of small creatures, such as rats, snakes or insects, 
 | Swarms | - | - | 3 | Insignificant; No One Cares; Undisciplined |
 
 #### Insignificant
+
 Swarms consist of small and insignificant creatures. As such, a line of sight can be drawn across a swarm as if it wasn't there. In addition, swarms are ignored when attempting to target enemy characters.
 
 #### No One Cares
+
 No one really cares about swarms. Swarms never cause Panic in friendly units, regardless of what happens to them.
 
 #### Undisciplined
+
 A unit with this rule cannot use the Inspiring Presence rule of the army's General nor the Hold your Ground rule of a Battle Standard.
 
 ## Cavalry
@@ -122,6 +133,7 @@ Be they mounted on swift steeds, savage wolves, giant spiders or daemonic beasts
 | Light Cavalry | 5 | +1 | 2 | Split Profile (Cavalry); Cavalry Support |
 
 #### Split Profile (Cavalry)
+
 Most cavalry models (but by no means all) consist of not one, but two models - rider and mount, together making a single model. To represent this, many cavalry models have a split profile. In game terms, this works as follows:
 
 Unless noted otherwise, any special rules that apply to one element (rider or mount) apply to the other as well.
@@ -137,6 +149,7 @@ When this model makes an Armour Save roll, it uses the rider's armour value.
 If the rider is reduced to zero Wounds, the model as a whole is removed from play.
 
 #### Cavalry Support
+
 Whilst a rider may be able to reach above a comrade to strike at the foe, their mount cannot. Should a cavalry model be able to make a supporting attack, only the rider can attack, not the mount.
 
 ### Heavy Cavalry
@@ -180,6 +193,7 @@ Fast moving and lightly made, light chariots are often used as mobile platforms 
 | Light Chariots | 3 | +1 | 3 | Split Profile (Chariots); Iron Shod Wheels; Churning Wheels; Firing Platform |
 
 #### Split Profile (Chariots)
+
 A chariot consists of several models - the chariot itself, the crew and (usually) the beasts that draw it - together making a single model. To represent this, a chariot model has a split profile. In game terms, this works as follows:
 
 Unless noted otherwise, any special rules that apply to one element (chariot, crew or beasts) apply to the others as well.
@@ -195,12 +209,15 @@ Impact Hits and/or Stomp Attacks use the chariot's Strength.
 If the chariot is reduced to zero Wounds, the model as a whole is removed from play.
 
 #### Iron Shod Wheels
+
 Chariots are not designed for use in terrain. This model treats all difficult terrain as dangerous terrain and treats all linear obstacles as impassable terrain. In addition, if this model rolls a 1 when making a Dangerous Terrain test, it loses D3 Wounds.
 
 #### Churning Wheels
+
 A unit with this rule can only be joined by a character that also has this rule. Other characters are unwilling to risk falling beneath the unit's wheels.
 
 #### Firing Platform
+
 From the cab of a chariot, warriors can shoot in all directions. For the purposes of shooting and casting spells, this model has a 360 deg. vision arc.
 
 ### Heavy Chariots
@@ -214,9 +231,11 @@ Often, the charge of a heavy chariot will cause the serried ranks of the enemy t
 | Heavy Chariots | - | - | 5 | Split Profile (Chariots); Scythed Wheels; Lumbering; Iron Shod Wheels; Firing Platform |
 
 #### Scythed Wheels
+
 Built to wreak destruction, heavy chariots are adorned with sharpened spikes and scything blades, the better to cut down the foe. Any Impact Hits caused by a heavy chariot have an Armour Piercing characteristic of -2.
 
 #### Lumbering
+
 Perhaps due to their large size, their weight, or a combination of skittish draft animals and slow turning wheels, models with this rule are not especially manoeuvrable. To represent this, a Lumbering model is considered to be, and follows all of the rules for, a Close Order formation, even when included in your army as a single model.
 
 However, even the largest single model enjoys slightly more manoeuvrability than a tightly formed regiment of many models. Therefore, after moving, unless it charged, marched or fled, a Lumbering model may pivot about its centre to change its facing by up to 90 deg.
@@ -248,6 +267,7 @@ Behemoths are the largest beings in the Warhammer world. This category includes 
 | Behemoths | - | - | As Starting Wounds | Ridden Monster; Lumbering; Thunderstomp |
 
 #### Thunderstomp
+
 Colossal feet and gigantic hooves do damage beyond imagining when they kick and stomp upon the enemy. Any Stomp Attacks made by a behemoth have an Armour Piercing characteristic of -2. However, this rule cannot be used against another monster (monstrous creatures or behemoth) - they are simply too big to be stomped on effectively.
 
 ## War Machines
@@ -259,6 +279,7 @@ War machines such as cannon and bolt throwers are powerful weapons on the field 
 | War Machines | - | - | As Starting Wounds | Split Profile (War Machine); We're Not Paid to Fight; Weapon of War |
 
 ### Split Profile (War Machine)
+
 A war machine consists of several models - the war machine itself and the crew that operate it, together making a single model. To represent this, a war machine model has a split profile. In game terms, this works as follows:
 
 This model is treated as a single model and, unless noted otherwise, any special rules that apply to one element (war machine or crew) apply to the other as well.
@@ -274,11 +295,13 @@ When this model makes an Armour Save roll, it uses the crew's armour value.
 If either the crew or the war machine is reduced to zero Wounds, the model as a whole is removed from play.
 
 ### "We're Not Paid to Fight"
+
 Should a war machine ever Break and flee from combat, its crew will abandon it to be wrecked by the enemy and beat a hasty retreat. Treat the model as having been completely destroyed and remove it from play.
 
 Note that a war machine that loses a round of combat may Fall Back in Good Order or Give Ground as normal.
 
 ### Weapon of War
+
 War machines are built to be strong and durable rather than for speed and, as such, they are slow and cumbersome to move once erected. To represent this, war machines cannot march, declare a charge or make a pursuit move. Additionally, war machines suffer a -1 modifier to the result of any Flee roll they make (to a minimum of 1).
 
 However, a war machine can freely pivot about its centre immediately before shooting (the better to face the enemy) and may make a follow up move as normal. Should a war machine pivot, it does not count as having moved.

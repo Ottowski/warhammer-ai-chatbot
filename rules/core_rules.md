@@ -3,6 +3,7 @@
 ## Unit Movement
 
 ### Basic Movement
+
 During the movement phase, all units in your army may move. Move one unit at a time, measuring distance from any point on the unit to any point of its destination.
 
 **Movement Allowance**: Each unit has a Movement Characteristic (M). This indicates the maximum distance it can move in inches.
@@ -13,17 +14,20 @@ During the movement phase, all units in your army may move. Move one unit at a t
 - Monsters and characters: typically 6-8" movement
 
 ### Movement Through Terrain
+
 Units may move through terrain, but their movement may be affected:
 - **Open terrain**: No modifiers
 - **Difficult terrain** (forests, rivers): Halve movement (round down)
 - **Impassable terrain**: Cannot move through
 
 ### Unit Facing and Wheeling
+
 - Units move in the direction they are facing
 - Units may wheel (rotate) up to 90 degrees at the start of movement, but this counts against their movement allowance
 - Wheeling more than 90 degrees requires moving straight first, then wheeling for the remainder
 
 ### Charges
+
 When declaring a charge, the unit must:
 1. Be in range (within its movement distance from the enemy unit)
 2. Have line of sight to the target
@@ -35,6 +39,7 @@ Charging units gain a +1 bonus to their first round of combat attacks.
 ## Combat System
 
 ### Close Combat Phases
+
 Close combat proceeds through several steps:
 1. **Determine Attackers**: Both units attacking simultaneously roll for initiative
 2. **Roll To Hit**: Using Weapon Skill (WS) and applying modifiers
@@ -43,6 +48,7 @@ Close combat proceeds through several steps:
 5. **Apply Damage**: Remaining hits cause casualties
 
 ### Weapon Characteristics
+
 Each weapon has multiple characteristics:
 - **Range (R)**: How far the weapon can shoot
 - **Strength (S)**: How strong the attack is
@@ -50,6 +56,7 @@ Each weapon has multiple characteristics:
 - **Special**: Unique rules for specific weapons
 
 ### Armor and Saves
+
 - **Armor Save**: Modified by the attacker's AP value
 - **Ward Save**: Special saves that always work (never modified)
 - **Base armor save**: Depends on armor type worn
@@ -62,6 +69,7 @@ Armor types:
 - Plate armor: 3+ save
 
 ### Morale Checks
+
 When a unit loses 25% of its starting strength, it must take a Morale check:
 - Roll 2d6 plus leadership modifier
 - If result is equal or less than the unit's Leadership (Ld), the check is passed
@@ -70,19 +78,25 @@ When a unit loses 25% of its starting strength, it must take a Morale check:
 ## Special Rules
 
 ### Steadfast
+
 Units that are not engaged in close combat gain +1 to morale checks.
 
 ### Hold the Line
+
 This unit re-rolls failed armor saves of 1.
 
 ### Bloodlust
+
 This unit gains +1 Strength when charging into combat.
 
 ### Regeneration
+
 After all saves are made, this unit may make a 5+ save to recover a lost wound.
 
 ### Unbreakable
+
 This unit automatically passes all morale checks.
 
 ### Immune to Psychology
+
 This unit is unaffected by Fear, Terror, or other psychological effects.

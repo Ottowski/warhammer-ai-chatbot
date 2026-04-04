@@ -3,16 +3,19 @@
 ## Special Rules
 
 ### All Sneaky Like
+
 Kiknik's packmates are excellent hunters that encircle the enemy before launching their attacks.
 
 0-1 Goblin Wolf Rider Mobs in the same muster list as Kiknik may have the Ambushers special rule for free. In addition, you may apply a +1 or -1 modifier to the result when rolling to determine if a Goblin Wolf Rider Mob with the Ambushers special rule that is currently held in reserve arrives this turn as reinforcements or is delayed.
 
 ### Big 'Uns
+
 The biggest, strongest and fightiest Orcs band together into mobs accurately, if unimaginatively, called Big 'Uns.
 
 When engaged in combat, a model with this special rule has a +1 modifier to its Strength characteristic, and gains the Armour Bane (1) special rule.
 
 ### Big Stabbas
+
 Some Orcs craft huge spears for hunting great beasts. When hurled from the ranks of a charging mob, these oversized weapons can do tremendous damage.
 
 A unit with Big Stabbas has the Impact Hits (D3) special rule.
@@ -20,6 +23,7 @@ A unit with Big Stabbas has the Impact Hits (D3) special rule.
 Note that this special rule applies to the unit as a whole, not to the individual models within it.
 
 ### Bonegrinder Giant Attacks
+
 Bonegrinder Giants do not attack in the same way as other creatures. They are far too large and fractious to take orders and much too scatter-brained to have any sort of coherent plan.
 
 Instead of attacking normally during the Combat phase, a Bonegrinder Giant must make a 'Bonegrinder Giant Attack'. To do so, nominate an enemy unit that the Bonegrinder Giant is engaged in combat with to be the target of the attack and roll on the Bonegrinder Giant Attacks table below. The Troop Type of the target unit determines whether it is a 'little thing', a 'big thing' or a 'bigger thing':
@@ -37,11 +41,13 @@ Bigger Things: Units whose Troop Type is heavy chariot, monstrous creature or be
 | 5-6 | Vomit | Mighty Swing | 'Eadbutt |
 
 ### Bully
+
 Goblins are prone to flights of fancy and daydreaming. Not desirable character traits amongst the crew of a war machine, but nothing the presence of a glowering Orc can't rectify!
 
 An Orc Bully is a special type of character that can be taken as an upgrade to accompany a war machine. During deployment, position an Orc Bully with its war machine, as you would a character that has joined a unit. Once placed, an Orc Bully cannot leave its war machine. Unless this model is fleeing, friendly war machines that are within its Command range can use this model's Leadership instead of their own.
 
 ### Choppas
+
 Orc weapons are big, crude and not very sharp... much like the creatures that wield them!
 
 During a turn in which it charged, a model with this special rule may re-roll any rolls To Wound of a natural 1, and improves the Armour Piercing characteristic of its weapon(s) by 1.
@@ -49,14 +55,17 @@ During a turn in which it charged, a model with this special rule may re-roll an
 Note that this special rule only applies to non-magical weapons and does not apply to a model's mount (should it have one). If the model is using a magic weapon, this special rule ceases to apply.
 
 ### Crush Underfoot
+
 The Bonegrinder Giant stomps heavily upon the enemy. Place a large (5") blast template so that its central hole is directly over the centre of the target unit. Any model (friend or foe, but not including this model) whose base lies underneath the template risks being hit and suffering a single hit, using the Strength characteristic of this model, with an AP of -3.
 
 ### Cunning Hunters
+
 The Wolf Riders who hunt alongside a Nomadic Waaagh! have learned to encircle the enemy before the battle begins and launch their attacks from all sides.
 
 Within a Nomadic Waaagh! army, any number of Goblin Wolf Rider Mobs may have the Ambushers special rule at the cost of +1 point per model. In addition, Goblin Bosses and Goblin Shamans that are mounted on a Giant Wolf may have the Ambushers special rule at the cost of +10 points per model.
 
 ### Da Boyz
+
 Black Orcs will only follow the biggest and strongest leaders, which in their opinion means another Black Orc. Black Orc Bosses think the same, and will surround themselves with their own elite mob of hand-picked Black Orc boyz.
 
 Your army must include one Black Orc Boss for every Black Orc Mob it includes, and vice versa. In other words:
@@ -66,21 +75,25 @@ For each Black Orc Mob your army includes, it must also include one Black Orc Wa
 For each Black Orc War Boss or Big Boss your army includes, it must also include one Black Orc Mob.
 
 ### Da Troll Calla
+
 The Trolls that follow Ogdruz do so knowing he leads them to find plenty of fresh meat - even if that meat fights back!
 
 Unless he is fleeing, friendly Troll Mobs within Ogdruz's Command range may use his Leadership characteristic instead of their own.
 
 ### Enhanced Regeneration
+
 With so many Trolls in one place, their regenerative properties seem to be in overdrive, slowed only by scorching flame, potent magic and legendary weapons.
 
 Models with the Regeneration (X+) special rule within a Troll Horde army may re-roll any failed Regeneration saves against Wounds caused by non-magical attacks.
 
 ### Fear of Elves
+
 Goblins don't like Elves. They smell of soap, they walk funny and they're too tall.
 
 Elves of any type cause Fear in models with this special rule.
 
 ### Grind its Bones
+
 Faced with rank upon rank of bite-sized snacks, the Bonegrinder Giant tries to gobble up enemies by the handful. Every model within the fighting rank of the target unit must immediately make an Initiative test:
 
 Those unable to escape the grasping hands of the Bonegrinder Giant are scooped up and eaten whole. Every model that fails this test is removed from play as a casualty.
@@ -90,16 +103,19 @@ Those able to duck or dodge away from the Bonegrinder Giant's grasping hands esc
 Note that any characters in the fighting rank of the target unit can make a "Look Out, Sir!" roll, as if their unit had been hit by a shooting attack.
 
 ### Hit 'em Fast and Hit 'em 'Ard!
+
 Boar Boyz are renowned for their hitting power, but those who spend a lifetime in the saddle know best how to hit the enemy where it hurts.
 
 Within a Nomadic Waaagh! army, any Orc model that is mounted on a War Boar (Black Orc Bosses, Orc Bosses, Orc Shamans and Orc Boar Boyz) gains the Impact Hits (1) special rule. These Impact Hits are made using the Strength characteristic of the War Boar and have an Armour Piercing characteristic of -1. In addition, 0-1 Orc Boar Boyz Mob per 1,000 points may have the Vanguard special rule for +1 point per model.
 
 ### Hunting Packs
+
 Though traditionally employed as skirmishers, some Wolf Rider mobs amass in larger numbers, allowing their wolves to get up close and personal with their prey.
 
 Any Goblin Wolf Rider Mob within a Nomadic Waaagh! army may exchange the Open Order and Skirmishers special rules with the Close Order and Horde special rules.
 
 ### Ignore Goblin Panic
+
 Orcs expect Goblins to run away. As far as the average Orc is concerned, running away is what Goblins are best at!
 
 This unit does not have to make a Panic test when a friendly Goblin unit is destroyed or Breaks and flees from combat whilst within 6" of it. Nor does this unit have to make a Panic test when it is fled through by a friendly Goblin unit.
@@ -107,11 +123,13 @@ This unit does not have to make a Panic test when a friendly Goblin unit is dest
 Note that, for the purposes of this rule, a Goblin unit is considered to be any unit that is made up entirely of Goblins of any kind, mounted or otherwise. This includes any war machine or chariot that is crewed entirely by Goblins. Should a Goblin unit be joined by an Orc character, it is no longer considered to be a Goblin unit.
 
 ### Ignore Panic
+
 Black Orcs don't expect much in the way of bravery or discipline from their dim-witted kin, so are rarely perturbed by the sight of them legging it.
 
 This unit does not have to make a Panic test when a friendly unit that does not also have this special rule is destroyed or Breaks and flees from combat whilst within 6" of it. Nor does this unit have to make a Panic test when it is fled through by a friendly unit that does not have this special rule.
 
 ### Indiscriminate Hunger
+
 A Troll Hag's appetite is both ravenous and indiscriminate. In battle, they will scoop up handfuls of enemy warriors or bite chunks of flesh from hulking monsters.
 
 During the Command sub-phase of its turn, a Troll Hag that is engaged in combat may choose to make an 'Indiscriminate Hunger' attack. To do so, nominate an enemy unit that the Troll Hag is engaged in combat with. The unit must immediately make an Initiative test:
@@ -123,14 +141,17 @@ If this test is passed, the enemy manages to avoid the grasping Troll Hag. This 
 Each time an enemy unit loses a Wound as a result of an Indiscriminate Hunger attack, the Troll Hag recovers a single lost Wound.
 
 ### Ker-splat
+
 Mangler Squigs are careless beasts that bound merrily through life. Unfortunately, this can often lead to injury when they encounter terrain unwilling to get out of their way!
 
 Mangler Squigs treat all difficult terrain as dangerous terrain.
 
 ### Mighty Swing (Bonegrinder Giant)
+
 The Bonegrinder Giant swings its club at its enemies. The target unit suffers D6+1 hits from the Bonegrinder Giant's club. For this attack, the Bonegrinder Giant's club has a Strength characteristic of S+1 and an AP of -2.
 
 ### Mob Rule
+
 Surrounded by big mobs of battle-hungry Orcs, Shamans crackle with barely-controlled energy, causing their spells to burst forth with tremendous power.
 
 If this character has joined a unit of Orcs with a Unit Strength of 10 or more, they may apply a +1 modifier to any Casting roll they make. Should they leave the unit for any reason, or should the unit's Unit Strength fall below 10, this modifier is lost.
@@ -138,6 +159,7 @@ If this character has joined a unit of Orcs with a Unit Strength of 10 or more, 
 Note that, for the purposes of this rule, a unit of Orcs is considered to be any unit that is made up entirely of Orcs or Black Orcs, mounted or otherwise.
 
 ### Motherly Love
+
 Troll Hags are affectionate creatures, prone to treating enemies as wayward children in need of guidance or affection. Unfortunately, few creatures are able to withstand such treatment for long.
 
 Instead of attacking normally during the Combat phase, a Troll Hag may choose to make a 'Motherly Love' attack. To do so, nominate an enemy unit that the Troll Hag is engaged in combat with to be the target of the attack and roll on the Motherly Love table below to determine what the Troll Hag does:
@@ -149,6 +171,7 @@ Instead of attacking normally during the Combat phase, a Troll Hag may choose to
 | 5-6 | **Mither:** The Troll Hag bombards the enemy with a tirade of slaps and a torrent of unintelligible Trollish invective. The target unit suffers D6+1 hits, each using the Strength characteristic of this model, with no armour save permitted (Ward and Regeneration saves can be attempted as normal). In addition, so shocked is the target unit that, until the end of this turn, it suffers a -1 modifier to its Leadership characteristic. |
 
 ### Netters
+
 In dark underground tunnels, Night Goblins throw nets to entangle their prey.
 
 When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat subphase, it may attempt to 'entangle' one enemy unit it is engaged with. Roll a D6. On a roll of 1, the unit has entangled itself. On a roll of 2+, the enemy unit is entangled. Until the end of the Combat phase, an entangled unit suffers a -1 modifier to its Strength characteristic (to a minimum of 1).
@@ -156,26 +179,31 @@ When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat s
 Note that this modifier is not cumulative.
 
 ### Oi! Dis Way!
+
 To put it kindly, Trolls are remarkably unencumbered by intellect. However, when someone with an authoritative voice gives them simple instructions, they are incredibly effective shock troops, capable of tearing a man limb from limb.
 
 Unless the character is fleeing, friendly Troll Mobs within a Troll Horde army that are within the Command range of an Orc Shaman, Goblin Shaman or Troll Hag can use the Leadership characteristic of that character instead of their own.
 
 ### On Da Move
+
 Those in a nomadic Waaagh! who find themselves without a mount are not only mocked by their mounted brethren, but risk being left behind when the Waaagh! races off to raid elsewhere.
 
 All characters within a Nomadic Waaagh! army must be mounted.
 
 ### Protect Da Boss
+
 The Trolls that accompany Ogdruz will dutifully shield him from harm.
 
 This model cannot be targeted by enemy shooting or by enemy spells whilst it is within 3" of a friendly Troll Mob, unless this model is the closest target.
 
 ### Quell Impetuosity
+
 Where most Orcs and Goblins are impetuous, Black Orcs are disciplined warriors. This discipline is usually extended to those around them through threats and intimidation.
 
 Whilst within 6" of a unit with this special rule, a friendly Impetuous unit may re-roll a failed Leadership test when testing to determine if it must declare a charge or act as normal.
 
 ### Release the Fanatics!
+
 As the enemy draws near, mobs of Night Goblins unleash Fanatics in a whirlwind of destruction.
 
 Fanatics are not placed on the battlefield at the start of the game. Instead, make a note of which Night Goblin units include Fanatics, and of how many they include. These units are referred to as 'concealing' units. Unless it is fleeing or in Marching Column, a concealing unit may release one or more of its Fanatics during any Start of Turn sub-phase.
@@ -194,41 +222,49 @@ Death of a Fanatic
 A Fanatic model cannot be charged, targeted or attacked in any way. However, the life of a Fanatic is no less dangerous for this. Should a Fanatic find itself lying fully or partially underneath a template (one placed over a nearby unit, for example, or that has scattered), it risks being hit as normal. Additionally, if any natural double is rolled for its movement, or if a Fanatic moves into any difficult, dangerous or impassable terrain, or any type of linear obstacle, it comes to a sudden and terminal stop, and is immediately removed from play as a casualty. Finally, if a concealing unit is destroyed or flees the battlefield before its Fanatics have been released, they are removed as casualties.
 
 ### Skulking Menace
+
 Hiding within Goblin ranks, out of sight of the enemy, Nasty Skulkers await their chance to strike.
 
 Nasty Skulkers are not placed on the battlefield at the start of the game. Instead, make a note of which Goblin Mobs include Nasty Skulkers, and of how many they include. These units are referred to as 'concealing' units. At the start of its first round of combat, during Step 1.1 of the Choose Combat & Fight sub-phase, a concealing unit must reveal its Nasty Skulkers - they cannot be revealed at any other time. Position each revealed Nasty Skulker as you would a character that has joined the unit. Once placed, Nasty Skulkers cannot leave their concealing unit. If a concealing unit is destroyed or flees the battlefield before its Nasty Skulkers are revealed, they are removed as casualties.
 
 ### Slimy Shanks
+
 The thick coating of swamp slime covering the Troll Hag's body makes landing a blow upon her exceedingly difficult.
 
 Any enemy model that directs its attacks against this model during the Combat phase suffers a -1 modifier to its rolls To Hit.
 
 ### Solitary Fighters
+
 Mounted atop chariots liberated from weaker Orcs, many Black Orcs discover a new love for crumpin' the enemy whilst careening around the battlefield!
 
 Black Orc Bosses within a Nomadic Waaagh! army are not subject to the Da Boyz or Quell Impetuosity special rules.
 
 ### Spiked Ball & Chains
+
 Night Goblins attempt to control Mangler Squigs by means of long, heavy lengths of spiked chain fitted with heavy iron balls. This seldom works, but it does make them more dangerous.
 
 Impact Hits caused by this model have an Armour Piercing characteristic of -3.
 
 ### Squigs Go Wild
+
 A herd of Cave Squigs is held together by the weakest glue - the best efforts of a few Night Goblins. Once that glue breaks and control of a herd is lost, the Cave Squigs will bounce towards freedom.
 
 Should a Squig Herd ever Break and flees from combat, the Cave Squigs will go wild. If the Squig Herd contains five or more Cave Squigs, every unit (friend or foe) within 2D6" of it suffers D3 Strength 5 hits, each with an AP of -1. For every additional five Cave Squigs the Squig Herd contains, apply a +1 modifier to the D3. Once these hits have been resolved, treat the unit as having been completely destroyed in combat and remove it from play.
 
 ### Syphoned Strength
+
 Ogdruz has learned to empower his magic by drawing on the physical strength of his Trolls.
 
 Whilst Ogdruz Swampdigga is within 3" of a friendly Troll Mob with a Unit Strength of 6 or more that is not fleeing, he may apply a +1 modifier to any Casting roll he makes.
 
 ### Troll Tongue
+
 Though Troll Magic is a near-forgotten craft, some amongst the Orc and Goblin tribes have learned these arcane secrets from the grotesque Troll Hags.
 
 In addition to the Lores of Magic they may normally know spells from, Orc Shamans and Goblin Shamans within a Troll Horde army may know spells from the Lore of Troll Magic.
 
 ### Tusker Charge
+
 A charging War Boar is an ill-tempered mound of bloody-minded muscle with savage tusks and a terrible attitude.
 
 During a turn in which it charged, a War Boar's Tusks (hand weapon) have a Strength characteristic of S+1 and an Armour Piercing characteristic of -1.
@@ -236,9 +272,11 @@ During a turn in which it charged, a War Boar's Tusks (hand weapon) have a Stren
 Note that this special rule only applies to attacks made by a War Boar, not to their rider, a chariot or its crew.
 
 ### Vomit
+
 Peering down at such tiny creatures makes the Bonegrinder Giant dizzy and messily sick! Place a flame template so that the narrow end touches the edge of this model's base that is in contact with the target unit and the broad end is over the target unit. Any model (friend or foe, but not including this model) whose base lies underneath the template risks being hit and suffering a single Strength 5 hit with an AP of -2.
 
 ### Waaagh!
+
 The invigorating power of a good war cry should never be underestimated, and Orcs have the best war cry of them all.
 
 Once per game, during the Command sub-phase of their turn, this character may attempt to invoke the power of the Waaagh! by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase this character, their mount and any Orc unit they have joined may re-roll any rolls To Hit of a natural 1 and, when calculating its combat result, may claim an additional bonus of +1 combat result point.
@@ -246,9 +284,11 @@ Once per game, during the Command sub-phase of their turn, this character may at
 Note that, for the purposes of this rule, an Orc unit is considered to be any unit that is made up entirely of Orcs or Black Orcs, mounted or otherwise. Should an Orc unit be joined by a Goblin character, it is no longer considered to be an Orc unit. This special rule is not cumulative.
 
 ### Wallop
+
 The Bonegrinder Giant grasps its club two-handed and cracks its enemy on the head. The Bonegrinder Giant makes a single attack against the target unit. For this attack, the Bonegrinder Giant's club has a Strength characteristic of S+3, an AP of -4 and the Multiple Wounds (2D3) special rule.
 
 ### Warpaint
+
 Some superstitious Orcs adorn their bodies with charms and warpaint to protect them from harm. Such is their faith in these measures that they actually seem to work!
 
 Warpaint gives its wearer a 6+ Ward save against any wounds suffered. However, a model with this special rule can never wear armour of any sort (though they may carry a shield).
@@ -256,16 +296,19 @@ Warpaint gives its wearer a 6+ Ward save against any wounds suffered. However, a
 ## Weapons of War
 
 ### Bonegrinder Giant's Club
+
 Range  Strength  Armour Piercing  Special Rules
 Combat  *         *                 -
 
 Notes: A Bonegrinder Giant's club may have different characteristics and special rules depending upon what they do with it, as described in the Bonegrinder Giant Attacks special rules.
 
 ### Colossal Fang-filled Gob
+
 Range   Strength  Armour Piercing  Special Rules
 Combat  S         -2                Killing Blow
 
 ### Doom Diver
+
 Thanks to their large wings and aerodynamic headgear, a Doom Diver can steer their erratic flight with remarkable accuracy. Sadly, this ability to control their flight is unlikely to soften their landing. When shooting a Doom Diver catapult, follow the Bombardment special rule as usual.
 
 When shooting a Doom Diver catapult, follow the Bombardment special rule as usual. Once step 2, Scatter, is complete, you may roll a D3 and move the 3" blast template by that many inches in any direction, representing the Doom Diver wildly flapping its arms to guide its erratic flight.
@@ -273,18 +316,22 @@ When shooting a Doom Diver catapult, follow the Bombardment special rule as usua
 Should you choose to fire a Doom Diver catapult indirectly, the skill of the crew has no bearing on the accuracy of the shot. If a 'Hit!' is rolled on the Scatter dice, use the small arrow above the Hit! symbol to determine the direction of the Scatter as usual, then move the template a number of inches equal to the roll of the Artillery dice minus D3 (to a minimum of zero), representing the efforts of the Doom Diver to steer its flight.
 
 ### Fanatic Ball & Chain
+
 Any unit (friend or foe) that is moved through by a moving Fanatic, or that moves through a Fanatic, suffers D6 Strength 5 hits, each with an AP of -3.
 
 ### Huge Gob
+
 Range   Strength  Armour Piercing  Special Rules
 Combat  S         -1                Armour Bane (1)
 
 ### Massive Gob
+
 Range   Strength  Armour Piercing  Special Rules
 Combat  S         -1                Armour Bane (1)
 Killing Blow
 
 ### Spidersilk Lobber
+
 Range   Strength  Armour Piercing  Special Rules
 12-48"  2(4)      -(-1)             Bombardment
 Cumbersome
@@ -292,12 +339,14 @@ Cumbersome
 Notes: This weapon shoots like a stone thrower, using the Bombardment special rule and a 5" blast template. If a 'Misfire' is rolled on the Artillery dice, this model loses a single Wound (instead of rolling on a Misfire table).
 
 ### Swamp Breath
+
 Range  Strength  Armour Piercing  Special Rules
 N/A    3         -2                Breath Weapon
 
 Notes: Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties.
 
 ### Venom Surge
+
 Range   Strength  Armour Piercing  Special Rules
 Combat  S         -2                Multiple Wounds (D6)
 Poisoned Attacks
@@ -308,6 +357,7 @@ Notes: In combat, this model may choose to make one of its attacks each turn wit
 ## Warhammer Armies
 
 ### Orc & Goblin Tribes Army List
+
 This section details the Grand Army composition list for the Orc & Goblin Tribes. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force.
 
 This army list is intended for use alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook.
@@ -380,6 +430,7 @@ Battle Standard Bearer
 A single Bigboss (Orc, Black Orc, Goblin or Night Goblin) in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
 ### Nomadic Waaagh!
+
 This Army of Infamy composition list is designed to be used with the Orc & Goblin Tribes army list found in Ravening Hordes, and alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook.
 
 If you wish to field a Nomadic Waaagh! army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
@@ -430,6 +481,7 @@ Magic Items
 Any models within this army that have the option to purchase magic items may purchase magic items from the Common or Orc & Goblin Tribes magic items lists.
 
 ### Troll Horde
+
 This Army of Infamy composition list is designed to be used with the Orc & Goblin Tribes army list found in Ravening Hordes, and alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook.
 
 If you wish to field a Troll Horde army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
@@ -484,15 +536,19 @@ Any models within this army that have the option to purchase magic items may pur
 ## Narrative Battles
 
 ### Ambush at Winter's Teeth Pass
+
 "Peering into the valley below, Kiknik and Chompa snarled at the sight of the Dwarfen caravan and its mercenary escort crawling across the bottom of the snow-choked basin. The Warboss knew he had to strike quickly once the caravan was in position, for it would soon pass within reach of a fortified outpost that guarded the trade route. Needing little encouragement from his rider, Chompa let out a blood-chilling howl that echoed across the valley - signalling Kiknik's warriors to begin their attack..."
 
 #### Historical Recreation
+
 The Ambush at Winter's Teeth Pass was fought between Kiknik's Nomadic Waaagh! and a Dwarfen trade caravan and their allies from the Empire. To represent this, the players should write three muster lists (one for the attacker and two for the defender) as follows:
 
 ##### The Attacker
+
 The attacker should write a single 2,500 points muster list using the Nomadic Waaagh! Army of Infamy composition list. The General of this army must be Kiknik Toofsnatcha.
 
 ##### The Defenders
+
 The defender should write two muster lists, one representing the guards of Chief Engineer Thundrid Ironbrow and the other, an allied contingent representing their mercenary company escort:
 
 Dwarfen Guards: The defender should write a 1,000 points muster list using the Dwarfen Mountain Holds Grand Army composition list found in Forces of Fantasy. This force must include a Dwarf Engineer who must be the army's General.
@@ -502,25 +558,31 @@ Empire Escort: The defender should write a 1,500 points muster list using the Em
 Alternatively, this scenario may be played with any armies of the players' choosing. If so, the attacker should write a single 2,500 points muster list. The defender should write two muster lists, one of 1,000 points and another of 1,500 points.
 
 #### Set-up
+
 This battle takes place at the bottom of the snow-choked Winter's Teeth Pass: a mountain road with steep cliffs on either side. The battlefield should be left fairly barren, with only a few rocky outcroppings and areas of raised ground placed sporadically across the battlefield. There should also be an open road, approximately 6" wide, running down the centre of the board from east to west.
 
 #### Deployment
+
 The defender begins by deploying three Goods Carts (see below) as shown on the map. Next, they deploy their entire army anywhere within the defender's deployment zone as shown on the map. Then, the attacker splits their army into two roughly equal halves; one of which is deployed anywhere within attacker's deployment zone A as shown on the map. The other half is then deployed anywhere within attacker's deployment zone B as shown on the map.
 
 ambush-at-winters-teeth-pass
 
 #### First Turn
+
 In this scenario, the attacker will automatically take the first turn.
 
 #### Game Length
+
 The battle will last for 6 rounds, until one side concedes, or until the time limit agreed by the players is reached.
 
 #### Scenario Special Rules
+
 Late Snows: Any unit whose troop type is infantry cannot march unless they are on the open roadway that runs across the centre of the board. In addition, Goods Carts may not march unless they are on the open road.
 
 Fleeing to Safety: Should any part of a unit in the defending player's force, or any of the Goods Carts, move into contact with, or cross beyond, the eastern edge of the battlefield, it is removed from play but is not destroyed. The unit has successfully escaped the ambush and is well on its way to the safety of the outpost.
 
 #### Victory!
+
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. In addition, at the end of the game:
 
 The defending player wins a bonus 100 Victory Points for each Goods Cart that escapes the battlefield via the eastern table edge.
@@ -532,6 +594,7 @@ The attacking player wins a bonus 100 Victory Points for each Goods Cart they ha
 The attacking player wins a bonus 100 Victory Points if Kiknik Toofsnatcha slays the Dwarf Engineer.
 
 #### Goods Carts
+
 "Wagons and carts flow constantly up and down the trade routes of the Old World, filled to bursting with food, glittering gemstones and weapons of war."
 
 | | M | WS | BS | S | T | W | I | A | Ld |
@@ -555,11 +618,13 @@ Special Rules: Hatred (Orcs & Goblins), Impact Hits (1), Magic Resistance (-1), 
 ## The Lores of Magic
 
 ### Lore of Gork
+
 Surrounded by Boyz, Orc Shamans tap into the superstitious beliefs of their mates to conjure spells that are, much like the wildly gesticulating and gibbering Shamans themselves, flamboyant and rowdy, but brutal in their effects.
 
 A Wizard with the 'Lore of Gork' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.
 
 #### Brain Bursta (Signature Spell)
+
 Channelling the violence of their peers, the Shaman projects it against their enemies in a brain-bursting wave.
 
 | Type | Casting Value | Range |
@@ -569,6 +634,7 @@ Channelling the violence of their peers, the Shaman projects it against their en
 A single enemy model the caster is engaged in combat with suffers a single Strength 6 hit with the Multiple Wounds (D3) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).
 
 #### Gaze of Gork (Signature Spell)
+
 Gork gives the Shaman the ability to project beams of coruscating energy from their eyes, burning massive holes through everything they look at.
 
 | Type | Casting Value | Range |
@@ -578,11 +644,13 @@ Gork gives the Shaman the ability to project beams of coruscating energy from th
 Draw a straight line, 5D6" in length, from the caster's base edge. Any model (friend or foe) whose base falls under this line suffers a Strength 5 hit, with an AP of -3.
 
 ### Lore of Mork
+
 Goblin Shamans delight in casting cunning curses upon their enemies. These petty charms are intended to disrupt and confuse the foe, leaving them vulnerable to sneaky attacks
 
 A Wizard with the 'Lore of Mork' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.
 
 #### Mork's Curse (Signature Spell)
+
 The Shaman points a bony finger at the enemy and utters a curse. Almost immediately, buckles begin to break and rivets pop, causing armour plates to slip.
 
 | Type | Casting Value | Range |
@@ -592,6 +660,7 @@ The Shaman points a bony finger at the enemy and utters a curse. Almost immediat
 Remains in Play. Whilst this spell is in play, the target enemy unit must re-roll any Armour Save roll of a natural 6.
 
 #### Itchy Nuisance (Signature Spell)
+
 The Shaman begins vigorously scratching and cackling maniacally, their antics causing their enemies to feel uncomfortably hot and itchy.
 
 | Type | Casting Value | Range |
@@ -601,9 +670,11 @@ The Shaman begins vigorously scratching and cackling maniacally, their antics ca
 Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Toughness and Initiative characteristics (to a minimum of 1).
 
 ### Lore of Troll Magic
+
 In addition to the Lores of Magic detailed in the Warhammer: the Old World rulebook, some Wizards, especially those with an affinity for Trolls, may know spells from the Lore of Troll Magic. As usual, if it is stated that a Wizard knows spells from one of a number of given Lores of Magic, you must choose one of these Lores when writing your muster list.
 
 #### Big Smartz (Signature Spell)
+
 Gesturing lazily with a crooked staff, the caster enhances and sharpens the minds of those nearby, giving them a clearer look upon the world.
 
 | Type | Casting Value | Range |
@@ -613,6 +684,7 @@ Gesturing lazily with a crooked staff, the caster enhances and sharpens the mind
 Remains in Play. Whilst this spell is in play, friendly units within the Command range of this model may re-roll any failed Stupidity tests. Additionally, if a friendly unit within the Command range of this model when this spell is cast failed its Stupidity test during the Start of Turn sub-phase of the same turn, it may immediately make this test again.
 
 #### 1. Acidic Bile
+
 Spitting a guttural incantation, the caster launches a ball of sickly green and yellow Troll vomit toward the enemy, scorching flesh and dissolving armour.
 
 | Type | Casting Value | Range |
@@ -622,6 +694,7 @@ Spitting a guttural incantation, the caster launches a ball of sickly green and 
 Place a small (3") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1". Any enemy model whose base lies underneath the template's final position risks being hit and suffering a Strength 3 hit with an AP of -2.
 
 #### 2. Troll Brainz
+
 Under the beguiling influence of this crude magic, even the most experienced warriors can quickly find themselves hopelessly confused and at a loss for what to do.
 
 | Type | Casting Value | Range |
@@ -631,6 +704,7 @@ Under the beguiling influence of this crude magic, even the most experienced war
 Remains in Play. Whilst this spell is in play, the target enemy unit becomes subject to the Stupidity special rule and reduces their Leadership characteristic by 1.
 
 #### 3. Ravenous Recourse
+
 Through arcane means or by simply being reminded how hungry they are, the assembled Trolls race forward with a sudden burst of vigour.
 
 | Type | Casting Value | Range |
@@ -640,6 +714,7 @@ Through arcane means or by simply being reminded how hungry they are, the assemb
 Until the end of this turn, all friendly units that have the Stupidity special rule and are within 12" of the caster gain a +2 modifier to their Movement characteristic.
 
 #### 4. Foetid Whirlpool
+
 A deluge of foul swamp water and unmentionable waste is spun into a swirling tornado and unleashed onto the battlefield.
 
 | Type | Casting Value | Range |
@@ -649,6 +724,7 @@ A deluge of foul swamp water and unmentionable waste is spun into a swirling tor
 Remains in Play. Place a small (3") blast template so that its central hole is within 18" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase. Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 4 hits, each with an AP of -3.
 
 #### 5. Torrent of Filth
+
 With an almighty belch, the caster heaves a stream of burning bile across their foes as the battlelines clash.
 
 | Type | Casting Value | Range |
@@ -658,6 +734,7 @@ With an almighty belch, the caster heaves a stream of burning bile across their 
 Place a flame template so that the narrow end touches the caster's base edge and the broad end is over a unit they are engaged in combat with. Any model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -2.
 
 #### 6. Rapid Regeneration
+
 Drawing on the regenerative properties of theTrolls, the caster channels that enhanced healing towards those in harm's way.
 
 | Type | Casting Value | Range |
@@ -669,10 +746,13 @@ Until the end of your next Start of Turn sub-phase, the target friendly unit gai
 ## Magic Items (and Abilities)
 
 ### Orc & Goblin Tribes Magic Items
+
 These magic items are unique to Orc & Goblin Tribes armies. These can be purchased by models within an Orc & Goblin Tribes army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook.
 
 #### Magic Weapons
+
 ##### Battleaxe of the Last Big Waaagh!  (Magic Weapon)
+
 75 points
 Vague legend tells that this huge, beaten battleaxe once belonged to either Gork or Mork. How true this is, there is no way of knowing, but it certainly is a great tool for hitting things with!
 
@@ -683,6 +763,7 @@ Vague legend tells that this huge, beaten battleaxe once belonged to either Gork
 Notes: If a natural 6 is rolled for the Extra Attacks (+D6) special rule, the Battleaxe of the Last Big Waaagh! loses the Extra Attacks (+D6) special rule at the end of the current Combat phase.
 
 ##### Bigger, Choppier Axe  (Magic Weapon)
+
 55 points
 While Warbosses love having a big, choppy axe, there is nothing they love more than a bigger, choppier axe!
 
@@ -691,6 +772,7 @@ While Warbosses love having a big, choppy axe, there is nothing they love more t
 | Combat | S+2 | -2 | Killing Blow; Magical Attacks; Requires Two Hands; Strike Last |
 
 ##### Martog's Best Basha  (Magic Weapon)
+
 50 points
 Warboss Martog the Mauler was renowned for his vast collection of 'legitimately acquired' weapons. The most prized of which was a massive Dwarfen hammer, covered with intricately carved runes and (since Martog's acquisition of the weapon) plenty of Dwarfen blood.
 
@@ -701,6 +783,7 @@ Warboss Martog the Mauler was renowned for his vast collection of 'legitimately 
 Notes: The wielder of this weapon has a +1 modifier to its Weapon Skill and Initiative characteristics.
 
 ##### Porko's Pigstikka  (Magic Weapon)
+
 40 points
 Most of the many spears wielded by Porko and his famous Boar Boyz lie shattered across a thousand battlefields. But this particular spear is special, having never broken nor lost its perfect point.
 
@@ -711,6 +794,7 @@ Most of the many spears wielded by Porko and his famous Boar Boyz lie shattered 
 Notes: Models whose troop type is cavalry, monster or chariot only. This weapon's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged. In addition, during a turn in which the wielder charged, Porko's Pigstikka grants them +1 Attack for each rank the enemy unit has.
 
 ##### Da Choppiest Choppa  (Magic Weapon)
+
 35 points
 This broad, heavy bladed choppa boasts a wickedly sharp cutting edge. What's more, no amount of relentless chopping through armour and hacking through bone ever seems to dull it.
 
@@ -719,6 +803,7 @@ This broad, heavy bladed choppa boasts a wickedly sharp cutting edge. What's mor
 | Combat | S+1 | -3 | Magical Attacks |
 
 ##### Da Akrit Axe  (Magic Weapon)
+
 30 points
 In battle, this weapon seems to writhe in the hands of its wielder, seeking out the enemy's most vulnerable spots.
 
@@ -729,6 +814,7 @@ In battle, this weapon seems to writhe in the hands of its wielder, seeking out 
 Notes: The wielder of Da Akrit Axe may re-roll any failed rolls To Hit made whilst using it. However, this weapon's Strength modifier applies only against enemy models the wielder charged this turn.
 
 ##### Backstabber's Blade*  (Magic Weapon)
+
 25 points
 Being bigger and meaner than most, Orcs are happy to fight anyone, anywhere. Goblins on the other hand, are far happier sticking the pointy end of their blades into their foe's back.
 
@@ -741,6 +827,7 @@ Notes: Goblin Bosses and Night Goblin Bosses only. If the wielder of this weapon
 *Extremely Common
 
 ##### Wollopa's One Hit Wunda  (Magic Weapon)
+
 15 points
 The rebellious Goblin known as Wollopa wielded a wondrous weapon. Yet what he is most remembered for is his turn of speed, being able to easily outpace even the most irate of Orcs.
 
@@ -751,7 +838,9 @@ The rebellious Goblin known as Wollopa wielded a wondrous weapon. Yet what he is
 Notes: Goblin and Night Goblin Bosses only. Single use. Once per game, during the first round of combat, the wielder of this weapon can use it with this profile. At all other times, this weapon counts as a hand weapon with the Magical Attacks special rule.
 
 #### Magic Armour
+
 ##### Trollhide Trousers*  (Magic Armour)
+
 40 points
 Foul smelling and uncomfortable, Trollhide Trousers possess remarkable regenerative properties.
 
@@ -760,37 +849,44 @@ May be worn with other armour. The wearer of the Trollhide Trousers improves the
 *Extremely Common
 
 ##### Dead 'Ard Armour  (Magic Armour)
+
 35 points
 This battle-scarred armour is made up of thick armour plates capable of turning aside the most telling of blows.
 
 Black Orc Bosses and Orc Bosses whose troop type is infantry, cavalry or chariot only. The Dead 'Ard Armour is a suit of full plate armour. In addition, its wearer improves their Toughness characteristic by 1.
 
 ##### Armour of Mork  (Magic Armour)
+
 30 points
 This old and battered armour offers powerful protection against magic.
 
 The Armour of Mork is a suit of heavy armour. In addition, its wearer has Magic Resistance (-2).
 
 ##### Spiteful Shield  (Magic Armour)
+
 20 points
 Possessed by an angry spirit and adorned with an enchanted maw filled with razor-sharp teeth, this shield snaps and snarls at unwary opponents.
 
 The Spiteful Shield is a shield. In addition, any enemy model that rolls a natural 1 when making a roll To Hit or To Wound against the wielder of the Spiteful Shield during the Combat phase immediately suffers a Strength 4 hit with an AP of -.
 
 #### Talismans
+
 ##### Sparkly Wizard Finda  (Talisman)
+
 45 points
 Disappointingly, this arcane gem has never helped find a single sparkly Wizard, though it does shine brightly when used to beat one to a bloody pulp!
 
 The bearer of the Sparkly Wizard Finda has the Magic Resistance (-2) and Hatred (enemy Wizards) special rules.
 
 ##### Effigy of Mork  (Talisman)
+
 35 points
 Be it a string of lucky escapes, arcane enchantment, or perhaps the divine intervention of the cunning (yet brutal) Mork, this small trinket seems to keep the wearer out of danger.
 
 Any model that directs its attacks against the bearer of the Effigy of Mork during the Combat phase suffers a -1 modifier to its rolls To Hit.
 
 ##### Glowy Green Amulet  (Talisman)
+
 35 points
 This unimposing green amulet glows ever brighter as it absorbs magic. Sooner or later it is going to explode!
 
@@ -799,86 +895,102 @@ If the bearer (and any unit they have joined) is the target of an enemy spell, t
 Note that the Glowy Green Amulet cannot be used against a perfect invocation.
 
 ##### The Collar of Zorga  (Talisman)
+
 20 points
 Zorga was a respected War Boar wrangler. When his magical collar was stolen, he became a snack for his porcine pets.
 
 Any enemy 'beast of burden' that directs its attacks against the wearer of the Collar of Zorga or their unit during the Combat phase suffers a -1 modifier to its rolls To Hit. For the purposes of this rule, a beast of burden is the mount of any model whose troop type is cavalry, the beast(s) that draw any model whose troop type is chariot, and the mount of any mounted character whose troop type is monster.
 
 #### Magic Standards
+
 ##### The Big Red Raggedy Flag  (Magic Standard)
+
 50 points
 This tattered banner belonged to the great hero, Rowdy Porker, whose spirit imbues it to this day.
 
 A unit carrying the Big Red Raggedy Flag has a +1 modifier to its Weapon Skill characteristic (to a maximum of 10). In addition, when calculating its combat result, the unit may claim an additional bonus of +1 combat result point.
 
 ##### Waaagh! Banner  (Magic Standard)
+
 40 points
 Blessed by an Orc Shaman, this banner fills those that march under it with a great sense of urgency.
 
 A unit carrying the Waaagh! Banner increases its maximum possible charge range by 3" and, when it makes a Charge roll, may apply a +D3 modifier to the result.
 
 ##### Da Angry Ladz Flag  (Magic Standard)
+
 35 points
 Those who fight under Da Angry Ladz Flag hurl themselves at the enemy with careless abandon.
 
 A unit carrying Da Angry Ladz Flag gains the Frenzy special rule.
 
 ##### Da Banner of Butchery  (Magic Standard)
+
 35 points
 This rough-hewn totem has absorbed a great amount of primal Orc fury.
 
 All models in a unit carrying Da Banner of Butchery have a +1 modifier to their Strength characteristic during a turn in which they charge.
 
 ##### Da Spider Banner  (Magic Standard)
+
 35 points
 Created by the Forest Goblins of the Rootgrubba tribe, this unsettling banner depicts their fearsome arachnid god, whom the tribe reveres alongside Gork and Mork.
 
 A unit carrying Da Spider Banner gains the Poisoned Attacks special rule. If the unit already has the Poisoned Attacks special rule, then their attacks will wound automatically on a roll of a natural 5 or 6 To Hit, rather than the usual 6.
 
 ##### Da Banner of Da Nomadz  (Magic Standard)
+
 25 points
 Though their Waaagh! takes them the length and breath of the known world, those who carry this banner seldom seem to tire and are constantly on the move.
 
 When a unit carrying Da Banner of Da Nomadz makes a Charge, Flee or Pursuit roll, it may re-roll any dice that roll a natural 1, before discarding any dice that are required to be discarded.
 
 ##### Banner of the Wildz  (Magic Standard)
+
 20 points
 The multitude of natural elements used in the construction of this ramshackle standard seem to possess some minor magical enchantment, allowing those who carry it to traverse through foetid swamps, dense forests and rocky slopes without pause.
 
 A unit carrying the Banner of the Wildz gains the Move Through Cover special rule.
 
 ##### Guff's Windy Banner  (Magic Standard)
+
 20 points
 The banner of Guff's Garrison eternally flutters in an inexplicable breeze. Those that fight in its shadow display remarkable intestinal fortitude.
 
 A unit carrying the Guff's Windy Banner may re-roll any failed Panic test.
 
 #### Enchanted Items
+
 ##### Big Boss 'At  (Enchanted Item)
+
 50 points
 Orcs and Goblins are easily impressed, and this ornate helmet is particularly impressive. What's more, the Boss insists that wearing it makes them braver and cleverer, which must be true.
 
 During the Command sub-phase of their turn, a character wearing the Big Boss 'At that is not engaged in combat may treat their comrades to some inspiring words by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase this character and any unit they have joined gains the Unbreakable special rule.
 
 ##### Necklace of Blessed Teef  (Enchanted Item)
+
 50 points
 Plucked from the jaws of enemies and fashioned into crude jewellery, the teef that hang from this necklace have been blessed by Mork (or possibly Gork) to protect the wearer as they thunder into battle.
 
 The bearer of the Necklace of Blessed Teef may re-roll any Armour Save roll, Ward Save roll or Regeneration Save roll of a natural 1.
 
 ##### Grisly Trophy Rack  (Enchanted Item)
+
 30 points
 Covered in the decaying scalps and flayed skulls of conquered enemies, this totem is a foul reminder of the fate that awaits those who fall to the boss' blade.
 
 Black Orc Bosses, Orc Bosses, Goblin Bosses and Night Goblin Bosses only. All enemy units within 6" of the bearer of the Grisly Trophy Rack suffer a -1 modifier to their Leadership characteristic (to a minimum of 2).
 
 ##### Da Thinkin' Orc's 'At  (Enchanted Item)
+
 25 points
 With the overpowering need to bash skulls removed from their mind, the wearer might now think twice about charging headlong into an Empire artillery battery!
 
 The wearer of Da Thinkin' Orc's 'At improves their Initiative characteristic by 1. In addition, the wearer and any unit they have joined is not subject to the Impetuous special rule.
 
 ##### 'Eadbuttin' 'At*  (Enchanted Item)
+
 15 points
 'Eadbuttin' contests are popular in Orc culture. Especially cunning (or brutal) participants employ magical means to improve their odds.
 
@@ -887,6 +999,7 @@ The wearer of Da Thinkin' Orc's 'At improves their Initiative characteristic by 
 *Extremely Common
 
 ##### Fungus Wine*  (Enchanted Item)
+
 10 points
 Night Goblins cultivate many strange fungi, the most potent of which are fermented into mind-altering wines.
 
@@ -895,7 +1008,9 @@ Night Goblin characters only. Single use. During the Command sub-phase of their 
 *Extremely Common
 
 #### Arcane Items
+
 ##### Staff of Baduumm  (Arcane Item)
+
 55 points
 Once carried by the famous Orc Shaman Baduumm, this charred wooden staff still contains large reserves of the raw Waaagh! power that evaporated its namesake.
 
@@ -904,30 +1019,35 @@ The bearer of the Staff of Baduumm applies a +D3 modifier to the result of any C
 Note that this item's effects are in addition to the effects of rolling a natural double 1 or double 6 when making a Casting roll.
 
 ##### Glittering Wotnots  (Arcane Item)
+
 40 points
 Supposedly made from the shards of a shattered magic mirror, these gaudy gems hung from a Shaman's staff will sometimes reflect hostile magic back upon its caster.
 
 If the bearer (or their unit) is the target of an enemy spell, they may use the Glittering Wotnots instead of making a Wizardly dispel attempt. Roll a D6. On a roll of 1-3, the Glittering Wotnots have no effect and the spell is cast as normal. On a roll of 4+, the spell is reflected back upon the caster and they (and their unit) become the target of the spell. The caster may make a Wizardly dispel attempt.
 
 ##### Idol of Gork  (Arcane Item)
+
 40 points
 Before heading into a scrap, Orc and Goblin Shamans will craft small idols of Gork, the most brutal (but cunning) of deities to aid them in crumpin' their enemies and disrupting their magic.
 
 The bearer of the Idol of Gork increases the range of all of their spells by 3". Additionally, once per turn, the bearer of the Idol of Gork may re-roll a Casting roll.
 
 ##### Buzgob's Knobbly Staff  (Arcane Item)
+
 35 points
 The famed Great Shaman Buzgob once attempted to channel so much Waaagh! magic that he vanished in a flash of light, leaving behind only his staff and sticky green mist.
 
 Once per turn, the bearer of the Buzgob's Knobbly Staff may re-roll a Casting roll.
 
 ##### Idol of Mork  (Arcane Item)
+
 30 points
 On the eve of battle, Orc and Goblin Shamans often craft small idols of Mork, hoping that the most cunning (but brutal) of deities will watch over them.
 
 The bearer of the Idol of Mork increases their Dispel range by 3". Additionally, once per turn, when attempting a Wizardly dispel, the bearer of the Idol of Mork may re-roll the Dispel roll.
 
 ##### Da Hag's Brew  (Arcane Item)
+
 25 points
 Few are sure on exactly what goes into the foetid drink, but its effect is undeniable, imbuing the drinker with the ability to harness the dank magic of the Troll Hags.
 
@@ -948,4 +1068,3 @@ Orc Shamans, Goblin Shamans and Night Goblin Shamans only. In addition to the Lo
 ## Monster Units
 
 ## War Machine Units
-

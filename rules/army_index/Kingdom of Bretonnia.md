@@ -549,15 +549,19 @@ Any models within this army that have the option to purchase magic items may pur
 ## Narrative Battles
 
 ### The Battle of Matorea
+
 "With the darkness of night filling the skies, the black ships of Settra's fleet began to disgorge their Undead cargo onto the beaches before Matorea. As the royal host approached, Sir Cecil Gastonne, the Wyrm Slayer, looked to the west. From beyond the horizon, the knights of Brionne approached, though whether they would arrive to find the defenders embattled, or that Settra's forces had swept through Matorea and on towards distant Bretonnia, he could not say..."
 
 #### Historical Recreation
+
 The Battle of Matorea was fought between an army of Bretonnian Exiles led by Sir Cecil Gastonne, the Wyrm Slayer, and the undying legions of the Tomb Kings of Khemri, commanded by Settra the Imperishable himself. To represent this, the players should write three muster lists (one for the attacker and two for the defender) as follows:
 
 ##### The Attacker
+
 The attacker should write a single 3,000 points muster list using the Tomb Kings of Khemri Grand Army composition list found in Warhammer: the Old World - Ravening Hordes.
 
 ##### The Defender
+
 The defender should write two muster lists, one representing their main force, the other representing the rescue force:
 
 Main Force: The defender should write a 1,750 points muster list using the Bretonnian Exiles Army of Infamy composition list. The General of this army must be Sir Cecil Gastonne, the Wyrm Slayer.
@@ -571,22 +575,27 @@ The rescue force must include Lady Élisse Duchaard.
 Alternatively, this scenario may be played with any two armies of the players' choosing, in which case the defender must spend between 25% and 33% of their army's points value on an allied contingent to act as the rescue force.
 
 #### Set-up
+
 Place terrain as described. In addition, place a defensible position as shown on the map.
 
 Defensible Position: A defensible position is a hill measuring up to 16" at its widest point, featuring a single rock-strewn slope. A rock-strewn slope may be no more than 8" wide and counts as dangerous terrain. Atop the hill is a flat area measuring no more than 8" along its longest side. One edge of this flat area must be bordered by staked defences, as described below.
 
 #### Deployment
+
 The defender deploys their main force within the defender's deployment zone, as shown on the map. Once complete, the attacker deploys their entire army within the attacker's deployment zone.
 
 the-battle-of-matorea
 
 #### First Turn
+
 In this scenario, the attacker will automatically take the first turn.
 
 #### Game Length
+
 The battle will last for six rounds or until one side concedes.
 
 #### Scenario Special Rules
+
 Reinforcements: The defender's rescue force gains the Ambushers special rule. However, from the beginning of round two onwards, the defender rolls a single D6 for their entire rescue force during each of their Start of Turn sub-phases (rather than rolling a D6 for each individual unit). Upon its arrival, the entire rescue force enters the battle as reinforcements from the western board edge. In other words, all units within the rescue force must be placed on the edge of the battlefield to the right of the defender's deployment zone. Any units belonging to the rescue force that cannot be placed on the battlefield during the turn it arrives may be left in reserve and can be brought on as described previously during the following turn.
 
 Fresh from victory at the Citadel Bouelia, all units in the reserve force benefit from the Blessings of the Lady special rule without having to pray at the start of the game.
@@ -594,6 +603,7 @@ Fresh from victory at the Citadel Bouelia, all units in the reserve force benefi
 Staked Defences: Staked defences count as a low linear obstacle. However, unless it has the Fly (X) special rule, any unit that charges an enemy behind staked defences makes a disordered charge and becomes Disrupted. In addition, any model whose troop type is 'cavalry' or 'chariot' must make a Peril test (as if it had fled through an enemy unit) if it ends its charge move in base contact with staked defences.
 
 #### Victory!
+
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. In addition, at the end of the game:
 
 The defending player wins a bonus 250 Victory Points if there are no models belonging to the attacking player upon the flat area atop the defensible position.
@@ -609,6 +619,7 @@ The magical powers of the Handmaidens of the Lady all resemble religious observa
 A Wizard with the 'Lore of the Lady' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.
 
 #### The Lady's Gift (Signature Spell)
+
 As the Damsel prays solemnly to the Lady of the Lake, silvery light emanates from her most ardent followers, knitting their wounds and gilding their armour.
 
 | Type | Casting Value | Range |
@@ -618,6 +629,7 @@ As the Damsel prays solemnly to the Lady of the Lake, silvery light emanates fro
 Remains in Play. If this spell is cast with a casting result of 7 or more, the target friendly unit gains the Regeneration (6+) special rule. If this spell is cast with a casting result of 10 or more, the target friendly unit gains the Regeneration (5+) special rule. This spell may target a friendly unit engaged in combat.
 
 #### Burning Gaze (Signature Spell)
+
 Beams of cleansing white light flow from the Damsel's eyes, searing all traces of evil from her sight.
 
 | Type | Casting Value | Range |
@@ -627,6 +639,7 @@ Beams of cleansing white light flow from the Damsel's eyes, searing all traces o
 Draw a straight line, 5D6" in length, from the caster's base edge. Any enemy model whose base falls under this line suffers a single Strength 4 hit with no armour save permitted (Ward and Regeneration saves can be attempted as normal).
 
 #### The Lady's Wrath (Signature Spell)
+
 Enraged to see the lands of fair Bretonnia invaded by enemies, the Damsel invokes the wrath of the Lady of the Lake, strengthening the sword arms of her companions.
 
 | Type | Casting Value | Range |
@@ -644,84 +657,98 @@ The history of Bretonnia is replete with tales of honour and glory, and no tales
 To represent this, some models may be given a Knightly Virtue. A Virtue does not affect a model's mount (should it have one). Each Virtue may only be chosen once per army.
 
 ##### Virtue of Knightly Temper (Ability)
+
 70 points
 With a heart of stone and resolute temper Beren stood unbowed, each sweep of blade spilling the blood of many.
 
 During a turn in which it charged, a model with this Virtue gains the Extra Attacks (+D3) and Hatred (all enemies) special rules.
 
 ##### Virtue of Heroism (Ability)
+
 60 points
 Known as the Slayer of Monsters, Gilles fought and killed many great beasts that stalked the Massif Orcal, mounting their heads on the walls of his fastness.
 
 Unless using a magic weapon, a model with this Virtue gains the Killing Blow and Monster Slayer special rules.
 
 ##### Virtue of Stoicism (Ability)
+
 55 points
 Awe inspiring are the tales that tell of grim Lambard, standing alone against evil hordes to save his dukedom.
 
 A model with this Virtue (and its unit) may re-roll the 2D6 when making a Break test.
 
 ##### Virtue of the Penitent (Ability)
+
 50 points
 A penitent hermit-knight, Duke Corduin set aside his vows of solitude when summoned to fight for his king.
 
 Duke, Baron or Paladin only. A character with this Virtue gains the Unbreakable special rule. However, this character cannot join a friendly unit.
 
 ##### Virtue of the Ideal (Ability)
+
 45 points
 Unmatched was Landuin, his chivalry above all others. Alas, as great was his skill, so too was his arrogance.
 
 Duke, Baron or Paladin only. A character with this Virtue has a +1 modifier to its Weapon Skill, Initiative, Attacks and Leadership characteristics. However, this character cannot be your army's General or join a friendly unit.
 
 ##### Virtue of the Impetuous Knight (Ability)
+
 40 points
 In the glory of the charge was Balduin most alive. Though others better controlled their ardour, he was ever in the forefront of battle.
 
 A model with this Virtue gains the Impetuous special rule. In addition, this model (and its unit) increases its maximum possible charge range by 3". Finally, when this model (and its unit) makes a Charge roll, you may apply a +D3 modifier to the result.
 
 ##### Virtue of Audacity (Ability)
+
 35 points
 A master of feint and riposte, Agilgar's skill at turning an enemy's skill against them was legendary.
 
 A model with this Virtue may re-roll any failed rolls To Hit made against an enemy model with a higher Weapon Skill characteristic than it.
 
 ##### Virtue of Purity (Ability)
+
 30 points
 Chaste and untainted by base emotions, Duke Rademund was the Lady's most virtuous champion.
 
 A model with this Virtue always benefits from the Blessings of the Lady special rule and always has a 5+ Ward save, even if this model's army did not pray at the start of the game.
 
 ##### Virtue of Duty (Ability)
+
 25 points
 Most loyal of Companions, brave Duke Thierulf of Lyonesse did lament most painfully when Gilles did fall...
 
 Duke, Baron or Paladin only. Unless the General of their army has been removed from play as a casualty, when calculating its combat result, this character may claim a bonus of +1 combat result point. This character cannot be your army General or join a friendly unit.
 
 ##### Virtue of the Joust (Ability)
+
 20 points
 Great was Duke Folgar of Artois' skill at the tilt. None could withstand the thrust of his lance.
 
 A model with this Virtue may re-roll any failed rolls To Wound made when using a lance.
 
 ##### Virtue of Confidence (Ability)
+
 15 points
 Haughty, proud and skilful, Carleond of Couronne took never a backward step in the face of adversity.
 
 A model with this Virtue must always issue and accept challenges (if possible). During a challenge, this model may re-roll any failed rolls To Hit.
 
 ##### Virtue of Noble Disdain (Ability)
+
 10 points
 Fredemund held in pure contempt those that would strike at their enemy from afar with a coward's weapon.
 
 A model with this Virtue may re-roll any failed rolls To Hit made during the first round of combat when engaged with an enemy equipped with any missile weapons.
 
 ##### Virtue of Discipline (Ability)
+
 5 points
 Famed for his discipline, Marcus took to the field of battle undaunted by his enemies.
 
 A model with this Virtue (and its unit) can march whilst within 8" of an enemy unit without first having to make a Leadership test.
 
 ##### Virtue of Empathy (Ability)
+
 5 points
 A champion of the people, Martrud fought shoulder to shoulder with the peasants he protected.
 
@@ -732,7 +759,9 @@ Duke, Baron or Paladin only. A character with this Virtue can join a unit with t
 These magic items are unique to Kingdom of Bretonnia armies. These can be purchased by models within a Kingdom of Bretonnia army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook.
 
 #### Magic Weapons
+
 ##### Sword of the Quest (Magic Weapon)
+
 70 points
 This large hand-and-a-half sword has been passed down from knight to knight, aiding generations of heroes on their noble quests.
 
@@ -751,6 +780,7 @@ Double-Handed:
 Notes: The Sword of the Quest has two profiles. You must choose which the wielder will use at the start of each round of a combat.
 
 ##### Crusader's Lance (Magic Weapon)
+
 60 points
 In the hands of young Bretonnian heroes throughout the kingdom's many errantry wars, this keen lance has struck down scores of Orcs, Goblins and Beastmen.
 
@@ -761,6 +791,7 @@ In the hands of young Bretonnian heroes throughout the kingdom's many errantry w
 Notes: The Crusader's Lance may only be taken by a model in an Errantry Crusade Army of Infamy whose troop type is cavalry or monster only. The Crusader's Lance can only be used during a turn in which the wielder charged. In subsequent turns (or if the wielder did not charge), the model must use its hand weapon instead.
 
 ##### Sword of Heroes (Magic Weapon)
+
 60 points
 This mighty blade has powerful enchantments against evil bound into it. Its long and bloody history has seen its wielders kill enough fantastical creatures to fill a menagerie many times over.
 
@@ -771,6 +802,7 @@ This mighty blade has powerful enchantments against evil bound into it. Its long
 Notes: When making a roll To Wound for a hit caused with the Sword of Heroes, a roll of 5+ is always a success, regardless of the target's Toughness.
 
 ##### Heartwood Lance (Magic Weapon)
+
 50 points
 This unbreakable lance is crafted from the heart of the Major Oak, the largest tree in Bretonnia, which was shattered by lightning the moment Gilles was struck down.
 
@@ -781,6 +813,7 @@ This unbreakable lance is crafted from the heart of the Major Oak, the largest t
 Notes: Models whose troop type is cavalry or monster only. The Heartwood Lance can only be used during a turn in which the wielder charged. In subsequent turns (or if the wielder did not charge) the model must use its hand weapon instead.
 
 ##### Morning Star of Fracasse (Magic Weapon)
+
 40 points
 This mighty morning star has a hatred of magical trickery and unholy artefacts. It will entangle and rip a magic weapon from the hands of any foe.
 
@@ -791,6 +824,7 @@ This mighty morning star has a hatred of magical trickery and unholy artefacts. 
 Notes: Any magic weapon carried by an enemy model that suffers one or more unsaved wounds from the Morning Star of Fracasse is destroyed and cannot be used for the remainder of the game.
 
 ##### Frontier Axe (Magic Weapon)
+
 30 points
 Enchanted to ensure it never lost its razor-sharp edge while felling lumber, this tool, turned weapon of war, can sever limbs and sunder armour in a single swing.
 
@@ -801,6 +835,7 @@ Enchanted to ensure it never lost its razor-sharp edge while felling lumber, thi
 Notes: The Frontier Axe may only be taken by a model in a Bretonnian Exiles Army of Infamy.
 
 ##### Sword of the Stout Hearted (Magic Weapon)
+
 25 points
 Imbued with the courage of Gilles le Breton himself, this sword fills the wielder with the fortitude to face down any enemy.
 
@@ -809,6 +844,7 @@ Imbued with the courage of Gilles le Breton himself, this sword fills the wielde
 | Combat | S+2 | -1 | Armour Bane (1); Immune to Psychology; Magical Attacks; Requires Two Hands |
 
 ##### Foebreaker (Magic Weapon)
+
 20 points
 Even those tough enough to survive a pummeling from this mighty warhammer are left disoriented and staggered by its heavy blows, making them vulnerable to any further onslaught.
 
@@ -819,38 +855,46 @@ Even those tough enough to survive a pummeling from this mighty warhammer are le
 Notes: Any enemy model that suffers one or more unsaved wounds from the Foebreaker must immediately make a Toughness test. If the test is failed, the wounded model suffers a -1 modifier to its Weapon Skill and Attacks characteristics (to a minimum of 1) until the end of the next Combat phase.
 
 #### Magic Armour
+
 ##### Gilded Cuirass (Magic Armour)
+
 60 points
 Inscribed with the words of the Grail Vow, the blessings of the Lady shine upon the wearer.
 
 The Gilded Cuirass is a suit of heavy armour. In addition, its wearer has the Regeneration (5+) special rule.
 
 ##### Anointed Armour (Magic Armour)
+
 45 points
 Whilst the wearer's faith in the Lady of the Lake holds fast, so too shall the wards of protection placed upon this armour.
 
 Models with the Grail Vow whose troop type is infantry or cavalry only. The Anointed Armour is a suit of heavy armour. In addition, as long as the wearer has the Blessing of the Lady, they are immune to the Killing Blow and Multiple Wounds (X) special rules. If the wearer suffers an unsaved wound from an attack with either of these special rules, they lose a single Wound. Should the wearer ever lose the Blessing of the Lady, this effect is lost.
 
 ##### Gromril Great Helm (Magic Armour)
+
 40 points
 This ornate helm, a gift from the Dwarf King Grundhar, bears a potent rune of protection.
 
 May be worn with other armour. The wearer of the Gromril Great Helm improves their armour value by 1 (to a maximum of 2+). In addition, the wearer may re-roll any roll of a natural 1 made when making an Armour Save roll.
 
 ##### Ironspike Shield (Magic Armour)
+
 20 points
 Covered in large, sharpened spines, this deadly looking shield is as dangerous as any mace.
 
 The Ironspike Shield may only be taken by a model in a Bretonnian Exiles Army of Infamy. The Ironspike Shield is a shield. Whenever an opponent rolls a natural 1 To Hit or To Wound the wielder of the Ironspike Shield in combat, they immediately suffer a Strength 3 hit with an AP of -1.
 
 #### Talismans
+
 ##### Grail Pendant (Talisman)
+
 40 points
 The power of the Lady floods through her most devoted warriors, giving them strength to endure the most grievous wounds.
 
 Models with the Grail Vow only. Single use. When the wearer of the Grail Pendant loses their last Wound, roll a D6. On a roll of 2+, the Wound is not lost.
 
 ##### Lucky Heirloom* (Talisman)
+
 25 points
 Though it may appear as junk to others, some warriors dare not enter the fray without some charm they had about their person when they first escaped death.
 
@@ -859,92 +903,109 @@ A Lucky Heirloom may only be taken by a model in a Bretonnian Exiles Army of Inf
 *Extremely Common
 
 ##### Mantle of the Damsel Elena (Talisman)
+
 25 points
 Legend has it that Elena continued fighting the Goblin hordes even as the venom of a thousand spider bites coursed through her veins.
 
 The bearer is immune to the Poisoned Attacks special rule. If the bearer is wounded by an attack with this special rule, the attacker must roll To Wound as normal.
 
 ##### Sirienne's Locket (Talisman)
+
 25 points
 Sirienne, as skilled at conventional arts as she was at the art of magic, crafted this exquisite charm into a likeness of the Lady.
 
 Models whose troop type is infantry or cavalry only. The bearer is immune to the Multiple Wounds (X) special rule. If the bearer is wounded by an attack with this special rule, they suffer a single wound.
 
 #### Magic Standards
+
 ##### Banner of the Lady's Grace (Magic Standard)
+
 75 points
 This finely crafted standard depicts the Lady's first meeting with Gilles le Breton, the first king of Bretonnia, inspiring courage and valour in all who fight alongside it.
 
 A unit carrying the Banner of the Lady's Grace ignores all negative modifiers to its Leadership characteristic.
 
 ##### Valorous Standard (Magic Standard)
+
 60 points
 Knights who ride under this banner sing lustily and cry in joy for the sheer love of battle.
 
 A unit carrying the Valorous Standard rolls 3D6 when making a Break test and discards the highest result.
 
 ##### Conqueror's Tapestry (Magic Standard)
+
 40 points
 The morning after a battle, the victorious knights awaken to find their exploits depicted within this enchanted tapestry.
 
 Any enemy standard captured by a unit carrying the Conqueror's Tapestry is worth 100 Victory Points as a trophy of war.
 
 ##### Crusader's Tapestry (Magic Standard)
+
 40 points
 Those that fight beneath this silken banner are inspired to ever greater acts of heroism, hoping that maybe their own exploits will be woven into its rich history.
 
 The Crusader's Tapestry may only be taken by a model in an Errantry Crusade Army of Infamy. A unit carrying the Crusader's Tapestry gains the Frenzy special rule.
 
 ##### Errantry Banner (Magic Standard)
+
 30 points
 This tattered banner has travelled the length and breadth of the Old World and beyond, instilling its bearers with fiery zeal.
 
 All models in a unit carrying the Errantry Banner have a +1 modifier to their Strength characteristic during a turn in which they charge. However, the unit also gains the Impetuous special rule.
 
 ##### Banner of Honourable Warfare (Magic Standard)
+
 25 points
 Though no knight would ever take to the field of battle with bow or sling, those who fight under the banner pursue those who do with extreme prejudice.
 
 A unit carrying the Banner of Honourable Warfare must re-roll any failed rolls To Hit made during the first round of combat when engaged with an enemy equipped with any missile weapons.
 
 ##### Banner of the Zealous Knight (Magic Standard)
+
 25 points
 Filled with religious vigour, those who ride into battle under this imposing standard are eager to close with the enemy as swiftly as possible.
 
 The Banner of the Zealous Knight may only be taken by a model in a Bretonnian Exiles Army of Infamy. A unit carrying the Banner of the Zealous Knight gains the Vanguard special rule.
 
 ##### Banner of Châlons (Magic Standard)
+
 20 points
 Awestruck enemies are unable to tear their gaze away from this magnificent banner.
 
 Enemy units cannot declare a Stand & Shoot charge reaction against a unit carrying the Banner of Châlons.
 
 #### Enchanted Items
+
 ##### Falcon-horn of Fredemund (Enchanted Item)
+
 40 points
 This ancient horn was used by the Grail Companion, Duke Fredemund of Aquitaine. When blown, it emits a piercing cry, and the skies become filled with flocks of hunting birds.
 
 Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of the Falcon-horn of Fredemund may attempt to use it by making a Leadership test (using their own unmodified Leadership). If this test is passed, until your next Start of Turn sub-phase enemy units cannot use the Fly (X) special rule.
 
 ##### The Seal of Parravon (Enchanted Item)
+
 35 points
 Those with the skill-at-arms to win the famed tourney of Parravon are masters of their chosen weapons and carry the Seal of Parravon as a token of their victory.
 
 When the bearer of the Seal of Parravon makes a roll To Hit, a roll of a 3+ is always a success, regardless of the target's Weapon Skill.
 
 ##### Antlers of the Great Hunt (Enchanted Item)
+
 25 points
 The knight's helm is adorned with a splendid set of antlers, the quarry of a great hunt slain by the wearer. The antlers denote exceptional prowess as a horseman and hunter.
 
 If the wearer of the Antlers of the Great Hunt is mounted on a Barded Warhorse or a Warhorse, they and any unit they join gains the Move Through Cover special rule.
 
 ##### Crusader's Clarion (Enchanted Item)
+
 25 points
 Upon hearing the sound of this gilded trumpet, the warhorses beneath the gallant knights of Bretonnia thunder into battle with renewed strength and vigour.
 
 The Crusader's Clarion may only be taken by a model in an Errantry Crusade Army of Infamy that is mounted on a Bretonnian Warhorse only. On a turn in which the bearer of the Crusader's Clarion charged, their mount and all mounts in the unit they have joined have a +1 modifier to their Strength characteristic.
 
 ##### Wyrmbreath Vial (Enchanted Item)
+
 20 points
 By consuming the deep red liquid contained within this vial, it is said that the drinker can summon forth the fury of the great Dragons that dwell in the mountain ranges surrounding the Border Princes.
 
@@ -955,6 +1016,7 @@ A Wyrmbreath Vial may only be taken by a model in a Bretonnian Exiles Army of In
 | N/A | 4 | -1 | Breath Weapon; Flaming Attacks; Magical Attacks |
 
 ##### Gauntlet of the Duel* (Enchanted Item)
+
 5 points
 When cast down, this enchanted gauntlet magnifies even the tiniest scrap of pride or conceit into a surge of righteous self-belief.
 
@@ -963,25 +1025,30 @@ Challenges issued by the bearer of a Gauntlet of the Duel cannot be refused.
 *Extremely Common
 
 #### Arcane Items
+
 ##### Heart of the Wilds (Arcane Item)
+
 40 points
 Gifted to Damsel Elliea long ago by the Wood Elves of Athel Loren, this thrumming, mossy stone flows with magical power, drawing upon the strength of nature to fuel its wielder's arcane efforts.
 
 The bearer of the Heart of the Wilds may apply a +1 modifier to any of their Casting rolls whilst within any 'natural' terrain feature. For the purposes of this rule, a 'natural' terrain feature includes any woods, or any difficult or dangerous terrain. It does not include any constructions, such as walls or buildings. Before the game starts, the players should agree upon which terrain features are natural and which are not.
 
 ##### Diadem of Power (Arcane Item)
+
 35 points
 When accompanying their baron's knights into battle, damsels and prophetesses have donned this jewel-studded band to help them channel the more destructive power that they wield in order to smite the Lady's enemies.
 
 The Diadem of Power may only be taken by a model in an Errantry Crusade Army of Infamy. When attempting to cast a Magical Vortex, Magic Missile or an Assailment spell, the bearer of the Diadem of Power gains a +1 modifier to their Casting roll.
 
 ##### Silver Mirror (Arcane Item)
+
 35 points
 This lethal trinket is at first sight merely a vanity mirror, but woe betide the magic user that underestimates its true abilities...
 
 Single use. The bearer of the Silver Mirror may use it when attempting a Wizardly dispel. If they do so, roll an extra D6 when making the Dispel roll and discard the lowest result. If a double 1 is rolled on any two of the dice rolled, the bearer is outclassed in the art and the dispel attempt fails. If the dispel attempt is successful, the spell is dispelled and the casting Wizard suffers a Strength 4 hit with an AP of -2.
 
 ##### Sacrament of the Lady* (Arcane Item)
+
 30 points
 These thin, translucent wafers have been blessed by the Lady herself and imbued with a fragment of her power.
 
@@ -992,12 +1059,14 @@ Note that this is a modifier to the result of a roll - it does not negate a roll
 *Extremely Common
 
 ##### Prayer Icon of Quenelles (Arcane Item)
+
 25 points
 When opened, this prayer icon displays a meticulously rendered image of the Lady that inspires unfettered devotion.
 
 The bearer of the Prayer Icon of Quenelles increases their Dispel range by 3". Additionally, when attempting to dispel a Hex spell, the bearer of the Prayer Icon of Quenelles gains a +1 modifier to their Dispel roll.
 
 ##### Flamestrike Wand (Arcane Item)
+
 15 points
 Crafted from the charred branch of an ancient oak that was almost totally consumed in a forest fire, this wand allows the bearer to summon forth that same devastating inferno.
 
@@ -1018,4 +1087,3 @@ The Flamestrike Wand may only be taken by a model in a Bretonnian Exiles Army of
 ## Monster Units
 
 ## War Machine Units
-

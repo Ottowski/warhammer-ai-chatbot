@@ -1,6 +1,5 @@
 # Warhammer: The Old World - Battlefield Terrain
 
-
 Terrain plays an important role in games of Warhammer: the Old World, helping to set the scene and evoke the feeling of a battle fought in a fantasy realm. Whilst battlefields need not be densely covered in terrain, carefully placed and thematic terrain is essential, and cunning generals will learn to use it to their advantage.
 
 ## How Much Terrain?

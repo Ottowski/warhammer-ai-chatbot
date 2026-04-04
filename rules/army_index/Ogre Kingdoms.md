@@ -3,64 +3,77 @@
 ## Special Rules
 
 ### Bellowers & Musicians
+
 "Rather than using instruments, most Ogre musicians belong to a special caste known as Bellowers. As their name implies, a Bellower's instrument is their voice and lungs, with which they can make an incredible noise, even if only another Ogre would find it musical."
 
 ### Blessings of the Volcano God
+
 "Every aspiring Firebelly must enter the caldera of the titanic volcano, Fire Mouth, where the heat is such that their hair is burnt from their bodies. There they must fill a crucible with roiling lava and down it in a single draught. Only those with the blessing of the volcano god can survive."
 
 A model with this special rule has a 4+ Ward save against any wounds suffered that were caused by an attack that has the Flaming Attacks special rule.
 
 ### Bull Charge
+
 "The sheer bulk of an Ogre Tyrant or Bruiser is such that the enemy is often crushed by the force of their charge alone."
 
 Impact Hits caused by this model (but not its mount) have an Armour Piercing characteristic of -1.
 
 ### Butcher's Cauldron
+
 "Some Emissaries of the Great Maw drag behind them huge cauldrons, used to make offerings to their ravenous god."
 
 This character replaces the Impact Hits (2) special rule with the Impact Hits (D3+1) special rule. In addition, during the Command sub-phase of their turn, if they are not engaged in combat, a character with a Butcher's Cauldron may attempt to make an offering to the Great Maw by making a Leadership test (using their own Leadership). If this test is passed, until your next Start of Turn sub-phase this character and any unit they have joined gains the Regeneration (5+) special rule. However, if this test is failed, this character immediately loses a single Wound.
 
 ### Largely Insignificant
+
 "No matter how many Gnoblars meet violent ends, there always seems to be plenty more. Consequently, the usual response to the plight of a Gnoblar is laughter."
 
 Units with this special rule never cause friendly units to make Panic tests. However, a unit with this special rule cannot be joined by a character without this special rule.
 
 ### Look-out Gnoblar
+
 "Gnoblars are often coerced to climb into makeshift crow's-nests at the top of Ogre banners. From their precarious perch, the Gnoblar is expected to give warning to the Ogres below of incoming enemy fire."
 
 A champion or character that has joined a unit with this special rule may make a "Look Out, Sir!" roll if there are two or more rank and file models in the unit (rather than the usual five). In addition, you may re-roll a "Look Out, Sir!" roll if there are five or more rank and file models in the unit.
 
 ### Mournfang Charge
+
 "Driven by the momentum of the charge, the monstrous tusks of a Mournfang pierce through armour with ease to gore the enemy deeply."
 
 Impact Hits caused by a model with this special rule have the Armour Bane (1) special rule and an Armour Piercing characteristic of -1.
 
 ### Numbing Chill
+
 "The Mountains of Mourn are deathly cold, and the terrible chill of the high peaks clings eternally to the hide of the creatures that dwell there."
 
 Whilst in base contact with this model, enemy models suffer a -1 modifier to their Weapon Skill and Initiative characteristics, to a minimum of 1.
 
 ### Ravenous Hunger
+
 "When a Gorger latches onto the scent of its prey, it becomes an unstoppable juggernaut intent on nothing other than feasting on a banquet of flesh and blood."
 
 When a Gorger declares a charge, it may re-roll its Charge roll.
 
 ### Running with the Pack
+
 "Many Hunters tame and train Sabretusks, running alongside large packs of the savage felines to chase down prey."
 
 A Hunter that joins a unit of Sabretusks gains the Swiftstride special rule for as long as they remain with the unit. In addition, for as long as the Hunter remains with the unit, the Sabretusks lose the Impetuous special rule.
 
 ### Stone Skeleton
+
 "A Stonehorn is akin to a living fossil, its massive skeleton having hardened to rock."
 
 This model is less vulnerable to the Multiple Wounds (X) special rule. If it suffers an unsaved wound from an attack with this special rule, reduce the number of Wounds lost by 1, to a minimum of 1.
 
 ### Thunderous Charge
+
 "The ground trembles and shakes beneath the thunderous charge of a Stonehorn."
 
 Impact Hits caused by this model have an Armour Piercing characteristic of -2.
 
 ### Traps & Snares
+
 "Endlessly opportunistic, Gnoblar Trappers deploy a wide array of snares and traps wherever they go. This habit can prove quite perilous to any enemy or predator that ventures too close."
 
 Any enemy model that ends its charge move in base contact with a model with this special rule must make a Dangerous Terrain test.
@@ -68,11 +81,13 @@ Any enemy model that ends its charge move in base contact with a model with this
 ## Weapons of War
 
 ### Blood Vulture
+
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 36" | 4 | -1 | Ignores Cover, Move & Shoot, Quick Shot |
 
 ### Brace of Ogre Pistols
+
 "As with most races that make use of black powder weapons, those Ogres that can carry two pistols invariably will. Ogres armed in this way will fire a quick volley of shots into the ranks of the enemy before reversing their grip upon the spent weapons and using them as brutal clubs."
 
 Ranged:
@@ -90,6 +105,7 @@ Combat:
 Notes: A brace of Ogre pistols has two profiles, representing how the weapons are used in combat.
 
 ### Cannon of the Sky-Titans
+
 "A cannon of the Sky-titans, despite being wielded crudely by Ogres, is actually a very robust and sophisticated weapon. It can fire whole clutches of cannonballs at once, allowing it to do a tremendous amount of damage, although its range is limited."
 
 Solid Shot:
@@ -113,16 +129,19 @@ Notes: A Cannon of the Sky-Titans has two profiles, representing its two modes o
 | 4-6 | Ack! Through its own ineptitude, the Gnoblar Scrapper has become stuck in the mechanism. The model does not shoot this turn and cannot shoot with this weapon during the next round. |
 
 ### Chaintrap
+
 | Range | Strength | Armour Piercing | Special Rules |
 |---|---|---|---|
 | 12" | S+1 | - | Killing Blow |
 
 ### Chill Breath
+
 | Range | Strength | Armour Piercing | Special Rules |
 |---|---|---|---|
 | N/A | 2 | -1 | Breath Weapon, Multiple Wounds (D3) |
 
 ### Distensible Jaw
+
 | Range | Strength | Armour Piercing | Special Rules |
 |---|---|---|---|
 | Combat | S | - | Killing Blow |
@@ -130,26 +149,31 @@ Notes: A Cannon of the Sky-Titans has two profiles, representing its two modes o
 Notes: In combat, this model must make one of its attacks each turn with this weapon.
 
 ### Flaming Breath (Ogre Kingdoms)
+
 | Range | Strength | Armour Piercing | Special Rules |
 |---|---|---|---|
 | N/A | 4 | -1 | Breath Weapon, Flaming Attacks |
 
 ### Great Throwing Spears
+
 | Range | Strength | Armour Piercing | Special Rules |
 |---|---|---|---|
 | 12" | S+1 | -1 | Move & Shoot, Quick Shot |
 
 ### Great Tusks
+
 | Range | Strength | Armour Piercing | Special Rules |
 |---|---|---|---|
 | Combat | S | -1 | Armour Bane (2) |
 
 ### Grimfrost Weapon
+
 | Range | Strength | Armour Piercing | Special Rules |
 |---|---|---|---|
 | Combat | S | -1 | Armour Bane (1), Magical Attacks |
 
 ### Harpoon Launcher
+
 "A harpoon launcher is a huge crossbow that fires a long and heavy barbed bolt. Many Ogres attach long coils of rope to these bolts, tethering prey so that it cannot escape."
 
 | Range | Strength | Armour Piercing | Special Rules |
@@ -157,11 +181,13 @@ Notes: In combat, this model must make one of its attacks each turn with this we
 | 36" | 6 | -2 | Multiple Wounds (D3), Ponderous |
 
 ### Horns of Stone
+
 | Range | Strength | Armour Piercing | Special Rules |
 |---|---|---|---|
 | Combat | S | -2 | - |
 
 ### Ironfist
+
 "Many Ogres wrap their off-hand and forearm in heavy gauntlets of spiked iron and thick plates of armour. They use these brutal implements both as a weapon and as protection, swinging their mighty fists to clobber their victims and fend off their futile attempts at retaliation."
 
 | Range | Strength | Armour Piercing | Special Rules |
@@ -171,6 +197,7 @@ Notes: In combat, this model must make one of its attacks each turn with this we
 Notes: An Ironfist is an additional hand weapon. In addition, a model equipped with an Ironfist improves its armour value by 1. An Ironfist cannot be used alongside a magic weapon to gain an extra attack, or to improve the wielder's armour value.
 
 ### Leadbelcher Gun
+
 Solid Shot:
 
 | Range | Strength | Armour Piercing | Special Rules |
@@ -186,11 +213,13 @@ Scatter Shot:
 Notes: A Leadbelcher gun has two profiles, representing its two modes of firing. If the roll To Hit is successful when firing scatter shot, a leadbelcher gun causes D3 hits to the target enemy unit, rather than the usual one.
 
 ### Monstrous Tusks
+
 | Range | Strength | Armour Piercing | Special Rules |
 |---|---|---|---|
 | Combat | S | -1 | Armour Bane (1) |
 
 ### Scraplauncher Catapult
+
 "Despite its appearance, a Scraplauncher catapult is a devastating engine of destruction that launches bundles of broken weapons and shards of scrap-metal into the tightly packed ranks of the enemy."
 
 | Range | Strength | Armour Piercing | Special Rules |
@@ -208,12 +237,15 @@ Notes: This weapon shoots like a stone thrower, using the Bombardment special ru
 ## Warhammer Armies
 
 ### Ogre Kingdoms Legacy Army List
+
 "This section details the Grand Army composition list for the Ogre Kingdoms. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force."
 
 This army list is intended for use alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook.
 
 #### Grand Army Composition List
+
 ##### Characters
+
 Up to 50% of your army's points value may be spent on:
 
 0-1 Tyrant or Slaughtermaster per 1,000 points
@@ -221,6 +253,7 @@ Up to 50% of your army's points value may be spent on:
 Bruisers, Butchers, Hunters and Firebellies
 
 ##### Core
+
 At least 25% of your army's points value must be spent on:
 
 1+ Ogre Bulls
@@ -228,6 +261,7 @@ At least 25% of your army's points value must be spent on:
 Ironguts, Gnoblar Fighters, Gnoblar Trappers and Sabretusk Packs
 
 ##### Special
+
 Up to 50% of your army's points value may be spent on:
 
 Leadbelchers and Yhetees
@@ -243,6 +277,7 @@ Ironblaster
 Gnoblar Scraplauncher
 
 ##### Rare
+
 Up to 25% of your army's points value may be spent on:
 
 0-1 Thundertusk Riders per 1,000 points
@@ -254,6 +289,7 @@ Up to 25% of your army's points value may be spent on:
 Giants
 
 ##### Mercenaries
+
 Up to 20% of your army's points value may be spent on mercenaries, including:
 
 Badlands Ogre Bulls
@@ -261,16 +297,19 @@ Badlands Ogre Bulls
 Note that mercenary units drawn from another army list gain the Mercenaries special rule and become subject to the Misbehaving Mercenaries rules.
 
 ##### Allies
+
 Up to 25% of your army's points value may be spent on a single allied contingent drawn from one of the following Grand Army composition lists:
 
 Orc & Goblin Tribes
 
 #### Battle Standard Bearer
+
 A single Bruiser in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
 ## Narrative Battles
 
 ### [Narrative Rule or Scenario]
+
 "Narrative description."
 
 Narrative rules text goes here.
@@ -278,11 +317,13 @@ Narrative rules text goes here.
 ## The Lores of Magic
 
 ### Lore of the Great Maw
+
 "Emissaries of the Great Maw suck marrow from cracked bones or stuff huge chunks of raw meat into their mouths to aid their magical abilities. As they do, those around them feel replenished, the gnawing hunger that eternally chews at their guts subsiding."
 
 A Wizard with the 'Lore of the Great Maw' special rule may discard one of their randomly generated spells as normal. When they do so, they may select instead either the signature spell of their chosen Lore of Magic, or one of the spells listed below.
 
 #### Toothcracker (Signature Spell)
+
 "Consuming a chunk of granite, the Butcher bestows the rock's resilience upon their brethren."
 
 | Type | Casting Value | Range |
@@ -292,6 +333,7 @@ A Wizard with the 'Lore of the Great Maw' special rule may discard one of their 
 If this spell is cast with a casting result of 7 or more, the target friendly unit gains a +1 modifier to its Toughness characteristic (to a maximum of 10). If this spell is cast with a casting result of 10 or more, the target friendly unit gains a +2 modifier to its Toughness characteristic (to a maximum of 10). This spell lasts until the end of this turn.
 
 #### Trollguts (Signature Spell)
+
 "Downing the repulsive innards of a Troll, the Butcher grants the beast's healing ability onto their companions."
 
 | Type | Casting Value | Range |
@@ -303,11 +345,13 @@ If this spell is cast with a casting result of 8 or more, the target friendly un
 ## Magic Items (and Abilities)
 
 ### Big Names
+
 "Some Ogres gain such renown that they literally earn a name for themselves. Whilst many Ogres will be awarded humble or humorous nicknames based upon their achievements, some can earn truly grandiose titles that inspire awe in their kin."
 
 To represent this, some characters drawn from the Ogre Kingdoms army list may be given a Big Name, chosen from those detailed below. Each Big Name gives the character certain benefits in the form of modified characteristics and additional special rules:
 
 ##### Mawseeker (Ability)
+
 30 points
 
 "Those tough enough to survive the pilgrimage to the Great Maw often return with part of themselves eaten away."
@@ -315,6 +359,7 @@ To represent this, some characters drawn from the Ogre Kingdoms army list may be
 Models whose troop type is infantry only. This character has a +1 modifier to their Toughness characteristic. However, this character is also subject to the Stupidity special rule.
 
 ##### Mountaineater (Ability)
+
 25 points
 
 "Those able to scale the tallest peaks ritually consume part of the mountain to mark their conquest."
@@ -322,6 +367,7 @@ Models whose troop type is infantry only. This character has a +1 modifier to th
 Models whose troop type is infantry only. This character cannot be wounded by a roll To Wound of 2, regardless of the Strength of the attack.
 
 ##### Giantbreaker (Ability)
+
 20 points
 
 "Any Ogre that has defeated a Giant in hand-to-hand combat can be, justifiably, supremely confident in their abilities."
@@ -329,6 +375,7 @@ Models whose troop type is infantry only. This character cannot be wounded by a 
 This character (but not their mount) has a +1 modifier to their Strength characteristic. However, this character cannot refuse a challenge and neither they, nor any unit they have joined, can Flee as a charge reaction.
 
 ##### Kineater (Ability)
+
 15 points
 
 "Having achieved their rank by killing and eating a member of their own family in a pit fight, Kineaters are considered ruthless even by their own tribe."
@@ -336,6 +383,7 @@ This character (but not their mount) has a +1 modifier to their Strength charact
 Army General only. Unless this character is fleeing, friendly models within this character's Command range may re-roll any failed Panic or Rally test.
 
 ##### Longstrider (Ability)
+
 10 points
 
 "A Longstrider has hunted on the slopes of the mountains for decades, and is even capable of running down a sprinting ice elk."
@@ -343,6 +391,7 @@ Army General only. Unless this character is fleeing, friendly models within this
 Models whose troop type is infantry only. This character has a +1 modifier to their Movement characteristic.
 
 ##### Beastkiller (Ability)
+
 5 points
 
 "As a sign of their prowess as a hunter of monsters, a Beastkiller will adorn their body with trophy horns and tusks."
@@ -350,6 +399,7 @@ Models whose troop type is infantry only. This character has a +1 modifier to th
 Once per turn, this character may re-roll a single failed roll To Wound made against an enemy model with the Large Target special rule.
 
 ##### Deathcheater (Ability)
+
 5 points
 
 "An Ogre that has escaped certain doom is considered blessed by the Great Maw. Not surprisingly, Deathcheaters tend to have impressive scars."
@@ -357,10 +407,13 @@ Once per turn, this character may re-roll a single failed roll To Wound made aga
 Once per game, you may make your opponent re-roll a single roll To Wound made against this character.
 
 ### Ogre Kingdoms Magic Items
+
 "These magic items are unique to Ogre Kingdoms armies. These can be purchased by models within an Ogre Kingdoms army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook."
 
 #### Magic Weapons
+
 ##### Thundermace (Magic Weapon)
+
 90 points
 
 "Chiselled from a foundation stone taken from the base of a skycastle and bound with meteoric iron, the weight of a collapsing castle explodes from the head of the Thundermace."
@@ -372,6 +425,7 @@ Once per game, you may make your opponent re-roll a single roll To Wound made ag
 Notes: Rather than attacking normally, the wielder of the Thundermace may choose to make a special 'Thunderstrike' attack. If they do, make a single roll To Hit. If this is successful, place a small (3") blast template so that its central hole is directly over the centre of the hit unit. Any enemy model whose base lies underneath the template risks being hit by this weapon.
 
 ##### Tenderiser (Magic Weapon)
+
 70 points
 
 "The destructive power bound into the twin heads of this massive two-ended club is enough to shatter a boulder with one strike."
@@ -381,6 +435,7 @@ Notes: Rather than attacking normally, the wielder of the Thundermace may choose
 | Combat | S+2 | -3 | Extra Attacks (+1), Magical Attacks, Multiple Wounds (D3), Strike Last |
 
 ##### Skullplucker (Magic Weapon)
+
 45 points
 
 "This heavy, spiked metal gauntlet was once worn by Big Agi Skullplucker, who enjoyed nothing more than twisting his enemies' heads off with this nasty-looking, bloodstained glove."
@@ -390,6 +445,7 @@ Notes: Rather than attacking normally, the wielder of the Thundermace may choose
 | Combat | S | - | Killing Blow, Magical Attacks, Strike First |
 
 ##### Bloodcleaver (Magic Weapon)
+
 30 points
 
 "This revolting, gore-encrusted weapon possesses a Vampiric energy, channelling the life force from its victims into its wielder."
@@ -401,7 +457,9 @@ Notes: Rather than attacking normally, the wielder of the Thundermace may choose
 Notes: Emissaries of the Great Maw only. If the wielder of the Bloodcleaver causes one or more unsaved wounds during the Combat phase, they recover a single lost Wound.
 
 #### Magic Armour
+
 ##### Gut Maw (Magic Armour)
+
 45 points
 
 "The wearer of this polished gut-plate is reinvigorated by the life force of their defeated enemies."
@@ -409,6 +467,7 @@ Notes: Emissaries of the Great Maw only. If the wielder of the Bloodcleaver caus
 The Gut Maw is a suit of heavy armour. In addition, for each unsaved wound the wearer causes during a Challenge, they recover a single lost Wound.
 
 ##### Mastodon Armour (Magic Armour)
+
 40 points
 
 "This massive suit of armour was forged by the Chaos Dwarfs in exchange for many captives."
@@ -416,7 +475,9 @@ The Gut Maw is a suit of heavy armour. In addition, for each unsaved wound the w
 The Mastodon Armour is a suit of full plate armour. In addition, its wearer has a 6+ Ward save against any wounds suffered.
 
 #### Talismans
+
 ##### Spangleshard (Talisman)
+
 35 points
 
 "This dirt-encrusted and tarnished bauble barely resembles the fine Elven ornament it once was, but its protective powers still linger."
@@ -424,6 +485,7 @@ The Mastodon Armour is a suit of full plate armour. In addition, its wearer has 
 The Spangleshard gives its bearer a 4+ Ward save against any wounds suffered. However, if a natural 1 is rolled, the Spangleshard is destroyed and it cannot be used again.
 
 ##### Cathayan Jet Pendant* (Talisman)
+
 10 points
 
 "Finely crafted Cathayan jet pendants are believed to protect against all forms of hostile magic."
@@ -433,7 +495,9 @@ A Cathayan Jet Pendant gives its bearer a 6+ Ward save against any wounds suffer
 *Extremely Common
 
 #### Magic Standards
+
 ##### Dragonhide Banner (Magic Standard)
+
 45 points
 
 "This tattered trophy of a vanquished dragon passes its former owner's legendary ferocity onto its bearers."
@@ -441,6 +505,7 @@ A Cathayan Jet Pendant gives its bearer a 6+ Ward save against any wounds suffer
 A unit carrying the Dragonhide Banner may re-roll any rolls To Hit of a natural 1. In addition, a unit carrying the Dragonhide Banner has the Flaming Attacks special rule.
 
 ##### Rune Maw (Magic Standard)
+
 40 points
 
 "Hung with stolen Dwarfen talismans, the Rune Maw roars its anger when it detects magic."
@@ -448,6 +513,7 @@ A unit carrying the Dragonhide Banner may re-roll any rolls To Hit of a natural 
 When an enemy Wizard chooses a unit carrying the Rune Maw as the target of a spell, roll a D6. On a 3+, the Wizard's controlling player must choose another target. If there is no other viable target in range, the spell cannot be cast.
 
 ##### Cannibal Totem (Magic Standard)
+
 30 points
 
 "The Cannibal Totem protects those who devour the strong in honour of the Great Maw."
@@ -455,6 +521,7 @@ When an enemy Wizard chooses a unit carrying the Rune Maw as the target of a spe
 A unit carrying the Cannibal Totem gains the Regeneration (5+) special rule, but rolls only a single D6 when making a Pursuit roll (rather than the usual 2D6).
 
 ##### Bull Standard (Magic Standard)
+
 20 points
 
 "The Bull Standard lends the strength of a charging Rhinox to the Ogres that march beneath it."
@@ -462,7 +529,9 @@ A unit carrying the Cannibal Totem gains the Regeneration (5+) special rule, but
 A unit carrying the Bull Standard may re-roll any failed rolls To Wound when resolving Impact Hits.
 
 #### Enchanted Items
+
 ##### Jade Lion (Enchanted Item)
+
 25 points
 
 "Jade Lions are revered in Cathay for their bravery, and amulets carved into their likeness inspire great courage."
@@ -470,6 +539,7 @@ A unit carrying the Bull Standard may re-roll any failed rolls To Wound when res
 The bearer of the Jade Lion and their unit may re-roll any failed Fear, Panic, Rally or Terror test.
 
 ##### Daemon-Slayer Scars* (Enchanted Item)
+
 20 points
 
 "Daemonic beasts are hunted in the Warpstone Desert and bled into lead jars. This acidic ichor is used as warpaint, giving the wearer a truly terrifying appearance."
@@ -479,6 +549,7 @@ The bearer of Daemon-slayer Scars gains the Terror special rule.
 *Extremely Common
 
 ##### Fistful of Laurels* (Enchanted Item)
+
 15 points
 
 "Symbols of leadership snatched from the corpses of enemy commanders impress Ogres only briefly."
@@ -488,7 +559,9 @@ Single use. The bearer of a Fistful of Laurels and their unit may re-roll the 2D
 *Extremely Common
 
 #### Arcane Items
+
 ##### Grut's Sickle (Arcane Item)
+
 40 points
 
 "Swinging the sickle of Grut the Bloodthirsty, a Butcher fuels their magic with the blood of their kin."
@@ -498,6 +571,7 @@ After making a Casting roll, the bearer of Grut's Sickle may use it to roll an a
 Note that the result of this additional D3 cannot cause a miscast or a perfect invocation.
 
 ##### Halfling Cookbook (Arcane Item)
+
 30 points
 
 "The culinary secrets contained within the Halfling Cookbook are a source of great power."
@@ -505,6 +579,7 @@ Note that the result of this additional D3 cannot cause a miscast or a perfect i
 The bearer of the Halfling Cookbook increases their Command range, Dispel range and the range of a single spell chosen by their controlling player (not including range self spells) by 3".
 
 ##### Hellheart (Arcane Item)
+
 20 points
 
 "Biting into the heart of a Chaos Spawn, the Ogre creates a vortex of magical anarchy."
@@ -526,4 +601,3 @@ Single use. During the Command sub-phase of their turn, the bearer of the Hellhe
 ## Monster Units
 
 ## War Machine Units
-
