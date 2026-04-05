@@ -345,7 +345,7 @@ The Charmed Shield is a shield. In addition, once per game the Charmed Shield gi
 
 *Extremely Common
 
-## Talismans
+## Talismans (Category)
 
 Talismans are tokens of magical protection, worn by warriors to protect them from harm both physical and magical.
 
@@ -406,7 +406,7 @@ Single use. The bearer of a Luckstone can re-roll a single failed Armour Save ro
 
 *Extremely Common
 
-## Magic Standards
+## Magic Standards (Category)
 
 Some units have the option to purchase magic standards. To do so, the unit must include a standard bearer. The only character that can carry a magic standard is your army's Battle Standard Bearer.
 
@@ -473,7 +473,7 @@ A proud banner of great age. Those that march beneath the War Banner fight with 
 
 When calculating its combat result, a unit carrying the War Banner may claim an additional bonus of +1 combat result point.
 
-## Enchanted Items
+## Enchanted Items (Category)
 
 The enchanted items category includes all manner of wonderful artefacts too unique or specific to be included in another category. Enchanted items are often amongst the most prized magical items a character might possess.
 
@@ -582,7 +582,7 @@ Single use. During the Command sub-phase of their turn, the bearer of a Potion o
 
 *Extremely Common
 
-## Arcane Items
+## Arcane Items (Category)
 
 Arcane items are items that enhance a Wizard's magical powers in some fashion. Only Wizards can purchase Arcane Items.
 
