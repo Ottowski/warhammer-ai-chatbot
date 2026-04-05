@@ -83,7 +83,7 @@ But what of the story itself? Why are these armies meeting to do battle and wher
 The table below suggests six locations in which a battle could be fought. Using these, you can create a thematic battlefield that offers unique challenges. It is also possible (even encouraged) to combine these ideas in different ways:
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1 | Riverbank: One side of the battlefield (short or long) can be treated as impassable terrain, representing the fast flowing waters. Perhaps two adjacent edges could be impassable terrain, representing the battle taking place where the river bends. Such a battlefield might feature areas of difficult or dangerous terrain, representing the muddy banks. |
 | 2 | Forest Glade: The battlefield might be ringed around its edge with woods. The dense wood might cause reserves to get lost in the forest and arrive at randomly determined locations. The same may be true of units that pursue the enemy off the battlefield – they may become lost and not return immediately, if at all. |
 | 3 | Mountain Fastness: The battlefield should be long and narrow, and at least two of its edges treated as impassable terrain. The rest of the battlefield might be populated with difficult and dangerous terrain in the form of rocky ground. If the ground is steep, the entire battlefield could count as sloping away from one edge, giving an advantage to the side that controls it. |
@@ -98,7 +98,7 @@ The Narrative Motives table presents six reasons why two armies are meeting in c
 Using the suggestions given here and combining them with the Narrative Locations table, you can create a scenario that gives a battle a true sense of significance:
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1 | Border Dispute: Disagreements over the exact location of a border are common and they can be sparked by almost anything. Such disputes can quickly lead to bloodshed; their outcome can see borders move and cause tremendous upheaval. On the tabletop, a border dispute can be represented very simply with one army trying to drive its rival off and claim victory. |
 | 2 | Lost Riches: The world contains many tremendous riches, and sometimes new wealth is discovered or lost wealth unearthed. In game terms, this could be represented by placing several objectives around the battlefield, each representing a cache of buried riches or a natural deposit of precious stones or metals. The winning player would be the one whose army controls the most objectives at the battle’s end. |
 | 3 | Nowhere to Run: Tales of desperate last stands by beleaguered armies are the stuff of legend. On the tabletop, an army might be unable to retreat, forced to deploy on the banks of a mighty river or against an impassable cliff face, where it must fight to the death. Alternatively, an army might deploy in the centre of the battlefield, surrounded by its enemy. |
@@ -172,7 +172,7 @@ Surprise Battle: Due to the surprise of encountering an unexpected enemy, any un
 
 Reserves: Reserves are not deployed at the start of the battle. Instead they can enter play during the Compulsory Moves sub-phase of any turn – including the first – of their controlling player's choosing. When they arrive, reserves will enter the battlefield from any point on the battlefield edge that is completely within one of the zones (chosen at random) in which their controlling player deployed a unit at the start of the battle. Roll a D3 to randomly determine which of the three zones reserves arrive within.
 
-### First Linked Battle — Victory!
+### First Linked Battle — Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner.
 
@@ -222,7 +222,7 @@ The battle will last a random number of rounds or until one side concedes. Start
 
 Other than the army selection rules already given, this scenario has no special rules.
 
-### Second Linked Battle — Victory!
+### Second Linked Battle — Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner. The player that controls the special feature at the end of the battle wins a bonus of 200 Victory Points (in addition to any bonus controlling the special feature may normally give).
 
@@ -276,7 +276,7 @@ The battle will last for six rounds or until the defender either concedes or is 
 
 Other than the army selection rules already given, this scenario has no special rules.
 
-### Third Linked Battle — Victory!
+### Third Linked Battle — Victory
 
 Victory in this scenario depends entirely upon how long the defender can last – the longer they can fight, the more likely it is their ritual will be completed:
 
@@ -399,7 +399,7 @@ The battle will last for six rounds or until one side concedes.
 
 This scenario has no special rules.
 
-### A Timely Arrival — Victory!
+### A Timely Arrival — Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner.
 
@@ -461,7 +461,7 @@ Random Game Length: The battle will last a random number of rounds or until one 
 
 The Might of Grand Cathay: Before the game begins, each unit with the War Machine Unit type in the attacker's force may shoot as if it were the Shooting phase of their turn.
 
-### Assault on Leonen — Victory!
+### Assault on Leonen — Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner. In addition, at the end of the game:
 
@@ -521,7 +521,7 @@ Judgement of the Gods: Characters in the defender's army may re-roll the D6 when
 
 The Storm Dragon's Triumph: Whenever Miao Ying slays an enemy Character (but not unit Champions) in combat, she may regain a single Wound lost earlier in the battle.
 
-### Reclamation of Hollum — Victory!
+### Reclamation of Hollum — Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner. In addition, at the end of the game:
 
@@ -575,7 +575,7 @@ Warrior's Duel: Instead of rolling off to determine which player takes the first
 
 The chosen combatants then fight as if engaged in a challenge, fighting as many rounds of combat as necessary to determine a victor. Once a victor has been determined, that model may roll once on the Gaze of the Gods table before returning to their unit. That model's controlling player then takes the first turn. If both champions are slain, or if either player does not have a champion eligible to take part in the duel, the players must roll off as normal.
 
-### War in the Shadowlands — Victory!
+### War in the Shadowlands — Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Battle March rules. In addition, each player wins a bonus of 25 Victory Points for each enemy champion or character slain during a challenge (including the Warrior's Duel) by a champion or character within their army.
 
@@ -623,7 +623,7 @@ Looting the Baggage Train: An attacking unit with a Unit Strength of 5 or more c
 
 If, at the end of any turn, an attacking unit is still in base contact with the baggage train, has a Unit Strength of 5 or more, is not engaged in combat and is not fleeing, that unit earns one Loot point. A unit loses its Loot points if it Breaks and flees from combat or is completely destroyed in combat.
 
-### Looting & Pillaging — Victory!
+### Looting & Pillaging — Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner. In addition, at the end of the game:
 
@@ -657,7 +657,7 @@ hallowed-ground
 
 ### Hallowed Ground — Deployment
 
-Once the battlefield has been set up, the winner of a roll-off chooses which player will deploy the first unit. The winner of this roll-off must also choose their deployment zone A or B), as shown on the map above. Players deploy their armies using the alternating units method.
+Once the battlefield has been set up, the winner of a roll-off chooses which player will deploy the first unit. The winner of this roll-off must also choose their deployment zone A or B, as shown on the map above. Players deploy their armies using the alternating units method.
 
 ### Hallowed Ground — First Turn
 
@@ -673,7 +673,7 @@ The Landmark: During each Start of Turn sub-phase, the landmark can be controlle
 
 When calculating combat results, a unit that controls the landmark may claim an additional bonus of +1 combat result point.
 
-### Hallowed Ground — Victory!
+### Hallowed Ground — Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner.
 

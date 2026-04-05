@@ -26,7 +26,7 @@ For each successful roll To Hit, the player makes a roll To Wound. For each of t
 
 For each unsaved wound caused, the target unit loses one Wound. Models reduced to zero Wounds are removed as casualties. If enough casualties are caused, the unit will have to take a Panic test.
 
-## Choose Unit & Declare Target
+## Choosing Targets and Eligibility
 
 The active player chooses one unit in their army that is able to shoot and completes the Shooting phase sequence for that unit. This process is repeated until all units have had a chance to shoot.
 
@@ -64,9 +64,9 @@ Units cannot split their shooting between two or more targets. Therefore, any mo
 
 To determine whether a model hits its target, you must make a roll 'To Hit'. To make a roll To Hit, roll a D6 for each model that is shooting and look up the target number needed on the table below. Any dice that equal or beat the target number shown (after applying any modifiers) have hit the target:
 
-| Ballistic Skill | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|
-| D6 roll To Hit | 6+ | 5+ | 4+ | 3+ | 2+ |
+| Ballistic Skill | 1  | 2  | 3  | 4  | 5  |
+| --------------- | -- | -- | -- | -- | -- |
+| D6 roll To Hit  | 6+ | 5+ | 4+ | 3+ | 2+ |
 
 ### Rolls of a Natural 1
 
@@ -82,9 +82,9 @@ However, if your unit contains models that have different characteristics (such 
 
 If a model has BS6 or higher, it gains a re-roll should it fail to hit whilst shooting. The second roll usually has a lower chance of hitting. On the table below, the first target number given is for the first roll, the second is the target number when re-rolling:
 
-| Ballistic Skill | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|
-| D6 roll To Hit | 2+/6+ | 2+/5+ | 2+/4+ | 2+/3+ | 2+/2+ |
+| Ballistic Skill | 6      | 7      | 8      | 9      | 10     |
+| --------------- | ------ | ------ | ------ | ------ | ------ |
+| D6 roll To Hit  | 2+/6+  | 2+/5+  | 2+/4+  | 2+/3+  | 2+/2+  |
 
 ### To Hit Modifiers
 
@@ -157,7 +157,7 @@ To determine how many hits cause wounds, you must make a roll 'To Wound' for eac
 
 Profiles for the most common missile weapons can be found on in the Missile Weapons section. More unusual, army specific weapons can be found in the relevant army list.
 
-#### Rolls of a Natural 1
+#### Rolls of a Natural 1 (To Wound)
 
 No matter how powerful the weapon, some shots just fail to make a mark. When making a roll To Wound, a roll of a natural 1 is always a fail, regardless of modifiers.
 
@@ -189,7 +189,7 @@ Few warriors enter battle without the protection of armour. To represent this, y
 - If the Armour Save roll equals or exceeds the model's armour value, the model is saved by its armour and the wound discarded.
 - If the result is less than the model's armour value, the model's armour has proved ineffective and the wound is 'unsaved'.
 
-#### Rolls of a Natural 1
+#### Rolls of a Natural 1 (Armour Saves)
 
 Even the heaviest and most finely crafted of armour has gaps in it. When making an Armour Save roll (of any type), a roll of a natural 1 is always a fail, regardless of modifiers.
 
@@ -217,7 +217,7 @@ A model that can make both an Armour Save roll and a Ward save makes its Armour 
 
 Note that only one Ward save can be attempted and that different Ward saves cannot be combined together. If a model has more than one Ward save, simply use the best.
 
-## Remove Casualties & Make Panic Tests
+## Applying Casualties and Testing Panic
 
 Unsaved wounds are applied to the target unit, causing models to be removed as casualties. If a unit loses enough models, it will have to take a Panic test and may fall back or flee.
 

@@ -110,7 +110,7 @@ Some scenario special rules give special objectives to complete. Should you do s
 
 If the players have agreed to the inclusion of a special feature, or if the scenario specifies one must be included, the player that controls it at the end of the battle will win a Victory Points bonus, as described in the feature's special rules and/or as described in the scenario.
 
-## Pitched Battles
+## Pitched Battle Scenarios
 
 The pitched battle scenarios presented in the following sections are designed for armies of roughly the same size. In each scenario, the situation in which the armies clash gives neither side a particular advantage as they are each designed to give both sides an equal chance of winning and have few, if any, scenario special rules.
 
@@ -141,36 +141,36 @@ In the Warhammer world, disputes are settled upon the bloody field of battle. In
 
 This scenario represents a classic battle fought between two rival armies meeting at an ideal location for a day of fighting.
 
-### Set-up
+### Set-up (Open Battle)
 
 Place terrain as described.
 
-### Deployment
+### Deployment (Open Battle)
 
 Once the battlefield has been set up, the winner of a roll-off chooses which player will deploy the first unit. The winner of this roll-off must also choose their deployment zone (A or B), as shown on the map opposite. Players deploy their armies using the alternating units method.
 
 open-battle
 
-### First Turn
+### First Turn (Open Battle)
 
 Once deployment is complete, the winner of a roll-off takes the first turn. The player that finished deploying their army first adds +1 to their roll.
 
-### Game Length
+### Game Length (Open Battle)
 
 Before the game begins, players can choose to play a 'fixed' length game or a 'random' length game:
 
 - Fixed Game Length: The battle will last for six rounds, until one side concedes, or until the time limit agreed by the players is reached.
 - Random Game Length: The battle will last a random number of rounds or until one side concedes. Starting at the end of the fifth round, roll a D6 at the end of each round. Add the round number to the dice roll. If the total is 10 or more, the battle ends immediately. If the total is less than 10 then the battle continues for at least one more round.
 
-### Scenario Special Rules
+### Scenario Special Rules (Open Battle)
 
 This scenario has no special rules.
 
-### Victory!
+### Victory (Open Battle)
 
 Once the battle has ended, use Victory Points to determine which player is the winner.
 
-### Historical Recreation
+### Historical Recreation (Open Battle)
 
 The Battle of L'Anguille Plain was fought between a vast horde of Orcs and the glittering splendour of the knights of Bretonnia. Both sides were led by mighty warlords – the Orcs by Warboss Durgath Spine Cracker and the Bretonnians by King Louen Orc-Slayer. To reflect this, each army should be led by an appropriate character acting as the General. Warboss Durgath may fight on foot or may be mounted on a boar. King Louen must be mounted on a warhorse.
 
@@ -184,25 +184,25 @@ Some battles are bitter affairs, fought between armies that offer no quarter and
 
 This scenario represents a battle fought to the grim death – a battle not unlike a pitched battle, but one that will rage until one side is forced to concede.
 
-### Set-up
+### Set-up (Break Point)
 
 Place terrain as described.
 
-### Deployment
+### Deployment (Break Point)
 
 Once the battlefield has been set up, the winner of a roll-off chooses which player will deploy the first unit. The winner of this roll-off must also choose their deployment zone (A or B), as shown on the map opposite. Players deploy their armies using the alternating units method.
 
 break-point
 
-### First Turn
+### First Turn (Break Point)
 
-Once deployment is complete, the winner of a roll-off takes the first turn. The player that finished deploying their army first adds +1 to their roll.
+Once deployment is complete, the winner of a roll-off takes the first turn.
 
-### Game Length
+### Game Length (Break Point)
 
 There is no turn limit for this scenario. Instead, the battle will last until one side reaches its 'break point' or until one side concedes.
 
-### Scenario Special Rules
+### Scenario Special Rules (Break Point)
 
 Break Point: All armies have a breaking point. This is equal to a quarter (25%) of the total Unit Strength of the army at the start of the game. To calculate the break point of your army, simply add together the Unit Strength of every unit (including characters) in your muster list and divide the total by four, rounding fractions down.
 
@@ -210,11 +210,11 @@ With each model removed from play as a casualty and with each unit destroyed, an
 
 Note that units that have pursued a fleeing enemy off the battlefield and units held in reserve count as being on the battlefield for the purposes of determining whether or not an army has reached its break point.
 
-### Victory!
+### Victory (Break Point)
 
 If the game ends with one army having broken, the unbroken army achieves a crushing victory. Should both armies fall below their break point at the same time, use Victory Points to determine which player is the winner.
 
-### Historical Recreation
+### Historical Recreation (Break Point)
 
 The Doom of Odo Todmeyer III took place deep within the Forest of Shadows. To represent this, you should endeavour to include as many woods as possible when setting up the battlefield. The battle was fought between the remnants of the Grand Army of Osterlund (an Empire army) and a much larger force of Beastmen. The Grand Army of Osterlund was led by Odo Todmeyer III, who should be represented by an Empire General mounted on a warhorse.
 
@@ -226,11 +226,11 @@ Sometimes a cunning general will divide their strength, sending a portion of the
 
 This scenario represents a battle in which both armies have assigned a number of units the task of outflanking the enemy. As these flanking forces choose their angle of attack in secret, there is as equal a chance that they will deploy facing one another as there is that they will find the unprotected flank of the main enemy force.
 
-### Set-up
+### Set-up (Flank Attack)
 
 Place terrain as described.
 
-### Deployment
+### Deployment (Flank Attack)
 
 Once the battlefield has been set up, the winner of a roll-off chooses which player will deploy the first unit. The winner of this roll-off must also choose their deployment zone (A or B), as shown on the map opposite. Prior to deployment, both players secretly divide their armies into two forces – the main force and the flanking force:
 
@@ -241,23 +241,23 @@ Once flanking forces have been selected, each player secretly makes a note of wh
 
 Finally, after both players have finished deploying their main forces, the players reveal where their flanking forces are to be deployed. Starting with the player that won the roll-off, the players deploy their flanking forces within their chosen 18" flank zone, using the alternating units method.
 
-### First Turn
+### First Turn (Flank Attack)
 
 Once deployment is complete, the winner of a roll-off takes the first turn.
 
-### Game Length
+### Game Length (Flank Attack)
 
 The battle will last for six rounds, until one side concedes, or until the time limit agreed by the players is reached.
 
-### Scenario Special Rules
+### Scenario Special Rules (Flank Attack)
 
 Other than the special deployment rules already given, this scenario has no special rules.
 
-### Victory!
+### Victory (Flank Attack)
 
 Once the battle has ended, use Victory Points to determine which player is the winner.
 
-### Historical Recreation
+### Historical Recreation (Flank Attack)
 
 The battle of Pine Crags took place within a rocky ravine deep in Athel Loren. To represent this, you should endeavour to include as many woods and areas of rocky terrain (be they difficult, dangerous or impassable) as possible when setting up the battlefield. The battle was fought between a rag-tag army of Dwarf treasure hunters and a (possibly larger) force of Wood Elves. The Dwarf army should contain very few elite troops (such as Hammerers, Ironbreakers or Irondrakes) and no war machines or Runesmiths. Due to their important role, it must contain a unit of Dwarf Rangers in reserve.
 
@@ -269,11 +269,11 @@ It is not uncommon for two armies to cross paths unexpectedly and immediately de
 
 This scenario represents a battle fought between marching armies, in which the outcome can hinge upon the timely arrival of reserve forces and where the initial battle lines can be most uneven.
 
-### Set-up
+### Set-up (Meeting Engagement)
 
 Place terrain as described.
 
-### Deployment
+### Deployment (Meeting Engagement)
 
 Once the battlefield has been set up, the winner of a roll-off chooses which player will deploy the first unit. The winner of this roll-off must also choose their deployment zone (A or B), as shown on the map opposite.
 
@@ -281,23 +281,23 @@ Before deploying their army, each player rolls a D6 for each unit, including eac
 
 meeting-engagement
 
-### First Turn
+### First Turn (Meeting Engagement)
 
 Once deployment is complete, the winner of a roll-off takes the first turn. The player that finished deploying their army first adds +1 to their roll.
 
-### Game Length
+### Game Length (Meeting Engagement)
 
 The battle will last for six rounds, until one side concedes, or until the time limit agreed by the players is reached.
 
-### Scenario Special Rules
+### Scenario Special Rules (Meeting Engagement)
 
 Reserves: Reserves are not deployed at the start of the battle. Instead they can enter play during the Compulsory Moves sub-phase of any turn – other than the first – of their controlling player's choosing. When they arrive, reserves may enter the battlefield from any point on the long battlefield edge within their deployment zone, and move on using the rules for reinforcements.
 
-### Victory!
+### Victory (Meeting Engagement)
 
 Once the battle has ended, use Victory Points to determine which player is the winner.
 
-### Historical Recreation
+### Historical Recreation (Meeting Engagement)
 
 The Drakwald Forest incident was a battle fought between two armies of the Empire from rival provinces towards the end of a civil war that had raged for a thousand years. The army of Reikland should include a Witch Hunter, representing the firebrand Dietrich Haslav, whose actions arguably sparked the incident. In addition, the Reikland army should include at least one unit of Greatswords to accompany its General, a captain representing Magda Rassel, and might also include one unit of Flagellants to represent the Witch Hunter's followers. The army of Talabecland should be led by a captain, representing the famed Leonard van Obelmann.
 
@@ -311,33 +311,33 @@ Many of the kingdoms of the Warhammer world are separated by towering mountain r
 
 This scenario represents a battle fought in such a pass. The battlefield is long but narrow, making simple manoeuvres difficult and outflanking almost impossible. Consequently, such battles become matters of attrition in which only the most courageous will prevail.
 
-### Set-up
+### Set-up (Mountain Pass)
 
 Place terrain as described.
 
-### Deployment
+### Deployment (Mountain Pass)
 
 Once the battlefield has been set up, the winner of a roll-off chooses which player will deploy the first unit. The winner of this roll-off must also choose their deployment zone (A or B), as shown on the map opposite. Players deploy their armies using the alternating units method.
 
 mountain-pass
 
-### First Turn
+### First Turn (Mountain Pass)
 
 Once deployment is complete, the winner of a roll-off takes the first turn. The player that finished deploying their army first adds +1 to their roll.
 
-### Game Length
+### Game Length (Mountain Pass)
 
 The battle will last a random number of rounds or until one side concedes. Starting at the end of the fifth round, roll a D6 at the end of each round. Add the round number to the dice roll. If the total is 10 or more, the battle ends immediately. If the total is less than 10 then the battle continues for at least one more round.
 
-### Scenario Special Rules
+### Scenario Special Rules (Mountain Pass)
 
 Bottleneck: The battle is fought in a narrow mountain pass enclosed by high cliffs. Because of this, the long battlefield edges count as impassable terrain. As such, no units (including fleeing units or any arriving from reserve) can leave or enter the battlefield via either long edge unless they have the Ethereal or Fly special rule.
 
-### Victory!
+### Victory (Mountain Pass)
 
 Once the battle has ended, use Victory Points to determine which player is the winner.
 
-### Historical Recreation
+### Historical Recreation (Mountain Pass)
 
 The battle of Gisoreux Gap was a brutal affair fought between two elite and well-equipped armies (all that toll money had to go somewhere!). The Bretonnian army should contain a high number of units of Knights. Any units of Men-at-Arms might be given heavy armour to represent the wealth of their lord and their superior position as guards of an important trade route. The Empire army, being an army of Westerland, a province famed for its use of mercenaries, may include any number of units of Veteran State Troops, provided all have the Mercenaries special rule. To help reflect the bitter nature of the battle and the inability of troops to simply turn tail and flee, players may give up to half of their units the Stubborn special rule.
 
@@ -349,36 +349,36 @@ The Old World is dotted with many important landmarks, be they watchtowers, arca
 
 This scenario represents a battle fought for control of a special feature – a significant terrain feature at the centre of the table. This may be any special feature.
 
-### Set-up
+### Set-up (Command & Control)
 
 Place terrain as described. In addition, place a single special feature in the centre of the battlefield (players should agree which special feature to use from the terrain available).
 
-### Deployment
+### Deployment (Command & Control)
 
 Once the battlefield has been set up, the winner of a roll-off chooses which player will deploy the first unit. The winner of this roll-off must also choose their deployment zone (A or B), as shown on the map opposite. Players deploy their armies using the alternating units method.
 
 command-and-control
 
-### First Turn
+### First Turn (Command & Control)
 
 Once deployment is complete, the winner of a roll-off takes the first turn. The player that finished deploying their army first adds +1 to their roll.
 
-### Game Length
+### Game Length (Command & Control)
 
 Before the game begins, players can choose to play a 'fixed' length game or a 'random' length game:
 
 - Fixed Game Length: The battle will last for six rounds, until one side concedes, or until the time limit agreed by the players is reached.
 - Random Game Length: The battle will last a random number of rounds or until one side concedes. Starting at the end of the fifth round, roll a D6 at the end of each round. Add the round number to the dice roll. If the total is 10 or more, the battle ends immediately. If the total is less than 10 then the battle continues for at least one more round.
 
-### Scenario Special Rules
+### Scenario Special Rules (Command & Control)
 
 This scenario has no special rules.
 
-### Victory!
+### Victory (Command & Control)
 
 Once the battle has ended, use Victory Points to determine which player is the winner. The player that controls the special feature at the end of the battle wins a bonus of 200 Victory Points (in addition to any bonus controlling the special feature may normally give).
 
-### Historical Recreation
+### Historical Recreation (Command & Control)
 
 The battle of the Lonely Reaver's Point watchtower was by no means a grand affair. It was fought between lowly peasants, eking a meagre existence as fishermen along the hostile coastline of Bretonnia, and a ragtag warband of Goblin raiders, likely forced down from the Pale Sisters by Orc aggression. The armies used to recreate the battle, then, should be equally humble.
 
@@ -390,7 +390,7 @@ This should be a fun battle to recreate and, more than any other discussed in th
 
 Throughout the history of the World of Legend, historic allies have stood side by side against world-ending calamities, willing to sacrfice themselves to ensure the other can endure. Even old foes have been forced to put aside petty grudges and join forces to ensure their mutual survival against a larger threat. When it comes to narrative gameplay, dividing your forces between a number of players can be a fantastic way to both reflect the diverse nature of the battles of the Old World, as well as to involve your friends and members of your gaming group in your battles - especially in larger games or scenarios with allied forces.
 
-### Multi-player Games
+### Key Changes for Multi-player Games
 
 Though the rules in Multi-player games will be mostly the same as they are when playing one-on-one, there are a few considerations. Below are the key changes from the standard rules for use in Multi-player games:
 

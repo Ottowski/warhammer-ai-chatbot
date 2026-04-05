@@ -81,7 +81,7 @@ Each category of a composition list is accompanied by a percentage. This is the 
 
 This means that, in a 2,000 point army, you would have to spend a minimum of 500 points (25% of 2,000 points) on Core units. By contrast, the most you could spend on Special units would be 1,000 points (50% of 2,000 points).
 
-## Number of Units
+## Unit Restrictions
 
 Next to the names of some units as they appear in the various army composition lists are numbers, and these require some explanation.
 
@@ -111,21 +111,12 @@ On a roll of 2+, the mercenaries have held up their side of the contract, arrivi
 
 On a roll of a 1, the mercenaries have proven to be unreliable. Immediately roll on the Misbehaving Mercenaries table to find out the extent of the betrayal:
 
-| D6 | Result |
-|---|---|
-| 1 | **Heavy Night:** The mercenaries spent the night before the battle drinking their way through their pay. They arrive on time, but smelling like a brewery and wincing at loud noises. The mercenaries gain the Stupidity special rule. If the unit already has the Stupidity special rule, it must apply a +1 modifier to the dice roll every time it makes a Stupidity test. |
-| 2-3 | **You Get What You Pay For:** The mercenaries do not feel they have been paid particularly well to take part in this battle. This has caused considerable grumbling in the ranks and, consequently, the mercenaries are dragging their feet rather than getting stuck in. The unit suffers a -1 modifier to both its Movement and Initiative characteristics (to a minimum of 1) for the duration of the battle. |
+| D6  | Result                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Heavy Night:** The mercenaries spent the night before the battle drinking their way through their pay. They arrive on time, but smelling like a brewery and wincing at loud noises. The mercenaries gain the Stupidity special rule. If the unit already has the Stupidity special rule, it must apply a +1 modifier to the dice roll every time it makes a Stupidity test.                                                    |
+| 2-3 | **You Get What You Pay For:** The mercenaries do not feel they have been paid particularly well to take part in this battle. This has caused considerable grumbling in the ranks and, consequently, the mercenaries are dragging their feet rather than getting stuck in. The unit suffers a -1 modifier to both its Movement and Initiative characteristics (to a minimum of 1) for the duration of the battle.                 |
 | 4-5 | **"Sorry, the Cockerel Didn't Crow":** The mercenaries arrive, but late. However, their late arrival means they enter the battlefield from an unexpected direction. The mercenaries gain the Ambushers special rule and must be held in reserve at the start of the battle. If the mercenaries already have the Ambushers special rule, they will only arrive during turn 2 on a roll of a natural 6 (rather than the usual 4+). |
-| 6 | **General Apathy:** For whatever reason, the mercenaries do not appear to be especially invested in their employer's cause. Consequently, they feel little reason to stick around when the going gets tough. The unit suffers a -1 modifier to its Leadership characteristic (to a minimum of 2) for the duration of the battle. |
-
-## Misbehaving Mercenaries Table
-
-| D6 | Result |
-|---|---|
-| 1 | **Heavy Night:** The mercenaries spent the night before the battle drinking their way through their pay. They arrive on time, but smelling like a brewery and wincing at loud noises. The mercenaries gain the Stupidity special rule. If the unit already has the Stupidity special rule, it must apply a +1 modifier to the dice roll every time it makes a Stupidity test. |
-| 2-3 | **You Get What You Pay For:** The mercenaries do not feel they have been paid particularly well to take part in this battle. This has caused considerable grumbling in the ranks and, consequently, the mercenaries are dragging their feet rather than getting stuck in. The unit suffers a -1 modifier to both its Movement and Initiative characteristics (to a minimum of 1) for the duration of the battle. |
-| 4-5 | **"Sorry, the Cockerel Didn't Crow":** The mercenaries arrive, but late. However, their late arrival means they enter the battlefield from an unexpected direction. The mercenaries gain the Ambushers special rule and must be held in reserve at the start of the battle. If the mercenaries already have the Ambushers special rule, they will only arrive during turn 2 on a roll of a natural 6 (rather than the usual 4+). |
-| 6 | **General Apathy:** For whatever reason, the mercenaries do not appear to be especially invested in their employer's cause. Consequently, they feel little reason to stick around when the going gets tough. The unit suffers a -1 modifier to its Leadership characteristic (to a minimum of 2) for the duration of the battle. |
+| 6   | **General Apathy:** For whatever reason, the mercenaries do not appear to be especially invested in their employer's cause. Consequently, they feel little reason to stick around when the going gets tough. The unit suffers a -1 modifier to its Leadership characteristic (to a minimum of 2) for the duration of the battle.                                                                                                 |
 
 ## Allied Contingents
 
@@ -278,7 +269,7 @@ By their nature, the armies represented by Battle March are unlikely to include 
 - 30% of your army's total points value on a single Special unit.
 - 25% of your army's total points value on a single Rare or Mercenary unit.
 
-### 0-X Per 1,000 Points
+### 0-X Per 1,000 Points (Battle March)
 
 Players of Warhammer: the Old World will already be aware that many units or options are limited to '0-X per 1,000 points', with 'X' being a number. This means that such options would not normally be allowed when writing a muster list for an army of less than 1,000 points. However, rather than preclude such fun and characterful options entirely, when writing a muster list for a game of Battle March, you may include a single such option. This might be a unit, a character or even an upgrade listed within a unit's options.
 
@@ -306,11 +297,11 @@ Once the battlefield has been set up with terrain and the objectives the armies 
 
 ### Battle March Deployment
 
-| D6 | Deployment Map |
-|---|---|
-| 1-2 | Pitched Battle |
+| D6  | Deployment Map  |
+| --- | --------------- |
+| 1-2 | Pitched Battle  |
 | 3-4 | Close Encounter |
-| 5-6 | Opposed Flanks |
+| 5-6 | Opposed Flanks  |
 
 ### Deployment
 
@@ -353,7 +344,7 @@ If the enemy General is slain, has fled off the battlefield or is fleeing when t
 
 You win a bonus of 25 Victory Points for every enemy standard claimed as a trophy, as described on page 200 of the Warhammer the Old World rulebook. Additionally, if the enemy Battle Standard Bearer is slain, has fled off the battlefield or is fleeing when the game ends, you win another bonus of 25 Victory Points.
 
-### Battlefield Objectives
+### Controlling Battlefield Objectives
 
 For each battlefield objective a player controls at the end of each player's turn, they win a bonus of 10 Victory Points.
 

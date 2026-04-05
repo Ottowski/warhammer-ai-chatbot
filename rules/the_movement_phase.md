@@ -8,10 +8,6 @@ As movement is such a vital part of the game, this section is broken down into t
 
 As with other phases of the game, the Movement phase is broken down into four sub-phases. Work your way through these in the order shown below. The units in your army can act in whatever order you wish within each sub-phase, providing that you complete one sub-phase before moving onto the next.
 
-As movement is such a vital part of the game, this section is broken down into two parts. The first gives an overview of the Movement phase itself. The second explains movement in greater detail. As always, if you are not yet familiar with the game, be prepared to spend some time checking other sections of the rules as you read through this section.
-
-### Declare Charges & Charge Reactions
-
 The active player declares which of their units will charge, nominating one unit at a time and indicating which enemy unit it will charge. Once all charges have been declared, the inactive player declares and resolves each charged unit's charge reaction.
 
 ### Charge Moves
@@ -94,7 +90,7 @@ If a unit charged by multiple enemy units chooses to Flee, it will flee directly
 
 Note that, in its haste to flee from one charging enemy unit, a unit might flee through another enemy unit.
 
-## Charge Moves
+## Resolving Charges
 
 With charge reactions declared and resolved, it is time to see whether or not the charges are successful. Work through charges one at a time, in an order decided by the active player, completing each before moving on to the next.
 
@@ -106,7 +102,7 @@ To represent this, as well as the caprices of fate, a unit's 'charge range' is d
 
 With its charge range established, the charging unit makes its charge move. If the charging unit has insufficient movement to complete its charge move, it is unable to reach the enemy and instead makes a failed charge.
 
-### The Charge Move (Intro)
+### The Charge Move
 
 Moving a charging unit is often a complicated procedure. For this reason, the charge move itself is covered in greater detail elsewhere, after the basics of movement and manoeuvre have been explained.
 
@@ -118,7 +114,7 @@ A unit's maximum possible charge range is determined by adding six (the highest 
 
 A unit that makes a failed charge has started towards the enemy, but is unable to cover the distance. The warriors in the unit simply lose impetus. If a unit makes a failed charge it moves directly towards the target a distance equal to the result of the Charge roll, wheeling as required.
 
-## Compulsory Moves
+## Resolving Compulsory Moves
 
 Generally speaking, a player can move their units however they wish within the confines of the rules. However, sometimes units behave of their own accord. All compulsory movement is carried out in this sub-phase, after charges have been resolved, but before other movement takes place.
 
@@ -134,7 +130,7 @@ Other units that must move in the Compulsory Moves sub-phase follow the normal m
 
 Whatever the case, any compulsory moves are resolved now, after all fleeing units have moved. These compulsory moves can be resolved in any order the controlling player wishes.
 
-## Remaining Moves
+## The Remaining Moves Sub-Phase
 
 With all charges and compulsory moves attended to, you can now move the rest of your army. While it might lack the drama of charging or the jeopardy of compulsory moves, the Remaining Moves sub-phase is no less important.
 

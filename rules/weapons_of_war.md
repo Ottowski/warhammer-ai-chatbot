@@ -8,8 +8,8 @@ It is usual for all the models in a unit to carry the same weapons. It is accept
 
 Just like the models that carry them, all weapons have a profile. This includes the weapon's characteristics and lists any special rules it has:
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules                       |
+| ------ | -------- | --------------- | ----------------------------------- |
 | Combat | S+2      | -2              | Armour Bane (1); Requires Two Hands |
 
 Notes: A flail's Strength modifier and Armour Bane (1) special rule apply only against enemy models the wielder charged this turn.
@@ -54,16 +54,16 @@ Many models carry two or more combat weapons, giving them a choice of which to u
 
 Not content with a single hand weapon, some warriors carry two – one in each hand – the better to rain blows down upon their foes.
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules                          |
+| ------ | -------- | --------------- | -------------------------------------- |
 | Combat | S        | -               | Extra Attacks (+1); Requires Two Hands |
 
 ## Flail
 
 A flail is a cumbersome, heavy weapon used with both hands. It consists of heavy weights, often spiked, attached to a pole or handle by heavy chains. A flail drains the user's stamina quickly, but is incredibly destructive nonetheless, its impact smashing shields and splintering bones.
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules                       |
+| ------ | -------- | --------------- | ----------------------------------- |
 | Combat | S+2      | -2              | Armour Bane (1); Requires Two Hands |
 
 Notes: A flail's Strength modifier and Armour Bane (1) special rule apply only against enemy models the wielder charged this turn.
@@ -72,16 +72,16 @@ Notes: A flail's Strength modifier and Armour Bane (1) special rule apply only a
 
 Great weapons are especially large and heavy weapons wielded with both hands. This includes great hammers, great axes, two-handed swords and so forth. A blow from a great weapon can cut a foe in half and shatter the thickest armour.
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules                                    |
+| ------ | -------- | --------------- | ------------------------------------------------ |
 | Combat | S+2      | -2              | Armour Bane (1); Requires Two Hands; Strike Last |
 
 ## Halberd
 
 The halberd is a heavy bladed weapon, mounted on a sturdy shaft. The steel blade has a point like a spear and a heavy cutting edge like an axe which, in the hands of a trained soldier, can cut through armour with alarming ease. It is held in both hands and used to chop as well as thrust.
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules                       |
+| ------ | -------- | --------------- | ----------------------------------- |
 | Combat | S+1      | -1(-2)          | Armour Bane (1); Requires Two Hands |
 
 Notes: A halberd has an AP of -2 against enemy models the wielder charged this turn.
@@ -90,8 +90,8 @@ Notes: A halberd has an AP of -2 against enemy models the wielder charged this t
 
 A morning star is a single-handed weapon that consists of one or more spiked balls on a chain. Like the larger flail which it resembles, it is a tiring weapon and its advantage lies in the initial flurry of combat.
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules   |
+| ------ | -------- | --------------- | --------------- |
 | Combat | S+1      | -1              | Armour Bane (1) |
 
 Notes: A morning star’s Strength modifier and Armour Bane (1) special rule apply only against enemy models the wielder charged this turn.
@@ -100,8 +100,8 @@ Notes: A morning star’s Strength modifier and Armour Bane (1) special rule app
 
 Consisting of one or more long lengths of braided leather fitted to a stout handle, in the hands of a skilled user a whip can cause terrible injuries. When sharpened blades and hooked spikes are added, it can inflict truly devastating, often fatal, injuries.
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules                     |
+| ------ | -------- | --------------- | --------------------------------- |
 | Combat | S        | -               | Fight In Extra Rank; Strike First |
 
 ## Spears
@@ -112,8 +112,8 @@ Often called the king of weapons, spears are the most diverse type of weapon fou
 
 A lance is a long, heavy spear, wielded to devastating effect by charging cavalry. Couched under the arm of its wielder, the brutal point of a lance is driven into the foe with the full weight and momentum of the charge. Such a devastating weapon can make short work of even the toughest of enemies, which is just as well because few lances survive the first shock of impact!
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules   |
+| ------ | -------- | --------------- | --------------- |
 | Combat | S+2      | -2              | Armour Bane (1) |
 
 Notes: Models whose troop type is cavalry or monster only. A lance can only be used during a turn in which the wielder charged, and its Strength and Armour Piercing modifiers apply only against enemy models the wielder charged that turn.
@@ -122,8 +122,8 @@ Notes: Models whose troop type is cavalry or monster only. A lance can only be u
 
 Lighter than a lance, what cavalry spears lack in terms of shuddering impact on the charge they more than make up for in terms of versatility, enabling their wielders to bring their numbers to bear against the enemy.
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules       |
+| ------ | -------- | --------------- | ------------------- |
 | Combat | S+1      | -1              | Fight In Extra Rank |
 
 Notes: Models whose troop type is cavalry, monster or chariot only. A cavalry spear's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged. A model wielding a cavalry spear cannot make a supporting attack during a turn in which it charged.
@@ -132,8 +132,8 @@ Notes: Models whose troop type is cavalry, monster or chariot only. A cavalry sp
 
 Short, heavy throwing spears are weapons favoured by hunters, be they on foot or mounted. In battle, they can be hurled over the heads of the front rank by those behind as their wielders charge, often to devastating effect, cutting down many foes before sword blades meet
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules       |
+| ------ | -------- | --------------- | ------------------- |
 | Combat | S        | -               | Fight In Extra Rank |
 
 Notes: A throwing spear can only be used during a turn in which the wielder charged. In subsequent turns (or if the wielder did not charge) the model must use its hand weapon instead.
@@ -142,8 +142,8 @@ Notes: A throwing spear can only be used during a turn in which the wielder char
 
 The favoured weapon of massed infantry regiments. Although too long to be used effectively on the charge, thrusting spears are the ideal defensive weapon. Their length enables their wielders to fight in multiple ranks whilst keeping the enemy at a (comparatively) safe distance and robbing them of their impetus, forcing them to battle past jabbing spear tips to close the distance.
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules       |
+| ------ | -------- | --------------- | ------------------- |
 | Combat | S        | -               | Fight In Extra Rank |
 
 Notes: Models whose troop type is infantry only. A model wielding a thrusting spear cannot make a supporting attack during a turn in which it charged. During a turn in which it was charged in its front arc, a model wielding a thrusting spear gains a +1 modifier to its Initiative against the charging unit(s).
@@ -168,16 +168,16 @@ The humble bow is used extensively in warfare. It is a compact, long-ranged weap
 
 A longbow is capable of firing at an incredible range and with quite alarming power. A skilled archer can hit an enemy from a great distance, only increasing in deadliness as the range shortens.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules                |
+| ----- | -------- | --------------- | ---------------------------- |
 | 30"   | 3        | -               | Armour Bane (1); Volley Fire |
 
 ## Shortbow
 
 Small, short-ranged bows are favoured by light troops, cavalry and Goblins (who are too short to use a longbow). A skilled archer can load, draw and loose a shortbow without breaking stride, thanks to its compact design.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules           |
+| ----- | -------- | --------------- | ----------------------- |
 | 18"   | 3        | -               | Quick Shot; Volley Fire |
 
 ## Warbow
@@ -185,8 +185,8 @@ Small, short-ranged bows are favoured by light troops, cavalry and Goblins (who 
 The most commonly seen type of bow can best be described as a 'warbow'. Often made from composite materials and cunningly recurved, a warbow is designed to transfer the strength of the archer directly into every shot.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
-| 24"   | S        | -               | Volley Fire |
+| ----- | -------- | --------------- | ------------- |
+| 24"   | S        | -               | Volley Fire   |
 
 ## Black Powder Weapons
 
@@ -196,16 +196,16 @@ Considered the cutting edge of weapon technology in many human realms, black pow
 
 A handgun is a simple firearm, consisting of a metal barrel mounted on a wooden stock. More advanced versions boast complex mechanisms of levers and springs. Others rely on a long, slow burning fuse soaked in saltpetre to ignite the powder. Handguns have a respectable range and hit very hard, making them valued weapons indeed.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules              |
+| ----- | -------- | --------------- | -------------------------- |
 | 24"   | 4        | -1              | Armour Bane (1); Ponderous |
 
 ## Pistol
 
 Pistols are smaller versions of handguns, made using similar methods. Their smaller form means that, whilst their range is reduced, they can be wielded single-handed, and their heft makes them effective clubs to be used at close quarters once their charge is spent.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules               |
+| ----- | -------- | --------------- | --------------------------- |
 | 12"   | 4        | -1              | Armour Bane (1); Quick Shot |
 
 ## Brace of Pistols
@@ -214,28 +214,28 @@ Warriors that can do so will enter battle with a matched pair of pistols (or mor
 
 Ranged:
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules                                   |
+| ----- | -------- | --------------- | ----------------------------------------------- |
 | 12"   | 4        | -1              | Armour Bane (1); Multiple Shots (2); Quick Shot |
 
 Combat:
 
-| Range  | Strength | Armour Piercing | Special Rules |
-|--------|----------|-----------------|---------------|
+| Range  | Strength | Armour Piercing | Special Rules                          |
+| ------ | -------- | --------------- | -------------------------------------- |
 | Combat | S        | -               | Extra Attacks (+1); Requires Two Hands |
 
 ## Repeater Handgun
 
 Some believe that more is better, and what could be better than a multi-barrelled gun? A repeater gun consists of several barrels welded together. They look splendid, but are time consuming to load.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules                                  |
+| ----- | -------- | --------------- | ---------------------------------------------- |
 | 24"   | 4        | -1              | Armour Bane (1); Multiple Shots (3); Ponderous |
 
 ## Repeater Pistol
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules                                   |
+| ----- | -------- | --------------- | ----------------------------------------------- |
 | 12"   | 4        | -1              | Armour Bane (1); Multiple Shots (3); Quick Shot |
 
 ## Crossbows
@@ -246,22 +246,22 @@ A crossbow consists of a short, strong bow stave mounted on a wooden or metal st
 
 The average crossbow is brutally powerful and relatively easy to use. Compared to handguns, they are quick and easy to manufacture and to learn the use of. All told, this makes them the ideal weapon for large regiments and poorly trained conscripts in provincial armies.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules              |
+| ----- | -------- | --------------- | -------------------------- |
 | 30"   | 4        | -               | Armour Bane (2); Ponderous |
 
 ## Repeater Crossbow
 
 To address how slow crossbows are to load, some races have experimented with repeater crossbows. Sacrificing raw power for speed, the strings of repeater crossbows can be levered back quickly, ready for a fresh bolt to drop into place from a hopper mounted atop the weapon.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules                       |
+| ----- | -------- | --------------- | ----------------------------------- |
 | 24"   | 3        | -               | Armour Bane (1); Multiple Shots (2) |
 
 ## Brace of Repeater Handbows
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules                  |
+| ----- | -------- | --------------- | ------------------------------ |
 | 12"   | 3        | -               | Multiple Shots (4); Quick Shot |
 
 ## Thrown Weapons
@@ -272,24 +272,24 @@ The most simple type of missile weapon is one that is thrown at the enemy. Yet f
 
 Throwing weapons, such as stars and knives, are small, easily concealed weapons and, consequently, they are favoured by assassins and lightly armed infiltrators. Despite being short ranged, such weapons can be used at a run.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules                                |
+| ----- | -------- | --------------- | -------------------------------------------- |
 | 9"    | S        | -               | Move & Shoot; Multiple Shots (2); Quick Shot |
 
 ## Javelin
 
 The javelin is a light spear designed for throwing, which is far too flimsy to be used in hand-to-hand fighting. It is not a particularly common weapon as it has a short range, but it is popular enough amongst the light troops of several races.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules            |
+| ----- | -------- | --------------- | ------------------------ |
 | 12"   | S        | -               | Move & Shoot; Quick Shot |
 
 ## Sling
 
 Not truly a throwing weapon, slings consist of a looped string of cloth or leather into which a stone is placed and then launched with surprising strength and accuracy. The sling itself greatly increases how far a stone can be thrown, and with how much force. Skilled users can launch rapid volleys of shots with barely a break in their stride.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
+| Range | Strength | Armour Piercing | Special Rules      |
+| ----- | -------- | --------------- | ------------------ |
 | 18"   | 3        | -               | Multiple Shots (2) |
 
 ## Throwing Axe
@@ -297,8 +297,8 @@ Not truly a throwing weapon, slings consist of a looped string of cloth or leath
 Throwing axes are keenly balanced weapons that can be thrown accurately despite their weight. Despite this, even the strongest warrior cannot throw such a hefty weapon very far. Yet if a throwing axe hits its target, the effect can be quite devastating.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|-------|----------|-----------------|---------------|
-| 9"    | S+1      | -               | Quick Shot |
+| ----- | -------- | --------------- | ------------- |
+| 9"    | S+1      | -               | Quick Shot    |
 
 ## Armour
 
@@ -310,11 +310,11 @@ Whatever the case, the level of protection given is represented by the Armour Sa
 
 Although in some cases a model will have an armour value given, the armour value of most models is determined by their equipment. The most common types of armour are:
 
-| Type of Armour | Armour Value |
-|----------------|--------------|
-| Light armour   | 6+           |
-| Heavy armour   | 5+           |
-| Full plate armour | 4+        |
+| Type of Armour    | Armour Value |
+| ----------------- | ------------ |
+| Light armour      | 6+           |
+| Heavy armour      | 5+           |
+| Full plate armour | 4+           |
 
 ## Light Armour
 

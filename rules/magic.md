@@ -135,7 +135,7 @@ If a natural double 1 is rolled when making a Casting roll, regardless of the ca
 ### Miscast Table
 
 | 2D6 | Result |
-|-----|--------|
+| --- | --- |
 | 2-4 | **Dimensional Cascade**: The summoned magic breaks free, creating an ethereal tornado. Centre a 5" blast template over the Wizard. Every model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 10 hit with an AP of -4. |
 | 5-6 | **Calamitous Detonation**: Roiling magic explodes from the Wizard in a flash of light. Centre a 3" blast template over the Wizard. Every model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 6 hit with an AP of -2. |
 | 7 | **Careless Conjuration**: The Wizard mispronounces a syllable, causing the spell to backfire, knocking them to the ground. The Wizard suffers a single Strength 4 hit with an AP of -1. |

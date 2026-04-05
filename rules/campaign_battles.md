@@ -25,7 +25,7 @@ In such cases, players may wish to partake in a simple league campaign. In such 
 In order to determine a winner, each participant in a league campaign wins a number of Campaign Points (CP) after each battle, based upon their performance:
 
 | Result | Campaign Points |
-|---|---:|
+| --- | ---: |
 | Crushing Victory | 3 CP |
 | Victory | 2 CP |
 | Draw | 1 CP |
@@ -83,7 +83,7 @@ At the end of the campaign, the Overseer should gather the participants together
 - Champion of Champions: Awarded to the participant with the most Campaign Points.
 - Best Army: Awarded to the participant with the best painted or most thematic army, as voted for by the participants.
 
-### To Battle!
+### To Battle
 
 During each phase of the campaign each participant should play at least one game. Who plays who in each phase can be arranged by the Overseer, or participants can arrange their own games. To ensure all participants play a variety of opponents, it is recommended that the Overseer take charge and pair the participants up at the start of each phase.
 
@@ -114,7 +114,7 @@ A unit may spend its XP after any game by rolling on the table below and adding 
 ### Veteran Abilities Table
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 2-5 | Reluctant Warriors: Failing to learn from its experiences the unit does not gain a Veteran Ability, but neither is it reduced to OXP. |
 | 6-8 | Grizzled Veterans: The unit permanently improves its Leadership characteristic by 1 (to a maximum of 10). If the unit's Leadership is 10, treat this result as a roll of 2-5. |
 | 9-10 | Experienced Warriors: Once per game the unit may re-roll any rolls To Hit of a natural 1. If the unit rolls this upgrade again, it gains a second re-roll. |
@@ -131,7 +131,7 @@ To represent this, if a unit with one or more veteran upgrades is reduced below 
 ### Battlefield Losses Table
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1-3 | Insurmountable losses: The unit is too badly mauled to recover and loses all of its Veteran Abilities, along with any unspent XP. |
 | 4 | Terrible losses: The unit will survive, but many of its veteran members are replaced by untested new recruits. The unit loses one Veteran Ability (chosen by the controlling player). |
 | 5 | Mauled: Despite having received a mauling from the foe, the unit's casualties recover quickly after the battle. |
@@ -155,7 +155,7 @@ A character may spend their XP after any game by rolling on the table below and 
 ### Seasoned Commander Table
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 2-6 | Prideful Braggart: Filled with pride and arrogance, the character does not gain a Veteran Ability, but neither are they reduced to OXP. |
 | 7-11 | Grizzled Veteran: The character permanently improves their Leadership characteristic by 1 (to a maximum of 10). |
 | 12-14 | Weapon Master: The character permanently improves either its Weapon Skill or Ballistic Skill characteristic by 1 (chosen by the controlling player, to a maximum of 10). |
@@ -178,7 +178,7 @@ By contrast, some characters are doomed to meet an ignominious fate upon the bat
 ### Death & Dishonour Table
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1-3 | Dead: The character is slain and loses all of their Veteran Abilities, along with any unspent XP. |
 | 4-5 | Badly Wounded: The character survives, but barely, and loses one Veteran Ability (chosen by their controlling player). |
 | 6 | Lesson Learned: The character gains some valuable insight into the perils of battle. |

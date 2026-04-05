@@ -6,9 +6,9 @@ The Citadel miniatures used to play games of Warhammer: the Old World are referr
 
 Each model in Warhammer: the Old World has a profile of nine characteristics:
 
-| M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|----|
-| Soldier of the Empire | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Model                 | M | WS | BS | S | T | W | I | A | Ld |
+|-----------------------|---|----|----|---|---|---|---|---|----|
+| Soldier of the Empire | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 1 | 7  |
 
 These are used to describe the various attributes of different models. All characteristics are rated on a scale from 0 to 10 – they cannot go below 0 and only in the rarest of cases will they rise above 10. These characteristics are:
 
@@ -88,7 +88,7 @@ To make a Leadership test, roll 2D6. If the result is equal to or less than the 
 
 Whenever Leadership is used, a unit that contains models with different Leadership values will always use the highest – warriors naturally look to the most steadfast of their number for guidance.
 
-### Automatic Pass and Fail
+### Automatic Pass and Fail for Leadership Tests
 
 When making a Leadership test a natural roll of 12 (i.e., rolling a double 6) is always considered to be a fail, regardless of any modifiers that might apply, whereas a natural roll of 2 (i.e., rolling a double 1) is always considered to be a pass.
 

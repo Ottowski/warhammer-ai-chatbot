@@ -20,7 +20,7 @@ Except in rare cases, a command group will be found in the forefront of the figh
 
 Sometimes there is not enough room in the front rank for the command group to fit. Should this occur, as many command group models as possible must be placed in the front rank and any remaining models are placed in the rank behind.
 
-## Make Way!
+## Make Way
 
 If the unit turns or reforms, the command group automatically pushes its way back to the front. Accordingly, when a unit has completed its movement, the models that make up its command group must be repositioned into the new front rank.
 
@@ -107,7 +107,7 @@ A musician always has the same characteristics as the other models in their unit
 
 In reality, a model that represents a musician will likely be equipped differently, often carrying their instrument in place of weapons. Any such deficiency in terms of equipment is compensated for by the efforts of those around them to protect the musician, and by the damage that a heavy, brassbound horn or drum can inflict upon the foe when swung in anger.
 
-## Onwards to Victory!
+## Onwards to Victory
 
 If, once the combat result has been calculated, both sides have the exact same number of points each, the side that has a musician in the front rank of one or more of its units may claim a bonus of +1 combat result point.
 

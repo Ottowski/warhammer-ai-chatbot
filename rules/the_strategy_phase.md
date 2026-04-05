@@ -28,7 +28,7 @@ Sometimes, a scenario may require you to make a test at the start of each turn, 
 
 This sub-phase should also be used as a moment in which to think between turns, during which you can remove stray casualties, errant dice and other bits of gaming detritus that have accumulated. Often, players will have questions to ask their opponent, such as how a special rule works or what a magic item does. This is the perfect time to ask such questions, and an opponent should never begrudge giving answers during this natural pause in the action.
 
-## Command
+## Command Rules
 
 During this sub-phase, powerful abilities, both magical and mundane, are unleashed in the form of special rules.
 
@@ -36,7 +36,7 @@ The active player chooses one of their models (usually a character) that is not 
 
 Note that, unless stated otherwise, a model can only use a special rule once per Command sub-phase.
 
-## Conjuration
+## Conjuration Rules
 
 Many Wizards are able to cast Enchantment spells to the benefit of friendly units. Other Wizards are able to cast Hex spells, hindering the enemy in some way.
 

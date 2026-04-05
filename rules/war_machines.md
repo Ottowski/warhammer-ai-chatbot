@@ -20,15 +20,15 @@ Bolt throwers are huge crossbows that shoot spear-sized missiles. They are relat
 
 ### Bolt Thrower
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 48" | 6 | -3 | Cumbersome; Move or Shoot; Multiple Wounds (2); Through & Through |
+| Range | Strength | Armour Piercing | Special Rules                                                     |
+| ----- | -------: | --------------: | ----------------------------------------------------------------- |
+| 48"   |        6 |              -3 | Cumbersome; Move or Shoot; Multiple Wounds (2); Through & Through |
 
 ### Repeater Bolt Thrower
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 48" | 6 | -3 | Cumbersome; Move or Shoot; Multiple Wounds (2); Rapid Fire; Through & Through |
+| Range | Strength | Armour Piercing | Special Rules                                                                 |
+| ----- | -------: | --------------: | ----------------------------------------------------------------------------- |
+| 48"   |        6 |              -3 | Cumbersome; Move or Shoot; Multiple Wounds (2); Rapid Fire; Through & Through |
 
 ## Through & Through
 
@@ -48,17 +48,17 @@ Fig 223.1 - The bolt thrower lies within the enemy unit's flank arc, causing one
 
 Instead of shooting normally, a repeater bolt thrower can ‘rapid fire’ a number of smaller bolts, with the profile given below. If this special rule is used, all shots must be at the same target.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 48" | 4 | -1 | Armour Bane (1); Cumbersome; Move or Shoot; Multiple Shots (D3+3) |
+| Range | Strength | Armour Piercing | Special Rules                                                     |
+| ----- | -------: | --------------: | ----------------------------------------------------------------- |
+| 48"   |        4 |              -1 | Armour Bane (1); Cumbersome; Move or Shoot; Multiple Shots (D3+3) |
 
 ## Stone Throwers
 
 Stone throwers lob large rocks high into the air to come crashing upon enemy ranks. The very largest can hurl a projectile big enough to flatten monsters and knock down city walls.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 12-60" | 4(8) | -1(-3) | Bombardment; Cumbersome; Move or Shoot; Multiple Wounds (D3+1) |
+| Range  | Strength | Armour Piercing | Special Rules                                                  |
+| ------ | -------: | --------------: | -------------------------------------------------------------- |
+| 12-60" |     4(8) |          -1(-3) | Bombardment; Cumbersome; Move or Shoot; Multiple Wounds (D3+1) |
 
 **Notes:** This weapon does not use its crew’s Ballistic Skill. Instead, it shoots using the Bombardment special rule. This weapon uses a 3" blast template and the Stone Thrower Misfire table table. The Multiple Wounds (D3+1) special rule applies only to a single model whose base lies underneath the central hole of the blast template.
 
@@ -93,11 +93,11 @@ An indirect shot is not as accurate as one where the crew can see their target:
 
 ## Stone Thrower Misfire Table
 
-| D6 | Result |
-|---:|---|
-| 1 | **Destroyed:** The weapon cannot take the strain! Bits of wood and metal debris are thrown into the air and the stone tumbles to the ground. The model is destroyed and immediately removed from play. |
+|  D6 | Result                                                                                                                                                                                                                                                                                                     |
+| --: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | **Destroyed:** The weapon cannot take the strain! Bits of wood and metal debris are thrown into the air and the stone tumbles to the ground. The model is destroyed and immediately removed from play.                                                                                                     |
 | 2-4 | **Malfunction:** One of the crew has become caught in the firing mechanism. This problem can be fixed, but only by partially dismantling the weapon, the crew member, or both. The crew immediately loses one Wound, the model fails to shoot this turn and cannot shoot before the end of the next round. |
-| 5-6 | **Twang:** Something has snapped. This is a rather minor mishap, but one that will require plenty of elbow grease and strong language to repair. The model fails to shoot this turn. |
+| 5-6 | **Twang:** Something has snapped. This is a rather minor mishap, but one that will require plenty of elbow grease and strong language to repair. The model fails to shoot this turn.                                                                                                                       |
 
 ## Cannon
 
@@ -107,15 +107,15 @@ The following profiles represent the sizes of cannon most often seen:
 
 ### Cannon
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 48" | 8 | -2 | Armour Bane (2); Cannon Fire; Cumbersome; Move or Shoot; Multiple Wounds (D3) |
+| Range | Strength | Armour Piercing | Special Rules                                                                 |
+| ----- | -------: | --------------: | ----------------------------------------------------------------------------- |
+| 48"   |        8 |              -2 | Armour Bane (2); Cannon Fire; Cumbersome; Move or Shoot; Multiple Wounds (D3) |
 
 ### Great Cannon
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 60" | 10 | -3 | Armour Bane (2); Cannon Fire; Cumbersome; Move or Shoot; Multiple Wounds (D3+1) |
+| Range | Strength | Armour Piercing | Special Rules                                                                   |
+| ----- | -------: | --------------: | ------------------------------------------------------------------------------- |
+| 60"   |       10 |              -3 | Armour Bane (2); Cannon Fire; Cumbersome; Move or Shoot; Multiple Wounds (D3+1) |
 
 **Notes:** Cannon (of any type) do not use their crew's Ballistic Skill. Instead, they shoot using the Cannon Fire special rule. This weapon uses the Black Powder Misfire table.
 
@@ -134,14 +134,14 @@ The following profiles represent the sizes of cannon most often seen:
 226-1-cannon-fire  
 Fig 226.1 - The first roll of the Artillery dice is a 2, meaning the cannonball strikes the ground 2" ahead of the target point. The second roll is an 8, so the cannonball bounces 8".
 
-4. **Determine Hits:** Once the strike point and the distance of the bounce have been established, it is time to determine which models (if any) have been hit:
+1. **Determine Hits:** Once the strike point and the distance of the bounce have been established, it is time to determine which models (if any) have been hit:
    - Any model whose base lies underneath the strike point is hit automatically.
    - Any model whose base lies under the path of the bouncing cannonball is hit automatically.
    - However, should a cannonball bounce through a formed unit, it can hit a maximum of:
      - One model per rank, if the cannon lies in the unit’s front or rear arc.
      - One model per file, if the cannon lies in the unit’s flank arc. Models that lie fully beyond the distance of the bounce are not hit.
 
-5. **Crunch:** Sometimes, a bouncing cannonball will encounter something that stops it dead:
+2. **Crunch:** Sometimes, a bouncing cannonball will encounter something that stops it dead:
    - If the cannonball hits a model whose troop type is monstrous creature or behemoth, it stops immediately. No further models are hit.
    - If the path of the cannonball meets a hill, impassable terrain or a high linear obstacle, it stops immediately. No further models are hit.
 
@@ -149,9 +149,9 @@ Fig 226.1 - The first roll of the Artillery dice is a 2, meaning the cannonball 
 
 Instead of firing normally, cannon crew can opt to fire grapeshot. They do this by loading the gun with canisters filled with rusty nails, handgun bullets and other small projectiles – effectively creating a huge blunderbuss.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 12" | 4 | -1 | Cumbersome; Move or Shoot; Needs More Nails |
+| Range | Strength | Armour Piercing | Special Rules                               |
+| ----- | -------: | --------------: | ------------------------------------------- |
+| 12"   |        4 |              -1 | Cumbersome; Move or Shoot; Needs More Nails |
 
 **Notes:** Cannon (of any type) do not use their crew’s Ballistic Skill when firing grapeshot. Instead, they shoot using the Needs More Nails special rule. This weapon uses the Black Powder Misfire table.
 
@@ -166,9 +166,9 @@ Loading a cannon with shrapnel is not a precise art. When firing grapeshot, chec
 
 The multi-barrelled organ gun is so called because its array of barrels resembles the pipes of a musical organ. An organ gun lacks the range and power of a cannon, but fires a barrage of shots.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 30" | 5 | -1 | Armour Bane (2); Cumbersome; Move or Shoot; Multi-Barrelled |
+| Range | Strength | Armour Piercing | Special Rules                                               |
+| ----- | -------: | --------------: | ----------------------------------------------------------- |
+| 30"   |        5 |              -1 | Armour Bane (2); Cumbersome; Move or Shoot; Multi-Barrelled |
 
 **Notes:** This weapon uses the Black Powder Misfire table.
 
@@ -185,9 +185,9 @@ After determining the number of shots, roll To Hit for each as normal, using the
 
 These short, heavy weapons lob a hollow, explosive shell high into the air to drop onto its target. This shell explodes with great force, scattering razor-sharp shrapnel capable of cutting easily through even the heaviest of armour over a wide area.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 12-48" | 2(6) | -2(-3) | Armour Bane (1); Bombardment; Cumbersome; Move or Shoot; Multiple Wounds (D3) |
+| Range  | Strength | Armour Piercing | Special Rules                                                                 |
+| ------ | -------: | --------------: | ----------------------------------------------------------------------------- |
+| 12-48" |     2(6) |          -2(-3) | Armour Bane (1); Bombardment; Cumbersome; Move or Shoot; Multiple Wounds (D3) |
 
 **Notes:** This weapon does not use its crew’s Ballistic Skill. Instead, it shoots like a stone thrower, using the Bombardment special rule. This weapon uses a 5" blast template and the Black Powder Misfire table. The Multiple Wounds (D3) special rule applies only to a single model whose base lies underneath the central hole of the blast template.
 
@@ -195,9 +195,9 @@ These short, heavy weapons lob a hollow, explosive shell high into the air to dr
 
 A fire thrower consists of an airtight copper-lined barrel and a fluid chamber filled with a sticky alchemical sludge. When triggered, a fire thrower launches a torrent of noxious chemicals, which ignite as they pass over an ignition flame in the weapon’s barrel, incinerating anyone and anything unfortunate enough to be caught in the blast.
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---:|---:|---|
-| 12" | 5 | -1 | Column of Fire; Cumbersome; Flaming Attacks; Move or Shoot |
+| Range | Strength | Armour Piercing | Special Rules                                              |
+| ----- | -------: | --------------: | ---------------------------------------------------------- |
+| 12"   |        5 |              -1 | Column of Fire; Cumbersome; Flaming Attacks; Move or Shoot |
 
 **Notes:** Fire throwers do not use their crew's Ballistic Skill. Instead, they shoot using the Column of Fire special rule. This weapon uses the Black Powder Misfire table.
 
@@ -218,8 +218,8 @@ Any model whose base lies underneath the template risks being hit.
 
 Black powder weapons are temperamental and prone to malfunctioning – often in spectacular fashion. Whenever a black powder weapon misfires (be it a cannon, organ gun, mortar, fire thrower, or something more exotic), roll on the table below and apply the result immediately:
 
-| D6 | Result |
-|---:|---|
-| 1 | **Destroyed:** The weapon explodes with a thunderous noise, leaving a hole in the ground and a cloud of black smoke hanging in the air. The model is destroyed and immediately removed from play. |
+|  D6 | Result                                                                                                                                                                                                                                                                                                     |
+| --: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | **Destroyed:** The weapon explodes with a thunderous noise, leaving a hole in the ground and a cloud of black smoke hanging in the air. The model is destroyed and immediately removed from play.                                                                                                          |
 | 2-4 | **Malfunction:** One of the crew has become caught in the firing mechanism. This problem can be fixed, but only by partially dismantling the weapon, the crew member, or both. The crew immediately loses one Wound, the model fails to shoot this turn and cannot shoot before the end of the next round. |
-| 5-6 | **Pffft:** The fuse has gone out. As far as mishaps go, it is not very serious, but one of the crew will be feeling rather foolish! The model fails to shoot this turn. |
+| 5-6 | **Pffft:** The fuse has gone out. As far as mishaps go, it is not very serious, but one of the crew will be feeling rather foolish! The model fails to shoot this turn.                                                                                                                                    |

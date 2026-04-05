@@ -66,7 +66,7 @@ If a character has a cavalry mount (be it light, heavy or monstrous), the model 
 
 When moving, this model uses the Movement characteristic of the mount.
 
-### Improved Characteristics
+### Improved Characteristics (Cavalry Mounts)
 
 Some cavalry mounts are big and tough enough that being mounted upon one will increase the character's Toughness and/or Wounds characteristics. In such cases, this will be noted within the mount's profile.
 
@@ -86,7 +86,7 @@ Not unlike any other mounted model, a character that is mounted upon a Ridden Mo
 - When this model makes an Armour Save roll, it may use either the mount or the character's armour value, whichever is better.
 - If the character is reduced to zero Wounds, the model as a whole is removed from play.
 
-### Improved Characteristics
+### Improved Characteristics (Ridden Monsters)
 
 Ridden monsters are invariably huge and fearsome beasts, and being mounted upon one will increase the character's Toughness and/or Wounds characteristics. In such cases, this will be noted within the mount's profile.
 
@@ -107,7 +107,7 @@ Not unlike any other chariot, a character that is mounted upon a chariot will ha
 - When this model makes an Armour Save roll, it may use either the chariot's or the character's armour value, whichever is better.
 - If the chariot is reduced to zero Wounds, the model as a whole is removed from play.
 
-### Improved Characteristics
+### Improved Characteristics (Chariot Mount)
 
 When a character mounts a chariot, they join its crew, bolstering their strength, fighting ability and survivability. To represent this, the Wounds characteristic of the character is added to that of the chariot. For example, if a character with W3 is mounted upon a chariot with W4, the model would have seven Wounds.
 
@@ -126,8 +126,8 @@ Whilst many characters ride to battle aboard a chariot or atop a monster, many m
 - Any character whose troop type is infantry or cavalry and that has not joined a unit is considered to be a 'Lone character'.
 - During the course of a game, a Lone character may join a friendly unit, bringing their might and leadership to the unit to strengthen its ranks. Upon joining a unit, a character ceases to be a Lone character.
 - A Lone character benefits from the following rules:
-	- Evade
-	- Targeting Lone Characters
+  - Evade
+  - Targeting Lone Characters
 
 ## Evade
 

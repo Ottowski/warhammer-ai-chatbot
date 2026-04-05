@@ -122,10 +122,9 @@ Miao Ying may discard up to two of her randomly generated spells (rather than th
 
 With a quick gesture, Miao Ying summons forth lightning from the skies to strike at her foes.
 
-| Type | Casting Value | Range |
-|---|---|---|
-| Magic Missile | 10+ | 18" |
-
+| Type             | Casting Value | Range |
+|------------------|---------------|-------|
+| Magic Missile    | 10+           | 18"   |
 
 The target enemy unit suffers 2D3 Strength 5 hits, each with an AP of -3. These hits have the Flaming Attacks special rule. Once these hits have been resolved, the target enemy unit must Give Ground.
 
@@ -529,7 +528,6 @@ Blazing starlight leaps from the Wizard's fingertips, dancing and forming a simu
 |---|---|---|
 | Magic Missile | 7+/11+ | 18" |
 
-
 If this spell is cast with a casting result of 7 or more, the target enemy unit suffers D6+1 Strength 4 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6+2 Strength 4 hits, each with an AP of -1.
 
 #### Great Bastion (Signature Spell)
@@ -540,7 +538,6 @@ With a word of power from the Wizard, the earth cracks and buckles as it is tran
 |---|---|---|
 | Enchantment | 9+ | 12" |
 
-
 Remains in Play. The target friendly unit gains a 6+ Ward save against any wounds suffered. In addition, every model within the front rank of an enemy unit that ends its charge move in base contact with the target unit whilst this spell is in play must make a Dangerous Terrain test. Any Wounds lost are counted as 'unsaved wounds inflicted' when calculating the combat result. However, whilst this spell is in play the target unit cannot march or charge. This spell may target a friendly unit engaged in combat.
 
 #### Might of Heaven & Earth (Signature Spell)
@@ -550,7 +547,6 @@ Calling upon the elemental energies of earth and heaven, the Wizard and those ar
 | Type | Casting Value | Range |
 |---|---|---|
 | Enchantment | 9+/12+ | Self |
-
 
 If this spell is cast with a casting result of 9 or more, the caster, their mount and any unit they have joined, gain a +1 modifier to their Weapon Skill and Strength characteristics (to a maximum of 10), and gain the Flaming Attacks special rule. If this spell is cast with a casting result of 12 or more, all friendly units that are within the caster's Command range when this spell is cast gain a + 1 modifier to their Weapon Skill and Strength characteristics (to a maximum of 10), and gain the Flaming Attacks special rule. This spell lasts until the end of this turn.
 
@@ -570,7 +566,6 @@ As they try to advance, those afflicted find themselves waylaid by the grasping 
 |---|---|---|
 | Hex | 10+ | 15" |
 
-
 Until your next Start of Turn sub-phase, the target enemy unit becomes subject to the Random Movement (D6) special rule.
 
 #### Accursed Mirror (Signature Spell)
@@ -581,7 +576,6 @@ The Wizard creates a magical barrier of shifting darkness and howling wind aroun
 |---|---|---|
 | Hex | 9+ | 15" |
 
-
 Until your next Start of Turn sub-phase, any rolls To Hit of a natural 1 made by the target enemy unit during either the Shooting phase or the Combat phase result in a Strength 3 hit with an AP of -1 which must be resolved against the target enemy unit. This spell may target an enemy unit engaged in combat.
 
 #### Ancestral Warriors (Signature Spell)
@@ -591,7 +585,6 @@ TK
 | Type | Casting Value | Range |
 |---|---|---|
 | Assailment | 7+/11+ | Combat |
-
 
 If this spell is cast with a casting result of 7 or more, a single enemy unit the caster is engaged in combat with suffers 2D3 Strength 2 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -1. This spell has the Armour Bane (2) special rule.
 
@@ -847,9 +840,10 @@ Cunningly crafted by the artificers of Nan-Gau, these earthenware jars contain t
 
 0-1 per model. Single Use. The Fires of Nan-Gau is a breath weapon with the following profile:
 
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| N/A | 4  | -2  | Breath Weapon, Flaming Attacks, Magical Attacks |
+| Range | Strength | Armour Piercing | Special Rules                                    |
+|-------|----------|-----------------|--------------------------------------------------|
+| N/A   | 4        | -2              | Breath Weapon, Flaming Attacks, Magical Attacks  |
+
 *Extremely Common
 
 #### Arcane Items

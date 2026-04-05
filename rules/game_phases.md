@@ -38,36 +38,43 @@ After completing all phases, the turn passes to the opposing player. After both 
 ### Beginning of Turn Phase
 
 **Regaining Control**:
+
 - Units that are Shaken automatically pass a Ld test to become Normal again
 - Some special units automatically rally or recover abilities
 
 **Regeneration Check**:
+
 - Units with regeneration may make saves for wounds sustained in the previous turn
 
 ### Movement Phase
 
 **Unit Eligibility**:
+
 - Units in close combat cannot move (they must finish the fight)
 - Units that are Pinned move at half speed
 - Units that are Fleeing must move away from the enemy at maximum speed
 
 **Forming and Breaking Formation**:
+
 - Infantry can form loose or tight formations
 - Changing formation costs inches of movement
 - Loose formation allows better movement through terrain
 
 **Marching vs. Advancing**:
+
 - **Marching**: Move full distance but cannot react to threats
 - **Advancing**: Move half distance but can react to charges or threats
 
 ### Shooting Phase
 
 **Who Can Shoot**:
+
 - Units with ranged weapons
 - Not in close combat
 - Have clear line of sight to target
 
 **Modifiers to Hit**:
+
 - Long range: -2 to hit roll
 - Moving and shooting: -1 to hit roll
 - In difficult terrain: -1 to hit roll
@@ -77,6 +84,7 @@ After completing all phases, the turn passes to the opposing player. After both 
 ### Close Combat Phase
 
 **Engagement Procedure**:
+
 1. Both units are fighting (must be in base contact)
 2. Determine initiative (usually I stat)
 3. High initiative attacks first
@@ -84,12 +92,14 @@ After completing all phases, the turn passes to the opposing player. After both 
 5. Apply casualties and test for break
 
 **Consolidation**:
+
 - Winners of combat may move up to 2" toward nearest enemy
 - Losers must hold their ground (if not routing)
 
 ## Turn Priority
 
 **Who Goes First?**
+
 - Determined by dice roll (1d6, modified by various abilities)
 - Alternatively, attacker/defender determined by scenario
 - Some armies have special rules for initiative

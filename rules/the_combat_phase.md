@@ -22,7 +22,7 @@ Each unit on the losing side of a combat must make a Break test. The outcome of 
 
 Units on the winning side of a combat can choose to follow up an enemy that Gives Ground, to pursue an enemy that Falls Back in Good Order or breaks, or to restrain from pursuit.
 
-## Follow Up & Pursuit
+## Follow Up & Pursuit Detailed Rules
 
 ### Overrun
 
@@ -43,7 +43,7 @@ A unit that is still in base contact with an enemy unit cannot follow up or purs
 
 A unit may be unable to complete its chosen move due to the presence of other friendly units or terrain. In such cases, the unit moves as far as possible before halting.
 
-### Catching the Curs!
+### Catching the Curs
 
 Once the unit being pursued has completed its move, the pursuing unit is moved. If the pursuing unit makes contact with the pursued unit, it has caught its enemy and halts:
 
@@ -76,7 +76,7 @@ Otherwise, the units become locked in place until the next player's turn when th
 
 Once all combats have been resolved, the active player's turn ends. Play then passes to the inactive player and their turn begins. As each turn ends and a new one begins, it is worth making a note of how many turns and rounds have been played.
 
-## Choose & Fight Combat
+## Choose & Fight Combat - Detailed Rules
 
 The Choose Combat & Fight sub-phase is further broken down into four steps. These are:
 
@@ -131,15 +131,15 @@ In certain situations, a unit's charge may become disordered. A unit that makes 
 
 If models on both sides of a combat have the same Initiative value (after modifiers), they will attack at the same time. To simplify this, the active player should resolve their attacks first, followed by their opponent. Casualties caused by the active player during simultaneous combat do not reduce the number of attacks made by enemy models with the same Initiative value.
 
-#### We Can't All Fight!
+#### We Can't All Fight
 
 Not every model will be able to fight. Many will be removed as casualties before they have their chance.
 
-**Fallen Warriors**
+**Fallen Warriors
 
 If a model in the fighting rank is slain by an enemy with a higher Initiative characteristic before it has made its attack(s), it cannot fight and its attacks are lost.
 
-**Stepping Forward**
+**Stepping Forward
 
 A model cannot fight during a phase in which it stepped forward into the fighting rank, regardless of its Initiative.
 
@@ -181,11 +181,11 @@ When a model's turn to fight comes, you must make a number of rolls To Hit equal
 | 9   | 2+  | 2+  | 2+  | 2+  | 3+  | 3+  | 3+  | 3+  | 4+  | 4+  |
 | 10  | 2+  | 2+  | 2+  | 2+  | 3+  | 3+  | 3+  | 3+  | 3+  | 4+  |
 
-**Rolls of a Natural 1**
+**Rolls of a Natural 1
 
 Regardless of a warrior's skill, some blows struck just fail to find their mark. When making a roll To Hit, a roll of a natural 1 is always a fail, regardless of modifiers.
 
-**Rolls of a Natural 6**
+**Rolls of a Natural 6
 
 Even the most unskilled fighter can sometimes land a lucky blow against a superior foe. When making a roll To Hit, a roll of a natural 6 is always a success, regardless of modifiers.
 
@@ -203,7 +203,7 @@ As described in the Shooting section, for each successful roll To Hit, a hit has
 
 To determine how many hits cause wounds, you must make a roll To Wound for each hit. To make a roll To Wound, pick up each dice that caused a hit and roll it again. Then, consult the To Wound chart, cross-referencing the weapon's Strength characteristic, given in its profile, with the target's Toughness. Any dice that equal or beat the target number shown (after applying any modifiers) have caused a wound.
 
-**Rolls of a Natural 1**
+**Rolls of a Natural 1
 
 No matter how strong the attacker, some blows just fail to wound. When making a roll To Wound, a roll of a natural 1 is always a fail, regardless of modifiers.
 
@@ -229,7 +229,7 @@ As few warriors enter battle without the protection of armour, your opponent can
 - If the Armour Save roll equals or exceeds the model's armour value, the model is saved by its armour and the wound discarded.
 - If the result is less than the model's armour value, the model's armour has proved ineffective and the wound is 'unsaved'.
 
-**Rolls of a Natural 1**
+**Rolls of a Natural 1
 
 Even the heaviest of armour can be breached by a lucky blow. When making an Armour Save roll (of any type), a roll of a natural 1 is always a fail, regardless of modifiers.
 
@@ -261,7 +261,7 @@ It can sometimes happen that a unit suffers more casualties than it has models i
 
 In such cases, and if the unit suffering the casualties is able to make supporting attacks, any excess casualties will reduce the number of supporting attacks.
 
-### Fight On!
+### Fight On
 
 With casualties removed, check to see if there are any models with a lower Initiative still to fight in this combat. If there are, repeat steps 1.2, 1.3 and 1.4 for those models. If there are no models left to fight in this combat, move on to the next sub-phase.
 
@@ -337,7 +337,7 @@ For the purposes of combat, high linear obstacles (i.e., 2" high or more) are tr
 
 Some terrain features are so small that they cannot reasonably be expected to interfere with combat. Very small decorative elements of terrain less than 2" across, such as a signpost or well, should be ignored as if they were not there – units can freely fight around them. Should the presence of such a feature ever interfere with the positioning of units, simply make note of its position and move it aside, replacing it when it is convenient to do so.
 
-## Calculate Combat Result
+## Calculate Combat Result - Detailed Rules
 
 Once every model engaged in the combat has fought, you must determine which side has won that round of combat. If one side has been completely wiped out, the other side is automatically the winner, regardless of the rules that follow.
 

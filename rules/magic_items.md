@@ -18,11 +18,11 @@ Any magic items purchased should be noted down and their points added to that of
 
 There are six categories of magic item: magic weapons, magic armour, talismans, magic standards, enchanted items and arcane items.
 
-### Magic Weapons
+### Magic Weapons (Category)
 
 Most often swords, but also axes, maces, spears, bows and so forth. A magical weapon is a great boon to a warrior.
 
-### Magic Armour
+### Magic Armour (Category)
 
 Helms, shields, breastplates, even partial and full suits of armour, all can be ensorcelled in some way.
 
@@ -70,7 +70,7 @@ The magic items listed on the following sections often have a name that describe
 
 For example, in the hands of a General of the Empire, it would make sense for a 'Sword of Striking' to resemble a fine rapier, but when wielded by an Orc Warboss that same rapier would look out of place. It is perfectly acceptable for the model of an Orc Warboss equipped with a Sword of Striking to carry a large and brutal cleaver instead. What matters is that the points have been paid to include the item in your army, and that a suitable weapon is wielded by the model so that your opponent can easily remember what it represents.
 
-## Magic Weapons
+### Magic Weapons
 
 Magic weapons grant the wielder extra abilities, new special rules or an improved profile, the better to slay enemies. Unless otherwise stated, the following rules apply to all magic weapons:
 
@@ -85,7 +85,7 @@ Magic weapons grant the wielder extra abilities, new special rules or an improve
 A broad and heavy blade, the Ogre Blade is, much like its namesake, an unsubtle weapon.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S+2 | -2 | Armour Bane (1), Magical Attacks, Multiple Wounds (D3)
 
 ### Cackling Blade (Magic Weapon)
@@ -94,7 +94,7 @@ Combat | S+2 | -2 | Armour Bane (1), Magical Attacks, Multiple Wounds (D3)
 Those who carry the Cackling Blade relinquish all self control until the battle has long ended - often to their peril.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S+1 | -1 | Extra Attacks (+D6), Magical Attacks
 
 Notes: If a natural 6 is rolled for the Extra Attacks (+D6) special rule, the wielder of the Cackling Blade immediately loses a single Wound.
@@ -105,7 +105,7 @@ Notes: If a natural 6 is rolled for the Extra Attacks (+D6) special rule, the wi
 A simple weapon, yet finely crafted, blessed by mighty mages and revered priests.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S+1 | -1 | Armour Bane (1), Extra Attacks (+1), Magical Attacks
 
 ### Duellist's Blades (Magic Weapon)
@@ -114,7 +114,7 @@ Combat | S+1 | -1 | Armour Bane (1), Extra Attacks (+1), Magical Attacks
 Fine weapons, forged by the greatest of swordsmiths and imbued with potent runes of quickening.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S | -1 | Extra Attacks (+2), Magical Attacks, Requires Two Hands
 
 ### Dragon Slaying Sword (Magic Weapon)
@@ -123,7 +123,7 @@ Combat | S | -1 | Extra Attacks (+2), Magical Attacks, Requires Two Hands
 A mighty blade, wielded by many great heroes in their endless quests to slay foul monsters.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S | - | Magical Attacks, Monster Slayer
 
 ### Meteor Hammer (Magic Weapon)
@@ -132,7 +132,7 @@ Combat | S | - | Magical Attacks, Monster Slayer
 No matter who wields this mighty hammer, their blows will land with the force of a meteor plummeting from the heavens.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S | -3 | Magical Attacks, Requires Two Hands
 
 Notes: When making a roll To Wound with this weapon, a roll of a 3+ is always a success, regardless of the target's Toughness.
@@ -143,7 +143,7 @@ Notes: When making a roll To Wound with this weapon, a roll of a 3+ is always a 
 A wide bladed axe, steeped in the blood of its countless helpless victims.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S+1 | -1 | Killing Blow, Magical Attacks, Requires Two Hands
 
 ### Spelleater Axe (Magic Weapon)
@@ -152,7 +152,7 @@ Combat | S+1 | -1 | Killing Blow, Magical Attacks, Requires Two Hands
 Forged of rune-encrusted brass, the Spelleater Axe is anathema to the Winds of Magic.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S | -1 | Magical Attacks, Magic Resistance (-2)
 
 ### Giant Blade (Magic Weapon)
@@ -161,7 +161,7 @@ Combat | S | -1 | Magical Attacks, Magic Resistance (-2)
 A broad and heavy blade wrought with powerful enchantments that only increase the weight of its blows, the Giant Blade is an unsubtle weapon.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S+1 | - | Armour Bane (2), Magical Attacks, Multiple Wounds (2)
 
 ### Hell-forged Axe (Magic Weapon)
@@ -170,7 +170,7 @@ Combat | S+1 | - | Armour Bane (2), Magical Attacks, Multiple Wounds (2)
 In the midst of battle, smoke billows and flames burst from the glowing blade of this fell weapon.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S+1 | -1 | Armour Bane (3), Flaming Attacks, Magical Attacks
 
 ### Sword of Sorrow (Magic Weapon)
@@ -179,7 +179,7 @@ Combat | S+1 | -1 | Armour Bane (3), Flaming Attacks, Magical Attacks
 Though it possesses no special properties when wielded in combat, it is said that a gesture with the Sword of Sorrow can pierce an enemy's heart from afar.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 30" | 5 | -1 | Armour Bane (2), Magical Attacks, Multiple Wounds (2)
 
 Notes: The Sword of Sorrow is a missile weapon; it cannot be used in combat. No Ward or Regeneration saves are permitted against wounds caused by the Sword of Sorrow.
@@ -190,7 +190,7 @@ Notes: The Sword of Sorrow is a missile weapon; it cannot be used in combat. No 
 Crafted from magically attuned materials and ensorcelled to strike as if with a life of its own.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S | - | Magical Attacks, Strike First
 
 ### Berserker Blade (Magic Weapon)
@@ -199,7 +199,7 @@ Combat | S | - | Magical Attacks, Strike First
 Quenched in the blood of untold fallen enemies, the Berserker Blade eternally hungers for battle.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S+1 | - | Extra Attacks (+1), Impetuous, Magical Attacks
 
 Notes: The wielder of the Berserker Blade is Impetuous.
@@ -210,7 +210,7 @@ Notes: The wielder of the Berserker Blade is Impetuous.
 Bound around with powerful runes that increase its power and enhance the strength of its bearer.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S+1 | -1 | Magical Attacks
 
 *Extremely Common
@@ -221,7 +221,7 @@ Combat | S+1 | -1 | Magical Attacks
 The serrated length of the Biting Blade cuts through armour of plate and mail with terrible ease.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S | -2 | Armour Bane (1), Magical Attacks
 
 ### Sword of Striking* (Magic Weapon)
@@ -230,7 +230,7 @@ Combat | S | -2 | Armour Bane (1), Magical Attacks
 Engraved with runes of accuracy and swiftness, the Sword of Striking is an elegant weapon of great precision.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S | - | Magical Attacks
 
 Notes: During the Combat phase, the wielder of the Sword of Striking has a +1 modifier to their rolls To Hit.
@@ -243,7 +243,7 @@ Notes: During the Combat phase, the wielder of the Sword of Striking has a +1 mo
 Once unsheathed, the cutting edge of the Burning Blade writhes endlessly with a living flame.
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S | - | Flaming Attacks, Magical Attacks
 
 *Extremely Common
@@ -251,7 +251,7 @@ Combat | S | - | Flaming Attacks, Magical Attacks
 ### Dragonblade (Magic Weapon)
 
 Range | Strength | Armour Piercing | Special Rules
----|---|---|---
+| --- | --- | --- |
 Combat | S+2 | -2 | Armour Bane (1), Magical Attacks
 
 Notes: Dragonblade is inscribed with a Rune of Fury and a Grudge Rune, as described in Forces of Fantasy.

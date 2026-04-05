@@ -52,9 +52,9 @@ This sub-category covers all the roughly human-sized warriors of the Warhammer w
 
 Due to their ubiquity, the basic rules of Warhammer: the Old World are written around regular infantry, so no additional rules apply to this troop type.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Regular Infantry | 5 | +2 | 1 | Press of Battle; Massed Infantry; Parry |
+| Troop Type       | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                           |
+| ---------------- | --------------- | ------------------ | ----------------------- | --------------------------------------- |
+| Regular Infantry | 5               | +2                 | 1                       | Press of Battle; Massed Infantry; Parry |
 
 #### Press of Battle
 
@@ -72,9 +72,9 @@ With sword and shield, warriors attempt to deflect enemy attacks. Whilst engaged
 
 This sub-category covers the many warriors that are larger than the average man, but not monstrously large, and the heavily armed or armoured elites that the rank and file aspire towards and that generals turn to as bodyguards and more. Close Order formations of heavy infantry can usually be found where the fighting is thickest.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Heavy Infantry | 4 | +2 | 1 | Steady in the Ranks; Press of Battle; Massed Infantry; Parry |
+| Troop Type     | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                                                |
+| -------------- | --------------- | ------------------ | ----------------------- | ------------------------------------------------------------ |
+| Heavy Infantry | 4               | +2                 | 1                       | Steady in the Ranks; Press of Battle; Massed Infantry; Parry |
 
 #### Steady in the Ranks
 
@@ -84,9 +84,9 @@ Due to their solid stature, heavy armour and often elite nature, heavy infantry 
 
 The monstrous infantry sub-category covers things like Trolls, Ogres and Minotaurs - creatures that are (roughly) man-shaped and fight on foot, but that are two or three times the size of regular or heavy infantry. Monstrous creatures vary wildly, from Ogres who fight as mercenaries all across the Old World, to Trolls, who shamble to war in search of food and fight together in irregular formations.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Monstrous Infantry | 3 | +2 | 3 | Clumsy |
+| Troop Type         | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
+| ------------------ | --------------- | ------------------ | ----------------------- | ------------- |
+| Monstrous Infantry | 3               | +2                 | 3                       | Clumsy        |
 
 #### Clumsy
 
@@ -96,9 +96,9 @@ A unit with this rule can only be joined by a character that also has this rule.
 
 Swarms are seething masses of small creatures, such as rats, snakes or insects, summoned to the battlefield by magical means or herded there by beast masters and handlers to be set loose upon the enemy. Individually, the critters in a swarm pose little threat, but their sheer weight of numbers more than compensates for their size. Swarms are made of a number of bases. Each base includes many creatures, but counts as a single model.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Swarms | - | - | 3 | Insignificant; No One Cares; Undisciplined |
+| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                              |
+| ---------- | --------------- | ------------------ | ----------------------- | ------------------------------------------ |
+| Swarms     | -               | -                  | 3                       | Insignificant; No One Cares; Undisciplined |
 
 #### Insignificant
 
@@ -128,9 +128,9 @@ War Beasts
 
 Be they mounted on swift steeds, savage wolves, giant spiders or daemonic beasts, light cavalry are fast moving riders that range far and wide, encircling the foe. Such riders excel as scouts and outriders as well as warriors, and will often send word of enemy movement back to their commanders before launching lightning-fast strikes intended to demoralise the foe.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Light Cavalry | 5 | +1 | 2 | Split Profile (Cavalry); Cavalry Support |
+| Troop Type    | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                            |
+| ------------- | --------------- | ------------------ | ----------------------- | ---------------------------------------- |
+| Light Cavalry | 5               | +1                 | 2                       | Split Profile (Cavalry); Cavalry Support |
 
 #### Split Profile (Cavalry)
 
@@ -156,25 +156,25 @@ Whilst a rider may be able to reach above a comrade to strike at the foe, their 
 
 Across the battlefields of the Old World, the thunderous charge of heavy cavalry turns the bowels of even the bravest infantryman to water. Heavy cavalry are the heavily armed and armoured knights of the Old World's armies, warrior elites mounted atop mighty warhorses, bellowing boars and cold-blooded reptiles that charge fearlessly into the fray time and time again.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Heavy Cavalry | 4 | +1 | 2 | Split Profile (Cavalry); Cavalry Support |
+| Troop Type    | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                            |
+| ------------- | --------------- | ------------------ | ----------------------- | ---------------------------------------- |
+| Heavy Cavalry | 4               | +1                 | 2                       | Split Profile (Cavalry); Cavalry Support |
 
 ### Monstrous Cavalry
 
 Just as horse-sized beasts can be pressed into service as mounts, so too can their monstrous cousins. Monstrous cavalry are rare, as most such creatures are so strong-willed that great patience (or violence) is needed to break them to the saddle. This combination of mass and stubborn muscle makes monstrous cavalry a much-feared sight upon the battlefields of the Warhammer world.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Monstrous Cavalry | 3 | +1 | 3 | Split Profile (Cavalry); Clumsy |
+| Troop Type        | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                   |
+| ----------------- | --------------- | ------------------ | ----------------------- | ------------------------------- |
+| Monstrous Cavalry | 3               | +1                 | 3                       | Split Profile (Cavalry); Clumsy |
 
 ### War Beasts
 
 Some armies employ hunting animals, such as hounds or wolves. Whilst not particularly intelligent, such creatures can be formidable foes in close combat, and cover ground at an incredible rate.
 
 | Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| War Beasts | 5 | +1 | 1 | Undisciplined |
+| ---------- | --------------- | ------------------ | ----------------------- | ------------- |
+| War Beasts | 5               | +1                 | 1                       | Undisciplined |
 
 ## Chariots
 
@@ -188,9 +188,9 @@ Heavy Chariots
 
 Fast moving and lightly made, light chariots are often used as mobile platforms from which skilled warriors rain missiles on the enemy, or from which noble heroes shout challenges to the foe. They are often deployed in units and, much like light cavalry, they will harass the flanks of the enemy before closing in for the kill.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Light Chariots | 3 | +1 | 3 | Split Profile (Chariots); Iron Shod Wheels; Churning Wheels; Firing Platform |
+| Troop Type     | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                                                                |
+| -------------- | --------------- | ------------------ | ----------------------- | ---------------------------------------------------------------------------- |
+| Light Chariots | 3               | +1                 | 3                       | Split Profile (Chariots); Iron Shod Wheels; Churning Wheels; Firing Platform |
 
 #### Split Profile (Chariots)
 
@@ -226,9 +226,9 @@ Built for strength and durability, heavy chariots deliver crushing charges deep 
 
 Often, the charge of a heavy chariot will cause the serried ranks of the enemy to buckle and crumple as scythed wheels hew through limbs and armoured beasts trample all before them. The survivors of such a charge fare no better, for heavy chariots are invariably crewed by mighty warriors that use the armoured cab of their vehicle as a platform from which to slay their enemies with brutal efficiency.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Heavy Chariots | - | - | 5 | Split Profile (Chariots); Scythed Wheels; Lumbering; Iron Shod Wheels; Firing Platform |
+| Troop Type     | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                                                                          |
+| -------------- | --------------- | ------------------ | ----------------------- | -------------------------------------------------------------------------------------- |
+| Heavy Chariots | -               | -                  | 5                       | Split Profile (Chariots); Scythed Wheels; Lumbering; Iron Shod Wheels; Firing Platform |
 
 #### Scythed Wheels
 
@@ -254,17 +254,17 @@ Behemoths
 
 There are many mighty and wondrous creatures in the Warhammer world that, whilst not large enough to shake the earth with their tread, are considerably larger than monstrous infantry or monstrous cavalry. Such beasts are referred to as monstrous creatures and they are formidable foes.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Monstrous Creatures | - | - | As Starting Wounds | Ridden Monster; Lumbering |
+| Troop Type          | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules             |
+| ------------------- | --------------- | ------------------ | ----------------------- | ------------------------- |
+| Monstrous Creatures | -               | -                  | As Starting Wounds      | Ridden Monster; Lumbering |
 
 ### Behemoths
 
 Behemoths are the largest beings in the Warhammer world. This category includes such terrors as mighty Dragons, be they noble or corrupted; Greater Daemons of Chaos, the most accursed of the Dark Gods' servants; towering Giants; lumbering constructs of science and sorcery, and far more besides.
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| Behemoths | - | - | As Starting Wounds | Ridden Monster; Lumbering; Thunderstomp |
+| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                           |
+| ---------- | --------------- | ------------------ | ----------------------- | --------------------------------------- |
+| Behemoths  | -               | -                  | As Starting Wounds      | Ridden Monster; Lumbering; Thunderstomp |
 
 #### Thunderstomp
 
@@ -274,9 +274,9 @@ Colossal feet and gigantic hooves do damage beyond imagining when they kick and 
 
 War machines such as cannon and bolt throwers are powerful weapons on the field of battle, able to pulverise whole regiments, breach stone walls or even slay fearsome monsters with a single, well-placed shot. The most commonly seen types of war machine are dealt with as weapons in greater detail in their own section. War machines in general as a category of troop type have the following rules:
 
-| Troop Type | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules |
-|---|---|---|---|---|
-| War Machines | - | - | As Starting Wounds | Split Profile (War Machine); We're Not Paid to Fight; Weapon of War |
+| Troop Type   | Models per Rank | Maximum Rank Bonus | Unit Strength per Model | Special Rules                                                       |
+| ------------ | --------------- | ------------------ | ----------------------- | ------------------------------------------------------------------- |
+| War Machines | -               | -                  | As Starting Wounds      | Split Profile (War Machine); We're Not Paid to Fight; Weapon of War |
 
 ### Split Profile (War Machine)
 

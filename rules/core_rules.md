@@ -71,6 +71,7 @@ Armor types:
 ### Morale Checks
 
 When a unit loses 25% of its starting strength, it must take a Morale check:
+
 - Roll 2d6 plus leadership modifier
 - If result is equal or less than the unit's Leadership (Ld), the check is passed
 - Failed checks result in units becoming Shaken or routing
