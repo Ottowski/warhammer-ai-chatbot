@@ -143,7 +143,7 @@ A Chaos Warhound Handler is a special type of character that can be taken as an 
 Roll a D6 during Caged Fury:
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1 | **Free at Last!** The Daemon breaks loose. Every unit (friend or foe) within 3D6" suffers D6 Strength 5 hits, each with an AP of -1. Once these hits are resolved, the Hellcannon is removed from play as a casualty. |
 | 2-4 | **Chomp!** The Hellcannon's handlers are sucked towards the furnace of the ravenous Daemon. Remove one of the Hellcannon's Chaos Dwarf Handlers. |
 | 5-6 | **Blooood!** The Hellcannon breaks its chains, immediately moving 3D6" as if it were subject to the Random Movement special rule and as if this were the Compulsory Moves sub-phase. |
@@ -225,7 +225,7 @@ Cult of the Fell Raptor
 When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, roll on the table below to determine which mutation it is currently afflicted with:
 
 | D6 | Mutation |
-|---|---|
+| --- | --- |
 | 1-2 | **Venomous Fangs:** With jaws distended, the Forsaken sink venomous fangs into their foes. Until the end of this Combat phase, the unit gains the Poisoned Attacks special rule. |
 | 3-4 | **Razor Talons:** With talons like the blades of daggers, the Forsaken slash at their enemies. Until the end of this Combat phase, all of the unit's attacks have an Armour Piercing characteristic of -2. |
 | 5-6 | **Decapitating Claws:** With gigantic, snapping claws, the Forsaken dismember the enemy. Until the end of this Combat phase, the unit gains the Killing Blow special rule. |
@@ -331,13 +331,13 @@ Note that, should a Bretonnian army accept the challenge, it counts as having pr
 ### Dark Fire of Chaos
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 4 | -1 | Breath Weapon; Flaming Attacks; Magical Attacks |
 
 ### Doomfire
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 12-60" | 5(10) | -2(-5) | Bombardment; Cumbersome; Move or Shoot; Multiple Wounds (D3) |
 
 Notes: This weapon shoots like a stone thrower, using the Bombardment special rule, a 3" blast template and the Hellcannon Misfire table. Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties.
@@ -345,7 +345,7 @@ Notes: This weapon shoots like a stone thrower, using the Bombardment special ru
 ### Fiend Tail
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Extra Attacks (+D3) |
 
 Notes: In combat, a Chimera with a fiend tail may make an additional D3 attacks each turn, each of which must be made with this weapon.
@@ -353,13 +353,13 @@ Notes: In combat, a Chimera with a fiend tail may make an additional D3 attacks 
 ### Flaming Breath (Warriors of Chaos)
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 4 | - | Breath Weapon; Flaming Attacks |
 
 ### Fumes of Contagion
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 2 | N/A | Breath Weapon; Magical Attacks |
 
 Notes: No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).
@@ -367,7 +367,7 @@ Notes: No armour save is permitted against wounds caused by this weapon (Ward an
 ### Gnashing Maws
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Strike Last |
 
 Notes: In combat, this model may choose to make one of its attacks each turn with this weapon. For each Wound an enemy unit loses as a result of an attack made with this weapon, this model immediately recovers a single lost Wound.
@@ -375,13 +375,13 @@ Notes: In combat, this model may choose to make one of its attacks each turn wit
 ### Slashing Talons (Warriors of Chaos)
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | - |
 
 ### Warpfire Blast
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 6"-24" | 4(8) | -1(-3) | Bombardment; Cumbersome; Flaming Attacks; Multiple Wounds (D3+1) |
 
 Notes: This weapon shoots like a stone thrower, using the Bombardment special rule and a 3" blast template. If a 'Misfire' is rolled on the Artillery dice, this model loses a single Wound (instead of rolling on a Misfire table). The Multiple Wounds (D3+1) special rule applies only to a single model whose base lies underneath the central hole of the blast template.
@@ -474,7 +474,7 @@ If you wish to field a Wolves of the Sea army in your games of Warhammer: the Ol
 
 #### Army of Infamy Composition List
 
-##### Characters
+##### Army of Infamy Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -484,19 +484,19 @@ Up to 50% of your army's points value may be spent on:
 
 Aspiring Champions and Marauder Tribe Chieftains
 
-##### Core
+##### Army of Infamy Core Units
 
 At least 25% of your army's points value must be spent on:
 
 Chaos Marauders, Marauder Horsemen, Marauder Tribe Berserkers and Chaos Warhounds
 
-##### Special
+##### Army of Infamy Special Units
 
 Up to 50% of your army's points value may be spent on:
 
 Chaos Warriors, Chaos Chariots, Skin Wolves, Marauder Tribe Huscarls and Chaos Spawn
 
-##### Rare
+##### Army of Infamy Rare Units
 
 Up to 33% of your army's points value may be spent on:
 
@@ -508,7 +508,7 @@ Chaos Ogres, Chaos Trolls and Dragon Ogres
 
 0-1 Chaos Giant per 1,000 points
 
-##### Mercenaries
+##### Army of Infamy Mercenaries Units
 
 Up to 25% of your army's points value may be spent on mercenaries, including:
 
@@ -518,7 +518,7 @@ Ungor Herds
 
 Note that mercenary units are subject to the Misbehaving Mercenaries rules.
 
-#### Battle Standard Bearer
+#### Army of Infamy Battle Standard Bearer
 
 A single Aspiring Champion or Marauder Tribe Chieftain in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
@@ -534,7 +534,7 @@ If you wish to field a Heralds of Darkness army in your games of Warhammer: the 
 
 #### Army of Infamy Composition List
 
-##### Characters
+##### Heralds Characters
 
 Up to 50% of your army's points value may be spent on:
 
