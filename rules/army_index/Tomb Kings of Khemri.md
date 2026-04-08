@@ -2,7 +2,7 @@
 
 ## Special Rules
 
-### Arise!
+### Arise
 
 As the Liche Priest intones words of power learned long ago from dusty papyrus, the broken forms of fallen skeletal legionaries begin to rise jerkily from the dust.
 
@@ -185,7 +185,7 @@ Once per turn, before making a Casting roll, any Liche Priest within a Mortuary 
 
 Note that this is a modifier to the result of a roll – it does not negate a roll of a natural double 1.
 
-### Settra Does Not Kneel!
+### Settra Does Not Kneel
 
 Settra views all people as his subjects and all lands as his to conquer; anyone that would challenge his rule is swiftly and brutally punished.
 
@@ -286,9 +286,8 @@ A Casket of Souls can cast the following Bound spells, with a Power Level of 2: 
 The unleashed spirits plunge through the bodies of the Tomb Kings' enemies, their hapless victims suffering unbearable agony as their life essence is utterly drained.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 7+ | 36" |
-
 
 The target enemy unit must immediately make a Leadership test. If this test is passed, it suffers D3 Strength 3 hits, each with an AP of -1. If, however, this test is failed, it suffers D6+3 Strength 6 hits, each with the Multiple Wounds (2) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).
 
@@ -297,9 +296,8 @@ The target enemy unit must immediately make a Leadership test. If this test is p
 The freed souls cluster about the skeletal legions of the Tomb Kings, blinding their enemies and turning aside their hostile blows.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 8+ | Self |
-
 
 Remains in Play. Whilst this Bound spell is in play, this model and any friendly unit within 18" of this model gains a 6+ Ward save against any wounds suffered. In addition, whilst this Bound spell is in play, enemy units suffer a -1 modifier to any rolls To Hit made against this model and any friendly unit within 18" of this model.
 
@@ -310,91 +308,67 @@ However, if this model casts the Light of Death Bound spell, this Bound spell wi
 ### Breath of Desiccation
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| N/A | 3 | -2 |  |
-Breath Weapon
-Magical Attacks
-Multiple Wounds (2)
+| --- | --- | --- | --- |
+| N/A | 3 | -2 | Breath Weapon, Magical Attacks, Multiple Wounds (2) |
 
 ### Cleaving Blades
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S | -1 |  |
-Killing Blow
+| --- | --- | --- | --- |
+| Combat | S | -1 | Killing Blow |
 
 ### Decapitating Claws
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S | -2 |  |
-Killing Blow
-Monster Slayer
+| --- | --- | --- | --- |
+| Combat | S | -2 | Killing Blow, Monster Slayer |
 
 ### Decapitating Strike
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+5 | -4 |  |
-Killing Blow
-Monster Slayer
-Strike Last
+| --- | --- | --- | --- |
+| Combat | S+5 | -4 | Killing Blow, Monster Slayer,Strike Last |
+
 Notes: This model may make one additional attack each turn with this weapon.
 
 ### Envenomed Sting
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S | - |  |
-Poisoned Attacks
-Strike First
+| --- | --- | --- | --- |
+| Combat | S | - | Poisoned Attacks, Strike First |
+
 Notes: In combat, this model may choose to make one of its attacks each turn with this weapon.
 
 ### Fiery Roar
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| N/A | 4 | -1 |  |
-Breath Weapon
-Flaming Attacks
+| --- | --- | --- | --- |
+| N/A | 4 | -1 | Breath Weapon, Flaming Attacks |
 
 ### Greatbow
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| 30" | 6 | -1 |  |
-Armour Bane (2)
-Multiple Wounds (2)
-Volley Fire
+| --- | --- | --- | --- |
+| 30" | 6 | -1 | Armour Bane (2), Multiple Wounds (2), Volley Fire |
 
 ### Paired Great Khopeshes
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S | -2 |  |
-Killing Blow
-Requires Two Hands
+| --- | --- | --- | --- |
+| Combat | S | -2 | Killing Blow, Requires Two Hands |
 
 ### Ritual Blade
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+2 | -3 |  |
-Requires Two Hands
-Strike Last
+| --- | --- | --- | --- |
+| Combat | S+2 | -3 | Requires Two Hands, Strike Last |
 
 ### Screaming Skull Catapult
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| 12-60" | 4(8) | -1(-3) |  |
-Bombardment
-Cumbersome
-Flaming Attacks
-Magical Attacks
-Move or Shoot
-Multiple Wounds (D3+1)
-Screaming Skulls
+| --- | --- | --- | --- |
+| 12-60" | 4(8) | -1(-3) | Bombardment, Cumbersome, Flaming Attacks, Magical Attacks, Move or Shoot, Multiple Wounds (D3+1), Screaming Skulls |
+
 Notes: This weapon shoots like a stone thrower, using the Bombardment special rule, a 3" blast template and the Stone Thrower Misfire table. The Multiple Wounds (D3+1) special rule applies only to a single model whose base lies underneath the central hole of the blast template.
 
 ### Swarming Mass
@@ -402,17 +376,17 @@ Notes: This weapon shoots like a stone thrower, using the Bombardment special ru
 As the swarm of scarabs in which Apophas' accursed soul resides rises up from the dust of the desert, his gleaming skull opens its fleshless jaw wide, unleashing an all consuming cloud of flesh eating beetles upon his enemies.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| N/A | 2 | - |  |
-Breath Weapon
+| --- | --- | --- | --- |
+| N/A | 2 | - | Breath Weapon |
+
 Notes: When making a roll To Wound with this weapon, a roll of 4+ is always a success, regardless of the target's Toughness.
 
 ### Writhing Tail
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S | -1 |  |
-Extra Attacks (+D3)
+| --- | --- | --- | --- |
+| Combat | S | -1 | Extra Attacks (+D3) |
+
 Notes: In combat, a Sepulchral Stalker may make an additional D3 attacks each turn, each of which must be made with this weapon (roll separately for each model in the unit).
 
 ## Warhammer Armies
@@ -425,7 +399,7 @@ This army list is intended for use alongside the Forming Units and Warhammer Arm
 
 #### Grand Army Composition List
 
-##### Characters
+##### Tomb Kings of Khemri Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -437,7 +411,7 @@ Up to 50% of your army's points value may be spent on:
 
 Royal Heralds and Necrotects
 
-##### Core
+##### Tomb Kings of Khemri Core Units
 
 At least 25% of your army's points value must be spent on:
 
@@ -447,7 +421,7 @@ Skeleton Skirmishers, Tomb Swarms, Skeleton Horsemen, Skeleton Horse Archers and
 
 0-1 unit of Tomb Guard or Sepulchral Stalkers may be taken as a Core choice
 
-##### Special
+##### Tomb Kings of Khemri Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -457,7 +431,7 @@ Tomb Guard, Ushabti, Sepulchral Stalkers, Carrion and Necropolis Knights
 
 0-2 Khemrian Warsphinx (not counting character mounts) per 1,000 points
 
-##### Rare
+##### Tomb Kings of Khemri Rare Units
 
 Up to 25% of your army's points value may be spent on:
 
@@ -469,7 +443,7 @@ Necrolith Colossus, Necrosphinx
 
 0-1 Winged Warsphinx per 1,000 points
 
-##### Mercenaries
+##### Tomb Kings of Khemri Mercenaries
 
 Up to 20% of your army's points value may be spent on mercenaries, including:
 
@@ -477,7 +451,7 @@ Badlands Ogre Bulls
 
 Note that mercenary units drawn from another army list gain the Mercenaries special rule and become subject to the Misbehaving Mercenaries rules.
 
-##### Allies
+##### Tomb Kings of Khemri Allies
 
 Up to 25% of your army's points value may be spent on a single allied contingent drawn from:
 
@@ -491,7 +465,7 @@ Warriors of Chaos (Suspicious)
 
 Beastmen Brayherds (Suspicious)
 
-#### Battle Standard Bearer
+#### Tomb Kings of Khemri Battle Standard Bearer
 
 A single Royal Herald in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
@@ -501,9 +475,9 @@ This Army of Infamy composition list is designed to be used with the Tomb Kings 
 
 If you wish to field a Nehekharan Royal Host in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
 
-#### Army of Infamy Composition List
+#### Nehekharan Royal Host Composition List
 
-##### Characters
+##### Nehekharan Royal Host Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -511,7 +485,7 @@ Up to 50% of your army's points value may be spent on:
 
 Mortuary Priests and Royal Heralds
 
-##### Core
+##### Nehekharan Royal Host Core Units
 
 At least 33% of your army's points value must be spent on:
 
@@ -521,7 +495,7 @@ At least 33% of your army's points value must be spent on:
 
 Skeleton Archers, Skeleton Infantry Cohorts and Skeleton Cavalry Cohorts
 
-##### Special
+##### Nehekharan Royal Host Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -531,17 +505,17 @@ Tomb Guard, Skeleton Skirmishers, Skeleton Horse Archers, Ushabti, Necropolis Kn
 
 0-2 Khemrian Warsphinx (not counting character mounts) per 1,000 points
 
-##### Rare
+##### Nehekharan Royal Host Rare Units
 
 Up to 25% of your army's points value may be spent on:
 
 0-2 Screaming Skull Catapults per 1,000 points
 
-#### Battle Standard Bearer
+#### Nehekharan Royal Host Battle Standard Bearer
 
 A single Royal Herald in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
-#### Magic Items
+#### Nehekharan Royal Host Magic Items
 
 Any models within this army that have the option to purchase magic items may purchase magic items from the Common or Tomb Kings of Khemri magic items lists.
 
@@ -551,9 +525,9 @@ This Army of Infamy composition list is designed to be used with the Tomb Kings 
 
 If you wish to field an army of the Mortuary Cult in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
 
-#### Army of Infamy Composition List
+#### Mortuary Cult Composition List
 
-##### Characters
+##### Mortuary Cult Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -563,7 +537,7 @@ Up to 50% of your army's points value may be spent on:
 
 Necrotects
 
-##### Core
+##### Mortuary Cult Core Units
 
 At least 33% of your army's points value must be spent on:
 
@@ -575,7 +549,7 @@ Skeleton Warriors, Skeleton Archers, Skeleton Skirmishers, Skeleton Horsemen, Sk
 
 0-1 unit of Necroserpents may be taken as a Core choice
 
-##### Special
+##### Mortuary Cult Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -585,7 +559,7 @@ Ushabti, Venerable Ushabti, Tomb Swarms, Carrion, Sepulchral Stalkers, Necroserp
 
 0-1 Necrolith Colossus or Necrosphinx may be taken as a Special choice
 
-##### Rare
+##### Mortuary Cult Rare Units
 
 Up to 33% of your army's points value may be spent on:
 
@@ -597,11 +571,11 @@ Necrolith Colossus and Necrosphinx
 
 0-1 Winged Warsphinx per 1,000 points
 
-#### Battle Standard Bearer
+#### Mortuary Cult Battle Standard Bearer
 
 A single Mortuary Priest in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit. This model replaces the "Hold your Ground" rule given in the Warhammer: the Old World rulebook with the version given in the Banner of the King special rule.
 
-#### Magic Items
+#### Mortuary Cult Magic Items
 
 Any models within this army that have the option to purchase magic items may purchase magic items from the Common or Tomb Kings of Khemri magic items lists.
 
@@ -645,7 +619,7 @@ In this scenario, the attacker will automatically take the first turn.
 
 The battle will last for six rounds or until one side concedes.
 
-#### Victory!
+#### Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. In addition:
 
@@ -666,7 +640,7 @@ A Wizard with the 'Lore of Nehekhara' special rule may discard one of their rand
 As the Liche Priest utters this ancient mantra, the weapons of the Nehekharan warriors gathered about them become imbued with the essence of Djaf, the jackal-headed god of the dead, who hungers for the souls of the living above all things.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 7+ | Self |
 
 Until your next Start of Turn sub-phase, any friendly unit that has the Nehekharan Undead special rule and that is within the caster's Command range may re-roll any rolls To Hit of a natural 1.
@@ -676,7 +650,7 @@ Until your next Start of Turn sub-phase, any friendly unit that has the Nehekhar
 Harnessing the power of Khsar, god of the desert winds, the Liche Priest summons forth a sandstorm that engulfs the undying warriors of Nehekhara and carries them across the battlefield.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 6+/10+ | Self |
 
 If this spell is cast with a casting result of 6 or more, a single friendly unit that has the Nehekharan Undead special rule and is within the caster's Command range gains the Reserve Move special rule. If this spell is cast with a casting result of 10 or more, every friendly unit that has the Nehekharan Undead special rule and is within the caster's Command range gains the Reserve Move special rule. This spell lasts until the end of this turn.
@@ -686,7 +660,7 @@ If this spell is cast with a casting result of 6 or more, a single friendly unit
 As the Liche Priest intones the curse of desiccation every syllable strips the moisture from their victims' bodies, sapping their strength and vitality.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 9+ | 15" |
 
 Until the end of this turn, the target enemy unit suffers a -1 modifier to its Strength and Toughness characteristics (to a minimum of 1). If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.
@@ -705,12 +679,9 @@ These magic items are unique to Tomb Kings of Khemri armies. These can be purcha
 Imbued with powerful incantations, the great blade of this scything weapon is impossibly sharp and is said to destroy the souls of its victims, denying them any hope of reaching the afterlife.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+2 | -2 |  |
-Killing Blow
-Magical Attacks
-Requires Two Hands
-Strike Last
+| --- | --- | --- | --- |
+| Combat | S+2 | -2 | Killing Blow, Magical Attacks, Requires Two Hands, Strike Last |
+
 Notes: Rather than attacking normally, the wielder of the Destroyer of Eternities may choose to make a special 'Scything' attack. If they do, the enemy unit they are directing their attacks against suffers D6 automatic hits, each resolved using the Destroyer of Eternities' profile.
 
 ##### The Conqueror's Blade  (Magic Weapon)
@@ -719,12 +690,9 @@ Notes: Rather than attacking normally, the wielder of the Destroyer of Eternitie
 Many a king and queen, warlord and emperor foolish enough to resist the rule of the Lord of Nehekhara have found their heads parted from their bodies by this wicked weapon.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+2 | -2 |  |
-Killing Blow
-Magical Attacks
-Requires Two Hands
-Strike Last
+| --- | --- | --- | --- |
+| Combat | S+2 | -2 | Killing Blow, Magical Attacks, Requires Two Hands, Strike Last |
+
 Notes: Whilst engaged in a challenge, the bearer of the Conqueror's Blade strikes a Killing Blow if they roll a natural 5 or 6 when making a To Wound roll, rather than the usual 6. In addition, should the wielder slay the enemy General in a challenge, you win a bonus of 100 Victory Points at the end of the game.
 
 ##### Crook & Flail of Radiance  (Magic Weapon)
@@ -733,12 +701,9 @@ Notes: Whilst engaged in a challenge, the bearer of the Conqueror's Blade strike
 These gleaming golden weapons represent the high status of the bearer, and all that enter their presence are humbled by the aura of majesty these weapons convey.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S | -1 |  |
-Extra Attacks (+D3)
-Magical Attacks
-Requires Two Hands
-Strike First
+| --- | --- | --- | --- |
+| Combat | S | -1 | Extra Attacks (+D3), Magical Attacks, Requires Two Hands, Strike First |
+
 Notes: Monarchs of Nehekhara only.
 
 ##### Blade of Antarhak  (Magic Weapon)
@@ -747,9 +712,9 @@ Notes: Monarchs of Nehekhara only.
 Those cut by the Blade of Antarhak age by decades in the blink of an eye, their vitality stolen and bestowed upon the wielder of this fell blade.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+1 | -1 |  |
-Magical Attacks
+| --- | --- | --- | --- |
+| Combat | S+1 | -1 | Magical Attacks |
+
 Notes: The Blade of Antarhak may only be taken by models in a Nehekharan Royal Host Army of Infamy. For each Wound an enemy unit loses as a result of an attack made with the Blade of Antarhak, its wielder immediately recovers a single lost Wound.
 
 ##### Flail of Skulls  (Magic Weapon)
@@ -758,11 +723,9 @@ Notes: The Blade of Antarhak may only be taken by models in a Nehekharan Royal H
 This flail is made from the gilded skulls of conquered enemies. Foes struck by these skulls are lacerated and savaged by their sharpened teeth, and bleed profusely from their wounds.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+3 | -1 |  |
-Magical Attacks
-Multiple Wounds (2)
-Requires Two Hands
+| --- | --- | --- | --- |
+| Combat | S+3 | -1 | Magical Attacks, Multiple Wounds (2), Requires Two Hands |
+
 Notes: The Flail of Skulls Strength modifier applies only against enemy models the wielder charged this turn.
 
 ##### Phakth's Blades of Justice  (Magic Weapon)
@@ -771,10 +734,9 @@ Notes: The Flail of Skulls Strength modifier applies only against enemy models t
 Crackling lightning arcs from these twin blades as they slice through the ranks of Nehekhara's foes.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S | -1 |  |
-Magical Attacks
-Requires Two Hands
+| --- | --- | --- | --- |
+| Combat | S | -1 | Magical Attacks, Requires Two Hands |
+
 Notes: Models whose troop type is infantry only. Phakth's Blades of Justice grant the wielder +1 Attack for each rank an enemy unit the wielder is engaged with has.
 
 ##### Staff of Aeons  (Magic Weapon)
@@ -783,10 +745,9 @@ Notes: Models whose troop type is infantry only. Phakth's Blades of Justice gran
 A single blow from this accursed weapon can cause armour to rust and tarnish in a matter of moments, leaving those wearing it vulnerable to the Liche Priest's minions.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+2 | -1 |  |
-Magical Attacks
-Requires Two Hands
+| --- | --- | --- | --- |
+| Combat | S+2 | -1 | Magical Attacks, Requires Two Hands |
+
 Notes: The Staff of Aeons may only be taken by a Liche Priest in a Mortuary Cult Army of Infamy. Any model that is hit by one or more close combat attacks made using this weapon suffers a -1 modifier to its armour value for the remainder of the game.
 
 ##### Serpent Staff  (Magic Weapon)
@@ -795,11 +756,9 @@ Notes: The Staff of Aeons may only be taken by a Liche Priest in a Mortuary Cult
 Crafted in the likeness of a rearing cobra, this tall, heavy-headed staff writhes with an unnatural life, striking at the enemies of its bearer with venomous fangs.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+2 | -2 |  |
-Magical Attacks
-Poisoned Attacks
-Requires Two Hands
+| --- | --- | --- | --- |
+| Combat | S+2 | -2 | Magical Attacks, Poisoned Attacks, Requires Two Hands |
+
 Notes: Liche Priests only.
 
 #### Magic Armour
@@ -971,8 +930,9 @@ It is said that Phâzerakt's spirit can be unleashed from within the ornate vess
 Single use. During the Command sub-phase of their turn, if they are not engaged in combat, the bearer of Phâzerakt's Kanopi may attempt to unleash its contents by making a Leadership test (using their own, unmodified Leadership). If this test is passed, place a unit of 2D6+3 Summoned Skeleton Warriors on the battlefield anywhere completely within 12" of this model, but not within 1" of any enemy models:
 
 | M | WS | BS | S | T | W | I | A | Ld |
-|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+
 Troop Type: Regular Infantry
 Base Size: 25 x 25 mm
 Unit Size: 2D6+3

@@ -219,31 +219,31 @@ Note that this is not cumulative with the Indomitable (X) special rule. If a uni
 ### Filth-Encrusted Claws
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Poisoned Attacks |
 
 ### Filth-Encrusted Talons
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Armour Bane (1), Poisoned Attacks |
 
 ### Pestilential Breath
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 2 | -3 | Breath Weapon |
 
 ### Poisonous Tail
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | - | Poisoned Attacks, Strike First |
 
 ### Rancid Maw
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Armour Bane (1), Multiple Wounds (2) |
 
 Notes: In combat, this model must make one of its attacks each turn with this weapon.
@@ -251,7 +251,7 @@ Notes: In combat, this model must make one of its attacks each turn with this we
 ### Spectral Scythe (Black Coach)
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | N/A | Magical Attacks |
 
 Notes: No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).
@@ -259,7 +259,7 @@ Notes: No armour save is permitted against wounds caused by this weapon (Ward an
 ### Spectral Scythe (Cairn Wraith)
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | N/A | Magical Attacks, Multiple Wounds (D3) |
 
 Notes: No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).
@@ -361,7 +361,7 @@ A Wizard with the 'Lore of Undeath' special rule may discard one of their random
 "Filled with magical energy, the Undead jerk forwards on the attack with tireless and unnatural speed."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 8+/12+ | 12" |
 
 If this spell is cast with a casting result of 8 or more, the target friendly unit gains a +D3 modifier to one of the following characteristics (to a maximum of 10). If this spell is cast with a casting result of 12 or more, the target friendly unit gains a +D3 modifier to two of the following characteristics (to a maximum of 10). This spell lasts until your next Start of Turn sub-phase.
@@ -377,7 +377,7 @@ Initiative
 "The caster invigorates their ghastly warriors, who advance upon the foe with uncanny vigour."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 7+/10+ | Self |
 
 If this spell is cast with a casting result of 7 or more, a single friendly unit that has the Necromantic Undead special rule and is within the caster's Command range gains the Reserve Move special rule. If this spell is cast with a casting result of 10 or more, every friendly unit that has the Necromantic Undead special rule and is within the caster's Command range gains the Reserve Move special rule. This spell lasts until the end of this turn.
@@ -387,13 +387,13 @@ If this spell is cast with a casting result of 7 or more, a single friendly unit
 "One skilled in the dark arts of Necromancy can awaken mortal remains to reinforce the Undead legions under their control."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 10+ | 12" |
 
 Place a unit of 2D3 Risen Zombies on the battlefield anywhere completely within 12" of this model, but not within 1" of any enemy models. This unit cannot declare a charge during the turn in which it was raised:
 
 | Unit | M | WS | BS | S | T | W | I | A | Ld |
-|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Risen Zombie | 4 | 2 | 0 | 3 | 3 | 1 | 1 | 1 | 2 |
 
 Troop Type: Regular Infantry
@@ -416,7 +416,7 @@ Note that Risen Zombies are not worth any Victory Points.
 
 To represent their varying attributes, some models may be given Vampiric Powers. A Vampiric Power does not affect a model's mount (should it have one). Each Vampiric Power may only be chosen once per army."
 
-##### Curse of the Revenant (Ability)
+#### Curse of the Revenant (Ability)
 
 50 points
 
