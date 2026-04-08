@@ -9,7 +9,7 @@ This summarises the sequence you will follow when playing a game of Warhammer: t
 5. To Battle!
 6. Aftermath
 
-## Muster Your Forces!
+## Muster Your Forces
 
 To play a game of Warhammer: the Old World, each player will need an army to command, so the first thing to do is assemble your forces. You can simply use all the models in your collection, but most players use points values and army lists to ensure their forces are evenly matched for a closely fought battle. This system is explained in the Warhammer Armies.
 
@@ -25,7 +25,7 @@ Next, you will need a battlefield, which can be set up on any flat surface, be i
 
 The rival armies are deployed facing each other across the battlefield, ready to fight. Details of how to deploy can be found in the Warhammer Battles section. Each of the pitched battle scenarios includes a map showing where on the battlefield each player can place their models, and tells which side will take the first turn of the game.
 
-## To Battle!
+## To Battle
 
 The players fight out the battle, each taking turns in which their army will move, shoot, wield mighty magic and fight vicious combat. All of this is done using the rules that follow. These rules start with basic rules that apply to all models and cover the standard sequence of moving, shooting, fighting and more. Each pitched battle also explains how many rounds to play before the game ends.
 

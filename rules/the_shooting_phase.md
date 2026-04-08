@@ -56,7 +56,7 @@ With line of sight and range checked, the active player must declare which enemy
 
 A unit can shoot only once per Shooting phase, and most models can make only one shooting attack (the number of Attacks a model has does not affect the number of shots it can make).
 
-### We Can't All Shoot!
+### We Can't All Shoot
 
 Units cannot split their shooting between two or more targets. Therefore, any models within a unit that do not have a line of sight to the target, or that are not within range of the target, cannot shoot.
 
@@ -93,7 +93,7 @@ Many battlefield conditions can reduce the accuracy of shooting. These are repre
 To Hit modifiers for shooting are cumulative (except when noted otherwise). The most commonly encountered To Hit modifiers are as follows, though others may also apply:
 
 | Modifier | Value |
-|---|---|
+| --- | --- |
 | Moving and Shooting | -1 |
 | Firing at Long Range | -1 |
 | Standing and Shooting | -1 |
@@ -139,7 +139,7 @@ Sometimes, the negative modifiers applied to a roll To Hit may result in you nee
 In such cases, there is still a chance of hitting. Roll To Hit as normal. Each dice that rolls a natural 6 represents that chance of hitting and is rolled again, as shown below:
 
 | D6 Roll Needed | Will Hit On A Natural 6… |
-|---|---|
+| --- | --- |
 | 7 | followed by a 4+ |
 | 8 | followed by a 5+ |
 | 9 | followed by a 6 |

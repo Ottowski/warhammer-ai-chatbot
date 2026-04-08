@@ -189,13 +189,13 @@ An Asrai longbow with Arcane Bodkins has an AP of -2.
 ### Asrai Longbow
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 32" | S | - | Armour Bane (1), Volley Fire |
 
 ### Asrai Spear
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Fight in Extra Rank |
 
 Notes: A model wielding an Asrai spear cannot make a supporting attack during a turn in which it charged. During a turn in which it was charged in its front arc, a model wielding an Asrai spear gains a +1 modifier to its Initiative against the charging unit(s).
@@ -203,7 +203,7 @@ Notes: A model wielding an Asrai spear cannot make a supporting attack during a 
 ### Blackbriar Javelin
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 12" | S | -1 | Move & Shoot, Quick Shot |
 
 ### Enchanted Arrows
@@ -231,7 +231,7 @@ An Asrai longbow with Hagbane Tips has the Poisoned Attacks special rule.
 ### Hunting Spear
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -2 | Armour Bane (1) |
 
 Notes: A hunting spear can only be used during a turn in which the wielder charged. In subsequent turns (or if the wielder did not charge) the model must use its hand weapon instead.
@@ -239,7 +239,7 @@ Notes: A hunting spear can only be used during a turn in which the wielder charg
 ### Mighty Antlers
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Armour Bane (1) |
 
 ### Moonfire Shot
@@ -251,19 +251,19 @@ An Asrai longbow with Moonfire Shot has the Flaming Attacks and Magical Attacks 
 ### Oaken Fists
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | - |
 
 ### Ranger's Glaive
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -2 | Requires Two Hands |
 
 ### Soporific Breath
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 2 | N/A | Breath Weapon |
 
 Notes: No armour save is permitted against wounds caused by soporific breath (Ward and Regeneration saves can be attempted as normal).
@@ -271,13 +271,13 @@ Notes: No armour save is permitted against wounds caused by soporific breath (Wa
 ### Spear of Loec
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Armour Bane (2), Killing Blow |
 
 ### Strangleroots
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 12" | S | -1 | Multiple Shots (D6+1) |
 
 ### Swiftshiver Shards
@@ -289,7 +289,7 @@ An Asrai longbow with Swiftshiver Shards has the Multiple Shots (2) special rule
 ### Trickster's Blades
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | - | Extra Attacks (+D3), Requires Two Hands |
 
 ### Trueflight Arrows
@@ -384,7 +384,7 @@ If you wish to field an Orion's Wild Hunt army in your games of Warhammer: the O
 
 #### Army of Infamy Composition List
 
-##### Characters
+##### Orion's Wild Hunt Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -394,7 +394,7 @@ Up to 50% of your army's points value may be spent on:
 
 Glade Captains
 
-##### Core
+##### Orion's Wild Hunt Core Units
 
 At least 25% of your army's points value must be spent on:
 
@@ -402,7 +402,7 @@ At least 25% of your army's points value must be spent on:
 
 Glade Riders
 
-##### Special
+##### Orion's Wild Hunt Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -410,7 +410,7 @@ Up to 50% of your army's points value may be spent on:
 
 Wardancers, Warhawk Riders, Wild Riders and Wood Elf Beast Packs
 
-##### Rare
+##### Orion's Wild Hunt Rare Units
 
 Up to 25% of your army's points value may be spent on:
 
@@ -420,11 +420,11 @@ Up to 25% of your army's points value may be spent on:
 
 Deepwood Scouts and Wildwood Rangers
 
-#### Battle Standard Bearer
+#### Orion's Wild Hunt Battle Standard Bearer
 
 A single Glade Captain in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single Magic Banner with no points limit.
 
-#### Magic Items
+#### Orion's Wild Hunt Magic Items
 
 Any models that have the option to purchase magic items may purchase Common or Wood Elf Realms magic items.
 
@@ -434,9 +434,9 @@ Any models that have the option to purchase magic items may purchase Common or W
 
 If you wish to field a Host of Talsyn army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Forces of Fantasy.
 
-#### Army of Infamy Composition List
+#### Host of Talsyn Composition List
 
-##### Characters
+##### Host of Talsyn Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -450,7 +450,7 @@ Up to 50% of your army's points value may be spent on:
 
 Glade Captains, Spellsingers and Branchwraiths
 
-##### Core
+##### Host of Talsyn Core Units
 
 At least 25% of your army's points value must be spent on:
 
@@ -462,7 +462,7 @@ Dryads
 
 0-1 unit of Deepwood Scouts may be taken as a Core choice
 
-##### Special
+##### Host of Talsyn Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -470,7 +470,7 @@ Deepwood Scouts, Guardians of Talsyn, Wildwood Rangers and Sisters of the Thorn
 
 0-2 units of Tree Kin per 1,000 points
 
-##### Rare
+##### Host of Talsyn Rare Units
 
 Up to 33% of your army's points value may be spent on:
 
@@ -478,7 +478,7 @@ Treemen and Wardancers
 
 0-3 Great Eagles per 1,000 points
 
-#### Battle Standard Bearer
+#### Host of Talsyn Battle Standard Bearer
 
 A single Glade Captain or Warden of Talsyn in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single Magic Banner with no points limit.
 
@@ -538,7 +538,7 @@ The battle will last for six rounds or until one side concedes.
 
 **Vengeful Wrath:** All units in the attacker's force gain the Impetuous special rule.
 
-#### Victory!
+#### Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. In addition, at the end of the game:
 
@@ -559,7 +559,7 @@ A Wizard with the 'Lore of Athel Loren' special rule may discard one of their ra
 "The melodious song of the Wizard rouses the forest spirits, awakening them from their deep slumber. In moments, fresh growth bursts from the fertile earth, reaching rapidly towards the heavens above."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magical Vortex | 7+/9+ | 15" |
 
 Remains in Play. If this spell is cast with a casting result of 7 or more, place a small (3") blast template so that its central hole is within 15" of the caster. If this spell is cast with a casting result of 9 or more, place a large (5") blast template so that its central hole is within 15" of the caster. Whilst in play, the template does not move and is treated as a woodland terrain feature. Enemy units treat these woods as dangerous terrain.
@@ -569,7 +569,7 @@ Remains in Play. If this spell is cast with a casting result of 7 or more, place
 "At the Wizard's bidding a hidden gateway into the Eternal Realms reveals itself. Beyond this lies a series of vaulted chambers, each leading to a similar portal; some nearby, other many leagues away."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Conveyance | 9+ | 24" |
 
 This spell can only target a friendly Wood Elf character that is completely within a woodland terrain feature. If the target is not fleeing, you may immediately remove it from the battlefield and replace it so that it is completely within a different wood anywhere on the battlefield, but not within 6" of any enemy models. The target cannot move again during this Movement phase.
@@ -579,7 +579,7 @@ This spell can only target a friendly Wood Elf character that is completely with
 "With a mighty bellow, the Wizard summons forth a great flock of hawks and shrikes to strike at their enemies and drive them from their forest realm."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 8+ | 18" |
 
 Place a small (3") blast template so that its central hole is directly over the centre of the target enemy unit. Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -1.
@@ -593,7 +593,7 @@ Place a small (3") blast template so that its central hole is directly over the 
 "The beguiling mist that has turned about many travellers can be called upon to shroud the forces of Athel Loren from prying eyes."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 8+ | Self |
 
 Until your next Start of Turn sub-phase, any enemy model that directs a shooting attack at the caster, or any unit they have joined, must re-roll any rolls To Hit of a natural 6.
@@ -603,7 +603,7 @@ Until your next Start of Turn sub-phase, any enemy model that directs a shooting
 "The caster summons forth writhing vines and briars from the ground to slash and strangle those who seek to harm Athel Loren and its inhabitants."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 9+ | 18" |
 
 The target enemy unit suffers D3+1 Strength 6 hits, each with an AP of -2 and the Multiple Wounds (2) special rule.
@@ -613,7 +613,7 @@ The target enemy unit suffers D3+1 Strength 6 hits, each with an AP of -2 and th
 "Channelling the power of the Mage Queen herself, the caster surrounds their allies in a healing golden light."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 9+ | 10" |
 
 Until your next Start of Turn sub-phase, the target friendly unit gains the Regeneration (5+) special rule.
@@ -623,7 +623,7 @@ Until your next Start of Turn sub-phase, the target friendly unit gains the Rege
 "Swarms of Spites and forest insects erupt from the casters' staff, racing across the battlefield as a writhing mass that bites and stings all within reach."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magical Vortex | 10+ | 15" |
 
 Remains in Play. Place a small (3") blast template so that its central hole is within 15" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase. Any enemy unit that moves through the template, or that the template moves over, suffers 3D6 Strength 2 hits, each with an AP of -1.
@@ -633,7 +633,7 @@ Remains in Play. Place a small (3") blast template so that its central hole is w
 "Having witnessed untold destruction within his homeland, Durthu's rage echoes through Athel Loren and can be drawn upon by those who act in harmony with the forest."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Assailment | 9+ | Combat |
 
 Each model in the fighting rank of a unit that the caster is engaged with must immediately make an Initiative test. Each model that fails this test suffers D3 Strength 4 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal).
@@ -643,7 +643,7 @@ Each model in the fighting rank of a unit that the caster is engaged with must i
 "The forests of Athel Loren can be compelled to hurry the passage of those who act with its best interests at heart."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Conveyance | 8+ | 12" |
 
 Until your next Start of Turn sub-phase, the target friendly unit gains the Reserve Move special rule and may perform a Quick Turn, even if it would not normally be able to do so.
@@ -653,7 +653,7 @@ Until your next Start of Turn sub-phase, the target friendly unit gains the Rese
 "As roots draw water from the earth, so too can the mages of Athel Loren sap the lifeforce from their foes."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 9+ | 12" |
 
 Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Strength characteristic (to a minimum of 1). This spell may target an enemy unit engaged in combat. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.
@@ -737,7 +737,7 @@ This model and any unit it has joined gains the Magical Attacks special rule.
 When this spear strikes, the fury and rage of the wielder is channelled into the body of the foe with appalling and destructive force.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Killing Blow, Magical Attacks |
 
 Notes: When the wielder of the Spear of Twilight makes a roll To Wound, a roll of 3+ is always a success, regardless of the target's Toughness.
@@ -749,7 +749,7 @@ Notes: When the wielder of the Spear of Twilight makes a roll To Wound, a roll o
 Aggrieved by his fate, Vaul poured much of his rage into this mighty warbow during its creation.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 32" | S+1 | -2 | Flaming Attacks, Magical Attacks, Multiple Wounds (2) |
 
 Notes: Once per game, unless the wielder moved during the previous Movement phase, Vaul's Wrath can be shot like a bolt thrower, using the Through & Through special rule.
@@ -761,7 +761,7 @@ Notes: Once per game, unless the wielder moved during the previous Movement phas
 The swirling and delicate patterns inscribed into these matched swords assume a life of their own when sunlight falls upon them, dazzling and distracting the bearer's opponent.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | - | Extra Attacks (+D3), Magical Attacks, Requires Two Hands |
 
 Notes: The wielder of the Blades of Loec may re-roll any failed rolls To Wound.
@@ -773,7 +773,7 @@ Notes: The wielder of the Blades of Loec may re-roll any failed rolls To Wound.
 Strung with a single hair from the head of Ariel, Queen of Loren, the wielder of the Bow of Loren is the Fey Queen's champion, striking down her enemies with unnaturally swift precision.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 32" | S | - | Armour Bane (1), Magical Attacks |
 
 Notes: The Bow of Loren counts as an Asrai longbow. The wielder of the Bow of Loren may make a number of shooting attacks equal to their Attacks characteristic, rather than the usual one. This model does not suffer any modifiers for firing multiple shots.
@@ -785,7 +785,7 @@ Notes: The Bow of Loren counts as an Asrai longbow. The wielder of the Bow of Lo
 Amongst the most finely crafted weapons in all Athel Loren, this blade is said to be able to slice through steel without pause.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Magical Attacks |
 
 Notes: Enemy models must re-roll any successful Armour Save rolls against wounds caused by this weapon.
@@ -797,7 +797,7 @@ Notes: Enemy models must re-roll any successful Armour Save rolls against wounds
 Gifted to those favoured by Orion, this enchanted spear has struck the dark hearts of many beasts over the centuries.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Magical Attacks, Multiple Wounds (2) |
 
 Notes: The Hunt Master's Pride may only be taken by models in an Orion's Wild Hunt of Infamy. The Multiple Wounds (2) special rule applies only against models whose troop type is monstrous infantry, monstrous cavalry, monstrous creature or behemoth.
@@ -809,7 +809,7 @@ Notes: The Hunt Master's Pride may only be taken by models in an Orion's Wild Hu
 All in Athel Loren know how swiftly fire can consume all in its path when left unchecked, which is why the Wood Elves only turn to it under the most dire circumstance.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Extra Attacks (+1), Flaming Attacks, Magical Attacks |
 
 ##### Asyendi's Bane (Magic Weapon)
@@ -819,7 +819,7 @@ All in Athel Loren know how swiftly fire can consume all in its path when left u
 A malicious spirit dwells within the body of this light and elegant bow, ever eager to punish its wielder if a shot misses its target.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 32" | S | - | Armour Bane (1), Magical Attacks, Quick Shot |
 
 Notes: Asyendi's Bane counts as an Asrai longbow. The wielder of Asyendi's Bane may re-roll a single failed roll To Hit made during the Shooting phase. However, if the re-roll also fails to hit, the wielder suffers a single Strength 3 hit with an AP of -.
@@ -1152,16 +1152,16 @@ Infantry only. A character belonging to the Scout Kindred gains the Quick Shot a
 
 ## Named Character Units
 
-## Character Units
+### Named Characters
 
-## Mount Units
+### Mounts
 
-## Infantry Units
+### Infantry
 
-## Cavalry Units
+### Cavalry
 
-## Chariot Units
+### Chariots
 
-## Monster Units
+### Monsters
 
-## War Machine Units
+### War Machines

@@ -378,11 +378,11 @@ Note that this bonus can be claimed for an incomplete rear rank, as long as ther
 
 Warriors fight all the harder beneath the colours and symbols of their city, nation, tribe or god:
 
-**Standard**
+**Standard
 
 If your unit includes a standard bearer, you may claim a bonus of +1 combat result point. Standard bearers are covered in the Command Groups section.
 
-**The Battle Standard**
+**The Battle Standard
 
 If your unit includes a Battle Standard, you may claim an additional bonus of +1 combat result point, cumulative with any bonus for a 'normal' standard. Battle Standards are covered in the Characters section.
 
@@ -390,11 +390,11 @@ If your unit includes a Battle Standard, you may claim an additional bonus of +1
 
 Fighting a foe in its flank or rear is a great advantage as tightly formed units cannot easily turn to face their foe. To represent this:
 
-**Flank Attack**
+**Flank Attack
 
 If your unit is engaged with the enemy's flank arc, you may claim a bonus of +1 combat result point.
 
-**Rear Attack**
+**Rear Attack
 
 If your unit is engaged with the enemy's rear arc, you may claim a bonus of +2 combat result points.
 

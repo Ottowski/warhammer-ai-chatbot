@@ -9,6 +9,7 @@ During the movement phase, all units in your army may move. Move one unit at a t
 **Movement Allowance**: Each unit has a Movement Characteristic (M). This indicates the maximum distance it can move in inches.
 
 **Base Speeds**:
+
 - Infantry units: typically 6" movement
 - Cavalry and fast cavalry: typically 10-12" movement
 - Monsters and characters: typically 6-8" movement
@@ -16,6 +17,7 @@ During the movement phase, all units in your army may move. Move one unit at a t
 ### Movement Through Terrain
 
 Units may move through terrain, but their movement may be affected:
+
 - **Open terrain**: No modifiers
 - **Difficult terrain** (forests, rivers): Halve movement (round down)
 - **Impassable terrain**: Cannot move through
@@ -29,6 +31,7 @@ Units may move through terrain, but their movement may be affected:
 ### Charges
 
 When declaring a charge, the unit must:
+
 1. Be in range (within its movement distance from the enemy unit)
 2. Have line of sight to the target
 3. Move in a straight line toward the target
@@ -41,6 +44,7 @@ Charging units gain a +1 bonus to their first round of combat attacks.
 ### Close Combat Phases
 
 Close combat proceeds through several steps:
+
 1. **Determine Attackers**: Both units attacking simultaneously roll for initiative
 2. **Roll To Hit**: Using Weapon Skill (WS) and applying modifiers
 3. **Roll To Wound**: Using Strength (S) versus Toughness (T)
@@ -50,6 +54,7 @@ Close combat proceeds through several steps:
 ### Weapon Characteristics
 
 Each weapon has multiple characteristics:
+
 - **Range (R)**: How far the weapon can shoot
 - **Strength (S)**: How strong the attack is
 - **AP (Armor Penetration)**: How well it bypasses armor
@@ -62,6 +67,7 @@ Each weapon has multiple characteristics:
 - **Base armor save**: Depends on armor type worn
 
 Armor types:
+
 - No armor: No save
 - Light armor: 6+ save
 - Medium armor: 5+ save

@@ -1088,7 +1088,7 @@ Self
 
 Until your next Start of Turn sub-phase, friendly units that are within the caster's Command range may re-roll any rolls To Hit of a natural 1, and improve the Armour Piercing characteristic of their weapons by 1.
 
-### 5. 'Ere We Go!
+### 5. 'Ere We Go'
 
 The Shaman begins a simple chant which is quickly and enthusiastically taken up by their friends.
 

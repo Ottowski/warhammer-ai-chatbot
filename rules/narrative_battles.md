@@ -98,7 +98,7 @@ The Narrative Motives table presents six reasons why two armies are meeting in c
 Using the suggestions given here and combining them with the Narrative Locations table, you can create a scenario that gives a battle a true sense of significance:
 
 | D6 | Result |
-| --- | --- |
+| -- | ------ |
 | 1 | Border Dispute: Disagreements over the exact location of a border are common and they can be sparked by almost anything. Such disputes can quickly lead to bloodshed; their outcome can see borders move and cause tremendous upheaval. On the tabletop, a border dispute can be represented very simply with one army trying to drive its rival off and claim victory. |
 | 2 | Lost Riches: The world contains many tremendous riches, and sometimes new wealth is discovered or lost wealth unearthed. In game terms, this could be represented by placing several objectives around the battlefield, each representing a cache of buried riches or a natural deposit of precious stones or metals. The winning player would be the one whose army controls the most objectives at the battle’s end. |
 | 3 | Nowhere to Run: Tales of desperate last stands by beleaguered armies are the stuff of legend. On the tabletop, an army might be unable to retreat, forced to deploy on the banks of a mighty river or against an impassable cliff face, where it must fight to the death. Alternatively, an army might deploy in the centre of the battlefield, surrounded by its enemy. |

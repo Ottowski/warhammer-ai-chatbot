@@ -99,9 +99,9 @@ An indirect shot is not as accurate as one where the crew can see their target:
 | 2-4 | **Malfunction:** One of the crew has become caught in the firing mechanism. This problem can be fixed, but only by partially dismantling the weapon, the crew member, or both. The crew immediately loses one Wound, the model fails to shoot this turn and cannot shoot before the end of the next round. |
 | 5-6 | **Twang:** Something has snapped. This is a rather minor mishap, but one that will require plenty of elbow grease and strong language to repair. The model fails to shoot this turn.                                                                                                                       |
 
-## Cannon
+## Cannons
 
-Cannon are devastating, if sometimes unpredictable, weapons. When they work, cannon can shatter an enemy’s lines. However, should they misfire, the results can be spectacular.
+Cannons are devastating, if sometimes unpredictable, weapons. When they work, cannon can shatter an enemy’s lines. However, should they misfire, the results can be spectacular.
 
 The following profiles represent the sizes of cannon most often seen:
 

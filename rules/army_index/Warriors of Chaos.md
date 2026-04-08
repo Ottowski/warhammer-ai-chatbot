@@ -472,9 +472,9 @@ A single Exalted Champion or Aspiring Champion in your army may be upgraded to b
 
 If you wish to field a Wolves of the Sea army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
 
-#### Army of Infamy Composition List
+#### Wolves of the Sea Composition List
 
-##### Army of Infamy Characters Units
+##### Wolves of the Sea Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -484,19 +484,19 @@ Up to 50% of your army's points value may be spent on:
 
 Aspiring Champions and Marauder Tribe Chieftains
 
-##### Army of Infamy Core Units
+##### Wolves of the Sea Core Units
 
 At least 25% of your army's points value must be spent on:
 
 Chaos Marauders, Marauder Horsemen, Marauder Tribe Berserkers and Chaos Warhounds
 
-##### Army of Infamy Special Units
+##### Wolves of the Sea Special Units
 
 Up to 50% of your army's points value may be spent on:
 
 Chaos Warriors, Chaos Chariots, Skin Wolves, Marauder Tribe Huscarls and Chaos Spawn
 
-##### Army of Infamy Rare Units
+##### Wolves of the Sea Rare Units
 
 Up to 33% of your army's points value may be spent on:
 
@@ -508,7 +508,7 @@ Chaos Ogres, Chaos Trolls and Dragon Ogres
 
 0-1 Chaos Giant per 1,000 points
 
-##### Army of Infamy Mercenaries Units
+##### Wolves of the Sea Mercenaries Units
 
 Up to 25% of your army's points value may be spent on mercenaries, including:
 
@@ -518,7 +518,7 @@ Ungor Herds
 
 Note that mercenary units are subject to the Misbehaving Mercenaries rules.
 
-#### Army of Infamy Battle Standard Bearer
+#### Wolves of the Sea Standard Bearer
 
 A single Aspiring Champion or Marauder Tribe Chieftain in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
@@ -532,9 +532,9 @@ Any models that have the option to purchase magic items may purchase Common or W
 
 If you wish to field a Heralds of Darkness army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
 
-#### Army of Infamy Composition List
+#### Heralds of Darkness Composition List
 
-##### Heralds Characters
+##### Heralds of Darkness Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -544,7 +544,7 @@ Up to 50% of your army's points value may be spent on:
 
 Aspiring Champions and Exalted Sorcerers
 
-##### Core
+##### Heralds of Darkness Core Units
 
 At least 33% of your army's points value must be spent on:
 
@@ -554,7 +554,7 @@ Marauder Horsemen and Chaos Warhounds
 
 0-1 Chaos Chariots may be taken as a Core choice
 
-##### Special
+##### Heralds of Darkness Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -566,7 +566,7 @@ Chaos Spawn, Chaos Chariots and Chimeras
 
 Dragon Ogres
 
-##### Rare
+##### Heralds of Darkness Rare Units
 
 Up to 25% of your army's points value may be spent on:
 
@@ -580,7 +580,7 @@ Gorebeast Chariots
 
 0-1 Warpfire Dragon
 
-##### Mercenaries
+##### Heralds of Darkness Mercenaries Units
 
 Up to 25% of your army's points value may be spent on mercenaries, including:
 
@@ -590,11 +590,11 @@ Centigor Herds
 
 Note that mercenary units are subject to the Misbehaving Mercenaries rules.
 
-#### Battle Standard Bearer
+#### Heralds of Darkness Battle Standard Bearer
 
 A single Exalted Champion or Aspiring Champion in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
-#### Magic Items
+#### Heralds of Darkness Magic Items
 
 Any models that have the option to purchase magic items may purchase Common or Warriors of Chaos magic items.
 
@@ -644,7 +644,7 @@ Judgement of the Gods: Characters in the defender's army may re-roll the D6 when
 
 Reinforcements: Any units in the attacker's army with the Ambushers special rule must enter the battlefield via the southern table edge upon their arrival. Any Ambushers that cannot be placed on the battlefield during the turn they arrive may be left in reserve and can be brought on as described above during the following turn.
 
-#### Victory!
+#### Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. In addition, at the end of the game:
 
@@ -665,7 +665,7 @@ A Wizard with the 'Lore of Chaos' special rule may discard one of their randomly
 "A cold and vicious gale blows from the Northern Wastes, carrying with it the laughter of Dark Gods."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 7+/9+ | 21" |
 
 Mark of Chaos Undivided only. If this spell is cast with a casting result of 7 or more, the target enemy unit suffers a -1 modifier to its Movement characteristic (to a minimum of 1). If this spell is cast with a casting result of 9 or more, the target enemy unit suffers a -2 modifier to its Movement characteristic (to a minimum of 1). This spell lasts until your next Start of Turn sub-phase.
@@ -675,7 +675,7 @@ Mark of Chaos Undivided only. If this spell is cast with a casting result of 7 o
 "The enemy is humbled by the beauty of Slaanesh, letting their weapons fall limply to their sides."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 6+ | 12" |
 
 Mark of Slaanesh only. Until the end of the Combat phase, the target enemy unit becomes subject to the Strike Last special rule.
@@ -685,7 +685,7 @@ Mark of Slaanesh only. Until the end of the Combat phase, the target enemy unit 
 "Great wobbling mounds of fat spill out from beneath the armour of the Sorcerer and their comrades."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 7+ | Self |
 
 Mark of Nurgle only. Remains in Play. Whilst this spell is in play, the caster and any unit they have joined gain a +1 modifier to their Toughness characteristic (to a maximum of 7).
@@ -695,7 +695,7 @@ Mark of Nurgle only. Remains in Play. Whilst this spell is in play, the caster a
 "As the Sorcerer's hands draw strange runes in the air, their enemies are consumed by blue flames."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 9+ | 18" |
 
 Mark of Tzeentch only. The target enemy unit suffers D6+3 Strength 4 hits, each with an AP of -2 and with the Flaming Attacks special rule.
@@ -709,7 +709,7 @@ Mark of Tzeentch only. The target enemy unit suffers D6+3 Strength 4 hits, each 
 "The Sorcerer intones words of the Dark Tongue, summoning the breath of the gods from the dark skies above and gathering it about them before unleashing it upon their enemies."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 7+ | 15" |
 
 Place a small (3") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1". Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 4 hit with an AP of -3.
@@ -719,7 +719,7 @@ Place a small (3") blast template so that its central hole is directly over the 
 "With a gesture, the Sorcerer turns the tendrils of shadow that crawl about them into bolts of dark lightning."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 8+ | 18" |
 
 The target enemy unit suffers 2D6 Strength 3 hits, each with an AP of -1. Any unit that suffers one or more unsaved wounds from this spell must make a Panic test as if it had taken heavy casualties.
@@ -729,7 +729,7 @@ The target enemy unit suffers 2D6 Strength 3 hits, each with an AP of -1. Any un
 "Shrouded by the lingering darkness of the Shadowlands, the Sorcerer summons the breath of the gods to dissipate the enemy's attacks."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 9+ | 15" |
 
 Until your next Start of Turn sub-phase, the target friendly unit gains a 4+ Ward save against any wounds suffered that were caused by a template, and a 5+ Ward save against any wounds suffered in the Shooting phase.
@@ -739,7 +739,7 @@ Until your next Start of Turn sub-phase, the target friendly unit gains a 4+ War
 "A swirling tornado of screaming souls and inky-darkness rends and tears at those it passes, shredding flesh and spirit alike."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magical Vortex | 10+ | 15" |
 
 Remains in Play. Place a small (3") blast template so that its central hole is within 15" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase. Any unit (friend or foe) that moves through the template, or that the template moves over, suffers 3D6 Strength 2 hits, with no armour saves allowed (Ward and Regeneration saves can be attempted as normal).
@@ -749,7 +749,7 @@ Remains in Play. Place a small (3") blast template so that its central hole is w
 "At the Sorcerer's command, the enemy's own shadows turn upon them, clawing at flesh with talons of darkness."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Assailment | 8+ | Combat |
 
 A single enemy unit the caster is engaged in combat with suffers 3D6 Strength 1 hits, with no armour or Regeneration save permitted (Ward saves can be attempted as normal).
@@ -759,7 +759,7 @@ A single enemy unit the caster is engaged in combat with suffers 3D6 Strength 1 
 "The Sorcerer manipulates the cloying fog of the Shadowlands to cloak the movements of their allies and hasten their advance."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Conveyance | 6+/9+ | Self |
 
 If this spell is cast with a casting result of 6 or more, a single friendly unit within 6" of the caster gains the Reserve Move special rule. If this spell is cast with a casting result of 9 or more, every friendly unit within 6" of the caster gains the Reserve Move special rule. This spell lasts until the end of this turn.
@@ -769,7 +769,7 @@ If this spell is cast with a casting result of 6 or more, a single friendly unit
 "Shadowy ichor materialises about the foe, solidifying into blackened shackles that weigh heavy upon their limbs."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 8+ | 18" |
 
 Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Movement (to a minimum of 1) and Leadership characteristics (to a minimum of 2).
@@ -847,7 +847,7 @@ This character (but not their mount) has the Poisoned Attacks special rule.
 75 points
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+D3 | -2 | Extra Attacks (+D3); Magical Attacks; Strike First |
 
 Notes: Every roll of a natural 1 made when rolling To Hit with this weapon results in a hit which must be resolved against the unit the wielder has joined, rather than the enemy. If the wielder has not joined a unit, this hit must be resolved against the wielder.
@@ -857,7 +857,7 @@ Notes: Every roll of a natural 1 made when rolling To Hit with this weapon resul
 55 points
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -1 | Armour Bane (1); Killing Blow; Magical Attacks; Requires Two Hands; Strike Last |
 
 Notes: The Obsidian Dread-glaive may only be taken by a model in a Heralds of Darkness Army of Infamy.
@@ -867,7 +867,7 @@ Notes: The Obsidian Dread-glaive may only be taken by a model in a Heralds of Da
 45 points
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Magical Attacks |
 
 Notes: The wielder of the Chaos Runesword has a +1 modifier to their Weapon Skill and Initiative characteristics.
@@ -877,7 +877,7 @@ Notes: The wielder of the Chaos Runesword has a +1 modifier to their Weapon Skil
 40 points
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Magical Attacks |
 
 Notes: Any enemy model that suffers one or more unsaved wounds from the Filth Mace must immediately make a Toughness test. If this test is failed, the wounded model suffers a -1 modifier to its Toughness characteristic (to a minimum of 1) until the end of the turn.
@@ -887,7 +887,7 @@ Notes: Any enemy model that suffers one or more unsaved wounds from the Filth Ma
 35 points
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Magical Attacks |
 
 Notes: For each Wound an enemy unit loses as a result of an attack made with the Dagger of the Dark Pantheon, its wielder may apply a +1 modifier to their next Casting or Dispel roll.
@@ -897,7 +897,7 @@ Notes: For each Wound an enemy unit loses as a result of an attack made with the
 30 points
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Armour Bane (1); Magical Attacks |
 
 Notes: The Chieftain's Blade may only be taken by a model in a Wolves of the Sea Army of Infamy. Whilst engaged in a challenge, the wielder has a +1 modifier to their rolls To Hit.
@@ -907,7 +907,7 @@ Notes: The Chieftain's Blade may only be taken by a model in a Wolves of the Sea
 25 points
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Extra Attacks (+1); Magical Attacks |
 
 Notes: Models whose troop type is infantry only. During the Command sub-phase of their turn, the wielder of the Taskmaster's Scourge may attempt to urge those around them into battle with a lash of their whip by making a Leadership test (using their own Leadership). If the test is passed, until your next Start of Turn sub-phase, this character and any unit they have joined gain a +D3 modifier to their Movement characteristic (to a maximum of 10).
@@ -917,7 +917,7 @@ Notes: Models whose troop type is infantry only. During the Command sub-phase of
 20 points
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Magical Attacks |
 
 Notes: Any enemy Wizard that suffers one or more unsaved wounds from the Spellthieving Sword immediately forgets a single spell (determined at random) for the remainder of the game.

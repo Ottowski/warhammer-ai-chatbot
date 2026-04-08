@@ -200,7 +200,7 @@ If a charging unit makes accidental contact with a fleeing enemy unit, it will w
 
 If a charging unit makes accidental contact with an enemy unit that is not fleeing, simply treat the charging unit as having redirected its charge into that unit.
 
-## Flee!
+## Flee
 
 Units flee for many reasons. Units that fail to rally during the Strategy phase will flee in the Compulsory Moves sub-phase, others will flee from a charging enemy, and so forth. When a unit flees, it abandons all formation and heads to safety by the most direct route possible.
 

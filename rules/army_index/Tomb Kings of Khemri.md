@@ -1026,9 +1026,8 @@ The Bound spell contained within an Incantation Scroll can be performed only onc
 When read aloud, the incantation contained within a Scroll of Withering slowly and painfully drains the life force from the reader's enemies.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 8 | 21" |
-
 
 Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modifier to its Strength and Initiative characteristics and cannot make any Ward or Regeneration saves. This Bound spell may target an enemy unit engaged in combat.
 
@@ -1038,9 +1037,8 @@ Until your next Start of Turn sub-phase, the target enemy unit suffers a -1 modi
 The words inscribed upon a Scroll of Summoning enable the reader to reach into the underworld and call forth the souls of the dead.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 8 | 21" |
-
 
 The target friendly unit regains D3 lost Wounds and, until your next Start of Turn sub-phase, improves the armour value of its Regeneration save by 1.
 
@@ -1050,9 +1048,8 @@ The target friendly unit regains D3 lost Wounds and, until your next Start of Tu
 When the spirits of the dead are awakened by the words of this incantation, they cluster about the living like moths about a flame.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 9 | 27" |
-
 
 Place a small (3") blast template so that its central hole is directly over the centre of the target enemy unit. Any enemy model whose base lies underneath the template risks being hit and suffering a single Strength 4 hit with an AP of -2.
 
@@ -1062,9 +1059,8 @@ Place a small (3") blast template so that its central hole is directly over the 
 Upon reading aloud from a Scroll of the Outcast Dead, the souls of the damned are dragged screaming from the coldness of the void to torment the living.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magical Vortex | 8 | 18" |
-
 
 Remains in play. Place a small (3") blast template so that its central hole is within 18" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase. Any unit (friend or foe) that moves through the template, or that the template moves over, suffers a single Strength 4 hit with an AP of -2. This hit has the Multiple Wounds (D3) special rule. Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties.
 
@@ -1074,9 +1070,8 @@ Remains in play. Place a small (3") blast template so that its central hole is w
 Scrolls of Urgency contain a simple but effective incantation which, when read aloud, imbues the undead servants of the Mortuary Cult with morbid vitality.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Conveyance | 7 | 21" |
-
 
 If the target friendly unit has already moved during this Movement phase (not including failed charge moves), it can immediately move again.
 
@@ -1086,9 +1081,8 @@ If the target friendly unit has already moved during this Movement phase (not in
 In response to the words upon a Scroll of Righteous Smiting, the warriors of ancient Nehekhara redouble their efforts to strike down their enemies.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 7 | Self |
-
 
 Remains in play. Whilst this spell is in play, friendly units whose troop type is war machine that are within the caster's Command range can re-roll a single Artillery dice or Scatter dice per turn.
 

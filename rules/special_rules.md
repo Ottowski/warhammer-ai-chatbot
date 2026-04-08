@@ -548,7 +548,7 @@ Note that if a charged unit cannot choose to Flee, it does not make this Leaders
 
 Models with the Fear special rule Fear models that cause Terror. Models that cause Terror are immune to Terror. A unit that does not cause Terror does not become immune to Terror when joined by a character that does.
 
-## Timmm-berrr!
+## Timmm-berrr
 
 When a behemoth falls in battle, it can cause utter devastation.
 

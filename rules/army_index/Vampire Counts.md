@@ -485,7 +485,7 @@ During the Command sub-phase of their turn, this Vampire may attempt to resurrec
 This blade of blue ice-steel is bound with such deadly spells that its merest touch will suck the soul from its victim's body.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | - | Killing Blow, Magical Attacks |
 
 Notes: Any enemy model that suffers one or more unsaved wounds from the Frostblade must immediately make a Toughness test. If this test is failed, they gain the Strike Last special rule and must reduce their Initiative characteristic to 1 for the remainder of the game.
@@ -497,7 +497,7 @@ Notes: Any enemy model that suffers one or more unsaved wounds from the Frostbla
 This accursed blade of ancient and ageless design thirsts constantly for the souls of its wielder's enemies.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Killing Blow, Magical Attacks |
 
 Notes: The wielder of the Sword of Kings strikes a Killing Blow if they roll a natural 5 or 6 when making a roll To Wound, rather than the usual 6.
@@ -509,7 +509,7 @@ Notes: The wielder of the Sword of Kings strikes a Killing Blow if they roll a n
 This long, slender blade greedily drinks the blood of its victims, their life force revitalising its master.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Magical Attacks |
 
 Notes: If the wielder of Blood Drinker causes one or more unsaved wounds during the Combat phase, they recover a single lost Wound.
@@ -521,7 +521,7 @@ Notes: If the wielder of Blood Drinker causes one or more unsaved wounds during 
 Once wielded by an infamous Vampire knight, this lance is uncannily accurate, said to find its target even in the dark of night.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -2 | Armour Bane (1), Magical Attacks |
 
 Notes: Models whose troop type is cavalry or monster only. The Dreadlance can only be used during a turn in which the wielder charged. In subsequent turns (or if the wielder did not charge) the model must use its hand weapon instead. The wielder of the Dreadlance may re-roll any failed rolls To Hit made whilst using it.
@@ -615,7 +615,7 @@ The severed hand of the Great Necromancer himself, the mere proximity of this wi
 Necromancers only. This model can cast the following Bound spell, with a Power Level of 2. Roll a D6 each time the Hand of Dust is used. On a roll of 1, it crumbles to dust and cannot be used again:
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Assailment | 9+ | Combat |
 
 The target enemy unit suffers 2D6 Strength 5 hits, each with an AP of -1.

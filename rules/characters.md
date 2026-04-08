@@ -304,7 +304,7 @@ Seeing a mighty hero hacked to pieces by a despicable foe will certainly have an
 
 Note that this is an exception to the norm. Usually, only the number of Wounds lost is counted for the purposes of the combat result, not the number of unsaved wounds caused.
 
-## To The Death!
+## To The Death
 
 If both participants in a challenge survive the round of combat, and if the combat continues into the next player's turn, the challenge will also continue. Further challenges cannot be issued in that combat until the existing challenge has been resolved.
 
