@@ -35,7 +35,7 @@ Big Things: Units whose Troop Type is monstrous infantry, monstrous cavalry, lig
 Bigger Things: Units whose Troop Type is heavy chariot, monstrous creature or behemoth.
 
 | D6 | Little Things | Big Things | Bigger Things |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 1-2 | Crush Underfoot | Crush Underfoot | Wallop |
 | 3-4 | Grind its Bones | Vomit | Mighty Swing |
 | 5-6 | Vomit | Mighty Swing | 'Eadbutt |
@@ -102,7 +102,7 @@ Those able to duck or dodge away from the Bonegrinder Giant's grasping hands esc
 
 Note that any characters in the fighting rank of the target unit can make a "Look Out, Sir!" roll, as if their unit had been hit by a shooting attack.
 
-### Hit 'em Fast and Hit 'em 'Ard!
+### Hit 'em Fast and Hit 'em 'Ard
 
 Boar Boyz are renowned for their hitting power, but those who spend a lifetime in the saddle know best how to hit the enemy where it hurts.
 
@@ -165,7 +165,7 @@ Troll Hags are affectionate creatures, prone to treating enemies as wayward chil
 Instead of attacking normally during the Combat phase, a Troll Hag may choose to make a 'Motherly Love' attack. To do so, nominate an enemy unit that the Troll Hag is engaged in combat with to be the target of the attack and roll on the Motherly Love table below to determine what the Troll Hag does:
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1-2 | **Smother:** The Troll Hag throws her massive arms around the foe in a terrible embrace. Place a large (5") blast template so that its central hole is directly over the centre of the target unit. Any model (friend or foe, but not including this model) whose base lies underneath the template risks being hit and suffering a single hit, using the Strength characteristic of this model, with an AP of -2. |
 | 3-4 | **Mother:** The Troll Hag chastises her foe as if it were a wayward offspring. Nominate a single model in the fighting rank of the target unit to be the target of this attack. That model is hit and suffers D3+1 wounds with no armour or Regeneration saves permitted (Ward saves can be attempted as normal). |
 | 5-6 | **Mither:** The Troll Hag bombards the enemy with a tirade of slaps and a torrent of unintelligible Trollish invective. The target unit suffers D6+1 hits, each using the Strength characteristic of this model, with no armour save permitted (Ward and Regeneration saves can be attempted as normal). In addition, so shocked is the target unit that, until the end of this turn, it suffers a -1 modifier to its Leadership characteristic. |
@@ -178,7 +178,7 @@ When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat s
 
 Note that this modifier is not cumulative.
 
-### Oi! Dis Way!
+### Oi! Dis Way
 
 To put it kindly, Trolls are remarkably unencumbered by intellect. However, when someone with an authoritative voice gives them simple instructions, they are incredibly effective shock troops, capable of tearing a man limb from limb.
 
@@ -202,7 +202,7 @@ Where most Orcs and Goblins are impetuous, Black Orcs are disciplined warriors. 
 
 Whilst within 6" of a unit with this special rule, a friendly Impetuous unit may re-roll a failed Leadership test when testing to determine if it must declare a charge or act as normal.
 
-### Release the Fanatics!
+### Release the Fanatics
 
 As the enemy draws near, mobs of Night Goblins unleash Fanatics in a whirlwind of destruction.
 
@@ -275,7 +275,7 @@ Note that this special rule only applies to attacks made by a War Boar, not to t
 
 Peering down at such tiny creatures makes the Bonegrinder Giant dizzy and messily sick! Place a flame template so that the narrow end touches the edge of this model's base that is in contact with the target unit and the broad end is over the target unit. Any model (friend or foe, but not including this model) whose base lies underneath the template risks being hit and suffering a single Strength 5 hit with an AP of -2.
 
-### Waaagh!
+### Waaagh
 
 The invigorating power of a good war cry should never be underestimated, and Orcs have the best war cry of them all.
 
@@ -297,15 +297,17 @@ Warpaint gives its wearer a 6+ Ward save against any wounds suffered. However, a
 
 ### Bonegrinder Giant's Club
 
-Range  Strength  Armour Piercing  Special Rules
-Combat  *         *                 -
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | * | * | - |
 
 Notes: A Bonegrinder Giant's club may have different characteristics and special rules depending upon what they do with it, as described in the Bonegrinder Giant Attacks special rules.
 
 ### Colossal Fang-filled Gob
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S         -2                Killing Blow
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S | -2 | Killing Blow |
 
 ### Doom Diver
 
@@ -321,36 +323,37 @@ Any unit (friend or foe) that is moved through by a moving Fanatic, or that move
 
 ### Huge Gob
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S         -1                Armour Bane (1)
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S | -1 | Armour Bane (1) |
 
 ### Massive Gob
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S         -1                Armour Bane (1)
-Killing Blow
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S | -1 | Armour Bane (1), Killing Blow |
 
 ### Spidersilk Lobber
 
-Range   Strength  Armour Piercing  Special Rules
-12-48"  2(4)      -(-1)             Bombardment
-Cumbersome
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 12-48" | 2(4) | -(-1) | Bombardment, Cumbersome |
 
 Notes: This weapon shoots like a stone thrower, using the Bombardment special rule and a 5" blast template. If a 'Misfire' is rolled on the Artillery dice, this model loses a single Wound (instead of rolling on a Misfire table).
 
 ### Swamp Breath
 
-Range  Strength  Armour Piercing  Special Rules
-N/A    3         -2                Breath Weapon
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| N/A | 3 | -2 | Breath Weapon |
 
 Notes: Any unit that suffers one or more unsaved wounds from this weapon must make a Panic test as if it had taken heavy casualties.
 
 ### Venom Surge
 
-Range   Strength  Armour Piercing  Special Rules
-Combat  S         -2                Multiple Wounds (D6)
-Poisoned Attacks
-Strike First
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S | -2 | Multiple Wounds (D6), Poisoned Attacks, Strike First |
 
 Notes: In combat, this model may choose to make one of its attacks each turn with this weapon.
 
@@ -362,16 +365,18 @@ This section details the Grand Army composition list for the Orc & Goblin Tribes
 
 This army list is intended for use alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook.
 
-Grand Army Composition List
+#### Grand Army Composition List
 
-Characters
+##### Grand Army Composition Characters Units
+
 Up to 50% of your army's points value may be spent on:
 
 0-1 Black Orc Warboss, Orc Warboss or Orc Weirdnob per 1,000 points
 
 Black Orc Bigbosses, Orc Bigbosses, Orc Weirdboys, Goblin Warbosses, Goblin Bigbosses, Goblin Oddnobs, Goblin Oddgits, Night Goblin Warbosses, Night Goblin Bigbosses, Night Goblin Oddnobs and Night Goblin Oddgits
 
-Core
+##### Grand Army Composition Core Units
+
 At least 25% of your army's points value must be spent on:
 
 Orc Mobs, Goblin Mobs, Snotling Mobs, Goblin Spider Rider Mobs and Goblin Wolf Rider Mobs
@@ -382,7 +387,8 @@ Orc Mobs, Goblin Mobs, Snotling Mobs, Goblin Spider Rider Mobs and Goblin Wolf R
 
 If your General is a Black Orc Boss, 0-1 Black Orc Mob may be taken as a Core choice
 
-Special
+##### Grand Army Composition Special Units
+
 Up to 50% of your army's points value may be spent on:
 
 Black Orc Mobs, Common Troll Mobs, River Troll Mobs, Stone Troll Mobs, Orc Boar Boy Mobs, Orc Boar Chariots, Goblin Wolf Chariots and Snotling Pump Wagons
@@ -391,7 +397,8 @@ Black Orc Mobs, Common Troll Mobs, River Troll Mobs, Stone Troll Mobs, Orc Boar 
 
 0-2 Goblin Bolt Throwas per 1,000 points
 
-Rare
+##### Grand Army Composition Rare Units
+
 Up to 25% of your army's points value may be spent on:
 
 Arachnarok Spiders and Giants
@@ -404,7 +411,8 @@ Arachnarok Spiders and Giants
 
 0-1 Troll Hag if army includes one or more Troll Mobs
 
-Mercenaries
+##### Mercenaries
+
 Up to 20% of your army's points value may be spent on mercenaries, including:
 
 Badlands Ogre Bulls
@@ -413,7 +421,8 @@ Badlands Ogre Bulls
 
 Note that mercenary units drawn from another army list gain the Mercenaries special rule and become subject to the Misbehaving Mercenaries rules.
 
-Allies
+##### Allies
+
 Up to 25% of your army's points value may be spent on a single allied contingent drawn from:
 
 Any Orc & Goblin Tribes Army of Infamy composition list
@@ -426,18 +435,20 @@ Beastmen Brayherds (Uneasy)
 
 Tomb Kings of Khemri (Suspicious)
 
-Battle Standard Bearer
+##### Grand Army Composition Battle Standard Bearer
+
 A single Bigboss (Orc, Black Orc, Goblin or Night Goblin) in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
-### Nomadic Waaagh!
+### Nomadic Waaagh
 
 This Army of Infamy composition list is designed to be used with the Orc & Goblin Tribes army list found in Ravening Hordes, and alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook.
 
 If you wish to field a Nomadic Waaagh! army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
 
-Army of Infamy Composition List
+#### Nomadic Waaagh Composition List
 
-Characters
+##### Nomadic Waaagh Characters Units
+
 Up to 50% of your army's points value may be spent on:
 
 0-1 Black Orc Warboss or Black Orc Bigboss per Black Orc Boar Chariot
@@ -446,7 +457,8 @@ Up to 50% of your army's points value may be spent on:
 
 Orc Bigbosses, Orc Weirdboys, Goblin Warbosses, Goblin Bigbosses, Goblin Oddnobs and Goblin Oddgits
 
-Core
+##### Nomadic Waaagh Core Units
+
 At least 25% of your army's points value must be spent on:
 
 Goblin Wolf Rider Mobs and Goblin Wolf Chariots
@@ -455,17 +467,20 @@ If your General is an Orc Boss, 0-1 Orc Boar Boy Mob may be taken as a Core choi
 
 If your General is a Black Orc Boss, 0-1 Black Orc Boar Chariot may be taken as a Core choice
 
-Special
+##### Nomadic Waaagh Special Units
+
 Up to 50% of your army's points value may be spent on:
 
 Orc Boar Boy Mobs, Orc Boar Chariots and Snotling Pump Wagons
 
-Rare
+##### Nomadic Waaagh Rare Units
+
 Up to 25% of your army's points value may be spent on:
 
 Black Orc Boar Chariots and Giants
 
-Mercenaries
+##### Nomadic Waaagh Mercenaries
+
 Up to 25% of your army's points value may be spent on mercenaries, including:
 
 Badlands Ogre Bulls
@@ -474,10 +489,12 @@ Badlands Ogre Bulls
 
 Note that mercenary units are subject to the Misbehaving Mercenaries rules.
 
-Battle Standard Bearer
+##### Nomadic Waaagh Battle Standard Bearer
+
 A single Bigboss (Orc, Black Orc or Goblin) in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
-Magic Items
+##### Nomadic Waaagh Magic Items
+
 Any models within this army that have the option to purchase magic items may purchase magic items from the Common or Orc & Goblin Tribes magic items lists.
 
 ### Troll Horde
@@ -486,16 +503,18 @@ This Army of Infamy composition list is designed to be used with the Orc & Gobli
 
 If you wish to field a Troll Horde army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
 
-Army of Infamy Composition List
+#### Troll Horde Composition List
 
-Characters
+##### Troll Horde Characters Units
+
 Up to 50% of your army's points value may be spent on:
 
 0-1 Orc Warboss or Orc Weirdnob per 1,000 points
 
 Orc Bigbosses, Orc Weirdboys, Goblin Warbosses, Goblin Bigbosses, Goblin Oddnobs, Goblin Oddgits and Troll Hags
 
-Core
+##### Troll Horde Core Units
+
 At least 33% of your army's points value must be spent on:
 
 1 Troll Mob per 1,000 points
@@ -504,7 +523,8 @@ At least 33% of your army's points value must be spent on:
 
 Orc Mobs, Goblin Mobs, Goblin Spider Rider Mobs and Goblin Wolf Rider Mobs
 
-Special
+##### Troll Horde Special Units
+
 Up to 50% of your army's points value may be spent on:
 
 Common Troll Mob, River Troll Mob, Stone Troll Mob and Goblin Wolf Chariots
@@ -513,12 +533,14 @@ Common Troll Mob, River Troll Mob, Stone Troll Mob and Goblin Wolf Chariots
 
 0-1 Orc Boar Chariots per 1,000 points
 
-Rare
+##### Troll Horde Rare Units
+
 Up to 25% of your army's points value may be spent on:
 
 Giants
 
-Mercenaries
+##### Troll Horde Mercenaries Units
+
 Up to 25% of your army's points value may be spent on mercenaries, including:
 
 Badlands Ogre Bulls
@@ -527,10 +549,12 @@ Badlands Ogre Bulls
 
 Note that mercenary units are subject to the Misbehaving Mercenaries rules.
 
-Battle Standard Bearer
+##### Troll Horde Battle Standard Bearer
+
 A single Bigboss (Orc or Goblin) in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
-Magic Items
+##### Troll Horde Magic Items
+
 Any models within this army that have the option to purchase magic items may purchase magic items from the Common or Orc & Goblin Tribes magic items lists.
 
 ## Narrative Battles
@@ -581,7 +605,7 @@ Late Snows: Any unit whose troop type is infantry cannot march unless they are o
 
 Fleeing to Safety: Should any part of a unit in the defending player's force, or any of the Goods Carts, move into contact with, or cross beyond, the eastern edge of the battlefield, it is removed from play but is not destroyed. The unit has successfully escaped the ambush and is well on its way to the safety of the outpost.
 
-#### Victory!
+#### Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. In addition, at the end of the game:
 
@@ -598,7 +622,7 @@ The attacking player wins a bonus 100 Victory Points if Kiknik Toofsnatcha slays
 "Wagons and carts flow constantly up and down the trade routes of the Old World, filled to bursting with food, glittering gemstones and weapons of war."
 
 | | M | WS | BS | S | T | W | I | A | Ld |
-|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Goods Cart | - | - | - | 4 | 5 | 3 | - | - | - |
 | Dwarf Crew (x1) | - | 4 | 4 | 3 | - | - | 2 | 1 | 9 |
 | Draft Pony | 6 | 2 | - | 3 | - | - | 2 | 1 | - |
@@ -628,7 +652,7 @@ A Wizard with the 'Lore of Gork' special rule may discard one of their randomly 
 Channelling the violence of their peers, the Shaman projects it against their enemies in a brain-bursting wave.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Assailment | 9+ | Combat |
 
 A single enemy model the caster is engaged in combat with suffers a single Strength 6 hit with the Multiple Wounds (D3) special rule and with no armour or Regeneration saves permitted (Ward saves can be attempted as normal).
@@ -638,7 +662,7 @@ A single enemy model the caster is engaged in combat with suffers a single Stren
 Gork gives the Shaman the ability to project beams of coruscating energy from their eyes, burning massive holes through everything they look at.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 9+ | 5D6" |
 
 Draw a straight line, 5D6" in length, from the caster's base edge. Any model (friend or foe) whose base falls under this line suffers a Strength 5 hit, with an AP of -3.
@@ -654,7 +678,7 @@ A Wizard with the 'Lore of Mork' special rule may discard one of their randomly 
 The Shaman points a bony finger at the enemy and utters a curse. Almost immediately, buckles begin to break and rivets pop, causing armour plates to slip.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 7+ | 18" |
 
 Remains in Play. Whilst this spell is in play, the target enemy unit must re-roll any Armour Save roll of a natural 6.
@@ -664,7 +688,7 @@ Remains in Play. Whilst this spell is in play, the target enemy unit must re-rol
 The Shaman begins vigorously scratching and cackling maniacally, their antics causing their enemies to feel uncomfortably hot and itchy.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 9+ | 15" |
 
 Until your next Start of Turn sub-phase, the target enemy unit suffers a -D3 modifier to its Toughness and Initiative characteristics (to a minimum of 1).
@@ -678,7 +702,7 @@ In addition to the Lores of Magic detailed in the Warhammer: the Old World ruleb
 Gesturing lazily with a crooked staff, the caster enhances and sharpens the minds of those nearby, giving them a clearer look upon the world.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 8+ | Self |
 
 Remains in Play. Whilst this spell is in play, friendly units within the Command range of this model may re-roll any failed Stupidity tests. Additionally, if a friendly unit within the Command range of this model when this spell is cast failed its Stupidity test during the Start of Turn sub-phase of the same turn, it may immediately make this test again.
@@ -688,7 +712,7 @@ Remains in Play. Whilst this spell is in play, friendly units within the Command
 Spitting a guttural incantation, the caster launches a ball of sickly green and yellow Troll vomit toward the enemy, scorching flesh and dissolving armour.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 8+ | 18" |
 
 Place a small (3") blast template so that its central hole is directly over the centre of the target enemy unit. Once placed, the template will scatter D3+1". Any enemy model whose base lies underneath the template's final position risks being hit and suffering a Strength 3 hit with an AP of -2.
@@ -698,7 +722,7 @@ Place a small (3") blast template so that its central hole is directly over the 
 Under the beguiling influence of this crude magic, even the most experienced warriors can quickly find themselves hopelessly confused and at a loss for what to do.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 9+ | 15" |
 
 Remains in Play. Whilst this spell is in play, the target enemy unit becomes subject to the Stupidity special rule and reduces their Leadership characteristic by 1.
@@ -708,7 +732,7 @@ Remains in Play. Whilst this spell is in play, the target enemy unit becomes sub
 Through arcane means or by simply being reminded how hungry they are, the assembled Trolls race forward with a sudden burst of vigour.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Conveyance | 8+ | Self |
 
 Until the end of this turn, all friendly units that have the Stupidity special rule and are within 12" of the caster gain a +2 modifier to their Movement characteristic.
@@ -718,7 +742,7 @@ Until the end of this turn, all friendly units that have the Stupidity special r
 A deluge of foul swamp water and unmentionable waste is spun into a swirling tornado and unleashed onto the battlefield.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magical Vortex | 9+ | 18" |
 
 Remains in Play. Place a small (3") blast template so that its central hole is within 18" of the caster. Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase. Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 4 hits, each with an AP of -3.
@@ -728,7 +752,7 @@ Remains in Play. Place a small (3") blast template so that its central hole is w
 With an almighty belch, the caster heaves a stream of burning bile across their foes as the battlelines clash.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Assailment | 7+ | Combat |
 
 Place a flame template so that the narrow end touches the caster's base edge and the broad end is over a unit they are engaged in combat with. Any model (friend or foe) whose base lies underneath the template risks being hit and suffering a single Strength 3 hit with an AP of -2.
@@ -738,7 +762,7 @@ Place a flame template so that the narrow end touches the caster's base edge and
 Drawing on the regenerative properties of theTrolls, the caster channels that enhanced healing towards those in harm's way.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 8+ | 12" |
 
 Until the end of your next Start of Turn sub-phase, the target friendly unit gains the Flammable and Regeneration (5+) special rules.
@@ -757,7 +781,7 @@ These magic items are unique to Orc & Goblin Tribes armies. These can be purchas
 Vague legend tells that this huge, beaten battleaxe once belonged to either Gork or Mork. How true this is, there is no way of knowing, but it certainly is a great tool for hitting things with!
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -2 | Extra Attacks (+D6); Magical Attacks; Requires Two Hands; Strike Last |
 
 Notes: If a natural 6 is rolled for the Extra Attacks (+D6) special rule, the Battleaxe of the Last Big Waaagh! loses the Extra Attacks (+D6) special rule at the end of the current Combat phase.
@@ -768,7 +792,7 @@ Notes: If a natural 6 is rolled for the Extra Attacks (+D6) special rule, the Ba
 While Warbosses love having a big, choppy axe, there is nothing they love more than a bigger, choppier axe!
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -2 | Killing Blow; Magical Attacks; Requires Two Hands; Strike Last |
 
 ##### Martog's Best Basha  (Magic Weapon)
@@ -777,7 +801,7 @@ While Warbosses love having a big, choppy axe, there is nothing they love more t
 Warboss Martog the Mauler was renowned for his vast collection of 'legitimately acquired' weapons. The most prized of which was a massive Dwarfen hammer, covered with intricately carved runes and (since Martog's acquisition of the weapon) plenty of Dwarfen blood.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -2 | Magical Attacks; Requires Two Hands |
 
 Notes: The wielder of this weapon has a +1 modifier to its Weapon Skill and Initiative characteristics.
@@ -788,7 +812,7 @@ Notes: The wielder of this weapon has a +1 modifier to its Weapon Skill and Init
 Most of the many spears wielded by Porko and his famous Boar Boyz lie shattered across a thousand battlefields. But this particular spear is special, having never broken nor lost its perfect point.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Armour Bane (1); Magical Attacks |
 
 Notes: Models whose troop type is cavalry, monster or chariot only. This weapon's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged. In addition, during a turn in which the wielder charged, Porko's Pigstikka grants them +1 Attack for each rank the enemy unit has.
@@ -799,7 +823,7 @@ Notes: Models whose troop type is cavalry, monster or chariot only. This weapon'
 This broad, heavy bladed choppa boasts a wickedly sharp cutting edge. What's more, no amount of relentless chopping through armour and hacking through bone ever seems to dull it.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -3 | Magical Attacks |
 
 ##### Da Akrit Axe  (Magic Weapon)
@@ -808,7 +832,7 @@ This broad, heavy bladed choppa boasts a wickedly sharp cutting edge. What's mor
 In battle, this weapon seems to writhe in the hands of its wielder, seeking out the enemy's most vulnerable spots.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | - | Armour Bane (1); Magical Attacks |
 
 Notes: The wielder of Da Akrit Axe may re-roll any failed rolls To Hit made whilst using it. However, this weapon's Strength modifier applies only against enemy models the wielder charged this turn.
@@ -819,7 +843,7 @@ Notes: The wielder of Da Akrit Axe may re-roll any failed rolls To Hit made whil
 Being bigger and meaner than most, Orcs are happy to fight anyone, anywhere. Goblins on the other hand, are far happier sticking the pointy end of their blades into their foe's back.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Magical Attacks |
 
 Notes: Goblin Bosses and Night Goblin Bosses only. If the wielder of this weapon is engaged with an enemy's flank arc, it may re-roll any failed rolls To Wound. If the wielder of this weapon is engaged with an enemy's rear arc, it may re-roll any failed rolls To Hit and To Wound.
@@ -832,7 +856,7 @@ Notes: Goblin Bosses and Night Goblin Bosses only. If the wielder of this weapon
 The rebellious Goblin known as Wollopa wielded a wondrous weapon. Yet what he is most remembered for is his turn of speed, being able to easily outpace even the most irate of Orcs.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | 10 | -3 | Magical Attacks; Strike First |
 
 Notes: Goblin and Night Goblin Bosses only. Single use. Once per game, during the first round of combat, the wielder of this weapon can use it with this profile. At all other times, this weapon counts as a hand weapon with the Magical Attacks special rule.
