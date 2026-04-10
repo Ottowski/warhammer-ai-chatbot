@@ -43,7 +43,7 @@ A Bastiladon equipped with an Ark of Sotek gains the following special rules:
 This model can cast the following Bound spell, with a Power Level of 2:
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 9+ | 24" |
 
 The target enemy unit suffers 3D3 Strength 5 hits, each with an AP of -2. This Bound spell has the Flaming Attacks special rule.
@@ -67,7 +67,7 @@ Note that this model's rider does not gain a +1 modifier to their Attacks charac
 This model can cast the following Bound spell, with a Power Level of 3:
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 8+ | 15" |
 
 The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -. This Bound spell has the Flaming Attacks special rule.
@@ -157,49 +157,49 @@ When engaged in combat with an enemy unit with a blot toad marker, Ripperdactyls
 ### Blowpipe
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 12" | 3 | - | Multiple Shots (2), Poisoned Attacks |
 
 ### Fiery Breath
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 4 | -1 | Breath Weapon, Flaming Attacks |
 
 ### Fireleech Bolas
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 6" | S+1 | - | Flaming Attacks, Move & Shoot, Quick Shot |
 
 ### Giant Blowpipes
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 18" | 3 | - | Cumbersome, Multiple Shots (2D6), Poisoned Attacks |
 
 ### Giant Bow
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 36" | 5 | -2 | Multiple Wounds (D3), Poisoned Attacks |
 
 ### Great Horns
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -3 | - |
 
 ### Razor Barbs
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 18" | 4 | -1 | Move & Shoot, Multiple Shots (D3), Quick Shot |
 
 ### Slashing Talons
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -3 | Multiple Wounds (D3) |
 
 Notes: The Multiple Wounds (D3) special rule only applies against enemy models whose troop type is monster.
@@ -207,13 +207,13 @@ Notes: The Multiple Wounds (D3) special rule only applies against enemy models w
 ### Thunderous Bludgeon
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -3 | Strike Last |
 
 ### Venom Spray
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 3 | -1 | Breath Weapon |
 
 Notes: When a model using this weapon makes a roll To Wound, a roll of 5+ is always a success, regardless of the target's Toughness.
@@ -221,7 +221,7 @@ Notes: When a model using this weapon makes a roll To Wound, a roll of 5+ is alw
 ### Venomous Talons
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Poisoned Attacks |
 
 ## Warhammer Armies
@@ -297,7 +297,7 @@ A Wizard with the 'Lore of Lustria' special rule may discard one of their random
 "Waves of pure magic infuse the caster's ally, healing their wounds and giving them a palpable aura of power and dread."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 10+/12+ | 24" |
 
 This spell can only target friendly characters whose troop type is infantry or cavalry, but may target characters engaged in combat. If this spell is cast with a casting result of 10 or more, the target friendly model immediately regains D3 lost Wounds. If this spell is cast with a casting result of 12 or more, the target friendly model immediately regains D3+1 lost Wounds.
@@ -309,7 +309,7 @@ In addition, the target friendly character gains the Fear special rule. If they 
 "Without warning, an eight-winded storm breaks about the foe. Torrential rain drenches weapons and armour, loosening bowstrings and soaking black powder."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magical Vortex | 8+ | 15" |
 
 Remains in Play. Place a large (5") blast template so that its central hole is within 15" of the caster. Whilst in play, the template is treated as dangerous terrain over which no line of sight can be drawn. The template moves D6" in a random direction during every Start of Turn sub-phase. Any enemy unit the moving template touches or moves over becomes 'drenched' for the remainder of the game.
@@ -393,7 +393,7 @@ When rolling on the Miscast table, this character can modify the result by -1 (t
 Supposedly wielded by the legendary Tzunki, this exquisite weapon hums as it cuts through the air.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | * | Magical Attacks |
 
 Notes: No armour or Ward saves are permitted against wounds caused by the Blade of Revered Tzunki (Regeneration saves can be attempted as normal).
@@ -405,7 +405,7 @@ Notes: No armour or Ward saves are permitted against wounds caused by the Blade 
 As light as a dagger, this curved blade invigorates its wielder with the power of the sun.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Extra Attacks (+D3), Flaming Attacks, Magical Attacks |
 
 ##### Staff of the Lost Sun (Magic Weapon)
@@ -417,13 +417,13 @@ Made of an alien metal, the Staff of the Lost Sun projects beams of hot light fr
 Ranged:
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 12" | 4 | -3 | Magical Attacks, Multiple Shots (3) |
 
 Combat:
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | - | Magical Attacks, Requires Two Hands |
 
 Notes: The Staff of the Lost Sun has two profiles, representing its use as both a combat and missile weapon.
@@ -435,7 +435,7 @@ Notes: The Staff of the Lost Sun has two profiles, representing its use as both 
 The blade of this weapon is inlaid with thousands of tiny barbed teeth that rip and tear through the flesh of the enemy.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Magical Attacks, Multiple Wounds (2) |
 
 #### Magic Armour
