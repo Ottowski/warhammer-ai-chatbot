@@ -247,13 +247,13 @@ This unit has a 6+ Ward save against any wounds suffered that were caused by a n
 "High Elves are famed archers and in every province of Ulthuan, the gleaming ranks of citizen militia are equipped with splendid longbows as a matter of course. Yet, it is the artisans of Avelorn that craft the finest bows in all of Ulthuan."
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 30\" | S | - | Armour Bane (1), Magical Attacks, Volley Fire |
 
 ### Briny Breath
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 2 | -2 | Breath Weapon |
 
 Notes: Any enemy unit that suffers one or more unsaved Wounds from this weapon suffers a -1 modifier to their Initiative characteristic until your next Start of Turn sub-phase.
@@ -263,7 +263,7 @@ Notes: Any enemy unit that suffers one or more unsaved Wounds from this weapon s
 "The favoured weapon of the Phoenix Guard is the halberd. The silent guardians of Asuryan's shrine wield their long, heavy bladed weapons with a skill and precision unmatched by the clumsy warriors of other races."
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Armour Bane (1), Fight in Extra Rank, Magical Attacks, Requires Two Hands |
 
 Notes: A model wielding a ceremonial halberd cannot make supporting attacks during a turn in which it charged.
@@ -273,25 +273,25 @@ Notes: A model wielding a ceremonial halberd cannot make supporting attacks duri
 "White Lions proudly bear the traditional woodsman's axe into battle, many of which are ancient heirlooms. Handed down across centuries untold they never lose their keen edge, and can fell a tree or cleave a foe in half with but a single blow."
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -3 | Requires Two Hands, Strike Last |
 
 ### Dragon Fire
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 4 | -1 | Breath Weapon, Flaming Attacks |
 
 ### Eagle-eye Bolt Thrower
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 24\" | 5 | -3 | Cumbersome, Multiple Wounds (D3) |
 
 ### Handmaiden's Spear
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | - |
 
 Notes: During a turn in which it was charged, a model wielding a Handmaiden's spear gains a +1 modifier to its Initiative against the charging unit(s).
@@ -299,13 +299,13 @@ Notes: During a turn in which it was charged, a model wielding a Handmaiden's sp
 ### Lashing Talons
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Armour Bane (1) |
 
 ### Serpentine Tail
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -2 | Strike Last |
 
 Notes: In combat, this model must make one of its attacks each turn with this weapon.
@@ -315,7 +315,7 @@ Notes: In combat, this model must make one of its attacks each turn with this we
 "The elegant blade of a sword of Hoeth is as long as an Elf is tall, yet balanced to seem as light as a feather. So keen is its edge, and so enduring its enchantments, that the sharpness of the blade is never dulled, no matter how many helms are cloven by its strikes."
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -2 | Magical Attacks, Requires Two Hands |
 
 ## Warhammer Armies
@@ -396,9 +396,9 @@ A single High Elf Noble in your army may be upgraded to be your Battle Standard 
 
 If you wish to field an army of the Chracian Warhost in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Forces of Fantasy.
 
-#### Army of Infamy Composition List
+#### The Chracian Warhost Composition List
 
-##### Characters
+##### The Chracian Warhost Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -406,21 +406,21 @@ Up to 50% of your army's points value may be spent on:
 - 0-1 Chracian Chieftain or Storm Weaver per 1,000 points
 - High Elf Nobles
 
-##### Core
+##### The Chracian Warhost Core Units
 
 At least 33% of your army's points value must be spent on:
 
 - Elven Spearmen, Elven Archers and Chracian Woodsmen
 - 0-1 unit of White Lions of Chrace per 1,000 points
 
-##### Special
+##### The Chracian Warhost Special Units
 
 Up to 50% of your army's points value may be spent on:
 
 - White Lions of Chrace, Lion Chariots of Chrace
 - 0-1 unit of War Lions per 1,000 points
 
-##### Rare
+##### The Chracian Warhost Rare Units
 
 Up to 33% of your army's points value may be spent on:
 
@@ -429,7 +429,7 @@ Up to 33% of your army's points value may be spent on:
 - 0-2 Great Eagles per 1,000 points
 - 0-1 Eagle-Claw Bolt Thrower per 1,000 points
 
-#### Battle Standard Bearer
+#### The Chracian Warhost Battle Standard Bearer
 
 A single High Elf Noble or Chracian Chieftain in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single Magic Standard with no points limit.
 
@@ -439,23 +439,23 @@ A single High Elf Noble or Chracian Chieftain in your army may be upgraded to be
 
 If you wish to field a Sea Guard Garrison army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Forces of Fantasy.
 
-#### Army of Infamy Composition List
+#### Sea Guard Garrison Composition List
 
-##### Characters
+##### Sea Guard Garrison Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
 - Sea Guard Garrison Commanders and Storm Weavers
 - 0-1 Dragon Mage, High Elf Noble or High Elf Mage per 1,000 points
 
-##### Core
+##### Sea Guard Garrison Core Units
 
 At least 33% of your army's points value must be spent on:
 
 - Lothern Sea Guard and Ship's Company
 - 0-1 unit of Shadow Warriors per 1,000 points
 
-##### Special
+##### Sea Guard Garrison Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -463,7 +463,7 @@ Up to 50% of your army's points value may be spent on:
 - 0-2 Great Eagles per 1,000 points
 - 0-3 Eagle-Claw Bolt Throwers per 1,000 points
 
-##### Rare
+##### Sea Guard Garrison Rare Units
 
 Up to 33% of your army's points value may be spent on:
 
@@ -471,7 +471,7 @@ Up to 33% of your army's points value may be spent on:
 - 0-1 Flamespyre or Frostheart Phoenix per 1,000 points
 - Merwyrms
 
-#### Battle Standard Bearer
+#### Sea Guard Garrison Battle Standard Bearer
 
 A single High Elf Noble or Sea Guard Garrison Commander in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single Magic Standard with no points limit.
 
@@ -519,7 +519,7 @@ The battle will last for six rounds or until one side concedes.
 
 Drawn To Battle: All units in the defender's army gain the Impetuous special rule. If they already have the Impetuous special rule, then they must apply a -1 modifier when rolling to see if they must charge or may act as normal.
 
-#### Victory!
+#### Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. The player who controls the Herdstone at the end of the battle wins a bonus of 150 Victory Points (in addition to any bonus controlling the special feature may normally give). In addition, at the end of the game:
 
@@ -539,7 +539,7 @@ A Wizard with the 'Lore of Saphery' special rule may discard one of their random
 "With a simple gesture, white light bursts forth from the Mage's outstretched hand, banishing the life force of the foe."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Assailment | 7+ | Combat |
 
 A single enemy model the caster is engaged in combat with suffers a single Strength 4 hit with no armour save permitted (Ward and Regeneration saves can be attempted as normal).
@@ -549,7 +549,7 @@ A single enemy model the caster is engaged in combat with suffers a single Stren
 "The High Elf Mage draws upon the Winds of Magic to conjure glorious images of Aenarion in the minds of their allies. So inspired, already brave warriors are filled with the unbreakable courage of the first Phoenix King."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 10+ | 15\" |
 
 Remains in Play. Whilst this spell is in play, the target friendly unit gains the Unbreakable special rule. If this spell is cast, the effects of any other Enchantment previously cast on the target unit immediately expire. This spell may target a friendly unit engaged in combat.
@@ -559,7 +559,7 @@ Remains in Play. Whilst this spell is in play, the target friendly unit gains th
 "Glowing swords grow dim, blood-warm chalices cool and enchanted scrolls crumble into dust, their magical energies drained as the Mage turns the fury of Vaul's forge upon the magical trappings of the enemy."
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 11+ | 12\" |
 
 This spell can only target enemy characters. However, it may target any enemy character that is within range and that the caster can draw a line of sight to, regardless of the usual rules for targeting characters, and may even target an enemy character that has joined a unit or that is engaged in combat.
@@ -687,7 +687,7 @@ A character with the Sea Guard Elven Honour:
 Wrought from purest Ithilmar, in the strong hands of a Chracian champion, this axe can cleave the skull of even the foulest beast with a single stroke.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+3 | -4 | Magical Attacks, Monster Slayer, Requires Two Hands, Strike Last |
 
 Notes: The Woodsman's Axe may only be taken by models in a Chracian Warhost Army of Infamy.
@@ -699,7 +699,7 @@ Notes: The Woodsman's Axe may only be taken by models in a Chracian Warhost Army
 A legendary blade forged for Aren, one of the first Swordmasters of Hoeth. The White Sword stands as tall as an Elf, yet its wide blade is as light as a willow switch.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+3 | -2 | Magical Attacks, Monster Slayer, Requires Two Hands, Strike Last |
 
 Notes: Models whose troop type is infantry or chariot only.
@@ -711,7 +711,7 @@ Notes: Models whose troop type is infantry or chariot only.
 To the valiant, the Blade of Leaping Gold lends supernatural speed and vigour; to the craven and the corrupt, it brings only swift death. A more finely balanced sword than this has never been made.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | - | Armour Bane (2), Extra Attacks (+D3), Magical Attacks |
 
 ##### Bow of the Seafarer (Magic Weapon)
@@ -721,7 +721,7 @@ To the valiant, the Blade of Leaping Gold lends supernatural speed and vigour; t
 Crafted from a single piece of rare silverwood and gifted to lanor of the Sea Guard by Finubar himself, this mighty bow is rumoured to be capable of sinking ships!
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 30\" | 5 | -3 | Cumbersome, Magical Attacks, Multiple Wounds (D3), Through & Through |
 
 Notes: The Bow of the Seafarer counts as a Bow of Avelorn. The Bow of the Seafarer shoots like a bolt thrower, using the Through & Through special rule.
@@ -733,7 +733,7 @@ Notes: The Bow of the Seafarer counts as a Bow of Avelorn. The Bow of the Seafar
 Forged from the metal of a fallen star, this weapon's graceful lines belie the formidable power it grants its wielder.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+3 | -4 | Magical Attacks, Strike First |
 
 Notes: Models whose troop type is cavalry or monster only. The Star Lance can only be used during a turn in which the wielder charged. In subsequent turns (or if the wielder did not charge) the model must use its hand weapon instead.
@@ -745,7 +745,7 @@ Notes: Models whose troop type is cavalry or monster only. The Star Lance can on
 Forged in the crushing depths and honed by crashing waves, this gleaming blade strikes with the unstoppable power of the ocean itself.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Magical Attacks, Multiple Wounds (D3) |
 
 Notes: The Blade of Sea Gold may only be taken by models in a Sea Guard Garrison Army of Infamy.
@@ -757,7 +757,7 @@ Notes: The Blade of Sea Gold may only be taken by models in a Sea Guard Garrison
 Some believe this wondrous bow is the same one that was forged for Prince Arathion of Ellyrion a thousand years ago.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 30\" | S+1 | - | Magical Attacks |
 
 Notes: The Reaver Bow counts as a Bow of Avelorn. The wielder of the Reaver Bow may make a number of shooting attacks equal to their Attacks characteristic, rather than the usual one. This model does not suffer any modifiers for firing multiple shots.
@@ -769,7 +769,7 @@ Notes: The Reaver Bow counts as a Bow of Avelorn. The wielder of the Reaver Bow 
 This strangely twisted Elven blade was taken from the body of a Chaos champion. Quite how they came to possess it is unknown, as is the name of the brave Elf that reclaimed it.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | - | Magical Attacks |
 
 Notes: When the wielder of Foe Bane makes a roll To Wound, a roll of 4+ is always a success, regardless of the target's Toughness.

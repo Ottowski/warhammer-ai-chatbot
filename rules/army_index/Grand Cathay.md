@@ -252,9 +252,9 @@ All units of Jade Warriors and Jade Lancers included in an army that is led by M
 
 Cathayan cavalry use long, heavy spears similar to lances, but light enough that the weapons of multiple ranks can be brought to bear in the press of melee.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S+1 | -1 | Armour Bane (1), Fight in Extra Rank
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S+1 | -1 | Armour Bane (1), Fight in Extra Rank |
 
 Notes: Models whose troop type is cavalry, monster or chariot only. A Cathayan lance's Strength and Armour Piercing modifiers apply only against enemy models the wielder charged that turn.
 
@@ -262,23 +262,23 @@ Notes: Models whose troop type is cavalry, monster or chariot only. A Cathayan l
 
 Forged by the finest blade masters in Cathay, a Celestial blade is made from meteoric iron mined from the slopes of Mount Kunlan, and few swords are as sharp or well-balanced.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S+1 | -1 | Strike First
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S+1 | -1 | Strike First |
 
 ### Crown of Horns (Grand Cathay)
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S | -1 | Armour Bane (1)
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S | -1 | Armour Bane (1) |
 
 ### Dragon Fire Bombs
 
 Far more devastating than gunpowder bombs, dragon fire bombs unleash a torrent of all consuming alchemical fire upon the foe.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-9" | 3 | -1 | Armour Bane (1), Flaming Attacks, Move & Shoot, Quick Shot
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 9" | 3 | -1 | Armour Bane (1), Flaming Attacks, Move & Shoot, Quick Shot |
 
 Notes: If the roll To Hit is successful, a dragon fire bomb causes D3+1 hits to the target enemy unit, rather than the usual one.
 
@@ -286,9 +286,9 @@ Notes: If the roll To Hit is successful, a dragon fire bomb causes D3+1 hits to 
 
 A smaller version of the weapons wielded by dragon fire gunners, a dragon fire pistol is capable of expelling a deadly gout of flame over a short distance.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-12" | 5 | -1 | Flaming Attacks, Multiple Shots (2), Quick Shot
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 12" | 5 | -1 | Flaming Attacks, Multiple Shots (2), Quick Shot |
 
 ### Fire Rain Rocket
 
@@ -296,25 +296,25 @@ Each turn, a Fire Rain Rocket Battery can fire one of the two different types of
 
 Bastion Rockets:
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-12-48" | 4(5) | -1(-3) | Armour Bane (1), Bombardment, Cumbersome, Move or Shoot, Multiple Wounds (D6)
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 12-48" | 4(5) | -1(-3) | Armour Bane (1), Bombardment, Cumbersome, Move or Shoot, Multiple Wounds (D6) |
 
 Notes: This weapon shoots like a stone thrower, using the Bombardment special rule, a 3" blast template and the Black Powder Misfire table. The Multiple Wounds (D6) special rule applies only to a single model whose base lies underneath the central hole of the blast template.
 
 Rocket Battery:
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-12-48" | 3(4) | -1(-1) | Armour Bane (1), Bombardment, Cumbersome, Flaming Attacks, Move or Shoot, Wailing Spirits
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 12-48" | 3(4) | -1(-1) | Armour Bane (1), Bombardment, Cumbersome, Flaming Attacks, Move or Shoot, Wailing Spirits |
 
 Notes: This weapon shoots like a stone thrower, using the Bombardment special rule, a 5" blast template and the Black Powder Misfire table.
 
 ### Grand Cannon
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-48" | 10 | -3 | Armour Bane (3), Cannon Fire, Cumbersome, Move or Shoot, Multiple Wounds (D3+1), Thunderous Impact
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 48" | 10 | -3 | Armour Bane (3), Cannon Fire, Cumbersome, Move or Shoot, Multiple Wounds (D3+1), Thunderous Impact |
 
 Notes: This weapon does not use its crew's Ballistic Skill. Instead, it shoots using the Cannon Fire special rule. This weapon uses the Black Powder Misfire table.
 
@@ -322,15 +322,15 @@ Notes: This weapon does not use its crew's Ballistic Skill. Instead, it shoots u
 
 Scything Blow:
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S | -2 | Armour Bane (1), Extra Attacks (+2D3), Strike Last
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S | -2 | Armour Bane (1), Extra Attacks (+2D3), Strike Last |
 
 Deadly Strike:
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S+1 | -4 | Killing Blow, Monster Slayer, Multiple Wounds (D3)
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S+1 | -4 | Killing Blow, Monster Slayer, Multiple Wounds (D3) |
 
 Notes: This weapon has two profiles, representing the different ways it can be used in combat. You must choose which profile the wielder will use at the start of each round of combat.
 
@@ -338,25 +338,25 @@ Notes: This weapon has two profiles, representing the different ways it can be u
 
 Cathayan gunpowder is the wonder of the eastern world and is used in numerous weapons of the empire, including explosive grenades carried by the soldiers of Nan-Gau.
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-9" | 3 | - | Armour Bane (1), Move & Shoot, Quick Shot
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 9" | 3 | - | Armour Bane (1), Move & Shoot, Quick Shot |
 
 Notes: If the roll To Hit is successful, a gunpowder bomb causes D3 hits to the target enemy unit, rather than the usual one.
 
 ### Iron Hail Gun
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-12" | 3 | -1 | Move & Shoot, Multiple Shots (D3)
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 12" | 3 | -1 | Move & Shoot, Multiple Shots (D3) |
 
 Notes: A model armed with an iron hail gun suffers no negative modifiers for firing at long range, for using the Multiple Shots (D3) special rule, or whilst making a Stand & Shoot charge reaction.
 
 ### Iron Talons
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-Combat | S | -1 | Strike First
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S | -1 | Strike First |
 
 ### Sky Lantern Bombs
 
@@ -367,7 +367,7 @@ Once per game, if this model is equipped with Sky Lantern bombs, it may perform 
 Bombing Run Table
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1 | **Premature Detonation:** The release mechanism jams and a bomb explodes prematurely. This model loses a single Wound. |
 | 2 | **Dud:** A solitary bomb is released, but fails to detonate before landing squarely upon the head of an unfortunate enemy. The enemy unit loses a single Wound. |
 | 3-4 | **Direct Hit:** A cluster of bombs lands directly on target. Place a large (5") blast template so that its central hole is directly over the centre of the enemy unit. Once placed, the template will scatter D6". Any model whose base lies underneath the template's final position risks being hit and suffering a single Strength 5 hit with an AP of -2. |
@@ -375,9 +375,9 @@ Bombing Run Table
 
 ### Sky Lantern Crane Gun
 
-Range | Strength | Armour Piercing | Special Rules
---- | --- | --- | ---
-36" | 6 | -2 | Armour Bane (2), Cumbersome
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 36" | 6 | -2 | Armour Bane (2), Cumbersome |
 
 ## Warhammer Armies
 
@@ -525,7 +525,7 @@ A Wizard with the 'Lore of Yang' special rule may discard one of their randomly 
 Blazing starlight leaps from the Wizard's fingertips, dancing and forming a simulacrum of the constellation of the Dragon Emperor above the battlefield.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 7+/11+ | 18" |
 
 If this spell is cast with a casting result of 7 or more, the target enemy unit suffers D6+1 Strength 4 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6+2 Strength 4 hits, each with an AP of -1.
@@ -535,7 +535,7 @@ If this spell is cast with a casting result of 7 or more, the target enemy unit 
 With a word of power from the Wizard, the earth cracks and buckles as it is transformed into ramparts upon which gleaming battlements burn with celestial flame.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 9+ | 12" |
 
 Remains in Play. The target friendly unit gains a 6+ Ward save against any wounds suffered. In addition, every model within the front rank of an enemy unit that ends its charge move in base contact with the target unit whilst this spell is in play must make a Dangerous Terrain test. Any Wounds lost are counted as 'unsaved wounds inflicted' when calculating the combat result. However, whilst this spell is in play the target unit cannot march or charge. This spell may target a friendly unit engaged in combat.
@@ -545,7 +545,7 @@ Remains in Play. The target friendly unit gains a 6+ Ward save against any wound
 Calling upon the elemental energies of earth and heaven, the Wizard and those around them become imbued with the pure power of the Yang.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 9+/12+ | Self |
 
 If this spell is cast with a casting result of 9 or more, the caster, their mount and any unit they have joined, gain a +1 modifier to their Weapon Skill and Strength characteristics (to a maximum of 10), and gain the Flaming Attacks special rule. If this spell is cast with a casting result of 12 or more, all friendly units that are within the caster's Command range when this spell is cast gain a + 1 modifier to their Weapon Skill and Strength characteristics (to a maximum of 10), and gain the Flaming Attacks special rule. This spell lasts until the end of this turn.
@@ -563,7 +563,7 @@ Elemental spirits descend upon the foe, enveloping them in a whirlwind of flicke
 As they try to advance, those afflicted find themselves waylaid by the grasping talons of unseen spirits and buffeted by spectral winds.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 10+ | 15" |
 
 Until your next Start of Turn sub-phase, the target enemy unit becomes subject to the Random Movement (D6) special rule.
@@ -573,7 +573,7 @@ Until your next Start of Turn sub-phase, the target enemy unit becomes subject t
 The Wizard creates a magical barrier of shifting darkness and howling wind around the enemy. This barrier snatches the enemy's missiles from the air and swallows the tips of their spears, instantly turning the lethal power of these weapons back upon their bearers.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 9+ | 15" |
 
 Until your next Start of Turn sub-phase, any rolls To Hit of a natural 1 made by the target enemy unit during either the Shooting phase or the Combat phase result in a Strength 3 hit with an AP of -1 which must be resolved against the target enemy unit. This spell may target an enemy unit engaged in combat.
@@ -583,7 +583,7 @@ Until your next Start of Turn sub-phase, any rolls To Hit of a natural 1 made by
 TK
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Assailment | 7+/11+ | Combat |
 
 If this spell is cast with a casting result of 7 or more, a single enemy unit the caster is engaged in combat with suffers 2D3 Strength 2 hits, each with an AP of -. If this spell is cast with a casting result of 11 or more, the target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -1. This spell has the Armour Bane (2) special rule.
@@ -602,8 +602,8 @@ These magic items are unique to Empire of Grand Cathay armies. These can be purc
 A huge and ornate club, studded with jewels and wrapped with precious metals, the Monkey King's Wisdom is a huge and brutal weapon.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | 10  | -4  | Magical Attacks, Multiple Wounds (D3), Requires Two Hands, Strike Last |
+| --- | --- | --- | --- |
+| Combat | 10 | -4 | Magical Attacks, Multiple Wounds (D3), Requires Two Hands, Strike Last |
 
 ##### Jade Blade of the Great Fleet  (Magic Weapon)
 
@@ -611,8 +611,9 @@ A huge and ornate club, studded with jewels and wrapped with precious metals, th
 The Jade Blade is an ancient weapon fashioned from the fang of a Lumbrian sea monster. Imbued with the monster's regenerative powers, it continually heals its wielder.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+2  | -2  | Armour Bane (1), Magical Attacks, Regeneration (5+) |
+| --- | --- | --- | --- |
+| Combat | S+2 | -2 | Armour Bane (1), Magical Attacks, Regeneration (5+) |
+
 Notes: The wielder of the Jade Blade of the Great Fleet gains the Regeneration (5+) special rule.
 
 ##### The Sword of Reason  (Magic Weapon)
@@ -621,8 +622,9 @@ Notes: The wielder of the Jade Blade of the Great Fleet gains the Regeneration (
 This great blade is sometimes wielded by Yuan Bo when his duties require him to enforce the Celestial Dragon's will upon the unruly.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+2  | -2  | Killing Blow, Magical Attacks, Requires Two Hands |
+| --- | --- | --- | --- |
+| Combat | S+2 | -2 | Killing Blow, Magical Attacks, Requires Two Hands |
+
 Notes: The wielder of the Sword of Reason strikes a Killing Blow if they roll a natural 5 or 6 when making a roll To Wound, rather than the usual 6.
 
 ##### The Brazen Blade  (Magic Weapon)
@@ -631,8 +633,9 @@ Notes: The wielder of the Sword of Reason strikes a Killing Blow if they roll a 
 Crafted in the forges of Nan-Gau, this unusual weapon carves deep wounds that no magic can heal.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+1  | -1  | Magical Attacks, Multiple Wounds (2) |
+| --- | --- | --- | --- |
+| Combat | S+1 | -1 | Magical Attacks, Multiple Wounds (2) |
+
 Notes: Enemy models are not permitted a Ward or Regeneration save against an attack made with this weapon if the wielder rolls a natural 6 when making a roll To Wound.
 
 ##### The Wrath of Xen Yang  (Magic Weapon)
@@ -641,8 +644,9 @@ Notes: Enemy models are not permitted a Ward or Regeneration save against an att
 Supposedly once wielded by the Celestial Dragon himself, this long and elegant spear burns with Dragon-fire.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+1  | -1  | Amour Bane (1), Flaming Attacks, Magical Attacks |
+| --- | --- | --- | --- |
+| Combat | S+1 | -1 | Amour Bane (1), Flaming Attacks, Magical Attacks |
+
 Notes: Enemy models cannot make Regeneration saves against a wound caused by this weapon.
 
 ##### The Sword of Nan-Gau  (Magic Weapon)
@@ -651,8 +655,8 @@ Notes: Enemy models cannot make Regeneration saves against a wound caused by thi
 This shimmering blade strikes with a life of its own, seeking any weakness in the armour of those that serve the Ruinous Powers.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S  | -3  | Hatred (Warriors of Chaos), Magical Attacks |
+| --- | --- | --- | --- |
+| Combat | S | -3 | Hatred (Warriors of Chaos), Magical Attacks |
 
 ##### Spirit Longma Spear  (Magic Weapon)
 
@@ -660,8 +664,9 @@ This shimmering blade strikes with a life of its own, seeking any weakness in th
 Made from the horn of the Great Spirit Longma Tian Wu and able to pierce any armour, heroes of Cathay carry this spear into battle with pride.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S+1  | -3  | Armour Bane (1), Magical Attacks |
+| --- | --- | --- | --- |
+| Combat | S+1 | -3 | Armour Bane (1), Magical Attacks |
+
 Notes: Models whose troop type is cavalry, monster or chariot only. A Cathayan lance's Strength and Armour Piercing modifiers apply only during a turn in which the wielder charged.
 
 ##### Sun & Moon Blades  (Magic Weapon)
@@ -670,8 +675,9 @@ Notes: Models whose troop type is cavalry, monster or chariot only. A Cathayan l
 According to legend, the blade of the Sun brings enlightenment, whilst the blade of the Moon brings only death.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S  | -1  | Extra Attacks (+1), Magical Attacks, Requires Two Hands |
+| --- | --- | --- | --- |
+| Combat | S | -1 | Extra Attacks (+1), Magical Attacks, Requires Two Hands |
+
 Notes: If the wielder of the Sun & Moon Blades is struck a Killing Blow, roll a D6. On a roll of 4+, the Killing Blow is parried and the Killing Blow is discarded with no further effect.
 
 #### Magic Armour
