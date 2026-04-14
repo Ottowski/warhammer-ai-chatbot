@@ -39,7 +39,7 @@ Armed with mechanical racks that bristle with Grudgebuster bombs, Gyrobombers st
 This model may perform a 'Bombing Run' attack against a single enemy unit that is not engaged in combat. To do so, this model must move (by flying) over the unit it wishes to attack during the Remaining Moves sub-phase. Once this model's movement is complete, roll on the Bombing Run table below:
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1 | **Premature Detonation:** The release mechanism jams and a bomb explodes prematurely. This model loses a single Wound. |
 | 2 | **Dud:** A solitary bomb is released, but fails to detonate before landing squarely upon the head of an unfortunate enemy. The enemy unit loses a single Wound. |
 | 3-4 | **Direct Hit:** A cluster of bombs lands directly on-target. Place a large (5") blast template so that its central hole is directly over the centre of the enemy unit. Once placed, the template will scatter D6". Any model whose base lies underneath the template's final position risks being hit and suffering a single Strength 4 hit with an AP of -1. |
@@ -272,7 +272,7 @@ An Anvil of Doom can cast the following Bound spells, with a Power Level of 2: R
 Dwarf mail hardens, each suit of armour remembering the hammer blows that forged it.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 8+/11+ | 24" |
 
 If this Bound spell is cast with a casting result of 8 or more, the target friendly unit may re-roll any failed Armour Save rolls. If this Bound spell is cast with a casting result of 11 or more, the target friendly unit may re-roll any failed Armour Save rolls and improves its armour value by 1 (to a maximum of 2+). This spell lasts until your next Start of Turn sub-phase.
@@ -282,7 +282,7 @@ If this Bound spell is cast with a casting result of 8 or more, the target frien
 Dawi hearts fill with a mighty desire to defend their hold, clan and ancestors.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 8+ | Self |
 
 Until your next Start of Turn sub-phase, all friendly Dwarf units within 21" of the Anvil of Doom gain the Immune To Psychology special rule.
@@ -292,7 +292,7 @@ Until your next Start of Turn sub-phase, all friendly Dwarf units within 21" of 
 As the runes are struck, time slows around the marching Dwarf throng.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Conveyance | 10+ | 24" |
 
 If the target friendly unit is not fleeing and has already moved during this Movement phase, it may immediately move again.
@@ -302,7 +302,7 @@ If the target friendly unit is not fleeing and has already moved during this Mov
 The very earth cracks beneath the feet of the enemy, venting forth fire and sulphur.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 9+ | 27" |
 
 The target enemy unit suffers 2D6 Strength 4 hits, each with an AP of -2.
@@ -828,7 +828,7 @@ Entrenched Besiegers: Once both armies have been deployed, the attacker may nomi
 
 The Gatehouse: The gatehouse is an area of open ground that extends 12" from the centre of the southern board edge, as shown on the map opposite. Any units inside the gatehouse may re-roll failed Panic tests and Rally tests.
 
-#### Victory!
+#### Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. In addition, at the end of the game:
 
@@ -878,42 +878,42 @@ Some runes are noted as being 'single use'. Such runes can only be used once per
 
 Weapon runes can be inscribed upon a hand weapon or great weapon (whatever form it takes). A model cannot have more than three Weapon runes, no matter how many weapons it carries. A weapon with one or more runes inscribed upon it is a magic weapon (as described in the Warhammer: the Old World rulebook) and automatically gains the Magical Attacks special rule.
 
-##### Master Rune of Smiting  (Magic Weapon)
+#### Master Rune of Smiting (Magic Weapon)
 
 75 points
 The secret of this rune was preserved in the Rundrokikron, an ancient tome kept in the treasure troves of Karak Kadrin.
 
 A weapon inscribed with the Master Rune of Smiting gains the Multiple Wounds (D6) special rule.
 
-##### Master Rune of Skalf Blackhammer  (Magic Weapon)
+#### Master Rune of Skalf Blackhammer  (Magic Weapon)
 
 65 points
 Runesmith Skalf forged many hammers of great might, and some maintain that even the hammer of Sigmar, Ghal Maraz itself, was his work.
 
 When making a roll To Wound with a weapon inscribed with the Master Rune of Skalf Blackhammer, a roll of 2+ is always a success, regardless of the target's Toughness.
 
-##### Master Rune of Alaric The Mad  (Magic Weapon)
+#### Master Rune of Alaric The Mad  (Magic Weapon)
 
 45 points
 Alaric the Mad forged the famous Runefangs for the Elector Counts of the Empire before meeting an unknown fate.
 
 No armour save is permitted against wounds caused by a weapon inscribed with the Master Rune of Alaric the Mad (Ward and Regeneration saves can be attempted as normal).
 
-##### Master Rune of Dragon Slaying  (Magic Weapon)
+#### Master Rune of Dragon Slaying  (Magic Weapon)
 
 35 points
 With this mighty rune the Dwarfs have slain many great wyrms and foul creatures of Chaos.
 
 When making a roll To Wound against an enemy whose troop type is behemoth with a weapon inscribed with the Master Rune of Dragon Slaying, a roll of 2+ is always a success, regardless of the target's Toughness.
 
-##### Rune of Parrying  (Magic Weapon)
+#### Rune of Parrying  (Magic Weapon)
 
 35 points
 A weapon with this rune moves like quicksilver to block the attacks of the enemy.
 
 Any enemy model that directs its attacks against a model wielding a weapon inscribed with a Rune of Parrying during the Combat phase suffers a -1 modifier to its rolls To Hit.
 
-##### Master Rune of Breaking  (Magic Weapon)
+#### Master Rune of Breaking  (Magic Weapon)
 
 25 points
 Runesmiths take pride in seeing the inferior works of other races break beneath a hammerblow.
@@ -922,7 +922,7 @@ Any magic weapon carried by an enemy model that suffers one or more unsaved woun
 
 Note that even if their magic weapon is destroyed, the model is still considered to be armed with a hand weapon.
 
-##### Master Rune of Flight  (Magic Weapon)
+#### Master Rune of Flight  (Magic Weapon)
 
 25 points
 This cunning rune has been used to surprise the Dwarfs' foes from afar since the world was young.
@@ -930,26 +930,27 @@ This cunning rune has been used to surprise the Dwarfs' foes from afar since the
 Hand weapon only. Once per turn, during the Shooting phase, a weapon inscribed with the Master Rune of Flight can be thrown with the following profile (which may be modified by additional runes):
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 12" | S | - | Magical Attacks |
+
 Move & Shoot
 Quick Shot
 
-##### Master Rune of Swiftness  (Magic Weapon)
+#### Master Rune of Swiftness  (Magic Weapon)
 
 25 points
 This rune was first struck by Thurgrom the Hermit, the last runesmith to study Elven crafts.
 
 The wielder of a weapon inscribed with the Master Rune of Swiftness gains the Strike First special rule.
 
-##### Rune of Banishment  (Magic Weapon)
+#### Rune of Banishment  (Magic Weapon)
 
 25 points
 First crafted in the days of the Ancestor Gods, the touch of this potent rune is anathema to the creatures of Chaos.
 
 Enemy models with the Warp-spawned special rule cannot make any Ward saves against hits caused by a weapon inscribed with the Rune of Banishment.
 
-##### Rune of Fury*  (Magic Weapon)
+#### Rune of Fury*  (Magic Weapon)
 
 25 points
 A Rune of Fury is an emblem of the anger all Dwarfs feel towards the enemies of their ancestors.
@@ -958,7 +959,7 @@ For each Rune of Fury inscribed upon a weapon, its wielder has a +1 modifier to 
 
 *Rule of Duplication
 
-##### Grudge Rune*  (Magic Weapon)
+#### Grudge Rune*  (Magic Weapon)
 
 20 points
 Grudge Runes seek out the enemies of the Dwarfs with unerring accuracy.
@@ -967,7 +968,7 @@ For each Grudge Rune inscribed upon a weapon, its wielder may re-roll a single r
 
 *Rule of Duplication
 
-##### Rune of Might*  (Magic Weapon)
+#### Rune of Might*  (Magic Weapon)
 
 20 points
 A weapon inscribed with Runes of Might can fell a Giant in a flurry of blows.
@@ -976,7 +977,7 @@ For each Rune of Might inscribed upon a weapon, its wielder has a +1 modifier to
 
 *Rule of Duplication
 
-##### Rune of Cleaving*  (Magic Weapon)
+#### Rune of Cleaving*  (Magic Weapon)
 
 15 points
 This rune was first made for mining tools, to allow them to break through rock with ease.
@@ -985,7 +986,7 @@ Hand weapon only. For each Rune of Cleaving inscribed upon a weapon, its Armour 
 
 *Rule of Duplication
 
-##### Rune of Striking*  (Magic Weapon)
+#### Rune of Striking*  (Magic Weapon)
 
 15 points
 A weapon with this rune moves to strike the foe's most vulnerable area with an uncanny precision.
@@ -994,14 +995,14 @@ For each Rune of Striking inscribed upon a weapon, its wielder has a +1 modifier
 
 *Rule of Duplication
 
-##### Rune of Fire  (Magic Weapon)
+#### Rune of Fire  (Magic Weapon)
 
 10 points
 Struck whilst the weapon glows white-hot, a Rune of Fire forever binds the heat of the forge.
 
 The wielder of a weapon inscribed with a Rune of Fire gains the Flaming Attacks special rule.
 
-##### Rune of Speed*  (Magic Weapon)
+#### Rune of Speed*  (Magic Weapon)
 
 5 points
 This rune enhances its bearer's awareness and quickness, catching unwary enemies by surprise.
@@ -1014,7 +1015,7 @@ Hand weapon only. For each Rune of Speed inscribed upon a weapon, its wielder ha
 
 Armour runes can only be inscribed upon armour. If you give a model an Armour rune, it is inscribed upon the armour that model is equipped with. A model cannot have more than three Armour runes, even if it carries additional equipment such as a shield.
 
-##### Master Rune of Adamant  (Magic Armour)
+#### Master Rune of Adamant  (Magic Armour)
 
 100 points
 The Master Rune of Adamant makes flesh harder than granite and more impervious than steel.
@@ -1073,7 +1074,7 @@ Single use. For each Rune of Stone inscribed upon their armour, a model may re-r
 
 Talismanic runes are inscribed upon all manner of small, personal items, such as rings, amulets and bracelets. All models are considered to wear or carry such items onto which Talismanic runes can be inscribed. A model cannot have more than three Talismanic runes.
 
-##### Master Rune of Calm  (Talisman)
+#### Master Rune of Calm  (Talisman)
 
 50 points
 When the power of this rune is unleashed, the Winds of Magic are stilled, leaving enemy Wizards unable to cast even the most simple of spells.
@@ -1081,8 +1082,9 @@ When the power of this rune is unleashed, the Winds of Magic are stilled, leavin
 The bearer of the Master Rune of Calm can cast the following Bound spell, with a Power Level of 2:
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 8+/11+ | Self |
+
 If this Bound spell is cast with a casting result of 8 or more, enemy Wizards that are within 18" of this model when attempting to cast a spell must increase that spell's casting value by 2. If this Bound spell is cast with a casting result of 11 or more, enemy Wizards that are within 36" of this model when attempting to cast a spell must increase that spell's casting value by 2. This spell lasts until your next Start of Turn sub-phase.
 
 ##### Master Rune of Balance  (Talisman)
@@ -1144,21 +1146,21 @@ The bearer of a Rune of the Furnace has a 3+ Ward save against any wounds suffer
 
 Standard runes can only be inscribed upon a standard carried by a Battle Standard Bearer or by a standard bearer within a unit that has the option to purchase Standard runes. A standard cannot have more than three Standard runes. A unit joined by a Battle Standard Bearer is considered to also be carrying their standard.
 
-##### Master Rune of Grungni  (Magic Standard)
+#### Master Rune of Grungni  (Magic Standard)
 
 80 points
 This rune stirs the Winds of Magic until their swirling forces protect those that march beneath it.
 
 Battle Standard Bearer only. A unit carrying a standard inscribed with the Master Rune of Grungni has a 5+ Ward save against any wounds suffered. In addition, whilst within 6" of the model carrying this standard, friendly units have a 6+ Ward save against any wounds suffered during the Shooting phase.
 
-##### Master Rune of Stromni Redbeard  (Magic Standard)
+#### Master Rune of Stromni Redbeard  (Magic Standard)
 
 75 points
 This rune was first carved onto the Battle Standard of Durgin, son of Grindo, son of Grimnir.
 
 When calculating its combat result, any friendly unit within the Command range of the model carrying the standard inscribed with the Master Rune of Stromni Redbeard may claim an additional bonus of +1 combat result point.
 
-##### Master Rune of Hesitation  (Magic Standard)
+#### Master Rune of Hesitation  (Magic Standard)
 
 45 points
 The presence of this rune causes the enemy to hesitate before the Dwarfen throng and falter in their charge.
@@ -1167,35 +1169,35 @@ An enemy unit that charges the front arc of a unit carrying a standard inscribed
 
 Note that the unit carrying this rune still counts as having been charged by the enemy unit.
 
-##### Rune of Confusion  (Magic Standard)
+#### Rune of Confusion  (Magic Standard)
 
 35 points
 Under the shadow of this rune, the enthusiasm of charging enemies quickly wanes.
 
 Any enemy unit that charges the front arc of a unit carrying a standard inscribed with the Rune of Confusion makes a disordered charge.
 
-##### Rune of Fear  (Magic Standard)
+#### Rune of Fear  (Magic Standard)
 
 30 points
 Those that carry this banner to battle seem to tower over the enemy, looming like mythical giants.
 
 A unit carrying a standard inscribed with the Rune of Fear gains the Fear special rule.
 
-##### Rune of Battle  (Magic Standard)
+#### Rune of Battle  (Magic Standard)
 
 25 points
 In ages past, even lesser strongholds and fortified mines had a standard bearing this humble rune.
 
 When calculating its combat result, a unit carrying a standard inscribed with a Rune of Battle may claim an additional bonus of +1 combat result point.
 
-##### Strollaz' Rune  (Magic Standard)
+#### Strollaz' Rune  (Magic Standard)
 
 25 points
 Tireless by nature, Dwarfs that march beneath Strollaz' Rune become relentless in their advance.
 
 A unit carrying a standard inscribed with Strollaz' Rune gains the Vanguard special rule.
 
-##### Rune of Courage  (Magic Standard)
+#### Rune of Courage  (Magic Standard)
 
 15 points
 This inspirational rune further bolsters the already considerable courage of all Dwarfs near it.
@@ -1206,28 +1208,28 @@ A unit carrying a standard inscribed with the Rune of Courage automatically pass
 
 Engineering runes can only be inscribed upon a model whose troop type is war machines. These runes are inscribed upon the war machine itself, rather than upon the equipment carried by its crew, meaning that the war machine (but not its crew) gains both the effect of the rune and the Magical Attacks special rule. A war machine cannot have more than three Engineering runes.
 
-##### Master Rune of Immolation  (Unique)
+#### Master Rune of Immolation  (Unique)
 
 30 points
 Devised so that war machines never fall into enemy hands, this rune is invoked only rarely.
 
 Cannon only. Single use. If a cannon inscribed with the Master Rune of Immolation loses its last Wound to an enemy attack during the Combat phase, it may be exploded by its crew. Every enemy unit in base contact with this model suffers D6 Strength 5 hits with an AP of -2. The cannon is then removed from play as a casualty.
 
-##### Master Rune of Disguise  (Unique)
+#### Master Rune of Disguise  (Unique)
 
 25 points
 This rune magically distorts the shape of the war machine, rendering it almost invisible.
 
 A war machine inscribed with the Master Rune of Disguise is always considered to be behind full cover.
 
-##### Rune of Skewering  (Unique)
+#### Rune of Skewering  (Unique)
 
 20 points
 During the War of the Beard, the Elves paid dearly for their help in crafting this rune.
 
 Bolt throwers only. A bolt thrower inscribed with this rune has a +1 modifier to its Strength characteristic. In addition, no armour save is permitted against wounds caused by a bolt thrower inscribed with a Rune of Skewering (Ward and Regeneration saves can be attempted as normal).
 
-##### Rune of Forging*  (Unique)
+#### Rune of Forging*  (Unique)
 
 15 points
 This rune ensures the war machine is free from imperfections and deadly accurate.
@@ -1236,21 +1238,21 @@ Single use. A war machine inscribed with a Rune of Forging may use it to re-roll
 
 *Rule of Duplication
 
-##### Rune of Burning  (Unique)
+#### Rune of Burning  (Unique)
 
 10 points
 Shots fired by a war machine with this rune burst into flames when they strike the target.
 
 A war machine inscribed with a Rune of Burning gains the Flaming Attacks special rule.
 
-##### Rune of Reloading  (Unique)
+#### Rune of Reloading  (Unique)
 
 5 points
 War machines inscribed with this rune are almost sentient in their willingness to allow repairs.
 
 A war machine inscribed with a Rune of Reloading can shoot every turn, even if it misfired and malfunctioned during its previous turn.
 
-##### Stalwart Rune  (Unique)
+#### Stalwart Rune  (Unique)
 
 5 points
 The crew of this war machine will fight with great boldness to defend their beloved engine of war.
@@ -1269,14 +1271,14 @@ Daemon Slayers: May purchase up to two runic tattoos.
 
 Dragon Slayers: May purchase a single runic tattoo.
 
-##### Rune of the Dishonoured  (Ability)
+#### Rune of the Dishonoured  (Ability)
 
 50 points
 This dreadful mark prolongs the shame of the one who bears it.
 
 Daemon Slayers and Dragon Slayers only. Once a model with this runic tattoo is reduced to their last Wound, they gain a 3+ Ward save against any further wounds suffered. However, at the end of the battle, a model with this runic tattoo that has been slain is worth no Victory Points. If it is still alive, the enemy player wins a bonus number of Victory Points equal to 100% of its points cost.
 
-##### Rune of Endless Battle  (Ability)
+#### Rune of Endless Battle  (Ability)
 
 40 points
 Those who bear this tattoo struggle to contain their rage once battle begins.
@@ -1285,49 +1287,49 @@ During the Combat phase of any turn in which a model with this runic tattoo char
 
 Note that any additional attacks that cause unsaved wounds and any unsaved wounds caused by the Impact Hits (X) special rule do not benefit from this special rule.
 
-##### Rune of the Reckless  (Ability)
+#### Rune of the Reckless  (Ability)
 
 35 points
 Slayers that bear this tattoo fight with a burning and uncontrollable fury.
 
 A model with this runic tattoo gains the Frenzy special rule and, during the Combat phase, has a +1 modifier to their rolls To Hit. However, enemy models that target this model during the Combat phase also have a +1 modifier to their rolls To Hit.
 
-##### Rune of the Hateful  (Ability)
+#### Rune of the Hateful  (Ability)
 
 30 points
 This unpleasant tattoo fills its bearer with hate and bitterness.
 
 A model with this runic tattoo gains the Hatred (all enemies) special rule.
 
-##### Rune of Grit  (Ability)
+#### Rune of Grit  (Ability)
 
 25 points
 The flesh of those marked with this rune takes on the texture of stone.
 
 A model with this runic tattoo has a +1 modifier to its Toughness characteristic.
 
-##### Rune of the Dauntless  (Ability)
+#### Rune of the Dauntless  (Ability)
 
 15 points
 Those marked with this rune seek the deadliest foes to challenge in single combat.
 
 A model with this runic tattoo must always issue and accept challenges (if possible). During a challenge, this model may re-roll any failed rolls To Hit.
 
-##### Rune of Wrath  (Ability)
+#### Rune of Wrath  (Ability)
 
 15 points
 Those that bear this rune upon their flesh are filled with wrath.
 
 A model with this runic tattoo has a +1 modifier to its Attacks characteristic.
 
-##### Warrior's Rune  (Ability)
+#### Warrior's Rune  (Ability)
 
 10 points
 Only the most skilled of warriors are permitted to bear this mark upon their flesh.
 
 A model with this runic tattoo has a +1 modifier to its Weapon Skill characteristic.
 
-##### Rune of Blazing Fury  (Ability)
+#### Rune of Blazing Fury  (Ability)
 
 5 points
 The rage of the ancestors burns brightly within this fiery rune.
@@ -1340,56 +1342,56 @@ Many a young Dwarf Engineer has dedicated a great deal of their time to devising
 
 The following weapon runes can only be inscribed upon a crossbow or handgun. These runes follow all of the normal rules for weapon runes.
 
-##### Master Rune of Slaying  (Magic Weapon)
+#### Master Rune of Slaying  (Magic Weapon)
 
 50 points
 The power held within this master rune has sent the likes of Giants, Trolls and even Dragons running for cover.
 
 When making a roll To Wound against an enemy whose troop type is behemoth with a weapon inscribed with this rune, a roll of 3+ is always a success regardless of the target's Toughness. In addition, a weapon inscribed with this rune gains the Multiple Wounds (D3) special rule.
 
-##### Master Rune of Piercing  (Magic Weapon)
+#### Master Rune of Piercing  (Magic Weapon)
 
 40 points
 Projectiles shot by this weapon punch through armour and flesh without slowing, allowing the wielder to cut down swathes of enemies in a single shot.
 
 A weapon inscribed with this rune has a +1 modifier to its Strength characteristic. In addition, a weapon inscribed with this rune shoots like a bolt thrower, using the Through & Through special rule.
 
-##### Master Rune of Bursting Flame  (Magic Weapon)
+#### Master Rune of Bursting Flame  (Magic Weapon)
 
 35 points
 On contact with the enemy, the shot from weapons inscribed with this powerful rune explodes in a shower of burning fragments.
 
 If the roll To Hit is successful, a weapon inscribed with this rune causes 2D3 hits to the target enemy unit, rather than the usual one hit.
 
-##### Rune of Concussive Force  (Magic Weapon)
+#### Rune of Concussive Force  (Magic Weapon)
 
 30 points
 Emblazoned upon the ammunition itself, this rune disorientates the enemy with a flash of light and a thunderous burst of sound.
 
 A unit hit with an attack made by a weapon inscribed with this rune gains the Stupidity special rule until your next Start of Turn sub-phase.
 
-##### Rune of Accuracy  (Magic Weapon)
+#### Rune of Accuracy  (Magic Weapon)
 
 20 points
 Favoured amongst older Engineers, this rune helps the bearer to ignore distractions and focus in on their target.
 
 A weapon inscribed with this rune does not suffer any negative To Hit modifiers.
 
-##### Rune of Rapid Fire  (Magic Weapon)
+#### Rune of Rapid Fire  (Magic Weapon)
 
 15 points
 Thanks to some clever innovation and a specially crafted rune, this weapon can unleash a salvo of rounds in the time it takes similar weapons to fire a single shot.
 
 A weapon inscribed with this rune gains the Multiple Shots (2) and Quick Shot special rules.
 
-##### Rune of Molten Steel  (Magic Weapon)
+#### Rune of Molten Steel  (Magic Weapon)
 
 10 points
 This rune empowers the projectile to burn with the heat of the forge as it impacts the enemy.
 
 A weapon inscribed with this rune gains the Flaming Attacks special rule.
 
-##### Enchanted Rune  (Magic Weapon)
+#### Enchanted Rune  (Magic Weapon)
 
 5 points
 Simple runic enchantments help otherwise mundane ammunition to punch through magical wards and otherworldly armour.

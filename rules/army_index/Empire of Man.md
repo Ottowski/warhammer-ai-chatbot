@@ -109,9 +109,11 @@ A Helstorm Rocket Battery launches a barrage of rockets high into the sky, passi
 
 1. Choose Target: No line of sight is required for this weapon. Instead, choose an enemy unit that is between its minimum and maximum range to be the target and place D3 blast templates so that the central hole of each is over that unit.
 2. Scatter: Once each template has been placed, it will scatter. Roll an Artillery dice and a Scatter dice for each template in turn:
-	- If a "Misfire" is rolled on the Artillery dice, the rocket has failed to launch. Once all shots from this weapon have been resolved, roll once on the appropriate Misfire table for each Misfire rolled.
-	- If a "Hit!" is rolled on the Scatter dice, use the small arrow above the Hit! symbol to determine the direction of the scatter and move the template a number of inches equal to the roll of the Artillery dice minus the crew's Ballistic Skill characteristic (to a minimum of zero).
-	- If an arrow is rolled on the Scatter dice, move the template a number of inches equal to the roll of the Artillery dice in the direction the arrow points.
+
+- If a "Misfire" is rolled on the Artillery dice, the rocket has failed to launch. Once all shots from this weapon have been resolved, roll once on the appropriate Misfire table for each Misfire rolled.
+- If a "Hit!" is rolled on the Scatter dice, use the small arrow above the Hit! symbol to determine the direction of the scatter and move the template a number of inches equal to the roll of the Artillery dice minus the crew's Ballistic Skill characteristic (to a minimum of zero).
+- If an arrow is rolled on the Scatter dice, move the template a number of inches equal to the roll of the Artillery dice in the direction the arrow points.
+
 3. Damage: Any model whose base lies underneath a template risks being hit by this weapon.
 
 ### Holy Fervour
@@ -249,7 +251,7 @@ A Steam Tank cannot march. Instead, you may make a "Steam Power" roll and add th
 
 In scenarios where players roll off to determine who takes the first turn, you may apply a +1 or -1 modifier to the result of your roll.
 
-### Suffer Not...
+### Suffer Not
 
 "Many Witch Hunters stalk the Old World, guided by the teachings of their church and their personal biases to seek out the multifarious enemies of Man and deliver them unto justice."
 
@@ -320,7 +322,7 @@ A character with this special rule can only join a unit with the Fanatical Zeal 
 ### Ball & Chain
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+3 | -2 | Armour Bane (1); Requires Two Hands; Strike Last |
 
 ### Grenade Launching Blunderbuss
@@ -328,7 +330,7 @@ A character with this special rule can only join a unit with the Fanatical Zeal 
 "This unusual weapon fires a small explosive charge that unleashes a burst of shrapnel capable of tearing through the thickest suit of armour."
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 24" | 4 | -2 | Cumbersome; Ponderous |
 
 Notes: If the roll To Hit is successful, a grenade launching blunderbuss causes D3+1 hits to the target enemy unit, rather than the usual one hit.
@@ -336,13 +338,13 @@ Notes: If the roll To Hit is successful, a grenade launching blunderbuss causes 
 ### Helblaster Volley Gun
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 24" | 5 | -1 | Armour Bane (2); Cumbersome; Helblaster; Move or Shoot |
 
 ### Helstorm Rocket Battery
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 12-48" | 3 | -1 | Cumbersome; Helstorm; Move or Shoot |
 
 Notes: This weapon uses a number of 3" blast templates and the Black Powder Misfire table.
@@ -352,7 +354,7 @@ Notes: This weapon uses a number of 3" blast templates and the Black Powder Misf
 "The long-barrelled hunting rifles for which Hochland is famed are often fitted with cunning telescopic scopes designed to aid with accurate aiming over tremendous distances."
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 36" | 4 | -1 | Armour Bane (1); Cumbersome; Ponderous |
 
 Notes: A model armed with a Hochland long rifle can target a specific model within its target unit, such as a champion or a character.
@@ -360,13 +362,13 @@ Notes: A model armed with a Hochland long rifle can target a specific model with
 ### Hooked Halberd
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -2 | Armour Bane (2); Requires Two Hands |
 
 ### Light Cannon
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 18" | 4 | -1 | Armour Bane (2) |
 
 Notes: If the roll To Hit is successful when firing a light cannon, it causes D3 hits to the target enemy unit, rather than the usual one.
@@ -374,7 +376,7 @@ Notes: If the roll To Hit is successful when firing a light cannon, it causes D3
 ### Long Rifle
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 36" | 4 | -1 | Armour Bane (1); Cumbersome |
 
 Notes: A model armed with a long rifle can target a specific model within its target unit, such as a champion or a character.
@@ -382,7 +384,7 @@ Notes: A model armed with a long rifle can target a specific model within its ta
 ### Man-catcher
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Killing Blow; Requires Two Hands |
 
 ### Pigeon Bombs
@@ -392,7 +394,7 @@ Notes: A model armed with a long rifle can target a specific model within its ta
 Instead of shooting normally during the Shooting phase, a model equipped with pigeon bombs may release one. Choose an enemy unit that is within 24" of the model and roll on the Pigeon Bomb table below:
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1 | Bird Brain: Confused by the tumult of battle, the pigeon returns to its handler. Centre a small (3") blast template over the model that released the pigeon bomb. Any model whose base lies underneath the template risks being hit and suffering a Strength 4 hit with an AP of -1. |
 | 2-3 | Fly Away Home: Perhaps wisely, the pigeon sets off towards the distant horizon. The bomb has no effect. |
 | 4-5 | Dud: The pigeon drops its package over its target, but the bomb fails to detonate, instead falling earthwards at tremendous speed. The target unit suffers a single Strength 5 hit with an AP of -2. |
@@ -401,7 +403,7 @@ Instead of shooting normally during the Shooting phase, a model equipped with pi
 ### Repeating Rifle
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 24" | 4 | -1 | Armour Bane (1); Multiple Shots (3) |
 
 ### Steam Cannon
@@ -409,7 +411,7 @@ Instead of shooting normally during the Shooting phase, a model equipped with pi
 "Steam Tanks are armed with a steam-powered cannon that can send a spinning ball of iron whirling into the foe's ranks with all the power of a traditional black powder cannon."
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 24" | 8 | -2 | Armour Bane (2); Cannon Fire; Cumbersome; Multiple Wounds (D3) |
 
 Notes: This weapon shoots like a cannon, using the Cannon Fire special rule. If a "Misfire" is rolled on the Artillery dice during step 2, this model loses a single Wound (instead of rolling on a Misfire table). This weapon does not have a 360 degree line of sight; it can only shoot into the Steam Tank's front arc.
@@ -419,7 +421,7 @@ Notes: This weapon shoots like a cannon, using the Cannon Fire special rule. If 
 "Steam Tanks are also fitted with a turret-mounted steam gun as standard. Connected to the boiler, this weapon can engulf nearby enemies in great gouts of scalding steam."
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 2 | N/A | Breath Weapon |
 
 Notes: No armour save is permitted against wounds caused by this weapon (Ward and Regeneration saves can be attempted as normal).
@@ -427,7 +429,7 @@ Notes: No armour save is permitted against wounds caused by this weapon (Ward an
 ### Wolf Hammer
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -2 | Requires Two Hands |
 
 Notes: If the wielder of a wolf hammer uses it during a turn in which they made a charge move of 3" or more, they have a +2 modifier to their Strength characteristic, rather than the usual +1.
@@ -449,7 +451,7 @@ Note also that any special rules granted by these upgrades do not apply to the m
 A Grand Master or Chapter Master and a unit of Empire Knights, Inner Circle Knights or Demigryph Knights may belong to one of the following Knightly Orders:
 
 | Knightly Order | Grand Master or Chapter Master | Unit of Empire Knights, Inner Circle Knights or Demigryph Knights |
-|---|---|---|
+| --- | --- | --- |
 | Order of the Knights Panther | +10 points | +2 points per model |
 | Order of the White Wolf | +15 points | +3 points per model |
 | Order of the Blazing Sun | +10 points | +2 points per model |
@@ -568,7 +570,7 @@ The battle will last for six rounds or until one side concedes.
 
 Reinforcements: Reserves are not deployed at the start of the battle. Instead they can enter play during the Compulsory Moves sub-phase of any turn, including the first, of their controlling player's choosing. When they arrive, reserves will enter the battlefield from any point on the battlefield edge that is completely within one of the zones, chosen at random, in which their controlling player deployed a unit at the start of the battle. Roll a D3 to randomly determine which of the three zones reserves arrive within.
 
-#### Victory!
+#### Victory
 
 Once the battle has ended, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook. The player who controls the Herdstone at the end of the battle wins a bonus of 150 Victory Points, in addition to any bonus controlling the special feature may normally give.
 
@@ -587,7 +589,7 @@ Once the battle has ended, use Victory Points to determine which player is the w
 At the dawn of the Empire, a dozen magical blades were forged for Sigmar's chieftains. Those that survive are treasured artefacts, potent symbols of the status and authority of their wielders.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Magical Attacks; Strike First |
 
 Notes: When making a roll To Wound for a hit caused with a Runefang, a roll of 2+ is always a success, regardless of the target's Toughness.
@@ -601,13 +603,13 @@ This mace was used in battle by the first Grand Theogonist, Johann Helsturm. It 
 Single-Handed:
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | - | Magical Attacks |
 
 Double-Handed:
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | 10 | -5 | Magical Attacks; Multiple Wounds (D6); Requires Two Hands |
 
 Notes: The Mace of Helsturm has two profiles. You must choose which the wielder will use at the start of each round of combat. If used double-handed, the wielder may make only one attack, regardless of their Attacks characteristic.
@@ -619,7 +621,7 @@ Notes: The Mace of Helsturm has two profiles. You must choose which the wielder 
 This mighty hammer not only crushes flesh and bone but shatters evil with each swing.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -2 | Magical Attacks; Requires Two Hands; Strike Last |
 
 Notes: Models hit by the Hammer of Righteousness must make a Leadership test for each hit suffered. If the test is failed, the hit wounds automatically and no Armour save is allowed (Regeneration and Ward saves may be taken as normal). If the test is passed, rolls To Wound and Armour saves are made as normal.
@@ -631,7 +633,7 @@ Notes: Models hit by the Hammer of Righteousness must make a Leadership test for
 The Sword of Justice is an ancient weapon studded with Dwarf runes of vengeance and retribution that bestow the power of unswerving accuracy and deadly retribution upon it.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Armour Bane (1); Magical Attacks; Multiple Wounds (2) |
 
 Notes: The wielder of the Sword of Justice may re-roll any failed rolls To Wound.
@@ -643,7 +645,7 @@ Notes: The wielder of the Sword of Justice may re-roll any failed rolls To Wound
 Forged from burnished steel that glitters in the sunlight, the wielder of these lightweight daggers strikes with deadly speed and precision.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Extra Attacks (+D3); Magical Attacks; Requires Two Hands |
 
 Notes: The wielder of the Pearl Daggers may re-roll any failed rolls To Hit during the Combat phase.
@@ -655,7 +657,7 @@ Notes: The wielder of the Pearl Daggers may re-roll any failed rolls To Hit duri
 Those who wield this blessed weapon will hunt the dead and the damned with unmatched zeal.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Hatred (Undead models); Magical Attacks |
 
 Notes: The Blade of Silvered Steel may only be taken by a model in a Knightly Order Army of Infamy. Undead models cannot make Armour or Regeneration saves against a wound caused by this weapon.
@@ -667,7 +669,7 @@ Notes: The Blade of Silvered Steel may only be taken by a model in a Knightly Or
 A relic from the ancient Elven colonies of the Old World, this wondrously crafted bow enables the wielder to outshoot the finest archers in the Empire.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 36" | 6 | -2 | Magical Attacks; Multiple Wounds (2) |
 
 Notes: Commanders of the Empire only.
@@ -679,7 +681,7 @@ Notes: Commanders of the Empire only.
 This huge weapon shoots large calibre rounds capable of shattering a Troll's skull with a single shot.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 36" | 5 | -2 | Armour Bane (1); Magical Attacks; Multiple Wounds (D3) |
 
 Notes: Von Trickschotte's Wondrous Arquebus may only be taken by a model in a City-state of Nuln Army of Infamy. The wielder of this weapon does not suffer the usual -1 modifier for shooting at long range.
