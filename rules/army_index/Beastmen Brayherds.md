@@ -21,7 +21,7 @@ During a turn in which it made a charge move of 3" or more, a model with this sp
 When this unit's combat is chosen during Step 1.1 of any Choose & Fight Combat sub-phase, roll on the table below to determine the effect of its warped blessings:
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1-2 | Stinging Barbs: The envenomed touch of the warped ones raises great weals of agony upon unarmoured flesh. Until the end of this Combat phase, models with this special rule gain the Poisoned Attacks special rule. |
 | 3-4 | Scything Talons: Insect limbs tipped with scythe-like blades erupt from the warped ones to lash at the foe. Until the end of this Combat phase, all attacks made by models with this special rule have an Armour Piercing characteristic of -2. |
 | 5-6 | Chitinous Hide: The flesh of the warped ones hardens beneath the swords of the foe. Until the end of this Combat phase, models with this special rule gain a +1 modifier to their Toughness characteristics. |
@@ -77,7 +77,7 @@ Beastmen Shamans within a Wild Herd army may leach power from nearby Wizards whe
 During the Start of Turn sub-phase of each of your turns, roll on the Drunken table for each unit with this special rule that is not currently Frenzied, that is not engaged in combat and that is not fleeing:
 
 | D6 | Result |
-|---|---|
+| --- | --- |
 | 1 | Unsteady: The unit has become somewhat unsteady. Until its next Start of Turn sub-phase, the unit is subject to the Random Movement special rule and its Movement characteristic becomes D6+2. |
 | 2-5 | Sobering Up: The alcohol has no discernible effect upon the unit. |
 | 6 | Belligerent Drunks: The unit has turned quite belligerent. Until its next Start of Turn sub-phase, the unit is subject to the Frenzy special rule. A unit with this special rule may become Frenzied in this way even if it has lost Frenzy earlier in the game. |
@@ -146,7 +146,7 @@ Alternatively, if the Herdstone is replacing a special feature specified by a sc
 
 A Herdstone can be controlled by a single unit that is within 6" of it, that has a Unit Strength of five or more and that is not fleeing. If two or more eligible units belonging to opposing armies are within 6", the unit closest to the Herdstone controls it. If two units belonging to opposing armies are equally close, the Herdstone is "contested" and neither unit controls it.
 
-#### Special Rules
+#### Herdstone Special Rules
 
 "A Tingle in the Air": The air around a Herdstone tingles strangely, and those that stand too close report of a funny taste in their mouths. The unit that controls the Herdstone gains Magic Resistance (-1).
 
@@ -550,7 +550,7 @@ Note that units that have pursued a fleeing enemy off the battlefield and units 
 
 Heavy Snowfall: To represent the swirling snow, all missile weapons (including magic missiles) suffer a -3" modifier to their Range characteristic. In addition, due to the thick blanket of snow covering the earth, all Charge rolls suffer a -1 modifier (to a minimum of 1).
 
-#### Victory!
+#### Victory
 
 If the game ends with one army having broken, the unbroken army achieves a crushing victory. Should both armies fall below their break point at the same time, use Victory Points to determine which player is the winner, as described in the Warhammer: the Old World rulebook.
 
