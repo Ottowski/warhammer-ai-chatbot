@@ -233,7 +233,7 @@ For each Wound this model loses during the Combat phase, the attacking enemy uni
 This model can cast the following Bound spell, with a Power Level of 1. This model can cast this Bound spell even if it is engaged in combat:
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 7+ | Self |
 
 If this Bound spell is cast, all units within 6" of this model (friend or foe), including units engaged in combat and this model, suffer D3 Strength 4 hits, each with an AP of -1.
@@ -267,7 +267,7 @@ A model with this special rule has a 5+ Ward save against any wounds suffered th
 ### Acidic Vomit
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | N/A | 3 | -1 | Breath Weapon |
 
 ### Braystaff
@@ -279,7 +279,7 @@ When this model's combat is chosen during Step 1.1 of any Choose & Fight Combat 
 ### Cleaver-limbs
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Killing Blow; Monster Slayer |
 
 ### Grisly Totem
@@ -291,7 +291,7 @@ The Grisly Totem is a Braystaff. In addition, all enemy units within 6" of Kralm
 ### Hurl Attack
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 12-36" | 4(8) | -1(-3) | Bombardment; Cumbersome; Multiple Wounds (D3+1) |
 
 Notes: This weapon shoots like a stone thrower, using the Bombardment special rule and a 3" blast template. If a Misfire is rolled on the Artillery dice, this model loses a single Wound (instead of rolling on a Misfire table). The Multiple Wounds (D3+1) special rule applies only to a single model whose base lies underneath the central hole of the blast template.
@@ -299,13 +299,13 @@ Notes: This weapon shoots like a stone thrower, using the Bombardment special ru
 ### Slythey Tongue
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 12" | 5 | -1 | Move & Shoot; Quick Shot |
 
 ### Twisted Antlers
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Armour Bane (1) |
 
 ## Warhammer Armies
@@ -316,9 +316,9 @@ Notes: This weapon shoots like a stone thrower, using the Bombardment special ru
 
 This army list is intended for use alongside the Forming Units and Warhammer Armies sections of the Warhammer: the Old World rulebook.
 
-#### Grand Army Composition List
+#### Beastmen Brayherds Composition List
 
-##### Characters
+##### Beastmen Brayherds Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -326,7 +326,7 @@ Up to 50% of your army's points value may be spent on:
 
 Wargors, Bray-shamans, Gorebulls and Centigor Chieftains
 
-##### Core
+##### Beastmen Brayherds Core Units
 
 At least 25% of your army's points value must be spent on:
 
@@ -338,7 +338,7 @@ If your General is a Beastlord or Wargor, 0-1 Bestigor Herd may be taken as a Co
 
 If your General is a Doombull or Gorebull, 0-1 Minotaur Herd may be taken as a Core choice
 
-##### Special
+##### Beastmen Brayherds Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -354,7 +354,7 @@ If your General is a Doombull or Gorebull, 0-1 Ghorgon may be taken as a Special
 
 0-1 Herdstone
 
-##### Rare
+##### Beastmen Brayherds Rare Units
 
 Up to 25% of your army's points value may be spent on:
 
@@ -398,9 +398,9 @@ A single Wargor in your army may be upgraded to be your Battle Standard Bearer f
 
 If you wish to field a Minotaur Blood Herd army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
 
-#### Army of Infamy Composition List
+#### Minotaur Blood Herd Composition List
 
-##### Characters
+##### Minotaur Blood Herd Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -410,7 +410,7 @@ Up to 50% of your army's points value may be spent on:
 
 Gorebulls, Wargors and Centigor Chieftains
 
-##### Core
+##### Minotaur Blood Herd Core Units
 
 At least 33% of your army's points value must be spent on:
 
@@ -420,7 +420,7 @@ At least 33% of your army's points value must be spent on:
 
 Gor Herds, Ungor Herds and Chaos Warhounds
 
-##### Special
+##### Minotaur Blood Herd Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -428,7 +428,7 @@ Up to 50% of your army's points value may be spent on:
 
 Harpies, Minotaur Herds, Centigor Herds, Razorgor Herds and Ghorgons
 
-##### Rare
+##### Minotaur Blood Herd Rare Units
 
 Up to 33% of your army's points value may be spent on:
 
@@ -438,11 +438,11 @@ Chaos Giants
 
 Chaos Ogres and Chaos Trolls
 
-#### Battle Standard Bearer
+#### Minotaur Blood Herd Battle Standard Bearer
 
 A single Gorebull or Wargor in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single Magic Banner with no points limit.
 
-#### Magic Items
+#### Minotaur Blood Herd Magic Items
 
 Any models that have the option to purchase magic items may purchase Common or Beastmen Brayherds magic items.
 
@@ -452,9 +452,9 @@ Any models that have the option to purchase magic items may purchase Common or B
 
 If you wish to field a Wild Herd army in your games of Warhammer: the Old World, you may write your muster list using the Army of Infamy composition list below instead of the Grand Army composition list found in Ravening Hordes.
 
-#### Army of Infamy Composition List
+#### Wild Herd Composition List
 
-##### Characters
+##### Wild Herd Characters Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -462,7 +462,7 @@ Up to 50% of your army's points value may be spent on:
 
 Wargors, Bray-Shamans and Centigor Chieftains
 
-##### Core
+##### Wild Herd Core Units
 
 At least 33% of your army's points value must be spent on:
 
@@ -474,7 +474,7 @@ At least 33% of your army's points value must be spent on:
 
 Gor Herds, Ungor Herds, Chaos Warhounds, Primal Warhounds and Razorgor Herds
 
-##### Special
+##### Wild Herd Special Units
 
 Up to 50% of your army's points value may be spent on:
 
@@ -486,7 +486,7 @@ Warped Gors, Bestigor Herds, Harpies, Centigor Herds, Tuskgor Chariots and Razor
 
 0-1 Herdstone
 
-##### Rare
+##### Wild Herd Rare Units
 
 Up to 32% of your army's points value may be spent on:
 
@@ -494,11 +494,11 @@ Dragon Ogre Shaggoths, Jabberslythes, Cygors, and Chaos Giants
 
 Chaos Spawn
 
-#### Battle Standard Bearer
+#### Wild Herd Battle Standard Bearer
 
 A single Wargor in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single Magic Banner with no points limit.
 
-#### Magic Items
+#### Wild Herd Magic Items
 
 Any models that have the option to purchase magic items may purchase Common or Beastmen Brayherds magic items.
 
@@ -567,7 +567,7 @@ A Wizard with the "Lore of Beasts" special rule may discard one of their randoml
 The Shaman calls to the creeping things that nest in the decaying undergrowth, creating a vile wave of spiders, centipedes and slugbeetles that swarm over the foe.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 9+ | 15" |
 
 The target enemy unit suffers 5D6 Strength 1 hits, with no armour save permitted (Ward and Regeneration saves can be attempted as normal).
@@ -577,7 +577,7 @@ The target enemy unit suffers 5D6 Strength 1 hits, with no armour save permitted
 Delving into their enemies' minds, the Shaman magnifies the savage and animalistic parts of their psyche until they are no more than growling beasts.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 8+ | 15" |
 
 The target enemy unit must immediately make a Leadership test. If this test is failed, it loses a number of Wounds equal to the amount by which it failed the test.
@@ -587,7 +587,7 @@ The target enemy unit must immediately make a Leadership test. If this test is f
 Ghorok was a legendary Minotaur, ferocious as a storm. When possessed by his spirit-mantle, a Shaman becomes a terror on the battlefield, though to summon his rage is not without risk.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 8+ | Self |
 
 Until the end of this turn, the caster gains a +D6 modifier to their Strength and Attacks characteristics (to a maximum of 10). However, if a 6 is rolled, this modifier is lost and the caster instead loses a single Wound.
@@ -601,7 +601,7 @@ Until the end of this turn, the caster gains a +D6 modifier to their Strength an
 As the Bray-Shaman bellows praise to the gods, the sky above darkens and the soil underfoot swarms with unclean creatures.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magical Vortex | 9+ | 12" |
 
 Remains in Play. Place a small (3") blast template so that its central hole is within 12" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain. Whilst within 6" of the template, enemy units suffer a -1 modifier to their Leadership characteristic (to a minimum of 2) and treat open ground as difficult terrain.
@@ -611,7 +611,7 @@ Remains in Play. Place a small (3") blast template so that its central hole is w
 Filled with primal energy, the Children of Chaos move across the battlefield with unwholesome vigour.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Conveyance | 8+ | 12" |
 
 This spell can only target friendly models whose troop type is infantry or cavalry. Until the end of this turn, the target friendly unit gains the Reserve Move special rule.
@@ -621,7 +621,7 @@ This spell can only target friendly models whose troop type is infantry or caval
 The words of half-forgotten folk tales fill the enemy's minds, instilling them with a childlike fear of the dark forests.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Hex | 10+ | 15" |
 
 Remains in Play. Whilst this spell is in play, the target enemy unit Fears all models in the caster's army (not including allies or mercenaries). Models in the caster's army that already have the Fear special rule cause Terror in the target unit instead. If this spell is cast, the effects of any other Hex previously cast on the target unit immediately expire.
@@ -631,7 +631,7 @@ Remains in Play. Whilst this spell is in play, the target enemy unit Fears all m
 Summoned by the Bray-Shaman's cries, a flock of carrion birds descends upon the foe, striking at eyes and tearing through flesh.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Assailment | 8+ | Combat |
 
 Place a small (3") blast template so that its central hole is directly over the centre of a unit the caster is engaged in combat with. Once placed, the template will scatter D3+1". Any enemy model whose base lies underneath the template's final position risks being hit and suffering a single Strength 3 hit with an AP of -. These hits have the Multiple Wounds (2) special rule.
@@ -641,7 +641,7 @@ Place a small (3") blast template so that its central hole is directly over the 
 Driven by the Bray-Shaman's invocations, the Children of Chaos flow like a tide of violence over the enemy.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Enchantment | 9+ | Self |
 
 Until the end of this turn, the caster and any unit they have joined gains the Fight in Extra Rank special rule.
@@ -651,7 +651,7 @@ Until the end of this turn, the caster and any unit they have joined gains the F
 The Bray-Shaman gestures towards the foe, summoning twisted and blackened roots to grasp and strangle its enemies.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magic Missile | 8+ | 4D6" |
 
 Draw a straight line, 4D6" in length, from the caster's base edge. Any enemy model whose base falls under this line suffers D3 Strength 3 hits, each with an AP of -2.
@@ -661,7 +661,7 @@ Draw a straight line, 4D6" in length, from the caster's base edge. Any enemy mod
 Spectral forests loom above the battlefield, spreading creeping shadows that fill the enemy with dread.
 
 | Type | Casting Value | Range |
-|---|---|---|
+| --- | --- | --- |
 | Magical Vortex | 10+ | 15" |
 
 Remains in Play. Place a large (5") blast template so that its central hole is within 15" of the caster. Whilst in play, the template does not move and is treated as dangerous terrain over which no line of sight can be drawn. Whilst within 6" of the template, enemy units suffer a -2 modifier to their Ballistic Skill characteristic (to a minimum of 1). Any enemy unit that ends its movement within 3" of the template must immediately make a Panic test. If this test is failed, the unit will flee directly away from the nearest enemy unit which is not itself fleeing.
@@ -759,7 +759,7 @@ This model (but not its mount) has a +1 modifier to its Initiative characteristi
 This brutal, spiked cudgel is stained black with the blood of a thousand victims. Those that wield the club for too long become overwhelmed by its thirst for violence.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+2 | -3 | Extra Attacks (+D6); Magical Attacks |
 
 Notes: Each time a natural 6 is rolled for the Extra Attacks (+D6) special rule, the wielder of the Black Maul suffers a -1 modifier to their Weapon Skill characteristic (to a minimum of 1, and for the remainder of the game).
@@ -771,7 +771,7 @@ Notes: Each time a natural 6 is rolled for the Extra Attacks (+D6) special rule,
 This ancient club, bound in cracked leather and infested with spiders and slugs, has been stained red with blood since the dawn of civilisation and is the bane of all order and hope.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | * | -3 | Hatred (Empire); Magical Attacks; Poisoned Attacks |
 
 Notes: The Strength characteristic of the Primeval Club is equal to the current Leadership characteristic of the model that wields it.
@@ -783,7 +783,7 @@ Notes: The Strength characteristic of the Primeval Club is equal to the current 
 A single, mighty stroke from this fearsome axe can cut even the most powerful warrior clean in half, a sight which emboldens the bearer's followers and horrifies their enemies in equal measure.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Killing Blow; Magical Attacks |
 
 Notes: Should the wielder of the Axe of Men kill an enemy character (including champions) in a challenge, they gain the Terror special rule for the remainder of the game.
@@ -795,7 +795,7 @@ Notes: Should the wielder of the Axe of Men kill an enemy character (including c
 When the Banebeast Khorgor was slain, his axes were taken by his successor and so they have continued to be passed down through the centuries.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -2 | Extra Attacks (+1); Magical Attacks; Requires Two Hands |
 
 Notes: The wielder of the Axes of Khorgor may re-roll any rolls To Wound of a natural 1 made during the Combat phase.
@@ -807,7 +807,7 @@ Notes: The wielder of the Axes of Khorgor may re-roll any rolls To Wound of a na
 The Mangelder saps the strength of its victims' minds as well as of their bodies, and those few who survive wounds inflicted by the weapon rarely fight again.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S+1 | -1 | Magical Attacks; Terror |
 
 Notes: The wielder of the Mangelder causes Terror. Any enemy unit that suffers one or more unsaved wounds from the Mangelder suffers a -1 modifier to its Leadership characteristic (to a minimum of 2) until the end of the turn.
@@ -819,7 +819,7 @@ Notes: The wielder of the Mangelder causes Terror. Any enemy unit that suffers o
 Crafted to fell the mighty beasts of the far north, this thick-hafted spear bears enchantments allowing it to penetrate yards of flesh and muscle, skewering the foe through-and-through.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 24" | 6 | -3 | Cumbersome; Magical Attacks; Multiple Wounds (2); Through & Through |
 
 Notes: The Hunter's Spear shoots like a bolt thrower, using the Through & Through special rule.
@@ -831,7 +831,7 @@ Notes: The Hunter's Spear shoots like a bolt thrower, using the Through & Throug
 The Brass Cleaver is said to be an artefact from another realm. Ancient and terrible, its outline blurs with a barely restrained thirst for carnage.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -2 | Magical Attacks |
 
 Notes: Enemy models are not permitted an armour, Ward or Regeneration save against an attack made with this weapon if the wielder rolls a natural 6 when making a roll To Wound.
@@ -843,7 +843,7 @@ Notes: Enemy models are not permitted an armour, Ward or Regeneration save again
 The dark, serrated blade of this weapon is engraved with words of power in the Dark Tongue, keeping its biting edge keen and sharp for all time.
 
 | Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Combat | S | -1 | Armour Bane (1); Magical Attacks; Multiple Wounds (2) |
 
 #### Magic Armour
