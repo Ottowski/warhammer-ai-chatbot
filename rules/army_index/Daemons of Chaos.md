@@ -1321,6 +1321,7 @@ Unit Size: 1
 Armour Value: 4+
 
 Equipment:
+
 - Blood Throne: Brazen wheels and scything blades (counts as a hand weapon)
 - Bloodletter Crew: Hellblades
 
@@ -1344,6 +1345,7 @@ Unit Size: 1
 Armour Value: 4+
 
 Equipment:
+
 - Exalted Flamer: Hand weapon and warpflame
 - Blue Horror Crew: Hand weapons and flames of Tzeentch
 - Screamer: Lamprey's bite
@@ -1368,6 +1370,7 @@ Unit Size: 1
 Armour Value: 4+
 
 Equipment:
+
 - Screamer: Lamprey's bite
 
 Special Rules: Close Order, Daemonic, Daemons of Tzeentch, Fly (9), Impact Hits (D6+1), Slashing Attack (Screamers only)
@@ -1389,6 +1392,7 @@ Unit Size: 1
 Armour Value: 4+
 
 Equipment:
+
 - Daemonette Crew: Piercing claws
 - Steeds of Slaanesh: Claws and fangs (counts as hand weapons)
 
@@ -1410,6 +1414,7 @@ Unit Size: 1
 Armour Value: 5+
 
 Equipment:
+
 - Exalted Alluress: Piercing claws
 - Daemonette Crew: Piercing claws
 - Steeds of Slaanesh: Claws and fangs (counts as hand weapons)
@@ -1433,6 +1438,7 @@ Unit Size: 1-3
 Armour Value: 5+
 
 Equipment:
+
 - Daemonette Crew: Piercing claws
 - Steeds of Slaanesh: Claws and fangs (counts as hand weapons)
 
@@ -1452,6 +1458,7 @@ Unit Size: 1
 Armour Value: 4+
 
 Equipment:
+
 - Skull Cannon: Brazen wheels and scything blades (counts as a hand weapon) and cannon of Khorne
 - Bloodletter Crew: Hellblades
 
