@@ -136,13 +136,13 @@ Note that this option replaces the option to take Chaos Mutations as shown in Ra
 
 Alternatively, if the players agree, a special feature specified by a scenario can be replaced with a Herdstone.
 
-#### Placing a Herdstone
+Placing a Herdstone:
 
 Once the players have finished placing terrain and have rolled for deployment, a Beastmen Brayherds player whose muster list includes a Herdstone may place it on the battlefield. The Herdstone may be placed anywhere on the battlefield that is not within their opponent's deployment zone and not within 6" of the centre of the battlefield.
 
 Alternatively, if the Herdstone is replacing a special feature specified by a scenario, it must be placed as described by the scenario.
 
-#### Controlling a Herdstone
+Controlling a Herdstone:
 
 A Herdstone can be controlled by a single unit that is within 6" of it, that has a Unit Strength of five or more and that is not fleeing. If two or more eligible units belonging to opposing armies are within 6", the unit closest to the Herdstone controls it. If two units belonging to opposing armies are equally close, the Herdstone is "contested" and neither unit controls it.
 
@@ -1106,16 +1106,568 @@ Note that this is a modifier to the result of a roll - it does not negate a roll
 
 ## Named Character Units
 
+### Ghorros Warhoof
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ghorros Warhoof | 8 | 5 | 3 | 5 | 4 | 3 | 4 | 4 | 8 |
+
+Ghorros Warhoof is a Centigor Chieftain. He may be included in any Beastmen Brayherds army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Heavy Cavalry Named Character  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Hand weapon, Mansmasher and the Skull of the Unicorn Lord
+
+Magic Items / Abilities: Mansmasher, The Skull of the Unicorn Lord
+
+Special Rules: Drunken, Father of Beasts, Gaze of the Gods, Mark of Chaos Undivided, Move Through Cover, Primal Fury, Stomp Attacks (D3), Swiftstride, The Sons of Ghorros, Warband
+
+### Kralmaw, the Prophet of Ruin
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kralmaw, the Prophet of Ruin | 5 | 3 | 3 | 4 | 5 | 4 | 3 | 2 | 8 |
+
+Kralmaw, the Prophet of Ruin is a Great Bray-Shaman. He may be included in any Beastmen Brayherds army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Regular Infantry Named Character  
+Base Size: 30 x 30 mm (Kralmaw), 25 x 25 mm (Leering Spirit marker)  
+Unit Size: 1  
+Equipment: Hand weapon and Grisly Totem (Braystaff)
+
+Magic: Kralmaw, the Prophet of Ruin is a Level 4 Wizard who uses spells from Dark Magic, or Lore of Primal Magic.
+
+Special Rules: Future Sight, Gaze of the Gods, Leering Spirit, Lore of Beasts, Mark of Chaos Undivided, Primal Fury, Warband
+
 ## Character Units
 
-## Mount Units
+### Beastlord
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Beastlord | 5 | 6 | 3 | 5 | 5 | 3 | 5 | 4 | 8 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm (min) 30 x 30 mm (max)  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Special Rules: Blood Rage, Brayhorn (General only), Foe Render, Gaze of the Gods, Mark of Chaos Undivided, Primal Fury, Warband
+
+Optional Rules: Ambushers
+
+### Bray-Shaman
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bray-Shaman | 5 | 4 | 3 | 3 | 4 | 2 | 3 | 1 | 7 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm (min) 30 x 30 mm (max)  
+Unit Size: 1  
+Equipment: Braystaff
+
+Magic: Bray-Shaman is a Level 1 Wizard who uses spells from Daemonology, Dark Magic, or Elementalism.
+
+Special Rules: Gaze of the Gods, Lore of Beasts, Mark of Chaos Undivided, Primal Fury, Warband
+
+Optional Rules: Ambushers
+
+### Doombull
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Doombull | 6 | 6 | 3 | 6 | 5 | 5 | 5 | 5 | 8 |
+
+Unit Category: Character  
+Troop Type: Monstrous Infantry Character  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Special Rules: Armour Bane (1), Blood Greed, Blood Rage, Bull-gors, Fear, Foe Render, Gaze of the Gods, Impact Hits (1), Mark of Chaos Undivided, Primal Fury, Slaughterer's Call, Warband
+
+### Gorebull
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gorebull | 6 | 5 | 3 | 5 | 5 | 4 | 4 | 4 | 7 |
+
+Unit Category: Character  
+Troop Type: Monstrous Infantry Character  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Special Rules: Armour Bane (1), Blood Greed, Blood Rage, Bull-gors, Fear, Foe Render, Gaze of the Gods, Impact Hits (1), Mark of Chaos Undivided, Primal Fury, Slaughterer's Call, Warband
+
+### Great Bray-Shaman
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Great Bray-Shaman | 5 | 5 | 3 | 4 | 5 | 3 | 4 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm (min) 30 x 30 mm (max)  
+Unit Size: 1  
+Equipment: Braystaff
+
+Magic: Great Bray-Shaman is a Level 3 Wizard who uses spells from Daemonology, Dark Magic, or Elementalism.
+
+Special Rules: Gaze of the Gods, Lore of Beasts, Mark of Chaos Undivided, Primal Fury, Warband
+
+Optional Rules: Ambushers
+
+### Wargor
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wargor | 5 | 5 | 3 | 4 | 5 | 2 | 4 | 3 | 7 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm (min) 30 x 30 mm (max)  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Special Rules: Blood Rage, Brayhorn (General only), Foe Render, Gaze of the Gods, Mark of Chaos Undivided, Primal Fury, Warband
+
+Optional Rules: Ambushers
+
+### Warhoof
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Warhoof | 8 | 5 | 3 | 5 | 4 | 3 | 3 | 4 | 7 |
+
+Unit Category: Character  
+Troop Type: Light Cavalry Character  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Special Rules: Drunken, Fast Cavalry, Gaze of the Gods, Mark of Chaos Undivided, Move Through Cover, Primal Fury, Stomp Attacks (1), Swiftstride, Warband
+
+Optional Rules: Ambushers
 
 ## Infantry Units
 
+### Bestigor Herd
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bestigor | 5 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 7 |
+| Gourge-horn | 5 | 4 | 3 | 4 | 4 | 1 | 4 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, great weapons and heavy armour
+
+Special Rules: Blood Rage, Close Order, Mark of Chaos Undivided, Primal Fury, Warband
+
+Optional Rules: Stubborn, Veteran
+
+### Gor Herd
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gor | 5 | 4 | 2 | 3 | 4 | 1 | 3 | 1 | 6 |
+| True-horn | 5 | 4 | 2 | 3 | 4 | 1 | 3 | 2 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons
+
+Special Rules: Bestial Charge, Blood Rage, Horde, Mark of Chaos Undivided, Move Through Cover, Open Order, Primal Fury, Skirmishers, Warband
+
+Optional Rules: Ambushers
+
+### Harpies
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Harpy | 5 | 3 | 0 | 3 | 3 | 1 | 5 | 2 | 6 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Claws (counts as hand weapons)
+
+Special Rules: Fly (10), Move Through Cover, Scouts, Skirmishers, Swiftstride
+
+### Minotaur Herd
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Minotaur | 6 | 4 | 3 | 5 | 4 | 3 | 3 | 3 | 7 |
+| Bloodkine | 6 | 4 | 3 | 5 | 4 | 3 | 3 | 4 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Monstrous Infantry  
+Base Size: 50 x 50 mm  
+Unit Size: 2+  
+Equipment: Hand weapon and light armour
+
+Special Rules: Blood Greed, Blood Rage, Bull-gors, Close Order, Fear, Foe Render, Impact Hits (1), Mark of Chaos Undivided, Motley Crew, Primal Fury, Warband
+
+Optional Rules: Ambushers
+
+### Primal Warherd
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gor | 5 | 4 | 2 | 3 | 4 | 1 | 3 | 1 | 6 |
+| Ungor | 5 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 5 |
+| Foe-render | 5 | 4 | 2 | 3 | 4 | 1 | 3 | 2 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+/10+*  
+Equipment:
+
+Gors: Hand weapons
+
+Ungors: Hand weapons and shields
+
+Special Rules: Bestial Charge (Gors only), Blood Rage, Close Order, Horde, Impetuous, Mark of Chaos Undivided, Mixed Unit, Motley Crew*, Move Through Cover, Primal Fury, Warband
+
+*When writing your muster list, a Primal Warherd must contain at least ten Gors and ten Ungors. Gors always occupy the front ranks of the unit, with Ungors making up the rear ranks. As long as any Gors remain in the unit, they will always push past any Ungors to get to the front rank.
+
+### Primal Warhounds
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Primal Warhound | 7 | 4 | 0 | 3 | 3 | 1 | 3 | 1 | 5 |
+
+Unit Category: Infantry  
+Troop Type: War Beast  
+Base Size: 25 x 50 mm  
+Unit Size: 10+  
+Equipment: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Close Order, Horde, Motley Crew, Move Through Cover, Swiftstride, Warband
+
+Optional Rules: Armoured Hide (1), Poisoned Attacks
+
+### Ungor Herd
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ungor | 5 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 5 |
+| Half-horn | 5 | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 6 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons and shields
+
+Special Rules: Chariot Runners, Horde, Mark of Chaos Undivided, Move Through Cover, Open Order, Primal Fury, Skirmishers, Warband
+
+Optional Rules: Ambushers
+
+### Ungor Ravagers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ungor Ravager | 7 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Equipment: Hand weapons, throwing spears and shields
+
+Special Rules: Close Order, Horde, Leader of the Pack, Move Through Cover, Primal Fury, Swiftstride, Warband
+
+### Warped Gors
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Warped Gor | 5 | 4 | 2 | 3 | 4 | 1 | 3 | D3 | 7 |
+| Splice-horn | 5 | 4 | 2 | 3 | 4 | 1 | 3 | D3 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 5+  
+Equipment: Hand weapons
+
+Special Rules: Armoured Hide (1), Blessing of Chaos, Blood Rage, Mark of Chaos Undivided, Move Through Cover, Open Order, Primal Fury, Random Attacks, Stubborn, Warband
+
+Optional Rules: Ambushers
+
 ## Cavalry Units
+
+### Centigor Herd
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Centigor | 8 | 4 | 3 | 4 | 4 | 1 | 2 | 1 | 6 |
+| Gorehoof | 8 | 4 | 3 | 4 | 4 | 1 | 2 | 2 | 7 |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and shields
+
+Special Rules: Drunken, Fast Cavalry, Horde, Mark of Chaos Undivided, Move Through Cover, Open Order, Primal Fury, Skirmishers, Stomp Attacks (1), Swiftstride, Warband
+
+Optional Rules: Ambushers
+
+### Chaos Warhounds
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Warhound | 7 | 4 | 0 | 3 | 3 | 1 | 3 | 1 | 6 |
+
+Unit Category: Cavalry  
+Troop Type: War Beast  
+Base Size: 25 x 50 mm  
+Unit Size: 5+  
+Equipment: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Loner, Move Through Cover, Open Order, Swiftstride
+
+Optional Rules: Armoured Hide (1), Poisoned Attacks, Vanguard
+
+### Dragon Ogres
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dragon Ogre | 7 | 4 | 2 | 5 | 4 | 4 | 2 | 3 | 8 |
+| Shartak | 7 | 4 | 2 | 5 | 4 | 4 | 2 | 4 | 8 |
+
+Unit Category: Cavalry  
+Troop Type: Monstrous Cavalry  
+Base Size: 50 x 75 mm  
+Unit Size: 1-9  
+Equipment: Hand weapons and light armour
+
+Special Rules: Armour Bane (1), Armoured Hide (2), Close Order, Ensorcelled Weapons, Fear, Immune to Psychology, Stomp Attacks (2), The Quickening Storm
+
+### Razorgor Herd
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Razorgor | 7 | 3 | 0 | 5 | 5 | 3 | 2 | 4 | 6 |
+
+Unit Category: Cavalry  
+Troop Type: War Beast  
+Base Size: 50 x 75 mm  
+Unit Size: 1+  
+Equipment: Tusks (counts as a hand weapon) and calloused hide (counts as light armour)
+
+Special Rules: Armour Bane (1), Fear, Foe Render, Impact Hits (D3), Loner, Open Order, Primal Fury, Razor Tusks, Swiftstride
 
 ## Chariot Units
 
+### Razorgor Chariot
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 5 | 5 | 4 | - | - | - |
+| Bestigor Crew (x1) | - | 4 | 3 | 4 | - | - | 4 | 1 | 7 |
+| Gor Crew (x1) | - | 4 | 3 | 3 | - | - | 3 | 1 | 7 |
+| Razorgor (x1) | 7 | 3 | - | 5 | - | - | 2 | 4 | - |
+
+A Razorgor Chariot may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+  
+Equipment:
+
+Bestigor Crew: Hand weapon and great weapon
+
+Gor Crew: Hand weapon and cavalry spear
+
+Razorgor: Tusks (counts as hand weapon)
+
+Special Rules: Armour Bane (1 Razorgor only), Close Order, Fear, First Charge, Foe Render (Razorgor only), Impact Hits (D6+2), Mark of Chaos Undivided, Primal Fury, Razor Tusks
+
+### Tuskgor Chariot
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 5 | 4 | 4 | - | - | - |
+| Bestigor Crew (x1) | - | 4 | 3 | 4 | - | - | 4 | 1 | 7 |
+| Gor Crew (x1) | - | 4 | 3 | 3 | - | - | 3 | 1 | 7 |
+| Tuskgor (x2) | 7 | 3 | - | 4 | - | - | 2 | 1 | - |
+
+A Tuskgor Chariot may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+  
+Equipment:
+
+Bestigor Crew: Hand weapon and great weapon
+
+Gor Crew: Hand weapon and cavalry spear
+
+Tuskgors: Tusks (counts as hand weapon)
+
+Special Rules: Close Order, First Charge, Impact Hits (D6+1), Mark of Chaos Undivided, Primal Fury, Razor Tusks, Warband
+
 ## Monster Units
 
-## War Machine Units
+### Chaos Giant
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Giant | 6 | 3 | 1 | 6 | 6 | 6 | 2 | * | 10 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 50 x 50 mm (min), 50 x 75 mm (max)  
+Unit Size: 1  
+Equipment: Giant's club and calloused hide (counts as light armour)
+
+Special Rules: Close Order, Giant Attacks, Immune to Psychology, Large Target, Pick Up And…, Stomp Attacks (D6), Terror, Timmm-berrr!, Unbreakable
+
+Optional Rules: Regeneration (6+)
+
+### Cockatrice
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cockatrice | 4 | 4 | 5 | 4 | 5 | 4 | 6 | 6 | 6 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Claws (counts as a hand weapon), petrifying gaze and scaly skin (counts as heavy armour)
+
+Special Rules: Close Order, Fly (10), Large Target, Stomp Attacks (1), Stony Stare, Swiftstride, Terror
+
+### Cygor
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cygor | 7 | 2 | 1 | 6 | 5 | 6 | 3 | 4 | 8 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Claws (counts as a hand weapon), hurl attack and calloused hide (counts as light armour)
+
+Special Rules: Close Order, Ghostsight, Immune to Psychology, Large Target, Soul-eater, Stomp Attacks (D3), Stubborn, Terror, Timmm-berrr!
+
+### Dragon Ogre Shaggoth
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shaggoth | 7 | 6 | 2 | 6 | 5 | 6 | 4 | 5 | 9 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 75 mm  
+Unit Size: 1  
+Equipment: Hand weapons and light armour
+
+Special Rules: Armour Bane (2), Armoured Hide (2), Close Order, Ensorcelled Weapons, Immune to Psychology, Large Target, Stomp Attacks (D3+1), Storm Call, Terror, The Quickening Storm
+
+### Ghorgon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ghorgon | 7 | 4 | 0 | 6 | 6 | 6 | 4 | 5 | 9 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Cleaver-limbs and calloused hide (counts as light armour)
+
+Special Rules: Blood Greed, Close Order, Frenzy, Large Target, Primal Fury, Regeneration (6+), Stomp Attacks (D3), Stubborn, Swallow Whole, Terror, Timmm-berrr!
+
+### Jabberslythe
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Jabberslythe | 6 | 4 | 4 | 5 | 5 | 5 | 3 | 5 | 9 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws, slythey tongue and scaly skin (counts as heavy armour)
+
+Special Rules: Close Order, Fly (9), Large Target, Maddening Aura, Poisoned Attacks, Spurting Bile Blood, Stomp Attacks (D3), Swiftstride, Terror
+
+### Preyton
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Preyton | 6 | 5 | 0 | 5 | 5 | 4 | 5 | 4 | 6 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 75 x 50 mm  
+Unit Size: 1  
+Equipment: Claws and fangs (counts as a hand weapon), twisted antlers and scaly skin (counts as heavy armour)
+
+Special Rules: Close Order, Crown of Antlers, Endless Malice, Fly (10), Impact Hits (D3), Large Target, Terror
+
+Optional Rules: Ambushers, Frenzy
+
+Creature of Chaos: Any army made using the Beastmen Brayherds Grand Army composition list may include 0-1 Preyton per 1,000 points as a Special choice.
+
+## Miscellaneous Units
+
+### Herdstone
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Herdstone | - | - | - | - | - | - | - | - | - |
+
+Base Size: No more than 6" at its widest point  
+Unit Size: 0-1  
+Special Rules: Herdstones
+
+Herdstones: A Herdstone is a unique type of special feature, measuring no more than 6" at its widest point. Unless stated otherwise, a single Herdstone may be included as a Special choice in any Beastmen Brayherds army made using any army composition list. A Herdstone is an impassable terrain feature and must be fielded as presented here.
+
+Alternatively, if the players agree, a special feature specified by a scenario can be replaced with a Herdstone.
+
+Placing a Herdstone:
+
+Once the players have finished placing terrain and have rolled for deployment, a Beastmen Brayherds player whose muster list includes a Herdstone may place it on the battlefield. The Herdstone may be placed anywhere on the battlefield that is not within their opponent's deployment zone and not within 6" of the centre of the battlefield.
+
+Alternatively, if the Herdstone is replacing a special feature specified by a scenario, it must be placed as described by the scenario.
+
+Controlling a Herdstone:
+
+A Herdstone can be controlled by a single unit that is within 6" of it, that has a Unit Strength of five or more and that is not fleeing. If two or more eligible units belonging to opposing armies are within 6", the unit closest to the Herdstone controls it. If two units belonging to opposing armies are equally close, the Herdstone is "contested" and neither unit controls it.
+
+Special Rules:
+
+"A Tingle in the Air": The air around a Herdstone tingles strangely, and those that stand too close report of a funny taste in their mouths. The unit that controls the Herdstone gains Magic Resistance (-1).
+
+Bestial Fury: Beneath the shadow of a Herdstone, Beastmen fight with terrible ferocity, shedding blood and gore in honour of the Ruinous Powers. If the Herdstone is controlled by a Beastmen Brayherds unit, friendly Beastmen Brayherds units that are within 12" of the Herdstone may re-roll any rolls To Wound of a natural 1 made whilst it is engaged in combat.
+
+Dark Sorcery: The Winds of Magic flow strangely around a Herdstone, as if warped by its malevolence. If the Herdstone is controlled by a Beastmen Brayherds unit, friendly Beastmen Brayherds Wizards that are within 12" of the Herdstone gain a +1 modifier to their Casting rolls, and enemy Wizards that are within 12" of the Herdstone suffer a -1 modifier to their Casting rolls.
+
+Fearsome Edifice: Covered with strange sigils daubed in blood, an aura of evil surrounds a Herdstone. Whilst within 12" of a Herdstone that is controlled by a Beastmen Brayherds unit, enemy units suffer a -1 modifier to their Leadership characteristic when making a Leadership test due to Fear, Panic or Terror.
+
+Victory Points:
+
+As with all special features, a Herdstone is an important landmark and controlling one at the end of a battle is a significant achievement. To represent this, if either player controls a Herdstone at the end of the battle, that player is awarded a bonus of 200 Victory Points.
