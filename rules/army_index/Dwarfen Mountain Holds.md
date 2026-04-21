@@ -71,7 +71,7 @@ Gyrocopters carry small bombs fitted with mechanical flints to light their fuse.
 
 Once per game, a unit with this special rule may perform a 'Dive Bomb' attack against a single enemy unit that is not engaged in combat. To do so, this unit must move (by flying) over the unit it wishes to attack during the Remaining Moves sub-phase. Once this unit's movement is complete, the enemy unit suffers D6 Strength 3 hits, each with an AP of -1, for each model in this unit that moved over it. However, for each roll of a natural 1 made when determining the number of hits, a bomb has misfired and this unit loses a single Wound instead.
 
-### Doomseeker
+### Doomseeker (Special Rule)
 
 With each victory they witness, a Doomseeker laments their inability to meet a worthy doom.
 
@@ -450,7 +450,7 @@ Flaming Attacks
 
 Notes: Before Burlok makes any attacks with this weapon, roll an Artillery dice to determine its Strength characteristic. If a 'Misfire' is rolled, Burlok loses a single Wound and makes no attacks this turn.
 
-### Goblin-Hewer
+### Goblin-Hewer (Special Rule)
 
 Range  Strength  Armour Piercing  Special Rules
 36"    4         -1
@@ -1400,16 +1400,615 @@ A weapon inscribed with this rune gains the Magical Attacks special rule.
 
 ## Named Character Units
 
+### Burlok Damminson
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Burlok Damminson | 3 | 5 | 5 | 4 | 4 | 2 | 2 | 3 | 10 |
+
+Burlok Damminson is an Engineer. He may be included in any Dwarfen Mountain Holds army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Heavy Infantry Named Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Furnace hammer, rivet gun, and heavy armour
+
+Special Rules: Dwarf Crafted, Gromril Armour, Hatred (Orcs & Goblins), Magic Resistance (-1), Prepared Positions, Range Finding Optics, Resolute, "Stand Back Chief", Stubborn
+
+### Thorgrim Ulleksson
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Thorgrim Ulleksson | 3 | 6 | 4 | 4 | 5 | 3 | 3 | 3 | 10 |
+
+Thorgrim Ulleksson is a Thane. He may be included in any Dwarfen Mountain Holds army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Heavy Infantry Named Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, Grudge-Settler, the Grudgestone, the Armour of Skaldour and shield
+
+Magic Items / Abilities: Grudge-Settler, The Armour of Skaldour
+
+Special Rules: Gromril Armour, Grudgelore, Hatred (Orcs & Goblins), Magic Resistance (-1), Rallying Cry, Resolute, Stubborn
+
+### Ungrim Ironfist
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ungrim Ironfist | 3 | 9 | 4 | 4 | 6 | 3 | 5 | 4 | 10 |
+
+Ungrim Ironfist is a King. He may be included in any Dwarfen Mountain Holds army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Heavy Infantry Named Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, the Axe of Dargo, the Slayer Crown and light armour
+
+Magic Items / Abilities: The Axe of Dargo, The Slayer Crown
+
+Special Rules: Deathblow, Gromril Armour, Hatred (Orcs & Goblins), Immune to Psychology, King of the Slayer Hold, Magic Resistance (-2), Rallying Cry, Resolute, Slayer, Unbreakable
+
 ## Character Units
+
+### Anvil of Doom
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Anvil of Doom | - | - | - | - | 7 | 5 | - | - | - |
+| Forgefather & Anvil Guard | 3 | 6 | 4 | 4 | 5 | 4 | 3 | 5 | 9 |
+
+Unit Category: Character  
+Troop Type: War Machine Character  
+Base Size: N/A  
+Unit Size: 1  
+Equipment: Hand weapons, heavy armour and shields
+
+Special Rules: Ancestral Shield, Gromril Armour, Gromril Weapons, Hatred (Orcs & Goblins), Immune to Psychology, Immovable Object, Magic Resistance (-3), Resolute, Rune Lore, Skirmishers, Strike the Runes, Unbreakable
+
+### Daemon Slayer
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Daemon Slayer | 3 | 7 | 3 | 4 | 5 | 3 | 5 | 4 | 10 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Special Rules: Deathblow, Gromril Weapons, Hatred (Orcs & Goblins), Immune to Psychology, Killing Blow, Loner, Magic Resistance (-2), Resolute, Slayer of Daemons, Unbreakable, Vanguard
+
+### Dragon Slayer
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dragon Slayer | 3 | 6 | 3 | 4 | 5 | 2 | 4 | 3 | 10 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Special Rules: Deathblow, Gromril Weapons, Hatred (Orcs & Goblins), Immune to Psychology, Killing Blow, Loner, Magic Resistance (-2), Resolute, Slayer of Dragons, Unbreakable, Vanguard
+
+### Engineer
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Engineer | 3 | 4 | 5 | 4 | 4 | 2 | 2 | 2 | 9 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Artillery Master, Dwarf Crafted, Entrenchment, Gromril Armour, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute, "Stand Back Chief", Stubborn
+
+### Engineer Sapper
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Engineer Sapper | 3 | 4 | 5 | 4 | 4 | 2 | 2 | 2 | 9 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+
+Special Rules: "Dig In!", Dwarf Crafted, Gromril Armour, Hatred (Orcs & Goblins), Hostile Terrain, Magic Resistance (-1), Resolute, Stubborn
+
+### King
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| King | 3 | 7 | 4 | 4 | 5 | 3 | 4 | 4 | 10 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and full plate armour
+
+Special Rules: Ancestral Grudge, Dwarf Crafted, Gromril Armour, Gromril Weapons, Hatred (Orcs & Goblins), Magic Resistance (-1), Rallying Cry, Resolute, Stubborn
+
+Optional Rules: Oathstone
+
+### Runelord
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Runelord | 3 | 6 | 4 | 4 | 5 | 3 | 3 | 3 | 9 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Armour Bane (1), Forgefire, Gromril Armour, Gromril Weapons, Hatred (Orcs & Goblins), Magic Resistance (-2), Resolute, Rune Lore, Stubborn
+
+Optional Rules: Oathstone
+
+### Runesmith
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Runesmith | 3 | 5 | 4 | 4 | 4 | 2 | 2 | 2 | 9 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Armour Bane (1), Forgefire, Gromril Armour, Gromril Weapons, Hatred (Orcs & Goblins), Magic Resistance (-2), Resolute, Rune Lore, Stubborn
+
+Optional Rules: Oathstone
+
+### Thane
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Thane | 3 | 6 | 4 | 4 | 5 | 2 | 3 | 3 | 9 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and full plate armour
+
+Special Rules: Ancestral Grudge, Dwarf Crafted, Gromril Armour, Gromril Weapons, Hatred (Orcs & Goblins), Magic Resistance (-1), Rallying Cry, Resolute, Stubborn
+
+Optional Rules: Oathstone
 
 ## Mount Units
 
+### Shieldbearers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shieldbearers | 3 | 5 | - | 4 | - | (+3) | 2 | 3 | - |
+
+Unit Category: Mount  
+Troop Type: Heavy Infantry  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Special Rules: Borne Aloft, Gromril Weapons, Hatred (Orcs & Goblins), Resolute
+
 ## Infantry Units
+
+### Brotherhood of Grimnir
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shrine Guards | 3 | 5 | 3 | 4 | 4 | 1 | 3 | 2 | 10 |
+| Shrine Keeper | 3 | 6 | 3 | 4 | 4 | 2 | 3 | 2 | 10 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5-30 models  
+Equipment: Hand weapons
+
+Special Rules: Blessings of Grimnir (Shrine Keeper only), Close Order, Gromril Weapons, Hatred (Orcs & Goblins), Immune to Psychology, Loner, Magic Resistance (-2), Motley Crew, Open Order, Resolute, Slayer, Unbreakable
+
+### Doomseeker
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Doomseeker | 3 | 5 | 0 | 5 | 4 | 2 | 3 | 2D3 | 10 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Whirling blades of death (counts as a hand weapon)
+
+Special Rules: Deathblow, Doomseeker, First to the Fray, Gromril Weapons, Hatred (Orcs & Goblins), Immune to Psychology, Impact Hits (D3+1), Loner, Magic Resistance (-2), Random Attacks, Resolute, Skirmishers, Unbreakable, Vanguard, Whirlwind of Death
+
+Dogs of War: 0-3 Doomseekers may be taken as Mercenaries in any of the following Grand Army composition lists:
+
+Dwarfen Mountain Holds
+
+Empire of Man
+
+### Dwarf Warriors
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dwarf Warrior | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 1 | 9 |
+| Veteran | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and heavy armour
+
+Special Rules: Close Order, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute, Shieldwall
+
+Optional Rules: Drilled, Veteran
+
+### Hammerers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hammerer | 3 | 5 | 3 | 4 | 4 | 1 | 3 | 1 | 9 |
+| Royal Champion | 3 | 5 | 3 | 4 | 4 | 1 | 3 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, great hammers and heavy armour
+
+Special Rules: Close Order, Gromril Armour, Gromril Weapons, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute, Royal Guard, Shieldwall, Stoic Defenders, Stubborn
+
+Optional Rules: Drilled, Veteran
+
+### Imperial Dwarf Mercenaries
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Warrior | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 1 | 9 |
+| Veteran | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and light armour
+
+Special Rules: Close Order, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute, Shieldwall
+
+Optional Rules: Drilled, Veteran
+
+Dogs of War: 0-1 unit of Imperial Dwarf Mercenaries may be taken as a Mercenary in any of the following Grand Army composition lists:
+
+Dwarfen Mountain Holds
+
+Empire of Man
+
+### Ironbreakers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ironbreaker | 3 | 5 | 3 | 4 | 4 | 1 | 2 | 1 | 9 |
+| Ironbeard | 3 | 5 | 3 | 4 | 4 | 1 | 2 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, full plate armour and shields
+
+Special Rules: Close Order, Gromril Armour, Gromril Weapons, Hatred (Orcs & Goblins), Magic Resistance (-1), Regimental Unit, Resolute, Runes of Protection, Shieldwall, Stubborn
+
+Optional Rules: Drilled, Brace of Drakefire Pistols, Drakegun, Cinderblast Bombs
+
+### Irondrakes
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Irondrake | 3 | 4 | 4 | 4 | 4 | 1 | 2 | 1 | 9 |
+| Ironwarden | 3 | 4 | 5 | 4 | 4 | 1 | 2 | 1 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, drakeguns and full plate armour
+
+Special Rules: Close Order, Detachment, Gromril Armour, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute, Runes of Warding, Stubborn
+
+Optional Rules: Drilled, Brace of Drakefire Pistols, Trollhammer Torpedo, Cinderblast Bombs
+
+### Longbeards
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Longbeard | 3 | 5 | 3 | 4 | 4 | 1 | 2 | 1 | 9 |
+| Elder | 3 | 5 | 3 | 4 | 4 | 1 | 2 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and heavy armour
+
+Special Rules: Close Order, Gromril Weapons, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute, Shieldwall, Venerable, Veteran
+
+Optional Rules: Drilled
+
+### Miners
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Miner | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 1 | 9 |
+| Prospector | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, great weapons and heavy armour
+
+Special Rules: Ambushers, Close Order, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute, Vanguard
+
+Optional Rules: Blasting Charges, Steam Drill, Veteran, Open Order
+
+### Quarrellers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Quarreller | 3 | 3 | 3 | 3 | 4 | 1 | 2 | 1 | 9 |
+| Veteran | 3 | 3 | 4 | 3 | 4 | 1 | 2 | 1 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, crossbows and heavy armour
+
+Special Rules: Close Order, Dwarf Crafted, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute
+
+### Rangers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ranger | 3 | 4 | 4 | 3 | 4 | 1 | 2 | 1 | 9 |
+| Ol' Deadeye | 3 | 4 | 4 | 3 | 4 | 1 | 2 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5-20  
+Equipment: Hand weapons, crossbows and heavy armour
+
+Special Rules: Dwarf Crafted, Hatred (Orcs & Goblins), Magic Resistance (-1), Move Through Cover, Open Order, Resolute, Scouts, Skirmishers
+
+### Royal Clan Warriors
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Royal Clan Warrior | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 1 | 9 |
+| Royal Clan Veteran | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, shields and heavy armour
+
+Special Rules: Close Order, Gromril Armour, Gromril Weapons, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute, Shieldwall
+
+Optional Rules: Gromril Great Axe, Drilled, Stubborn, Veteran
+
+### Slayers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Troll Slayer | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 1 | 10 |
+| Giant Slayer | 3 | 5 | 3 | 4 | 4 | 1 | 3 | 2 | 10 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons
+
+Special Rules: Deathblow, "Fight Me!" (Giant Slayers only), Hatred (Orcs & Goblins), Immune to Psychology, Loner, Magic Resistance (-2), Motley Crew, Open Order, Resolute, Slayer, Unbreakable
+
+Giant Slayers always occupy the front rank(s) of the unit, pushing past any Troll Slayers to get there if necessary (such as when the unit turns). If a unit that includes a standard bearer and musician includes enough Giant Slayers, both its standard bearer and musician will be Giant Slayers. If a unit that includes a standard bearer and musician includes only one Giant Slayer, that Giant Slayer will be its standard bearer.
+
+### Thunderers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Thunderer | 3 | 3 | 3 | 3 | 4 | 1 | 2 | 1 | 9 |
+| Veteran | 3 | 3 | 4 | 3 | 4 | 1 | 2 | 1 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, handguns and heavy armour
+
+Special Rules: Close Order, Dwarf Crafted, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute
 
 ## Cavalry Units
 
+### Gyrobomber
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gyrobomber | 1 | 4 | 3 | 4 | 5 | 4 | 2 | 2 | 9 |
+
+Unit Category: Cavalry  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Hand weapon, steam gun and armoured fuselage (counts as full plate armour)
+
+Special Rules: Bombing Run, Close Order, Fly (8), Hatred (Orcs & Goblins), Impact Hits (D3+1), Magic Resistance (-1), Swiftstride
+
+Optional Rules: Brimstone Gun, Clattergun
+
+### Gyrocopter
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gyrocopter | 1 | 4 | 3 | 4 | 5 | 3 | 2 | 2 | 9 |
+
+Unit Category: Cavalry  
+Troop Type: Monstrous Cavalry  
+Base Size: 50 x 50 mm  
+Unit Size: 1-6  
+Equipment: Hand weapon, steam gun and armoured fuselage (counts as full plate armour)
+
+Special Rules: Dive Bomb, Fire & Flee, Fly (9), Hatred (Orcs & Goblins), Impact Hits (D3), Magic Resistance (-1), Skirmishers, Swiftstride, Vanguard
+
+Optional Rules: Brimstone Gun, Clattergun
+
+### Scout Gyrocopter
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Scout Gyrocopters | 1 | 4 | 4 | 4 | 4 | 3 | 2 | 2 | 9 |
+
+Unit Category: Cavalry  
+Troop Type: Monstrous Cavalry  
+Base Size: 50 x 50 mm  
+Unit Size: 1-2  
+Equipment: Hand weapon, clattergun and lightly armoured fuselage (counts as heavy armour)
+
+Special Rules: Extended Formation, Fire & Flee, Fly (10), Hatred (Orcs & Goblins), Hit & Run, Impact Hits (D3), Magic Resistance (-1), Skirmishers, Swiftstride, Vanguard
+
 ## Chariot Units
 
-## Monster Units
+### Dwarf Cart
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dwarf Cart | - | - | - | 4 | 5 | 3 | - | - | - |
+| Dwarf Crew (x1) | - | 4 | 4 | 3 | - | - | 2 | 1 | 8 |
+| Draft Pony | 6 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Chariot  
+Troop Type: Light Chariot  
+Base Size: 50 x 75 mm  
+Unit Size: 1  
+Armour Value: 5+  
+Equipment:
+
+Dwarf Crew: Hand weapons
+
+Draft Pony: Iron-shod hooves (counts as a hand weapon)
+
+Special Rules: Hatred (Orcs & Goblins), Impact Hits (D3), Magic Resistance (-1), Open Order, Resolute
+
+Baggage: Any army made using the Dwarfen Mountain Holds Grand Army composition list may include 0-4 Dwarf Carts as Rare choices.
 
 ## War Machine Units
+
+### Bolt Thrower
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bolt Thrower | - | - | - | - | 6 | 3 | - | - | - |
+| Dwarf Crew | 3 | 3 | 3 | 3 | 4 | 3 | 2 | 3 | 9 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 50 x 50 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1  
+Equipment: Bolt thrower, hand weapons and light armour
+
+Special Rules: Hatred (Orcs & Goblins), Magic Resistance (-1), Skirmishers, Stubborn
+
+### Cannon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cannon | - | - | - | - | 7 | 3 | - | - | - |
+| Dwarf Crew | 3 | 3 | 3 | 3 | 4 | 3 | 2 | 3 | 9 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 50 x 50 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1  
+Equipment: Cannon, hand weapons and light armour
+
+Special Rules: Hatred (Orcs & Goblins), Magic Resistance (-1), Skirmishers, Stubborn
+
+### Flame Cannon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flame Cannon | - | - | - | - | 6 | 3 | - | - | - |
+| Dwarf Crew | 3 | 3 | 3 | 3 | 4 | 3 | 2 | 3 | 9 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 50 x 75 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1  
+Equipment: Fire thrower, hand weapons and light armour
+
+Special Rules: Hatred (Orcs & Goblins), Magic Resistance (-1), Skirmishers, Stubborn
+
+### Goblin-Hewer
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Goblin-Hewer | - | - | - | - | 6 | 3 | - | - | - |
+| Slayer Crew | 3 | 4 | 3 | 3 | 4 | 2 | 2 | 2 | 10 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 50 x 75 mm  
+Unit Size: 1  
+Equipment: Goblin-Hewer and hand weapons
+
+Special Rules: Hatred (Orcs & Goblins), Immune to Psychology, Magic Resistance (-1), Skirmishers, Unbreakable
+
+Innovative Engineers: Any army made using the Dwarfen Mountain Holds Grand Army composition list that includes one or more Slayers of Legend may include 0-1 Goblin-hewer per 1,000 points as a Rare choice.
+
+### Grudge Thrower
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Grudge Thrower | - | - | - | - | 7 | 3 | - | - | - |
+| Dwarf Crew | 3 | 3 | 3 | 3 | 4 | 3 | 2 | 3 | 9 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 50 x 75 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1  
+Equipment: Stone thrower, hand weapons and light armour
+
+Special Rules: Hatred (Orcs & Goblins), Magic Resistance (-1), Skirmishers, Stubborn
+
+### Organ Gun
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Organ Gun | - | - | - | - | 7 | 3 | - | - | - |
+| Dwarf Crew | 3 | 3 | 3 | 3 | 4 | 3 | 2 | 3 | 9 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 50 x 50 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1  
+Equipment: Organ gun, hand weapons and light armour
+
+Special Rules: Hatred (Orcs & Goblins), Magic Resistance (-1), Skirmishers, Stubborn
