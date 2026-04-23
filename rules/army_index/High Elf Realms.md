@@ -1028,16 +1028,794 @@ Single use. Once per game, when the bearer of the Staff of Solidity is required 
 
 ## Named Character Units
 
+### Ishaya Vess
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ishaya Vess | 5 | 7 | 7 | 4 | 3 | 3 | 7 | 3 | 9 |
+
+Ishaya Vess may be included in any High Elf Realms army made using any army composition list that includes the option to take one or more units of Lothern Sea Guard. She must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Regular Infantry Named Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, heavy armour, shield, Mathlann's Ire and warbow
+
+Magic Items / Abilities: Mathlann's Ire
+
+Special Rules: Commanding Voice, Ithilmar Weapons, Naval Discipline, Rallying Cry, Strike First, Precision Strikes, Valour of Ages
+
+### Korhil Lionmane
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Korhil Lionmane | 5 | 7 | 5 | 4 | 3 | 3 | 6 | 4 | 9 |
+
+Korhil may be included in any High Elf Realms army made using any army composition list that includes the option to take one or more units of White Lions of Chrace. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Heavy Infantry Named Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, Chayal, the Pelt of Charandis and heavy armour
+
+Magic Items / Abilities: Chayal, The Pelt of Charandis
+
+Special Rules: Elven Reflexes, Furious Charge, Mighty Constitution, Move Through Cover, Stubborn, Valour of Ages
+
+Note that Furious Charge and Move Through Cover do not apply to Korhil's mount (should he have one).
+
 ## Character Units
+
+### Archmage
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Archmage | 5 | 4 | 4 | 3 | 3 | 3 | 5 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Archmage is a Level 3 Wizard who uses spells from Battle Magic, Elementalism, High Magic, or Illusion.
+
+Special Rules: Elven Reflexes, Ithilmar Weapons, Lileath's Blessing, Lore of Saphery, Valour of Ages
+
+### Chracian Chieftain
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chracian Chieftain | 5 | 6 | 4 | 4 | 3 | 3 | 5 | 3 | 9 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Furious Charge, Ithilmar Weapons, Lion Cloak, Move Through Cover, Strike First, Stubborn, Valour of Ages
+
+Optional Rules: Chracian Great Blade
+
+Note that Furious Charge, Move Through Cover and Strike First do not apply to this model's mount (should it have one).
+
+### Dragon Mage
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dragon Mage | - | 4 | 4 | 3 | 5 | 6 | 5 | 2 | 8 |
+| Sun Dragon | 6 | 5 | - | 5 | - | - | 4 | 4 | - |
+
+Unit Category: Character  
+Troop Type: Behemoth Character  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment:
+
+Dragon Mage: Hand weapon and light armour
+
+Sun Dragon: Wicked claws, dragon fire and draconic scales (counts as full plate armour)
+
+Magic: Dragon Mage is a Level 1 Wizard who uses spells from Battle Magic, or Elementalism.
+
+Special Rules: Blessings of Asuryan, Close Order, Dragon Armour, Elven Reflexes, Fly (10), Impetuous, Ithilmar Weapons, Large Target, Lileath's Blessing, Lore of Saphery, Stomp Attacks (D6), Swiftstride, Terror, Valour of Ages
+
+### Handmaiden of the Everqueen
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Handmaiden of the Everqueen | 5 | 6 | 7 | 4 | 3 | 2 | 6 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, Handmaiden's spear, Bow of Avelorn and light armour
+
+Special Rules: Arrows of Isha, Evasive, Ignores Cover, Immune to Psychology, Ithilmar Armour, Ithilmar Weapons, Strike First
+
+Optional Rules: Horn of Isha
+
+### Mage
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mage | 5 | 4 | 4 | 3 | 3 | 2 | 4 | 1 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Mage is a Level 1 Wizard who uses spells from Battle Magic, Elementalism, High Magic, or Illusion.
+
+Special Rules: Elven Reflexes, Ithilmar Weapons, Lileath's Blessing, Lore of Saphery, Valour of Ages
+
+### Noble
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Noble | 5 | 6 | 6 | 4 | 3 | 2 | 5 | 3 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+
+Special Rules: Ithilmar Weapons, Strike First, Valour of Ages
+
+Optional Rules: Bow of Avelorn
+
+Note that Strike First does not apply to this model's mount (should it have one).
+
+### Prince
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Prince | 5 | 7 | 7 | 4 | 3 | 3 | 6 | 4 | 10 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+
+Special Rules: Ithilmar Weapons, Strike First, Valour of Ages
+
+Optional Rules: Bow of Avelorn
+
+Note that Strike First does not apply to this model's mount (should it have one).
+
+### Sea Guard Garrison Commander
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sea Guard Garrison Commander | 5 | 6 | 7 | 4 | 3 | 2 | 5 | 3 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, warbow and light armour
+
+Special Rules: Accomplished Archers, Ithilmar Weapons, Naval Discipline, Strike First, Valour of Ages
+
+Note that Strike First does not apply to this model's mount (should it have one).
+
+### Storm Weaver
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Storm Weaver | 5 | 4 | 4 | 3 | 3 | 2 | 4 | 2 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Storm Weaver is a Level 1 Wizard who uses spells from Dark Magic, Elementalism, or Illusion.
+
+Special Rules: Elven Reflexes, Ithilmar Weapons, Lore of Saphery, Valour of Ages
+
+Wandering Mages: Any army made using the High Elf Realms Grand Army composition list may include 0-1 Storm Weaver per 1,000 points as a Character choice.
 
 ## Mount Units
 
+### Barded Elven Steed
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Barded Elven Steed | 8 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Hooves (counts as a hand weapon) and barding
+
+Special Rules: Counter Charge, First Charge, Ithilmar Barding, Swiftstride
+
+### Elven Steed
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Elven Steed | 9 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Hooves (counts as a hand weapon)
+
+Special Rules: Fast Cavalry, Swiftstride
+
+### Flamespyre Phoenix (Mount)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flamespyre Phoenix (Mount) | 2 | 5 | - | 5 | (+2) | (+3) | 4 | 3 | - |
+
+A Flamespyre Phoenix may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Mount  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws and blazing plumage (counts as heavy armour)
+
+Special Rules: Blessings of Asuryan, Close Order, Fear, Flaming Attacks, Fly (10), From the Ashes, Large Target, Stomp Attacks (2), Swiftstride, Wake of Fire
+
+### Frostheart Phoenix (Mount)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Frostheart Phoenix (Mount) | 2 | 6 | - | 6 | (+3) | (+3) | 3 | 4 | - |
+
+A Frostheart Phoenix may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Mount  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws and frozen plumage (counts as full plate armour)
+
+Special Rules: Blizzard Aura, Close Order, Fear, Fly (9), Large Target, Stomp Attacks (2), Swiftstride
+
+### Great Eagle (Mount)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Great Eagle (Mount) | 2 | 5 | - | 4 | (+1) | (+1) | 4 | 3 | - |
+
+A Great Eagle may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Mount  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Wicked claws and serrated maw
+
+Special Rules: Close Order, Fear, Fly (10), Stomp Attacks (1), Swiftstride
+
+### Unicorn
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unicorn | 10 | 4 | - | 4 | - | (+1) | 5 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 60 mm  
+Unit Size: 1  
+Equipment: Hooves and horn (counts as a hand weapon)
+
+Special Rules: Armour Bane (2, Unicorn only), Armoured Hide (1), Beguiling Aura, Counter Charge, Magical Attacks, Stomp Attacks (1), Swiftstride
+
 ## Infantry Units
+
+### Chracian Woodsmen
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chracian Woodsman | 5 | 4 | 4 | 4 | 3 | 1 | 4 | 1 | 8 |
+| Chracian Captain | 5 | 4 | 4 | 4 | 3 | 1 | 4 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, Chracian great blades and light armour
+
+Special Rules: Elven Reflexes, Move Through Cover, Skirmishers, Valour of Ages, Vanguard
+
+Optional Rules: Lion Cloak, Ambushers, Scouts
+
+### Elven Archers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Elven Archer | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Sentinel | 5 | 4 | 5 | 3 | 3 | 1 | 4 | 1 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and longbows
+
+Special Rules: Close Order, Detachment, Elven Reflexes, Valour of Ages
+
+Optional Rules: Veteran
+
+### Elven Spearmen
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Elven Spearman | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Sentinel | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, thrusting spears, light armour and shields
+
+Special Rules: Close Order, Elven Reflexes, Martial Prowess, Regimental Unit, Valour of Ages
+
+Optional Rules: Shieldwall, Veteran
+
+### Lion Guard
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lion Guard | 5 | 6 | 4 | 4 | 3 | 1 | 5 | 1 | 9 |
+| Lion Guard Captain | 5 | 6 | 4 | 4 | 3 | 1 | 5 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, Chracian great blades and heavy armour
+
+Special Rules: Champions of Chrace, Close Order, Elven Reflexes, Furious Charge, Lion Cloak, Stubborn, Veteran
+
+### Lothern Sea Guard
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sea Guard | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Sea Master | 5 | 4 | 5 | 3 | 3 | 1 | 4 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, thrusting spears, warbows and light armour
+
+Special Rules: Close Order, Elven Reflexes, Martial Prowess, Naval Discipline, Valour of Ages
+
+Optional Rules: Veteran
+
+### Phoenix Guard
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Phoenix Guard | 5 | 5 | 4 | 3 | 3 | 1 | 5 | 1 | 9 |
+| Keeper of the Flame | 5 | 5 | 4 | 3 | 3 | 1 | 5 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, ceremonial halberds and full plate armour
+
+Special Rules: Blessings of Asuryan, Close Order, Elven Reflexes, Fear, Martial Prowess, Veteran, Witness to Destiny
+
+Optional Rules: Drilled
+
+### Shadow Warriors
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shadow Warrior | 5 | 5 | 5 | 3 | 3 | 1 | 5 | 1 | 8 |
+| Shadow-walker | 5 | 5 | 6 | 3 | 3 | 1 | 5 | 1 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, longbows and light armour
+
+Special Rules: Elven Reflexes, Evasive, Fire & Flee, Ithilmar Weapons, Move Through Cover, Scouts, Skirmishers, Veteran, Warriors of Nagarythe
+
+Optional Rules: Ambushers, Chariot Runners, Feigned Flight
+
+### Ship's Company
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ship's Company | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Midshipman | 5 | 4 | 5 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Bosun | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and warbows
+
+Special Rules: Detachment, Elven Reflexes, Evasive, Fire & Flee, Open Order, Valour of Ages
+
+Optional Rules: Skirmishers, Veteran
+
+### Sisters of Avelorn
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sister of Avelorn | 5 | 5 | 5 | 3 | 3 | 1 | 5 | 1 | 8 |
+| High Sister | 5 | 5 | 6 | 3 | 3 | 1 | 5 | 1 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, bows of Avelorn and light armour
+
+Special Rules: Arrows of Isha, Evasive, Ignores Cover, Immune to Psychology, Ithilmar Armour, Ithilmar Weapons, Open Order, Skirmishers, Strike First
+
+Optional Rules: Ambushers, Stubborn
+
+### Swordmasters of Hoeth
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Swordmaster | 5 | 6 | 4 | 3 | 3 | 1 | 6 | 1 | 8 |
+| Bladelord | 5 | 6 | 4 | 3 | 3 | 1 | 6 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, swords of Hoeth and heavy armour
+
+Special Rules: Cleaving Blow, Close Order, Deflect Shots, Elven Reflexes, Ithilmar Armour, Magic Resistance (-1), Valour of Ages, Warriors of the White Tower
+
+Optional Rules: Drilled
+
+### White Lions of Chrace
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| White Lion | 5 | 5 | 4 | 4 | 3 | 1 | 5 | 1 | 8 |
+| Guardian | 5 | 5 | 4 | 4 | 3 | 1 | 5 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, Chracian great blades and heavy armour
+
+Special Rules: Chracian Warriors, Elven Reflexes, Furious Charge, King's Guard, Lion Cloak, Move Through Cover, Open Order, Stubborn, Valour of Ages
+
+Optional Rules: Veteran
 
 ## Cavalry Units
 
+### Dragon Princes
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dragon Prince | - | 5 | 4 | 3 | 3 | 1 | 5 | 2 | 9 |
+| Drakemaster | - | 5 | 4 | 3 | 3 | 1 | 5 | 3 | 9 |
+| Barded Elven Steed | 8 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+  
+Equipment:
+
+Dragon Princes: Hand weapons, lances, full plate armour and shields
+
+Barded Elven Steeds: Hooves (counts as a hand weapon) and barding
+
+Special Rules: Close Order, Counter Charge, Dragon Armour, Drilled, Elven Reflexes, First Charge, Impetuous, Ithilmar Barding, Ithilmar Weapons, Sons of Caledor, Swiftstride, Valour of Ages
+
+### Ellyrian Reavers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ellyrian Reaver | - | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Harbinger | - | 4 | 5 | 3 | 3 | 1 | 4 | 2 | 8 |
+| Elven Steed | 9 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+  
+Equipment:
+
+Ellyrian Reavers: Hand weapons, cavalry spears and light armour
+
+Elven Steeds: Hooves (counts as a hand weapon)
+
+Special Rules: Elven Reflexes, Fast Cavalry, Open Order, Swiftstride, Valour of Ages
+
+Optional Rules: Scouts, Skirmishers
+
+### Silver Helms
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Silver Helm | - | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 |
+| High Helm | - | 4 | 4 | 3 | 3 | 1 | 5 | 2 | 8 |
+| Barded Elven Steed | 8 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+  
+Equipment:
+
+Silver Helms: Hand weapons, lances and heavy armour
+
+Elven Steeds: Hooves (counts as a hand weapon)
+
+Special Rules: Close Order, Elven Reflexes, First Charge, Ithilmar Barding, Swiftstride, Valour of Ages
+
+### War Lions
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| War Lion | 8 | 5 | 0 | 4 | 4 | 1 | 4 | 2 | 7 |
+
+Unit Category: Cavalry  
+Troop Type: War Beast  
+Base Size: 30 x 60 mm  
+Unit Size: 2-6  
+Equipment: Claws and fangs (counts as hand weapons)
+
+Special Rules: Cleaving Blow, Fear, Move Through Cover, Open Order, Swiftstride, Vanguard
+
+The Lions Of Chrace: Any army made using the High Elf Realms Grand Army composition list that includes one or more units of White Lions of Chrace may include 0-1 unit of War Lions as a Rare choice.
+
 ## Chariot Units
+
+### Chieftain's Chariot
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chieftain's Chariot | - | - | - | 5 | 4 | 3 | - | - | - |
+| Charioteer (x1) | - | 5 | 4 | 4 | - | - | 4 | 1 | - |
+| Chracian Lion (x2) | 8 | 5 | - | 4 | - | - | 4 | 2 | - |
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+  
+Equipment:
+
+Charioteers: Hand weapons and Chracian great blade
+
+Chracian Lions: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Armour Bane (1, Chracian Lions only), Close Order, Elven Reflexes, Fear, First Charge, Impact Hits (D6, Chieftain's Chariot only), Stubborn, Valour of Ages
+
+### Lion Chariot of Chrace
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lion Chariot | - | - | - | 5 | 4 | 4 | - | - | - |
+| Lion Charioteer (x2) | - | 5 | 4 | 4 | - | - | 4 | 1 | 8 |
+| War Lion (x2) | 8 | 5 | - | 4 | - | - | 4 | 2 | - |
+
+A Lion Chariot may be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+  
+Equipment:
+
+Lion Charioteers: Hand weapons and Chracian great blades
+
+War Lions: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Close Order, Elven Reflexes, Fear, First Charge, Impact Hits (D6), Lion Cloak, Stubborn, Valour of Ages
+
+### Lothern Skycutter
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lothern Skycutter | - | - | - | 5 | 4 | 4 | - | - | - |
+| Sea Guard Crew (x3) | - | 4 | 4 | 3 | - | - | 4 | 1 | 8 |
+| Swiftfeather Roc (x1) | 2 | 5 | - | 4 | - | - | 4 | 2 | - |
+
+A Lothern Skycutter may be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+  
+Equipment:
+
+Sea Guard Crew: Hand weapons, cavalry spears and shortbows
+
+Swiftfeather Roc: Wicked claws
+
+Special Rules: Close Order, Elven Reflexes (Crew only), Fear, Fly (10), Impact Hits (D3+1), Swiftstride, Valour of Ages
+
+Optional Rules: Eagle-eye Bolt Thrower
+
+### Tiranoc Chariot
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tiranoc Chariot | - | - | - | 5 | 4 | 4 | - | - | - |
+| Tiranoc Charioteer (x2) | - | 4 | 4 | 3 | - | - | 4 | 1 | 8 |
+| Elven Steed (x2) | 9 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+A Tiranoc Chariot may be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Light Chariot  
+Base Size: 50 x 100 mm  
+Unit Size: 1-4  
+Armour Value: 5+  
+Equipment:
+
+Tiranoc Charioteers: Hand weapons, cavalry spears and longbows
+
+Elven Steeds: Hooves (counts as a hand weapon)
+
+Special Rules: Elven Reflexes, Impact Hits (D6), Open Order, Quick Shot, Swiftstride, Valour of Ages
 
 ## Monster Units
 
+### Flamespyre Phoenix
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flamespyre Phoenix | 2 | 5 | 0 | 5 | 5 | 5 | 4 | 3 | 7 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws and blazing plumage (counts as heavy armour)
+
+Special Rules: Blessings of Asuryan, Close Order, Fear, Flaming Attacks, Fly (10), From the Ashes, Large Target, Stomp Attacks (2), Swiftstride, Wake of Fire
+
+### Frostheart Phoenix
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Frostheart Phoenix | 2 | 6 | 0 | 6 | 6 | 5 | 3 | 4 | 8 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws and frozen plumage (counts as full plate armour)
+
+Special Rules: Blizzard Aura, Close Order, Fear, Fly (9), Large Target, Stomp Attacks (2), Swiftstride
+
+### Great Eagle
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Great Eagle | 2 | 5 | 0 | 4 | 4 | 3 | 4 | 3 | 6 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Wicked claws and serrated maw
+
+Special Rules: Close Order, Fear, Fly (10), Stomp Attacks (1), Swiftstride
+
+### Griffon (High Elves)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Griffon | 6 | 5 | - | 5 | (+2) | (+3) | 5 | 4 | - |
+
+A Griffon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Wicked claws, serrated maw and griffonic pelt (counts as heavy armour)
+
+Special Rules: Close Order, Fly (9), Large Target, Stomp Attacks (D3), Swiftstride, Terror
+
+### Merwyrm
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Merwyrm | 6 | 6 | 0 | 6 | 6 | 6 | 3 | 4 | 8 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Lashing talons, serpentine tail, briny breath and iridescent scales (counts as heavy armour)
+
+Special Rules: Abyssal Cloak, Close Order, Enfeebling Cold, Impact Hits (D3), Large Target, Stomp Attacks (D3+1), Terror
+
+From The Depths: Any army made using the High Elf Realms Grand Army composition list that includes one or more units of Lothern Sea Guard may include 0-1 Merwyrm as a Rare choice.
+
+### Moon Dragon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Moon Dragon | 6 | 6 | - | 6 | (+2) | (+5) | 3 | 5 | - |
+
+A Moon Dragon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws, dragon fire and draconic scales (counts as full plate armour)
+
+Special Rules: Close Order, Fly (10), Large Target, Stomp Attacks (D6), Swiftstride, Terror
+
+### Star Dragon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Star Dragon | 6 | 7 | - | 7 | (+3) | (+6) | 2 | 6 | - |
+
+A Star Dragon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws, dragon fire and draconic scales (counts as full plate armour)
+
+Special Rules: Close Order, Fly (10), Large Target, Stomp Attacks (D6+1), Swiftstride, Terror
+
+### Sun Dragon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sun Dragon | 6 | 5 | - | 5 | (+2) | (+4) | 4 | 4 | - |
+
+A Sun Dragon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws, dragon fire and draconic scales (counts as full plate armour)
+
+Special Rules: Close Order, Fly (10), Impetuous, Large Target, Stomp Attacks (D6), Swiftstride, Terror
+
 ## War Machine Units
+
+### Eagle-Claw Bolt Thrower
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Eagle-Claw Bolt Thrower | - | - | - | - | 6 | 2 | - | - | - |
+| Sea Guard Crew | 5 | 4 | 4 | 3 | 3 | 2 | 4 | 2 | 8 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 50 x 50 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1  
+Equipment: Repeater bolt thrower, hand weapons and light armour
+
+Special Rules: Elven Reflexes, Skirmishers, Valour of Ages
