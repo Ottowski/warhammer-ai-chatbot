@@ -166,9 +166,11 @@ The Winds of Magic bend to the will of the Celestial Dragon, the better to serve
 
 During each of their Start of Turn sub-phases, the Grand Cathay player rolls a D6 to determine which of the Elemental Winds blow the strongest:
 
-On a roll of 1-3, the Winds of Yang blow strongest.
+On a roll of 1-2, the Winds grow still and nothing happens.
 
-On a roll of 4+, the Winds of Yin blow strongest.
+On a roll of 3-4, the Winds of Yang blow strongest.
+
+On a roll of 5-6, the Winds of Yin blow strongest.
 
 Winds of Yang
 Until your next Start of Turn sub-phase, Wizards with the Lore of Yang special rule increase their Dispel range and the range of any Enchantment spells they know by 3". In addition, all friendly models with the Will of the Dragons special rule gain one* of the following modifiers:
@@ -271,6 +273,12 @@ Forged by the finest blade masters in Cathay, a Celestial blade is made from met
 | Range | Strength | Armour Piercing | Special Rules |
 | --- | --- | --- | --- |
 | Combat | S | -1 | Armour Bane (1) |
+
+### Crane Gun
+
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| 36" | 6 | -2 | Armour Bane (2), Cumbersome, Move or Shoot |
 
 ### Dragon Fire Bombs
 
@@ -906,16 +914,401 @@ The bearer of the Scrolls of Wei-jin knows one more spell (chosen in the usual w
 
 ## Named Character Units
 
+### Miao Ying
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Human Form | 4 | 7 | 5 | 4 | 4 | 7 | 7 | 4 | 10 |
+| Dragon Form | 8 | 8 | 3 | 7 | 6 | 7 | 6 | 6 | 10 |
+
+Miao Ying is a Cathayan Dragon. She may be included in any Empire of Grand Cathay army made using any army composition list that includes this option. She must be fielded as presented here.
+
+In her Human form, Miao Ying's troop type is heavy infantry (named character). In her Dragon form, it is behemoth (named character).
+
+Unit Category: Named Character  
+Troop Type: Heavy Infantry (Human form), Behemoth (Dragon form), Named Character  
+Base Size: 50 x 50 mm (Human form), 100 x 150 mm (Dragon form)  
+Unit Size: 1
+
+Equipment:
+
+Human Form: Talons of the Storm and heavy armour  
+Dragon Form: Talons of the Storm, Dragon fire and Draconic scales (counts as full plate armour)
+
+Magic: In her Human form, Miao Ying is a Level 4 Wizard. In her Dragon form, she is a Level 2 Wizard. She may cast a number of spells equal to her current Level of Wizardry per turn. Miao Ying knows four spells, chosen in the usual way from one of the following Lores of Magic: Battle Magic, Elementalism, High Magic.
+
+Magic Items / Abilities: Talons of the Storm
+
+Special Rules: Celestial Forged Armour (5+), Disdain of the Dragons, Hatred (Warriors of Chaos & Daemonic models), Fly (9) (Dragon Form only), Large Target (Dragon Form only), Magic Resistance (-1), Mastery of the Storm Winds, Mastery of the Elemental Winds, Rallying Cry (Human Form only), Stomp Attacks (D6) (Dragon Form only), Stubborn, Supreme Matriarch of Nan-Gau, Swiftstride (Dragon Form only), Terror (Dragon Form only), Transformation of the Dragon, Will of the Dragons, Wrath of the Storm.
+
 ## Character Units
+
+### Astromancer
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Astromancer | 4 | 3 | 3 | 3 | 3 | 2 | 3 | 1 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry, Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Astromancer is a Level 1 Wizard who uses spells from Battle Magic, Elementalism, Illusion, or High Magic.
+
+Special Rules: Magical Attacks, Magic Resistance (-1), Mastery of the Elemental Winds.
+
+### Gate Keeper
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gate Keeper | 4 | 6 | 4 | 4 | 4 | 2 | 4 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry, Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, heavy armour and shield
+
+Special Rules: Harmony of Stone & Steel, Will of the Dragons.
+
+Optional Rules: Celestial Blade, Cathayan Lance.
+
+### Gate Master
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gate Master | 4 | 7 | 4 | 4 | 4 | 3 | 4 | 3 | 9 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry, Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, heavy armour and shield
+
+Special Rules: Harmony of Stone & Steel, Will of the Dragons.
+
+Optional Rules: Celestial Blade, Cathayan Lance.
+
+### Lord Magistrate
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lord Magistrate | 4 | 5 | 4 | 3 | 3 | 3 | 4 | 2 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry, Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+
+Special Rules: Grand Strategist, Harmony of Stone & Steel, Will of the Dragons.
+
+Optional Rules: Gunpowder Bombs, Dragon Fire Bombs.
+
+### Shugengan General
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shugengan General | - | 5 | 3 | 4 | 5 | 6 | 5 | 3 | 8 |
+| Great Spirit Longma | 8 | 5 | - | 5 | - | - | 4 | 3 | - |
+
+Unit Category: Character  
+Troop Type: Monstrous Creature, Character  
+Base Size: 60 x 100 mm  
+Unit Size: 1
+
+Equipment:
+
+Shugengan: Hand weapon, iron talons and light armour  
+Great Spirit Longma: Crown of horns
+
+Magic: Shugengan General is a Level 1 Wizard who uses spells from Battle Magic, Elementalism, Illusion, or High Magic.
+
+Special Rules: Armoured Hide (2), Celestial Forged Armour (5+), Counter Charge, Fear, Fly (9), Impact Hits (D3+1), Mastery of the Elemental Winds, Swiftstride, Will of the Dragons.
+
+Optional Rules: Celestial Blade, Cathayan Lance, Dragon Fire Pistol.
+
+### Shugengan Lord
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shugengan Lord | - | 6 | 3 | 4 | 5 | 7 | 6 | 4 | 9 |
+| Great Spirit Longma | 8 | 5 | - | 5 | - | - | 4 | 3 | - |
+
+Unit Category: Character  
+Troop Type: Monstrous Creature, Character  
+Base Size: 60 x 100 mm  
+Unit Size: 1
+
+Equipment:
+
+Shugengan: Hand weapon, iron talons and light armour  
+Great Spirit Longma: Crown of horns
+
+Magic: Shugengan Lord is a Level 2 Wizard who uses spells from Battle Magic, Elementalism, Illusion, or High Magic.
+
+Special Rules: Armoured Hide (2), Celestial Forged Armour (5+), Counter Charge, Fear, Fly (9), Impact Hits (D3+1), Mastery of the Elemental Winds, Swiftstride, Will of the Dragons.
+
+Optional Rules: Celestial Blade, Cathayan Lance, Dragon Fire Pistol.
+
+### Strategist
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Strategist | 4 | 4 | 4 | 3 | 3 | 2 | 3 | 1 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry, Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+
+Special Rules: Grand Strategist, Harmony of Stone & Steel, Will of the Dragons.
+
+Optional Rules: Gunpowder Bombs, Dragon Fire Bombs.
+
+### Supreme Astromancer
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Supreme Astromancer | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry, Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Supreme Astromancer is a Level 2 Wizard who uses spells from Battle Magic, Elementalism, Illusion, or High Magic.
+
+Special Rules: Magical Attacks, Magic Resistance (-1), Mastery of the Elemental Winds.
 
 ## Mount Units
 
+### Cathayan Horse
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cathayan Horse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1
+
+Equipment: Iron-shod hooves (counts as a hand weapon) and barding.
+
+Special Rules: Counter Charge, Swiftstride.
+
+### Cathayan Warhorse
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cathayan Warhorse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1
+
+Equipment: Iron-shod hooves (counts as a hand weapon) and barding.
+
+Special Rules: Cathayan Cataphracts, Counter Charge, Swiftstride.
+
 ## Infantry Units
+
+### Crane Gunner Teams
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Crane Gunner Team | 4 | 3 | 3 | 3 | 3 | 2 | 3 | 2 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 50 mm  
+Unit Size: 3-8
+
+Equipment: Hand weapons, crane guns, light armour and tower shields.
+
+Special Rules: Open Order.
+
+Optional Rules: Ambushers, Reserve Move.
+
+### Iron Hail Gunners
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Iron Hail Gunner | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+| Marksman | 4 | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 4-12
+
+Equipment: Hand weapons, iron hail guns and light armour.
+
+Special Rules: Open Order, Skirmishers.
+
+Optional Rules: Gunpowder Bombs.
+
+### Jade Warriors
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Jade Warrior | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 8 |
+| Jade Officer | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+
+
+Equipment: Hand weapons and heavy armour.
+
+Special Rules: Close Order, Defensive Stance, Detachment, Regimental Unit, Will of the Dragons.
+
+Optional Rules: Drilled, Stubborn.
+
+### Peasant Levy
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Peasant Soldier | 4 | 2 | 3 | 3 | 3 | 1 | 3 | 1 | 5 |
+| Peasant Elder | 4 | 2 | 4 | 3 | 3 | 1 | 3 | 2 | 6 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+
+
+Equipment: Hand weapons.
+
+Special Rules: Close Order, Horde, Warband.
+
+Optional Rules: Long Spears, Skirmishers, Ambushers.
 
 ## Cavalry Units
 
+### Jade Lancers
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Jade Lancer | - | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 8 |
+| Jade Lancer Officer | - | 4 | 3 | 3 | 3 | 1 | 3 | 2 | 8 |
+| Cathayan Warhorse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+
+
+Equipment:
+
+Jade Lancers: Hand weapons, Cathayan lances, heavy armour and shields  
+Cathayan Warhorses: Iron-shod hooves (counts as a hand weapon) and barding
+
+Special Rules: Cathayan Cataphracts, Close Order, Counter Charge, Horde, Swiftstride, Will of the Dragons.
+
+Optional Rules: Ambushers, Drilled, Stubborn.
+
 ## Chariot Units
+
+### Sky Lantern
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sky Lantern | 1 | - | - | 5 | 4 | 7 | - | - | - |
+| Lantern Gunners (x4) | - | 3 | 4 | 3 | - | - | 3 | 1 | 8 |
+| Commander (x1) | - | 3 | 5 | 3 | - | - | 3 | 2 | 8 |
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 100 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+
+
+Equipment:
+
+Lantern Gunners: Hand weapons  
+Commander: Hand weapon
+
+Special Rules: Close Order, Disengage, Eye of the Dragon, Feigned Flight, Fire & Flee, Flammable, Fly (8), Heavenly Beacon, Impact Hits (D3+1, Sky Lantern only), Large Target, Reserve Move, Scouts.
+
+Optional Rules: Sky Lantern Crane Gun, Iron Hail Gun, Gunpowder Bombs, Dragon Fire Bombs.
+
+Character Mount: A Sky Lantern may be included in your army as a character's mount. If so, its points are added to that of its rider.
 
 ## Monster Units
 
+### Cathayan Sentinel
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cathayan Sentinel | 6 | 5 | 1 | 6 | 6 | 6 | 3 | 3 | 10 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 100 x 150 mm  
+Unit Size: 1
+
+Equipment: Hand weapon, great blade and terracotta armour (counts as heavy armour).
+
+Special Rules: Close Order, Immune to Psychology, Implacable, Large Target, Stomp Attacks (D3+1), Terror, Timmm-berrr!, Unbreakable.
+
+Optional Rules: Terracotta Sentinel, Jade Sentinel, Obsidian Sentinel, Granite Sentinel, Warpstone Sentinel.
+
 ## War Machine Units
+
+### Cathayan Grand Cannon
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Grand Cannon | - | - | - | - | 6 | 3 | - | - | - |
+| Cathayan Artillery Crew (x3) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 7 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 60 x 100 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1
+
+Equipment: Grand cannon, hand weapons and light armour.
+
+Special Rules: Skirmishers.
+
+Optional Rules: Ogre Loader.
+
+### Fire Rain Rocket Battery
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fire Rain Rocket | - | - | - | - | 6 | 3 | - | - | - |
+| Cathayan Artillery Crew (x3) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 7 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 60 x 100 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1
+
+Equipment: Fire rain rocket, hand weapons and light armour.
+
+Special Rules: Skirmishers.
+
+Optional Rules: Ogre Loader.
+
+### Ogre Loader
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ogre Loader | 4 | 3 | 3 | 4 | 4 | 3 | 2 | 3 | 8 |
+
+Unit Category: War Machine  
+Troop Type: Monstrous Infantry  
+Base Size: 40 x 40 mm  
+Unit Size: 1
+
+Equipment: Hand weapon and light armour.
+
+Special Rules: Enough for Everyone, Mercenary Crew.
