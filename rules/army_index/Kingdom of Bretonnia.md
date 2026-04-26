@@ -1074,16 +1074,478 @@ The Flamestrike Wand may only be taken by a model in a Bretonnian Exiles Army of
 
 ## Named Character Units
 
+### The Green Knight
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| The Green Knight | - | 7 | 3 | 4 | 4 | 4 | 6 | 4 | 9 |
+| The Shadow Steed | 8 | 4 | - | 4 | - | - | 4 | 1 | - |
+
+The Green Knight may be included in any Kingdom of Bretonnia army made using any army composition list. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment:
+The Green Knight: The Dolorous Blade, heavy armour and shield
+The Shadow Steed: Iron-shod hooves (counts as a hand weapon) and barding
+Magic Items / Abilities: The Dolorous Blade
+Special Rules: Aura of the Fay, Blessed Knight, Ethereal, Guardian of the Sacred Sites, Immune to Psychology, Loner, Move Through Cover, Rallying Cry, Terror, Unbreakable, Unstable
+
+### Lady Élisse Duchaard
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lady Élisse Duchaard | - | 4 | 3 | 3 | 4 | 5 | 3 | 2 | 8 |
+| Ariandir | 10 | 4 | - | 4 | - | - | 5 | 2 | - |
+
+Lady Élisse Duchaard is a Prophetess. She may be included in any Kingdom of Bretonnia army made using any army composition list that includes this option. She must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 60 mm  
+Unit Size: 1  
+Equipment:
+Lady Élisse Duchaard: Hand weapon, Chalice of Brionne and the Staff of the Elements
+Ariandir: Hooves and horn (counts as a hand weapon)
+Magic: Lady Élisse Duchaard is a Level 3 Wizard who uses spells from or Elementalism.
+Magic Items / Abilities: Chalice of Brionne, The Staff of the Elements
+Special Rules: Arcane Backlash, Armour Bane (2, Ariandir only), Armoured Hide (1), Aura of the Lady, Beguiling Aura, Blessings of the Lady, Counter Charge, Lore of the Lady, Magical Attacks, Magic Resistance (-2), Shield of the Lady, Stomp Attacks (1), Swiftstride
+
+### Sir Cecil Gastonne
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sir Cecil Gastonne | 4 | 7 | 3 | 4 | 4 | 3 | 5 | 4 | 9 |
+
+Sir Cecil Gastonne is a Baron. He may be included in any Kingdom of Bretonnia army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Sorrow's End, Dragonhide Cloak, heavy armour and shield
+Magic Items / Abilities: Sorrow's End, Dragonhide Cloak
+Special Rules: Blessings of the Lady, Rallying Cry, The Wyrm Slayer, The Exile's Vow
+
 ## Character Units
+
+### Baron
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Baron | 4 | 6 | 3 | 4 | 4 | 3 | 5 | 4 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+Special Rules: Blessings of the Lady, Rallying Cry, The Knight's Vow
+
+### Damsel
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Damsel | 4 | 3 | 3 | 3 | 3 | 2 | 3 | 1 | 7 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+Magic: Damsel is a Level 1 Wizard who uses spells from Battle Magic, Elementalism, or Illusion.
+Special Rules: Aura of the Lady, Blessings of the Lady, Lore of the Lady, Magical Attacks, Magic Resistance (-2), Shield of the Lady
+
+### Duke
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Duke | 4 | 7 | 3 | 5 | 4 | 4 | 5 | 5 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+Special Rules: Blessings of the Lady, Rallying Cry, The Grail Vow
+
+### Outcast Wizard
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Outcast Wizard | 4 | 3 | 3 | 3 | 3 | 2 | 3 | 1 | 7 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+Magic: Outcast Wizard is a Level 1 Wizard who uses spells from Battle Magic, Daemonology, Dark Magic, Elementalism, Illusion, or Necromancy.
+Special Rules: Magical Attacks, Magic Resistance (-1), Untutored Arcanist
+
+### Paladin
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Paladin | 4 | 6 | 3 | 4 | 4 | 2 | 4 | 3 | 8 |
+
+A single Paladin in your army may be upgraded to be your Battle Standard Bearer. Unlike other armies, there is no additional cost for this upgrade in a Kingdom of Bretonnia army.
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+Special Rules: Blessings of the Lady, Rallying Cry, The Knight's Vow
+
+### Prophetess
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Prophetess | 4 | 4 | 3 | 3 | 3 | 3 | 3 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+Magic: Prophetess is a Level 3 Wizard who uses spells from Battle Magic, Elementalism, or Illusion.
+Special Rules: Aura of the Lady, Blessings of the Lady, Lore of the Lady, Magical Attacks, Magic Resistance (-2), Shield of the Lady
+
+### Sergeant-at-Arms
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sergeant-at-Arms | 4 | 4 | 2 | 4 | 3 | 2 | 4 | 2 | 7 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+Special Rules: Levies, Peasant's Duty, Peasantry, Warband
 
 ## Mount Units
 
+### Barded Pegasus
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Barded Pegasus | 7 | 3 | - | 4 | - | (+1) | 4 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 60 mm  
+Unit Size: 1  
+Equipment: Iron-shod hooves (counts as a hand weapon) and barding
+Special Rules: Counter Charge, First Charge, Fly (10), Swiftstride
+
+### Bretonnian Warhorse
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bretonnian Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Iron-shod hooves (counts as a hand weapon) and barding
+Special Rules: Counter Charge, Finest Warhorses, First Charge, Swiftstride
+
+### Royal Pegasus
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Royal Pegasus | 8 | 4 | - | 5 | (+1) | (+1) | 5 | 3 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Iron-shod hooves (counts as a hand weapon) and barding
+Special Rules: Armour Bane (1, Royal Pegasus only), Counter Charge, First Charge, Fly (10), Stomp Attacks (2), Swiftstride
+
+### Unicorn
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Unicorn | 10 | 4 | - | 4 | - | (+1) | 5 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 60 mm  
+Unit Size: 1  
+Equipment: Hooves and horn (counts as a hand weapon)
+Special Rules: Armour Bane (2, Unicorn only), Armoured Hide (1), Beguiling Aura, Counter Charge, Magical Attacks, Stomp Attacks (1), Swiftstride
+
+### Warhorse (Bretonnia)
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Light Cavalry  
+Base Size: 25 x 50 mm (min), 30 x 60 mm (max)  
+Unit Size: 1  
+Equipment: Iron-shod hooves (counts as a hand weapon)
+Special Rules: Fast Cavalry, Swiftstride
+
 ## Infantry Units
+
+### Battle Pilgrims
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Battle Pilgrim | 4 | 2 | 2 | 3 | 3 | 1 | 3 | 1 | 8 |
+| Grail Reliquae | 4 | 2 | 2 | 3 | 3 | 6 | 3 | 6 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm (Battle Pilgrims), 50 x 75 mm (Grail Reliquae)  
+Unit Size: 5-30 Battle Pilgrims / 0-1 Grail Reliquae  
+Equipment: Hand weapons, light armour and shields
+Special Rules: Blessings of the Lady (Grail Reliquae), Close Order, Grail Reliquae, Hatred (all enemies), Levies, Peasantry, Retinue of the Saints (Grail Reliquae), Stubborn
+Optional Rules: Grail Reliquae
+
+### Border Princes Brigands
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Brigand | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 6 |
+| Desperado | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons and light armour
+Special Rules: Horde, Impetuous, Levies, Motley Crew, Open Order, Warband
+Optional Rules: Blunderbuss, Close Order, Skirmishers, Ambushers, Scouts
+
+### Knights of the Realm on Foot
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Knight of the Realm | 4 | 4 | 2 | 3 | 3 | 1 | 3 | 1 | 8 |
+| First Knight | 4 | 4 | 2 | 3 | 3 | 1 | 3 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, heavy armour and shields
+Special Rules: Blessings of the Lady, Close Order, Furious Charge, The Knight's Vow
+
+### Men-at-Arms
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Man-at-Arms | 4 | 2 | 2 | 3 | 3 | 1 | 3 | 1 | 5 |
+| Yeoman | 4 | 2 | 2 | 3 | 3 | 1 | 3 | 2 | 6 |
+| Grail Monk | 4 | 2 | 2 | 3 | 3 | 1 | 2 | 2 | 6 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons, polearms, light armour and shields
+Special Rules: Close Order, Horde, Levies, Peasantry, Shieldwall, Warband
+Optional Rules: Grail Monk, Blessed Triptych
+
+### Peasant Bowmen
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Peasant Bowman | 4 | 2 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Villein | 4 | 2 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons and longbows
+Special Rules: Close Order, Levies, Peasantry
+Optional Rules: Defensive Stakes, Burning Braziers, Skirmishers
+
+### Squires
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Squire | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Esquire | 4 | 3 | 4 | 3 | 3 | 1 | 3 | 2 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and longbows
+Special Rules: Move Through Cover, Open Order, Peasantry, Skirmishers, Vanguard
+Optional Rules: Fire & Flee, Scouts
+
+### Yeomen Guard
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Yeoman Guard | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 6 |
+| Warden | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 6 |
+| Grail Monk | 4 | 3 | 2 | 3 | 3 | 1 | 2 | 2 | 6 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons, light armour and shields
+Special Rules: Close Order, Horde, Peasantry, Shieldwall, Veteran, Warband
+Optional Rules: Grail Monk, Blessed Triptych
 
 ## Cavalry Units
 
-## Chariot Units
+### Grail Knights
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Grail Knight | - | 6 | 2 | 4 | 4 | 1 | 5 | 2 | 9 |
+| Grail Guardian | - | 6 | 2 | 4 | 4 | 1 | 5 | 3 | 9 |
+| Bretonnian Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 3+  
+Equipment: Grail Knights: Hand weapons, lances, heavy armour and shields. Bretonnian Warhorse: Iron-shod hooves (counts as a hand weapon) and barding
+Special Rules: Blessings of the Lady, Close Order, Counter Charge, Finest Warhorses, First Charge, Lance Formation, Living Saints, Swiftstride, The Grail Vow
+
+### Knights Errant
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Knight Errant | - | 3 | 2 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Gallant | - | 3 | 2 | 3 | 3 | 1 | 3 | 2 | 7 |
+| Bretonnian Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+  
+Equipment: Knights Errant: Hand weapons, lances, heavy armour and shields. Bretonnian Warhorse: Iron-shod hooves (counts as a hand weapon) and barding.
+Special Rules: Blessings of the Lady, Close Order, Finest Warhorses, First Charge, Impetuous, Lance Formation, Swiftstride, The Knight's Vow
+
+### Mounted Knights of the Realm
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Knight of the Realm | - | 4 | 2 | 3 | 3 | 1 | 3 | 1 | 8 |
+| First Knight | - | 4 | 2 | 3 | 3 | 1 | 3 | 2 | 8 |
+| Bretonnian Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+  
+Equipment:
+Knights of the Realm: Hand weapons, lances, heavy armour and shields
+Bretonnian Warhorse: Iron-shod hooves (counts as a hand weapon) and barding
+Special Rules: Blessings of the Lady, Close Order, Counter Charge, Finest Warhorses, First Charge, Lance Formation, Swiftstride, The Knight's Vow
+
+### Mounted Yeomen
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mounted Yeoman | - | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 6 |
+| Warden | - | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 6 |
+| Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 25 x 50 mm  
+Unit Size: 5+  
+Equipment:
+Mounted Yeomen: Hand weapons, cavalry spears and shortbows
+Warhorse: Iron-shod hooves (counts as a hand weapon)
+Special Rules: Fast Cavalry, Fire & Flee, Levies, Open Order, Peasantry, Reserve Move, Skirmishers, Swiftstride
+Optional Rules: Feigned Flight
+
+### Pegasus Knights
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pegasus Knight | - | 4 | 2 | 4 | 4 | 2 | 3 | 1 | 8 |
+| First Knight | - | 4 | 2 | 4 | 4 | 2 | 3 | 2 | 8 |
+| Barded Pegasus | 7 | 3 | - | 4 | - | - | 4 | 2 | - |
+
+Unit Category: Cavalry  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 60 mm  
+Unit Size: 3+  
+Equipment:
+Pegasus Knight: Hand weapons, lances, heavy armour and shields
+Barded Pegasus: Iron-shod hooves (counts as a hand weapon) and barding
+Special Rules: Blessings of the Lady, Counter Charge, Dispersed Formation, First Charge, Fly (10), Furious Charge (Riders only), Skirmishers, Swiftstride, The Knight's Vow
+
+### Questing Knights
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Questing Knight | - | 5 | 2 | 4 | 3 | 1 | 4 | 1 | 8 |
+| Paragon | - | 5 | 2 | 4 | 3 | 1 | 4 | 2 | 8 |
+| Bretonnian Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 3+  
+Equipment:
+Questing Knights: Hand weapons, great weapons, heavy armour and shields
+Bretonnian Warhorse: Iron-shod hooves (counts as a hand weapon) and barding
+Special Rules: Blessings of the Lady, Close Order, Finest Warhorses, First Charge, Lance Formation, Swiftstride, The Questing Vow
 
 ## Monster Units
 
+### Hippogryph
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hippogryph | 7 | 5 | - | 5 | (+1) | (+3) | 5 | 4 | - |
+
+A Hippogryph may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Wicked claws, serrated maw and griffonic pelt (counts as heavy armour)
+Special Rules: Close Order, Counter Charge, Fly (9), Large Target, Stomp Attacks (D3), Swiftstride, Terror
+
 ## War Machine Units
+
+### Border Princes Bombard
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bombard | - | - | - | - | 7 | 3 | - | - | - |
+| Crew | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 7 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 50 x 50 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1  
+Equipment: Bombard, hand weapons and light armour
+Special Rules: Levies, Skirmishers
+
+### Field Trebuchet (War Machine Unit)
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Field Trebuchet | - | - | - | - | 7 | 3 | - | - | - |
+| Peasant Crew | 4 | 2 | 2 | 3 | 3 | 4 | 3 | 4 | 6 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 60 x 100 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1  
+Equipment: Field trebuchet and hand weapons
+Special Rules: Levies, Peasantry, Skirmishers
