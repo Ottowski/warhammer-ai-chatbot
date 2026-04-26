@@ -935,16 +935,720 @@ Throughout the Old World, Wizards carry ensorcelled staffs through which they ca
 
 ## Named Character Units
 
+### General Hans von Löwenhacke
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Hans von Löwenhacke | 4 | 6 | 5 | 4 | 4 | 3 | 4 | 4 | 10 |
+
+General Hans von Löwenhacke is a General of the Empire. He may be included in any Empire of Man army made using any army composition list that includes this option. He must be fielded as presented here.
+
+- Unit Category: Named Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon, full plate armour, Judgement and the Griffon Helm
+- Magic Items / Abilities: Judgement; The Griffon Helm
+- Special Rules: "Hold the Line!"; Mercenary Commander; Rallying Cry; Strategic Mastery; Stubborn
+
+### Harald Gemunsen
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Harald Gemunsen | - | 7 | 3 | 4 | 4 | 3 | 6 | 4 | 9 |
+| Barded Warhorse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Harald Gemunsen is a Grand Master. He may be included in any Empire of Man army made using any army composition list that includes this option. He must be fielded as presented here.
+
+- Unit Category: Named Character
+- Troop Type: Heavy Cavalry
+- Base Size: 30 x 60 mm
+- Unit Size: 1
+- Equipment (Harald Gemunsen): Hand weapon, Beast Reaver and full plate armour
+- Equipment (Barded Warhorse): Iron-shod hooves (counts as a hand weapon) and barding
+- Magic Items / Abilities: Beast Reaver
+- Special Rules: Counter Charge; First Charge; Grand Master of the Knights Panther; Hatred (Warriors of Chaos, Beastmen Brayherds & Daemonic models); Immune to Psychology; Magic Resistance (-1); Master of Battle; Rallying Cry; Skilled Duellist; Stubborn; Swiftstride; Veteran
+
 ## Character Units
+
+### Captain of the Empire
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Captain of the Empire | 4 | 5 | 5 | 4 | 4 | 2 | 4 | 2 | 9 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon and light armour
+- Special Rules: "Hold the Line!"; Rallying Cry
+
+### Chapter Master
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chapter Master | - | 5 | 3 | 4 | 4 | 2 | 5 | 3 | 8 |
+
+- Unit Category: Character
+- Troop Type: Heavy Cavalry
+- Base Size: (as mount)
+- Unit Size: 1
+- Equipment: Hand weapon and heavy armour
+- Special Rules: Counter Charge; First Charge; Immune to Psychology; Master of Battle; Rallying Cry; Stubborn; Swiftstride; Veteran
+
+### Empire Engineer
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Empire Engineer | 4 | 3 | 4 | 3 | 3 | 2 | 3 | 1 | 7 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon
+- Special Rules: Clouds of Soot & Smoke; Master of Ballistics
+- Optional Rules: Grenade Launching Blunderbuss; Hochland Long Rifle; Pigeon Bombs
+
+### General of the Empire
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| General of the Empire | 4 | 5 | 5 | 4 | 4 | 3 | 5 | 3 | 10 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon and light armour
+- Special Rules: "Hold the Line!"; Rallying Cry
+
+### Grand Master
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Grand Master | - | 6 | 3 | 4 | 4 | 3 | 6 | 4 | 9 |
+
+- Unit Category: Character
+- Troop Type: Heavy Cavalry
+- Base Size: (as mount)
+- Unit Size: 1
+- Equipment: Hand weapon and heavy armour
+- Special Rules: Counter Charge; First Charge; Immune to Psychology; Master of Battle; Rallying Cry; Stubborn; Swiftstride; Veteran
+
+### Harbinger of Doom
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Harbinger of Doom | 4 | 5 | 2 | 4 | 4 | 2 | 4 | 3 | 8 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon
+- Special Rules: Feel No Pain; Furious Charge; Immune to Psychology; Impetuous; Hatred (all enemies); Prayer of the Damned; Unbreakable; Zealot
+
+Preachers of Doom: Any Empire of Man army that includes one or more units of Flagellants may include 0-1 Harbinger of Doom.
+
+### High Priest of Ulric
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| High Priest of Ulric | 4 | 5 | 3 | 4 | 4 | 3 | 5 | 3 | 9 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon and light armour
+- Special Rules: Magical Attacks; Magic Resistance (-1); Prayers of Ulric
+
+### Lector of Sigmar
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lector of Sigmar | 4 | 5 | 3 | 4 | 4 | 3 | 5 | 3 | 9 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon and light armour
+- Special Rules: Magical Attacks; Magic Resistance (-1); Prayers of Sigmar
+
+### Master Mage
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Master Mage | 4 | 3 | 3 | 3 | 3 | 2 | 3 | 1 | 7 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon
+- Magic: Master Mage is a Level 1 Wizard who uses spells from Battle Magic, Daemonology, Dark Magic, Elementalism, Illusion, or Necromancy.
+- Special Rules: Magical Attacks; Magic Resistance (-1)
+
+### Priest of Sigmar
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Priest of Sigmar | 4 | 4 | 3 | 4 | 4 | 2 | 4 | 2 | 8 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon and light armour
+- Special Rules: Magical Attacks; Magic Resistance (-1); Prayers of Sigmar
+
+### Priest of Ulric
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Priest of Ulric | 4 | 4 | 3 | 4 | 4 | 2 | 4 | 2 | 8 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon and light armour
+- Special Rules: Magical Attacks; Magic Resistance (-1); Prayers of Ulric
+
+### Witch Hunter
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Witch Hunter | 4 | 4 | 4 | 4 | 4 | 2 | 5 | 2 | 8 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon and light armour
+- Special Rules: Immune to Psychology; Killing Blow; Suffer Not...
+
+### Wizard Lord
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wizard Lord | 4 | 4 | 3 | 3 | 4 | 3 | 3 | 2 | 8 |
+
+- Unit Category: Character
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 1
+- Equipment: Hand weapon
+- Magic: Wizard Lord is a Level 3 Wizard who uses spells from Battle Magic, Daemonology, Dark Magic, Elementalism, Illusion, or Necromancy.
+- Special Rules: Magical Attacks; Magic Resistance (-1)
 
 ## Mount Units
 
+### Barded Warhorse
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Barded Warhorse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+- Unit Category: Mount
+- Troop Type: Heavy Cavalry
+- Base Size: 30 x 60 mm
+- Unit Size: 1
+- Equipment: Iron-shod hooves (counts as a hand weapon) and barding
+- Special Rules: Counter Charge; First Charge; Swiftstride
+
+### Demigryph
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Demigryph | 7 | 4 | - | 5 | - | (+1) | 4 | 3 | - |
+
+- Unit Category: Mount
+- Troop Type: Monstrous Cavalry
+- Base Size: 50 x 75 mm
+- Unit Size: 1
+- Equipment: Wicked claws and barding
+- Special Rules: Counter Charge; First Charge; Fear; Swiftstride
+
+### Empire Warhorse
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Empire Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+- Unit Category: Mount
+- Troop Type: Light Cavalry
+- Base Size: 30 x 60 mm
+- Unit Size: 1
+- Equipment: Iron-shod hooves (counts as a hand weapon)
+- Special Rules: Fast Cavalry; Swiftstride
+
+### Pegasus
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pegasus | 8 | 3 | - | 4 | - | (+1) | 4 | 2 | - |
+
+- Unit Category: Mount
+- Troop Type: Monstrous Cavalry
+- Base Size: 40 x 60 mm
+- Unit Size: 1
+- Equipment: Iron-shod hooves (counts as a hand weapon)
+- Special Rules: Counter Charge; First Charge; Fly (10); Swiftstride
+
 ## Infantry Units
+
+### Empire Archers
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Archer | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Marksman | 4 | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 5+
+- Equipment: Hand weapons and warbows
+- Special Rules: Detachment; Move Through Cover; Open Order; Skirmishers; Vanguard
+- Optional Rules: Fire & Flee; Scouts
+
+### Empire Greatswords
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Greatsword | 4 | 4 | 3 | 4 | 3 | 1 | 3 | 1 | 8 |
+| Count's Champion | 4 | 5 | 3 | 4 | 3 | 1 | 3 | 2 | 8 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 5+
+- Equipment: Hand weapons, great weapons and full plate armour
+- Special Rules: Close Order; Regimental Unit; Stubborn
+- Optional Rules: Drilled; Veteran
+
+### Flagellants
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flagellant | 4 | 3 | 2 | 3 | 4 | 1 | 3 | 1 | 5 |
+| Prophet of Doom | 4 | 3 | 2 | 3 | 4 | 1 | 3 | 2 | 5 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 5+
+- Equipment: Hand weapons and flails
+- Special Rules: Close Order; Fanatical Zeal; Feel No Pain; Furious Charge; Immune to Psychology; Impetuous; Hatred (all enemies); Unbreakable
+
+### Free Company Militia
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Militia Fighter | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 6 |
+| Militia Leader | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 10+ (5+ if a detachment)
+- Equipment: Mixed weapons (counts as two hand weapons and throwing weapons)
+- Special Rules: Detachment; Horde; Impetuous; Levies; Open Order; Warband
+
+### Imperial Ogres
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Imperial Ogre | 6 | 3 | 3 | 4 | 4 | 3 | 2 | 3 | 7 |
+| Ogre Captain | 6 | 3 | 4 | 4 | 4 | 3 | 2 | 4 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Monstrous Infantry
+- Base Size: 40 x 40 mm
+- Unit Size: 3+
+- Equipment: Hand weapons and light armour
+- Special Rules: Armour Bane (1); Close Order; Fear; Impact Hits (1); Mercenaries; Motley Crew; Ogre Charge
+- Optional Rules: Light Cannon; Ogre Pistol
+
+Dogs of War: 0-1 unit of Imperial Ogres may be taken as Mercenaries in any of the following Grand Army composition lists:
+
+- Dwarfen Mountain Holds
+- Empire of Man
+
+### Nuln State Missile Troops
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| State Missile Trooper | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Sergeant | 4 | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 5+
+- Equipment: Hand weapons and handguns
+- Special Rules: Close Order; Detachment; Nuln State Troops
+- Optional Rules: Drilled
+
+### Nuln State Troops (Unit)
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| State Trooper | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Sergeant | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 10+
+- Equipment: Hand weapons, halberds and light armour
+- Special Rules: Close Order; Horde; Nuln State Troops; Regimental Unit
+
+### Nuln Swordsmen
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Swordsman | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Sergeant | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 5+
+- Equipment: Hand weapons, light armour and shields
+- Special Rules: Close Order; Detachment; Horde; Nuln State Troops
+
+### Nuln Veteran State Troops
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Veteran State Trooper | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Veteran Sergeant | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 10+
+- Equipment: Hand weapons, halberds and light armour
+- Special Rules: Close Order; Horde; Nuln State Troops; Regimental Unit; Veteran
+- Optional Rules: Drilled
+
+### State Missile Troops
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| State Missile Trooper | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Sergeant | 4 | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 10+ (5+ if a detachment)
+- Equipment: Hand weapons and crossbows
+- Special Rules: Close Order; Detachment; Regimental Unit
+- Optional Rules: Drilled
+
+### State Troops
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| State Trooper | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Sergeant | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 10+ (5+ if a detachment)
+- Equipment: Hand weapons and light armour
+- Special Rules: Close Order; Detachment; Horde; Regimental Unit
+
+### Teutogen Guard
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Teutogen Guard | 4 | 4 | 3 | 3 | 4 | 1 | 3 | 1 | 8 |
+| First Knight | 4 | 5 | 3 | 3 | 4 | 1 | 3 | 2 | 8 |
+
+- Unit Category: Infantry
+- Troop Type: Heavy Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 5+
+- Equipment: Hand weapons, wolf hammers and full plate armour
+- Special Rules: Blessings of Ulric; Close Order; Drilled; Stubborn; Veteran
+- Optional Rules: Guardians of the Temple
+
+Guardians of the Wolf Priests: Any army made using the Empire of Man Grand Army composition list may include 0-1 unit of Teutogen Guard as a Special choice per Warrior Priest of Ulric it includes.
+
+### Veteran State Troops
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Veteran State Trooper | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Veteran Sergeant | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+
+- Unit Category: Infantry
+- Troop Type: Regular Infantry
+- Base Size: 25 x 25 mm
+- Unit Size: 10+ (5+ if a detachment)
+- Equipment: Hand weapons and light armour
+- Special Rules: Close Order; Detachment; Horde; Regimental Unit; Veteran
+- Optional Rules: Drilled
 
 ## Cavalry Units
 
+### Demigryph Knights
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Demigryph Knight | - | 4 | 3 | 4 | 4 | 3 | 4 | 1 | 8 |
+| Demigryph Preceptor | - | 4 | 3 | 4 | 4 | 3 | 4 | 2 | 8 |
+| Demigryph | 7 | 4 | - | 5 | - | - | 4 | 3 | - |
+
+- Unit Category: Cavalry
+- Troop Type: Monstrous Cavalry
+- Base Size: 50 x 75 mm
+- Unit Size: 2-12
+- Equipment (Demigryph Knights): Hand weapons, heavy armour and shields
+- Equipment (Demigryph): Wicked claws and barding
+- Special Rules: Close Order; Counter Charge; First Charge; Fear; Swiftstride
+
+### Empire Knights
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Empire Knight | - | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 8 |
+| Preceptor | - | 4 | 3 | 3 | 3 | 1 | 3 | 2 | 8 |
+| Barded Warhorse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+- Unit Category: Cavalry
+- Troop Type: Heavy Cavalry
+- Base Size: 30 x 60 mm
+- Unit Size: 4+
+- Equipment (Knights): Hand weapons, heavy armour and shields
+- Equipment (Barded Warhorse): Iron-shod hooves (counts as a hand weapon) and barding
+- Special Rules: Close Order; Counter Charge; First Charge; Swiftstride
+- Optional Rules: Drilled; Stubborn
+
+### Empire Road Wardens
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Road Warden | - | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Captain | - | 3 | 5 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+- Unit Category: Cavalry
+- Troop Type: Light Cavalry
+- Base Size: 30 x 60 mm
+- Unit Size: 4+
+- Equipment (Road Wardens): Hand weapons, crossbows and heavy armour
+- Equipment (Warhorses): Iron-shod hooves (counts as a hand weapon)
+- Special Rules: Fast Cavalry; Fire & Flee; Open Order; Skirmishers; Swiftstride; Vanguard
+- Optional Rules: Feigned Flight; Ambushers; Scouts
+
+Guardians of the Imperial Highways: Any army made using the Empire of Man Grand Army composition list may include 0-1 unit of Road Wardens as a Special choice per 1,000 points.
+
+### Inner Circle Knights
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Inner Circle Knight | - | 4 | 3 | 4 | 3 | 1 | 4 | 1 | 9 |
+| Inner Circle Preceptor | - | 4 | 3 | 4 | 3 | 1 | 4 | 2 | 9 |
+| Barded Warhorse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+- Unit Category: Cavalry
+- Troop Type: Heavy Cavalry
+- Base Size: 30 x 60 mm
+- Unit Size: 4+
+- Equipment (Inner Circle Knights): Hand weapons, full plate armour and shields
+- Equipment (Barded Warhorse): Iron-shod hooves (counts as a hand weapon) and barding
+- Special Rules: Close Order; Counter Charge; Drilled; First Charge; Inner Circle; Swiftstride; Veteran
+- Optional Rules: Stubborn
+
+### Outriders
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Outrider | - | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Sharpshooter | - | 3 | 5 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Empire Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+- Unit Category: Cavalry
+- Troop Type: Light Cavalry
+- Base Size: 30 x 60 mm
+- Unit Size: 4+
+- Equipment (Outriders): Hand weapons, pistols, repeater handguns and heavy armour
+- Equipment (Empire Warhorse): Iron-shod hooves (counts as a hand weapon)
+- Special Rules: Fast Cavalry; Fire & Flee; Open Order; Skirmishers; Swiftstride; Vanguard
+- Optional Rules: Grenade Launching Blunderbuss
+
+### Pistoliers
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pistolier | - | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 6 |
+| Veteran | - | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
+| Empire Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+- Unit Category: Cavalry
+- Troop Type: Light Cavalry
+- Base Size: 30 x 60 mm
+- Unit Size: 5+
+- Equipment (Pistoliers): Hand weapons, brace of pistols and heavy armour
+- Equipment (Empire Warhorse): Iron-shod hooves (counts as a hand weapon)
+- Special Rules: Counter Charge; Fast Cavalry; Fire & Flee; Impetuous; Open Order; Skirmishers; Swiftstride
+- Optional Rules: Grenade Launching Blunderbuss
+
 ## Chariot Units
+
+### Empire Steam Tank
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Steam Tank | 4 | - | - | 6 | 7 | 10 | - | - | - |
+| Engineer Commander (x1) | - | 3 | 4 | 3 | - | - | 3 | 1 | 8 |
+
+- Unit Category: Chariot
+- Troop Type: Heavy Chariot
+- Base Size: 60 x 100 mm
+- Unit Size: 1
+- Armour Value: 3+
+- Equipment (Steam Tank): Steam Cannon and steam gun
+- Equipment (Engineer Commander): Hand weapon
+- Special Rules: Close Order; Grinding Wheels; Immune to Psychology; Impact Hits (D6+1); Large Target; Steam Power; Stomp Attacks (D3+1); Temperamental; Terror; Unbreakable
+- Optional Rules: Hochland Long Rifle; Pigeon Bombs
+
+### Empire War Wagon
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| War Wagon | - | - | - | 5 | 5 | 6 | - | - | - |
+| War Wagon Crew (x6) | - | 3 | 3 | 3 | - | - | 3 | 1 | 8 |
+| Barded Warhorse (x2) | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+A War Wagon may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+- Unit Category: Chariot
+- Troop Type: Heavy Chariot
+- Base Size: 60 x 100 mm
+- Unit Size: 1
+- Armour Value: 3+
+- Equipment (War Wagon Crew): Hand weapons and assorted weapons
+- Equipment (Barded Warhorses): Iron-shod hooves (counts as a hand weapon)
+- Special Rules: Close Order; Crushing Weight; Impact Hits (D6+1, War Wagon only); Large Target; Stable Firing Platform; Stomp Attacks (D3+1)
+
+Engines of Destruction: Any army made using the Empire of Man Grand Army composition list may include 0-1 War Wagon as a Rare choice per 1,000 points.
+
+### War Altar of Sigmar
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| War Altar | - | - | - | 5 | 5 | 5 | - | - | - |
+| Barded Warhorse (x2) | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+A War Altar may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+- Unit Category: Chariot
+- Troop Type: Heavy Chariot
+- Base Size: 60 x 100 mm
+- Unit Size: 1
+- Armour Value: 4+
+- Equipment (Warhorses): Iron-shod hooves (counts as a hand weapon)
+- Special Rules: Close Order; First Charge; Holy Fervour; Impact Hits (D6+1); Large Target; Magic Resistance (-2); Stubborn; Symbol of Might; Terror; Witch Bane
 
 ## Monster Units
 
+### Griffon (Empire)
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Griffon | 6 | 5 | - | 5 | (+1) | (+3) | 5 | 4 | - |
+
+A Griffon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+- Unit Category: Monster
+- Troop Type: Monstrous Creature
+- Base Size: 50 x 50 mm
+- Unit Size: 1
+- Equipment: Wicked claws, serrated maw and griffonic pelt (counts as heavy armour)
+- Special Rules: Close Order; Fly (9); Large Target; Stomp Attacks (D3); Swiftstride; Terror
+
+### Imperial Griffon
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Imperial Griffon | 6 | 5 | - | 6 | (+1) | (+4) | 4 | 4 | - |
+
+An Imperial Griffon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+- Unit Category: Monster
+- Troop Type: Behemoth
+- Base Size: 60 x 100 mm
+- Unit Size: 1
+- Equipment: Wicked claws, serrated maw and griffonic pelt (counts as heavy armour)
+- Special Rules: Close Order; Fly (9); Large Target; Stomp Attacks (D3+1); Swiftstride; Terror
+- Optional Rules: Two Heads
+
 ## War Machine Units
+
+### Great Cannon
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Great Cannon | - | - | - | - | 6 | 3 | - | - | - |
+| Gun Crew | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 7 |
+
+- Unit Category: War Machine
+- Troop Type: War Machine
+- Base Size: 50 x 75 mm (war machine), 25 x 25 mm (crew)
+- Unit Size: 1
+- Equipment: Great cannon and hand weapons
+- Special Rules: Skirmishers
+- Optional Rules: Veteran
+
+### Helblaster Volley Gun (Unit)
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Helblaster Volley Gun | - | - | - | - | 6 | 3 | - | - | - |
+| Gun Crew | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 7 |
+
+- Unit Category: War Machine
+- Troop Type: War Machine
+- Base Size: 50 x 75 mm (war machine), 25 x 25 mm (crew)
+- Unit Size: 1
+- Equipment: Helblaster Volley Gun and hand weapons
+- Special Rules: Skirmishers
+
+### Helstorm Rocket Battery (Unit)
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Helstorm Rocket Battery | - | - | - | - | 6 | 3 | - | - | - |
+| Gun Crew | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 7 |
+
+- Unit Category: War Machine
+- Troop Type: War Machine
+- Base Size: 50 x 75 mm (war machine), 25 x 25 mm (crew)
+- Unit Size: 1
+- Equipment: Helstorm Rocket Battery and hand weapons
+- Special Rules: Skirmishers
+
+### Mortar
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mortar | - | - | - | - | 6 | 3 | - | - | - |
+| Gun Crew | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 7 |
+
+- Unit Category: War Machine
+- Troop Type: War Machine
+- Base Size: 50 x 75 mm (war machine), 25 x 25 mm (crew)
+- Unit Size: 1
+- Equipment: Mortar and hand weapons
+- Special Rules: Skirmishers
+- Optional Rules: Veteran
