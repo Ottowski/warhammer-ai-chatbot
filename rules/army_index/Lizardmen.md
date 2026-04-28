@@ -568,8 +568,6 @@ Single use. Before making a Casting roll, the bearer may attempt to consume a si
 
 *Extremely Common
 
-## Named Character Units
-
 ## Character Units
 
 ### Saurus Oldblood
@@ -996,5 +994,3 @@ Skink Oracle: Hand weapon
 Magic: Skink Oracle is a Level 1 Wizard who uses spells from Battle Magic or Illusion.
 
 Special Rules: Arcane Vassal, Aquatic, Close Order, Cold Blooded, Immune to Psychology, Large Target, Lore of Lustria, Primeval Roar, Stomp Attacks (2), Stubborn, Terror
-
-## War Machine Units
