@@ -572,14 +572,429 @@ Single use. Before making a Casting roll, the bearer may attempt to consume a si
 
 ## Character Units
 
+### Saurus Oldblood
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 6 | 0 | 5 | 5 | 3 | 3 | 5 | 8 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry (Character)  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon and scaly skin (counts as heavy armour)
+
+Special Rules: Cold Blooded, Furious Charge, Obsidian Blades, Rallying Cry
+
+Note that Furious Charge does not apply to this model's mount (should it have one).
+
+### Saurus Scar-Veteran
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 5 | 0 | 5 | 5 | 2 | 3 | 4 | 8 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry (Character)  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon and scaly skin (counts as heavy armour)
+
+Special Rules: Cold Blooded, Furious Charge, Obsidian Blades, Rallying Cry
+
+Note that Furious Charge does not apply to this model's mount (should it have one).
+
+### Skink Chief
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6 | 4 | 5 | 4 | 3 | 2 | 6 | 3 | 6 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry (Character)  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and calloused hide (counts as light armour)
+
+Special Rules: Aquatic, Cold Blooded, Poisoned Attacks  
+Optional Rules: Blowpipe
+
+Note that Aquatic and Poisoned Attacks do not apply to this model's mount (should it have one).
+
+### Skink Priest
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6 | 2 | 3 | 3 | 2 | 2 | 4 | 1 | 6 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry (Character)  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and calloused hide (counts as light armour)
+
+Magic: Skink Priest is a Level 1 Wizard who uses spells from Battle Magic, Elementalism, or Illusion.
+
+Special Rules: Arcane Vassal, Aquatic, Cold Blooded, Lore of Lustria
+
+Note that Aquatic does not apply to this model's mount (should it have one).
+
+### Slann Mage-Priest
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 2 | 3 | 3 | 4 | 5 | 2 | 1 | 9 |
+
+Unit Category: Character  
+Troop Type: Monstrous Creature (Character)  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Slann Mage-Priest is a Level 4 Wizard who uses spells from Battle Magic, Elementalism, High Magic, Illusion, or Necromancy.
+
+Special Rules: Arcane Shield, Close Order, Cold Blooded, Fly (8), Large Target, Lore of Lustria
+
 ## Mount Units
+
+### Cold One (Lizardmen)
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7 | 3 | - | 4 | - | - | 2 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Claws and teeth (counts as a hand weapon)
+
+Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Fear, Stupidity, Swiftstride
+
+### Ripperdactyl
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 3 | - | 4 | (+1) | (+1) | 2 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 40 mm  
+Unit Size: 1  
+Equipment: Claws and teeth (counts as a hand weapon)
+
+Special Rules: Armoured Hide (1), Cleaving Blow (Ripperdactyl only), Fear, Fly (9), Furious Charge (Ripperdactyl only), Impetuous, Swiftstride, Toad Rage
+
+### Terradon
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 3 | - | 4 | (+1) | (+1) | 2 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 40 mm  
+Unit Size: 1  
+Equipment: Claws and teeth (counts as a hand weapon)
+
+Special Rules: Armoured Hide (1), Drop Rocks, Fear, Fly (10), Swiftstride
 
 ## Infantry Units
 
+### Chameleon Skinks
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chameleon Skink | 6 | 2 | 4 | 3 | 2 | 1 | 4 | 1 | 6 |
+| Patrol Leader | 6 | 2 | 5 | 3 | 2 | 1 | 4 | 1 | 6 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, blowpipes and calloused hides (counts as light armour)
+
+Special Rules: Cold Blooded, Evasive, Move Through Cover, Scouts, Skirmishers
+
+### Jungle Swarms
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Jungle Swarm | 5 | 3 | 0 | 2 | 2 | 5 | 1 | 5 | 5 |
+
+Unit Category: Infantry  
+Troop Type: Swarm  
+Base Size: 40 x 40 mm  
+Unit Size: 3+  
+Equipment: Hand weapons
+
+Special Rules: Cold Blooded, Immune to Psychology, Loner, Move Through Cover, Poisoned Attacks, Skirmishers, Unbreakable, Vanguard
+
+### Kroxigor
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kroxigor | 6 | 3 | 0 | 5 | 4 | 3 | 3 | 3 | 7 |
+| Ancient | 6 | 3 | 0 | 5 | 4 | 3 | 3 | 4 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Monstrous Infantry  
+Base Size: 40 x 40 mm  
+Unit Size: 3+  
+Equipment: Great weapons and scaly skin (counts as heavy armour)
+
+Special Rules: Aquatic, Close Order, Cold Blooded, Fear, Skirmish Screen
+
+### Razordon Pack
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skink Handler | 6 | 2 | 3 | 3 | 2 | 1 | 4 | 1 | 5 |
+| Razordon | 6 | 3 | 4 | 5 | 4 | 3 | 4 | 2 | 4 |
+
+When writing your muster list, a Razordon Pack must contain at least three Skink handlers for every one Razordon.
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry, War Beast  
+Base Size: 25 x 25 mm (Skink Handlers), 50 x 75 mm (Razordons)  
+Unit Size: 3+/1+
+
+Equipment:  
+Skink Handlers: Hand weapons and calloused hides (counts as light armour)  
+Razordons: Wicked claws, razor barbs and scaly skin (counts as heavy armour)
+
+Special Rules: Aquatic, Beast Handlers, Cold Blooded, Fear, Skirmishers
+
+### Salamander Pack
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skink Handler | 6 | 2 | 3 | 3 | 2 | 1 | 4 | 1 | 5 |
+| Salamander | 6 | 3 | 3 | 5 | 4 | 3 | 4 | 2 | 4 |
+
+When writing your muster list, a Salamander Pack must contain at least three Skink handlers for every one Salamander.
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry, War Beast  
+Base Size: 25 x 25 mm (Skink Handlers), 50 x 75 mm (Salamanders)  
+Unit Size: 3+/1+
+
+Equipment:  
+Skink Handlers: Hand weapons and calloused hides (counts as light armour)  
+Salamanders: Wicked claws, fiery breath and scaly skin (counts as heavy armour)
+
+Special Rules: Aquatic, Beast Handlers, Cold Blooded, Fear, Skirmishers
+
+### Saurus Warriors
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Saurus Warrior | 4 | 3 | 0 | 4 | 4 | 1 | 1 | 2 | 8 |
+| Spawn Leader | 4 | 3 | 0 | 4 | 4 | 1 | 1 | 3 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 10+  
+Equipment: Hand weapons, scaly skin (counts as heavy armour) and shields
+
+Special Rules: Close Order, Cold Blooded, Obsidian Blades  
+Optional Rules: Shieldwall
+
+### Skink Skirmishers
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skink | 6 | 2 | 3 | 3 | 2 | 1 | 4 | 1 | 5 |
+| Patrol Leader | 6 | 2 | 4 | 3 | 2 | 1 | 4 | 1 | 5 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons and calloused hides (counts as light armour)
+
+Special Rules: Cold Blooded, Move Through Cover, Poisoned Attacks (javelins only), Skirmishers  
+Optional Rules: Blowpipes, Scouts, Vanguard
+
+### Temple Guard
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Temple Guard | 4 | 4 | 0 | 4 | 4 | 1 | 1 | 2 | 8 |
+| Revered Guardian | 4 | 4 | 0 | 4 | 4 | 1 | 1 | 3 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 10+  
+Equipment: Hand weapons, halberds, scaly skin (counts as heavy armour) and shields
+
+Special Rules: Close Order, Cold Blooded, Guardians, Obsidian Blades, Shieldwall, Stubborn
+
 ## Cavalry Units
+
+### Cold One Riders
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cold One Rider | - | 4 | 0 | 4 | 4 | 1 | 2 | 2 | 8 |
+| Pack Leader | - | 4 | 0 | 4 | 4 | 1 | 2 | 3 | 8 |
+| Cold One | 7 | 3 | - | 4 | - | - | 2 | 2 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+
+
+Equipment:  
+Cold One Riders: Hand weapons, scaly skin (counts as heavy armour) and shields  
+Cold Ones: Claws and teeth (counts as a hand weapon)
+
+Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Close Order, Cold Blooded, Fear, Obsidian Blades, Stupidity, Swiftstride  
+Optional Rules: Drilled
+
+### Ripperdactyl Riders
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ripperdactyl Rider | - | 2 | 3 | 3 | 3 | 2 | 4 | 1 | 5 |
+| Ripperdactyl Champion | - | 2 | 3 | 3 | 3 | 2 | 4 | 2 | 5 |
+| Ripperdactyl | 2 | 3 | - | 4 | - | - | 3 | 2 | - |
+
+Unit Category: Cavalry  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 40 mm  
+Unit Size: 3+
+
+Equipment:  
+Ripperdactyl Riders: Cavalry spears, calloused hides (counts as light armour) and shields  
+Ripperdactyls: Claws and teeth (counts as a hand weapon)
+
+Special Rules: Armoured Hide (1), Cleaving Blow (Ripperdactyl only), Cold Blooded, Fear, Fly (9), Furious Charge (Ripperdactyl only), Impetuous, Skirmishers, Swiftstride, Toad Rage
+
+### Terradon Riders
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Terradon Rider | - | 2 | 3 | 3 | 3 | 2 | 4 | 1 | 5 |
+| Sky Leader | - | 2 | 4 | 3 | 3 | 2 | 4 | 1 | 5 |
+| Terradon | 2 | 3 | - | 4 | - | - | 2 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 40 mm  
+Unit Size: 3+
+
+Equipment:  
+Terradon Riders: Hand weapons, calloused hide (counts as light armour) and javelins  
+Terradons: Claws and teeth (counts as a hand weapon)
+
+Special Rules: Armoured Hide (1), Cold Blooded, Drop Rocks, Fear, Fly (10), Poisoned Attacks (javelins only), Skirmishers, Swiftstride  
+Optional Rules: Fireleech Bolas
 
 ## Chariot Units
 
 ## Monster Units
+
+### Ancient Stegadon
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ancient Stegadon | 6 | 4 | - | 6 | 6 | 5 | 1 | 3 | - |
+| Skink Crew (x5) | - | 2 | 3 | 3 | - | - | 4 | 1 | 6 |
+
+An Ancient Stegadon may be included in your army as a character's mount. If so, its points are added to that of its rider. Note that, because it has the Howdah special rule, an Ancient Stegadon is considered to be a chariot mount, rather than a ridden monster.
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+
+
+Equipment:  
+Ancient Stegadon: Great horns and giant bow  
+Skink Crew: Hand weapons and javelins
+
+Special Rules: Close Order, Cold Blooded, Howdah, Immune to Psychology, Impact Hits (D3+1), Large Target, Poisoned Attacks (javelins only), Stomp Attacks (D3+2), Stubborn, Terror  
+Optional Rules: Giant Blowpipes, Engine of the Gods
+
+### Bastiladon
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bastiladon | 4 | 3 | - | 4 | 5 | 4 | 1 | 3 | - |
+| Skink Crew (x3) | - | 2 | 3 | 3 | - | - | 4 | 1 | 6 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Armour Value: 3+
+
+Equipment:  
+Bastiladon: Thunderous bludgeon and Ark of Sotek  
+Skink Crew: Hand weapons and javelins
+
+Special Rules: Close Order, Cold Blooded, Immune to Psychology, Impact Hits (D3), Impervious Defence, Large Target, Poisoned Attacks (javelins only), Stomp Attacks (D3+1), Stubborn, Terror  
+Optional Rules: Solar Engine
+
+### Carnosaur
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Carnosaur | 7 | 3 | 0 | 7 | (+1) | (+4) | 2 | 4 | - |
+
+A Carnosaur may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Equipment: Slashing talons and scaly skin (counts as heavy armour)
+
+Special Rules: Blood Frenzy, Close Order, Cold Blooded, Large Target, Stomp Attacks (2), Swiftstride, Terror
+
+### Stegadon
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stegadon | 6 | 3 | - | 5 | 6 | 5 | 2 | 4 | - |
+| Skink Crew (x5) | - | 2 | 3 | 3 | - | - | 4 | 1 | 6 |
+
+A Stegadon may be included in your army as a character's mount. If so, its points are added to that of its rider. Note that, because it has the Howdah special rule, a Stegadon is considered to be a chariot mount, rather than a ridden monster.
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+
+
+Equipment:  
+Stegadon: Great horns and giant bow  
+Skink Crew: Hand weapons and javelins
+
+Special Rules: Close Order, Cold Blooded, Howdah, Immune to Psychology, Impact Hits (D3+1), Large Target, Poisoned Attacks (javelins only), Stomp Attacks (D3+2), Stubborn, Terror  
+Optional Rules: Giant Blowpipes
+
+### Troglodon
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Troglodon | 7 | 3 | - | 5 | 5 | 5 | 2 | 3 | - |
+| Skink Oracle | - | 2 | 3 | 3 | - | - | 4 | 1 | 8 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 100 mm  
+Unit Size: 1
+
+Equipment:  
+Troglodon: Venomous talons, venom spray and scaly skin (counts as heavy armour)  
+Skink Oracle: Hand weapon
+
+Magic: Skink Oracle is a Level 1 Wizard who uses spells from Battle Magic or Illusion.
+
+Special Rules: Arcane Vassal, Aquatic, Close Order, Cold Blooded, Immune to Psychology, Large Target, Lore of Lustria, Primeval Roar, Stomp Attacks (2), Stubborn, Terror
 
 ## War Machine Units
