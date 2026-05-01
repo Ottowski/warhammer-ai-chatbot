@@ -1079,16 +1079,1096 @@ Orc Shamans, Goblin Shamans and Night Goblin Shamans only. In addition to the Lo
 
 ## Named Character Units
 
+### Kiknik Toofsnatcha
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kiknik Toofsnatcha | 4 | 5 | 3 | 4 | 4 | 3 | 5 | 4 | 8 |
+| Chompa | 9 | 3 | - | 4 | - | - | 3 | 2 | - |
+
+Kiknik Toofsnatcha is a Goblin Warboss. He may be included in any Orc & Goblin Tribes army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character
+
+Troop Type: Light Cavalry (Named Character)
+
+Base Size: 25 x 50 mm
+
+Unit Size: 1
+
+Equipment:
+
+Kiknik Toofsnatcha: Da Boss's Trophy Rack, Da Skull Smasha, cavalry spear, shield and light armour
+
+Chompa: Claws and fangs (counts as a hand weapon)
+
+Magic Items / Abilities: Da Skull Smasha, Da Boss' Trophy Rack
+
+Special Rules: All Sneaky Like, Ambushers, Armour Bane (1, Chompa only), Armoured Hide (1), Chariot Runners, Fast Cavalry, Fear of Elves, Impetuous, 'It & Run, Rallying Cry, Swiftstride, Warband
+
+### Ogdruz Swampdigga
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ogdruz Swampdigga | 4 | 4 | 2 | 4 | 5 | 3 | 4 | 2 | 8 |
+
+Ogdruz Swampdigga is an Orc Weirdnob. He may be included in any Orc & Goblin Tribes army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character
+
+Troop Type: Regular Infantry (Named Character)
+
+Base Size: 30 x 30 mm
+
+Unit Size: 1
+
+Equipment: Bog-wood Staff, Trollhide Shawl and Lore Familiar
+
+Magic: Ogdruz Swampdigga is a Level 3 Wizard. He knows spells from the following Lores of Magic: Elementalism, Troll Magic
+
+Magic Items / Abilities: Bog-wood Staff, Trollhide Shawl, Lore Familiar
+
+Special Rules: Choppas, Da Troll Calla, Ignore Goblin Panic, Protect Da Boss, Syphoned Strength, Warband
+
 ## Character Units
+
+### Black Orc Bigboss
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Black Orc Bigboss | 4 | 6 | 3 | 4 | 5 | 2 | 5 | 3 | 8 |
+
+Unit Category: Character
+
+Troop Type: Heavy Infantry (Character)
+
+Base Size: 30 x 30 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon and full plate armour
+
+Special Rules: Choppas, Da Boyz, Furious Charge, Ignore Panic, Quell Impetuosity, Rallying Cry, Waaagh!
+
+Note that Furious Charge does not apply to this model's mount (should it have one).
+
+### Black Orc Warboss
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Black Orc Warboss | 4 | 7 | 3 | 5 | 5 | 3 | 6 | 4 | 9 |
+
+Unit Category: Character
+
+Troop Type: Heavy Infantry (Character)
+
+Base Size: 30 x 30 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon and full plate armour
+
+Special Rules: Choppas, Da Boyz, Furious Charge, Ignore Panic, Quell Impetuosity, Rallying Cry, Waaagh!
+
+Note that Furious Charge does not apply to this model's mount (should it have one).
+
+### Goblin Bigboss
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Goblin Bigboss | 4 | 4 | 3 | 4 | 4 | 2 | 4 | 3 | 6 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Special Rules: Fear of Elves, Impetuous, Rallying Cry, Warband
+
+### Goblin Oddgit
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Goblin Oddgit | 4 | 3 | 3 | 3 | 3 | 2 | 3 | 1 | 6 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Magic: Goblin Oddgit is a Level 1 Wizard who uses spells from Elementalism, or Waaagh! Magic.
+
+Special Rules: Fear of Elves, Lore of Mork, Warband
+
+### Goblin Oddnob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Goblin Oddnob | 4 | 4 | 3 | 3 | 4 | 3 | 4 | 2 | 7 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Magic: Goblin Oddnob is a Level 3 Wizard who uses spells from Elementalism, or Waaagh! Magic.
+
+Special Rules: Fear of Elves, Lore of Mork, Warband
+
+### Goblin Warboss
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Goblin Warboss | 4 | 5 | 3 | 4 | 4 | 3 | 5 | 4 | 7 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Special Rules: Fear of Elves, Impetuous, Rallying Cry, Warband
+
+### Night Goblin Bigboss
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Night Goblin Bigboss | 4 | 4 | 3 | 4 | 4 | 2 | 4 | 3 | 5 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Special Rules: Fear of Elves, Hatred (Dwarfs), Rallying Cry, Warband
+
+### Night Goblin Oddgit
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Night Goblin Oddgit | 4 | 3 | 3 | 3 | 3 | 2 | 3 | 1 | 5 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Magic: Night Goblin Oddgit is a Level 1 Wizard who uses spells from Illusion, or Waaagh! Magic.
+
+Special Rules: Fear of Elves, Hatred (Dwarfs), Lore of Mork, Warband
+
+### Night Goblin Oddnob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Night Goblin Oddnob | 4 | 4 | 3 | 3 | 4 | 3 | 4 | 2 | 6 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Magic: Night Goblin Oddnob is a Level 3 Wizard who uses spells from Illusion, or Waaagh! Magic.
+
+Special Rules: Fear of Elves, Hatred (Dwarfs), Lore of Mork, Warband
+
+### Night Goblin Warboss
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Night Goblin Warboss | 4 | 5 | 3 | 4 | 4 | 3 | 5 | 4 | 6 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Special Rules: Fear of Elves, Hatred (Dwarfs), Rallying Cry, Warband
+
+### Orc Bigboss
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Orc Bigboss | 4 | 5 | 2 | 4 | 5 | 2 | 4 | 3 | 7 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 30 x 30 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon and light armour
+
+Special Rules: Choppas, Furious Charge, Ignore Goblin Panic, Impetuous, Rallying Cry, Waaagh!, Warband
+
+Optional Rules: Frenzy, Warpaint
+
+Note that Furious Charge does not apply to this model's mount (should it have one).
+
+### Orc Warboss
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Orc Warboss | 4 | 6 | 2 | 5 | 5 | 3 | 5 | 4 | 8 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 30 x 30 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon and light armour
+
+Special Rules: Choppas, Furious Charge, Ignore Goblin Panic, Impetuous, Rallying Cry, Waaagh!, Warband
+
+Optional Rules: Frenzy, Warpaint
+
+Note that Furious Charge does not apply to this model's mount (should it have one).
+
+### Orc Weirdboy
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Orc Weirdboy | 4 | 3 | 2 | 3 | 4 | 2 | 3 | 1 | 7 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 30 x 30 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Magic: Orc Weirdboy is a Level 1 Wizard who uses spells from Battle Magic, Elementalism, or Waaagh! Magic.
+
+Special Rules: Choppas, Ignore Goblin Panic, Lore of Gork, Mob Rule, Warband
+
+### Orc Weirdnob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Orc Weirdnob | 4 | 4 | 2 | 4 | 5 | 3 | 4 | 2 | 8 |
+
+Unit Category: Character
+
+Troop Type: Regular Infantry (Character)
+
+Base Size: 30 x 30 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon
+
+Magic: Orc Weirdnob is a Level 3 Wizard who uses spells from Battle Magic, Elementalism, or Waaagh! Magic.
+
+Special Rules: Choppas, Ignore Goblin Panic, Lore of Gork, Mob Rule, Warband
+
+### Troll Hag
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Troll Hag | 5 | 2 | 2 | 6 | 5 | 6 | 2 | 3 | 8 |
+
+Any army made using the Orc & Goblin Tribes Grand Army composition list that includes one or more Troll Mobs may include 0-1 Troll Hag as a Rare choice.
+
+Unit Category: Character
+
+Troop Type: Behemoth (Character)
+
+Base Size: 60 x 100 mm
+
+Unit Size: 1
+
+Equipment: Gnarled stump (counts as a hand weapon), Troll vomit, swamp breath and scaly skin (counts as heavy armour)
+
+Magic: Troll Hag is a Level 1 Wizard who uses spells from Battle Magic, or Lore of Troll Magic.
+
+Special Rules: Close Order, Flammable, Immune to Psychology, Indiscriminate Hunger, Large Target, Motherly Love, Regeneration (5+), Slimy Shanks, Stomp Attacks (D6), Stupidity, Terror, Timmm-berrr!, Unbreakable
+
+Troll Mother: Any army made using the Orc & Goblin Tribes Grand Army composition list that includes one or more Troll Mobs may include 0-1 Troll Hag as a Rare choice.
 
 ## Mount Units
 
+### Giant Cave Squig
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Giant Cave Squig | 3D6 | 4 | - | 5 | - | (+1) | 3 | 3 | - |
+
+Unit Category: Mount
+
+Troop Type: Monstrous Cavalry
+
+Base Size: 50 x 50 mm
+
+Unit Size: 1
+
+Equipment: Massive Gob
+
+Special Rules: Armoured Hide (1), Hatred (Dwarfs), Impact Hits (D3), Loner, Random Movement
+
+### Giant Wolf
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Giant Wolf | 9 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Mount
+
+Troop Type: Light Cavalry
+
+Base Size: 25 x 50 mm
+
+Unit Size: 1
+
+Equipment: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Chariot Runners, Fast Cavalry, Fire & Flee, Swiftstride
+
+### Gigantic Spider
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gigantic Spider | 7 | 4 | - | 4 | - | (+1) | 4 | 3 | - |
+
+Unit Category: Mount
+
+Troop Type: Light Cavalry
+
+Base Size: 50 x 50 mm
+
+Unit Size: 1
+
+Equipment: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Armoured Hide (1), Fast Cavalry, Move Through Cover, Poisoned Attacks, Swiftstride
+
+### War Boar
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| War Boar | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Mount
+
+Troop Type: Heavy Cavalry
+
+Base Size: 30 x 60 mm
+
+Unit Size: 1
+
+Equipment: Tusks (counts as a hand weapon)
+
+Special Rules: Armoured Hide (1), Counter Charge, Swiftstride, Tusker Charge
+
 ## Infantry Units
+
+### Badlands Ogre Bulls
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ogre | 6 | 3 | 2 | 4 | 4 | 3 | 2 | 3 | 7 |
+| Crusher | 6 | 3 | 2 | 4 | 4 | 3 | 2 | 4 | 7 |
+
+Unit Category: Infantry
+
+Troop Type: Monstrous Infantry
+
+Base Size: 40 x 40 mm
+
+Unit Size: 3+
+
+Equipment: Hand weapons and light armour
+
+Special Rules: Armour Bane (1), Close Order, Fear, Impact Hits (1), Mercenaries, Motley Crew, Ogre Charge
+
+Optional Rules: Ironfist
+
+Dogs of War: Badlands Ogre Bulls may be taken as Mercenaries in any army made using any Grand Army composition list that includes a Mercenaries category.
+
+### Black Orc Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Black Orc | 4 | 4 | 3 | 4 | 4 | 1 | 3 | 1 | 8 |
+| Black Orc Boss | 4 | 4 | 3 | 4 | 4 | 1 | 3 | 2 | 8 |
+
+Unit Category: Infantry
+
+Troop Type: Heavy Infantry
+
+Base Size: 30 x 30 mm
+
+Unit Size: 5+
+
+Equipment: Hand weapons and full plate armour
+
+Special Rules: Choppas, Close Order, Da Boyz, Furious Charge, Ignore Panic, Motley Crew, Quell Impetuosity
+
+Optional Rules: Stubborn, Veteran
+
+### Common Troll Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Common Troll | 6 | 3 | 1 | 5 | 4 | 3 | 2 | 3 | 4 |
+
+Unit Category: Infantry
+
+Troop Type: Monstrous Infantry
+
+Base Size: 40 x 40 mm
+
+Unit Size: 1-9
+
+Equipment: Hand weapons, Troll vomit and calloused hides (counts as light armour)
+
+Special Rules: Armour Bane (1), Close Order, Fear, Flammable, Motley Crew, Regeneration (5+), Stupidity
+
+### Fanatic
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fanatic | * | * | * | 5 | 3 | 1 | 5 | * | 10 |
+
+Unit Category: Infantry
+
+Troop Type: Regular Infantry
+
+Base Size: 25 mm (round base)
+
+Unit Size: 1
+
+Equipment: Fanatic ball & chain
+
+Special Rules: Immune to Psychology, Release the Fanatics!
+
+### Goblin Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Goblin | 4 | 2 | 3 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Boss | 4 | 2 | 3 | 3 | 3 | 1 | 2 | 2 | 6 |
+
+Unit Category: Infantry
+
+Troop Type: Regular Infantry
+
+Base Size: 25 x 25 mm
+
+Unit Size: 10+
+
+Equipment: Hand weapons and shields
+
+Special Rules: Close Order, Fear of Elves, Horde, Impetuous, Warband
+
+Optional Rules: Skirmishers
+
+### Nasty Skulker
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nasty Skulker | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 2 | 6 |
+
+Unit Category: Infantry
+
+Troop Type: Regular Infantry
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1
+
+Equipment: Hand weapon and light armour
+
+Special Rules: Armour Bane (2), Fear of Elves, Horde, Skulking Menace, Strike First
+
+### Night Goblin Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Night Goblin | 4 | 2 | 3 | 3 | 3 | 1 | 3 | 1 | 4 |
+| Boss | 4 | 2 | 3 | 3 | 3 | 1 | 3 | 2 | 5 |
+
+Unit Category: Infantry
+
+Troop Type: Regular Infantry
+
+Base Size: 25 x 25 mm
+
+Unit Size: 10+
+
+Equipment: Hand weapons and shields
+
+Special Rules: Close Order, Fear of Elves, Hatred (Dwarfs), Horde, Warband
+
+Optional Rules: Netters
+
+### Night Goblin Squig Herd
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Squig Herder | 4 | 2 | 3 | 3 | 3 | 1 | 3 | 1 | 6 |
+| Cave Squig | 4 | 4 | - | 5 | 3 | 1 | 4 | 2 | 3 |
+
+When writing your muster list, a Night Goblin Squig Herd must contain at least one Squig Herder for every five Cave Squigs. Cave Squigs always occupy the front rank(s) of the unit, pushing past any Squig Herders to get there if necessary (such as when the unit turns).
+
+Unit Category: Infantry
+
+Troop Type: Regular Infantry
+
+Base Size: 25 x 25 mm
+
+Unit Size: 1+/5+
+
+Equipment:
+
+Squig Herders: Assorted squig-herding implements (counts as hand weapons)
+
+Cave Squigs: Huge gobs
+
+Special Rules: Hatred (Dwarfs), Immune to Psychology, Impetuous, Loner, Motley Crew, Open Order, Skirmishers, Squigs Go Wild, Warband
+
+### Orc Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Orc Boy | 4 | 3 | 3 | 3 | 4 | 1 | 3 | 1 | 6 |
+| Boss | 4 | 3 | 3 | 3 | 4 | 1 | 3 | 2 | 7 |
+
+Unit Category: Infantry
+
+Troop Type: Regular Infantry
+
+Base Size: 30 x 30 mm
+
+Unit Size: 5+
+
+Equipment: Hand weapons and light armour
+
+Special Rules: Choppas, Close Order, Ignore Goblin Panic, Impetuous, Warband
+
+Optional Rules: Frenzy, Warpaint, Big Stabbas, Big 'Uns, Skirmishers
+
+### River Troll Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| River Troll | 6 | 3 | 1 | 5 | 4 | 4 | 1 | 3 | 4 |
+
+Unit Category: Infantry
+
+Troop Type: Monstrous Infantry
+
+Base Size: 40 x 40 mm
+
+Unit Size: 1-9
+
+Equipment: Hand weapons, Troll vomit and calloused hides (counts as light armour)
+
+Special Rules: Armour Bane (1), Close Order, Fear, Flammable, Motley Crew, Regeneration (5+), Stupidity
+
+### Snotling Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Snotlings | 5 | 2 | 2 | 2 | 2 | 6 | 3 | 5 | 4 |
+
+Unit Category: Infantry
+
+Troop Type: Swarm
+
+Base Size: 40 x 40 mm
+
+Unit Size: 2+
+
+Equipment: Hand weapons and throwing weapons
+
+Special Rules: Immune to Psychology, Impetuous, Loner, Open Order, Skirmishers, Unbreakable, Vanguard
+
+### Stone Troll Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stone Troll | 6 | 3 | 1 | 5 | 4 | 3 | 1 | 3 | 5 |
+
+Unit Category: Infantry
+
+Troop Type: Monstrous Infantry
+
+Base Size: 40 x 40 mm
+
+Unit Size: 1-9
+
+Equipment: Hand weapons, Troll vomit and calloused hides (counts as light armour)
+
+Special Rules: Armour Bane (1), Armoured Hide (1), Close Order, Fear, Flammable, Magic Resistance (-1), Motley Crew, Regeneration (5+), Stupidity
 
 ## Cavalry Units
 
+### Goblin Spider Rider Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Spider Rider | - | 2 | 3 | 3 | 3 | 1 | 3 | 1 | 5 |
+| Boss | - | 2 | 3 | 3 | 3 | 1 | 3 | 2 | 6 |
+| Giant Spider | 7 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Cavalry
+
+Troop Type: Light Cavalry
+
+Base Size: 25 x 50 mm
+
+Unit Size: 5+
+
+Equipment:
+
+Spider Riders: Hand weapons and shields
+
+Giants Spiders: Poisonous fangs (counts as hand weapons)
+
+Special Rules: Fast Cavalry, Fear of Elves, Impetuous, Move Through Cover, Open Order, Poisoned Attacks, Swiftstride, Warband
+
+### Goblin Wolf Rider Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wolf Rider | - | 2 | 3 | 3 | 3 | 1 | 3 | 1 | 5 |
+| Boss | - | 2 | 3 | 3 | 3 | 1 | 3 | 2 | 6 |
+| Giant Wolf | 9 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry
+
+Troop Type: Light Cavalry
+
+Base Size: 25 x 50 mm
+
+Unit Size: 5+
+
+Equipment:
+
+Wolf Riders: Hand weapons and shields
+
+Giant Wolves: Claws and fangs (counts as hand weapons)
+
+Special Rules: Chariot Runners, Fast Cavalry, Fear of Elves, Fire & Flee, Impetuous, Open Order, Skirmishers, Swiftstride, Warband
+
+### Night Goblin Squig Hopper Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Squig Hopper | - | 2 | 3 | 3 | 3 | 1 | 3 | 1 | 5 |
+| Boss | - | 2 | 3 | 3 | 3 | 1 | 3 | 2 | 6 |
+| Bounder Squig | 3D6 | 4 | - | 5 | - | - | 4 | 2 | - |
+
+Unit Category: Cavalry
+
+Troop Type: Light Cavalry
+
+Base Size: 25 x 25 mm
+
+Unit Size: 5+
+
+Equipment:
+
+Squig Hoppers: Hand weapons
+
+Bounder Squigs: Huge gobs
+
+Special Rules: Hatred (Dwarfs), Immune to Psychology, Impact Hits (1), Loner, Open Order, Random Movement, Skirmishers, Warband
+
+### Orc Boar Boy Mob
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Boar Boy | - | 3 | 3 | 3 | 4 | 1 | 3 | 1 | 6 |
+| Boss | - | 3 | 3 | 3 | 4 | 1 | 3 | 2 | 7 |
+| War Boar | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry
+
+Troop Type: Heavy Cavalry
+
+Base Size: 30 x 60 mm
+
+Unit Size: 4+
+
+Equipment:
+
+Boar Boyz: Hand weapons and light armour
+
+War Boars: Tusks (counts as hand weapons)
+
+Special Rules: Armoured Hide (1), Choppas, Close Order, Counter Charge, Furious Charge (Riders only), Ignore Goblin Panic, Impetuous, Swiftstride, Tusker Charge, Warband
+
+Optional Rules: Frenzy, Warpaint, Big Stabbas, Big 'Uns, Skirmishers
+
 ## Chariot Units
+
+### Black Orc Boar Chariot
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 5 | 5 | 4 | - | - | - |
+| Black Orc Crew (x2) | - | 4 | 3 | 4 | 4 | - | 3 | 1 | 8 |
+| War Boars (x2) | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+A Black Orc Boar Chariot may be included in your army as a character's mount, as follows. If so, its points are added to that of its rider.
+
+Unit Category: Chariot
+
+Troop Type: Heavy Chariot
+
+Base Size: 50 x 100 mm
+
+Unit Size: 1
+
+Armour Value: 3+
+
+Equipment:
+
+Black Orc Crew: Hand weapons
+
+War Boars: Tusks (counts as hand weapons)
+
+Special Rules: Choppas, Close Order, First Charge, Furious Charge (Black Orc Crew only), Ignore Panic, Impact Hits (D6+1), Tusker Charge
+
+### Goblin Wolf Chariot
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 5 | 4 | 3 | - | - | - |
+| Goblin Crew (x3) | - | 2 | 3 | 3 | - | - | 3 | 1 | 6 |
+| Giant Wolves (x2) | 9 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+A Goblin Wolf Chariot may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Chariot
+
+Troop Type: Light Chariot
+
+Base Size: 50 x 100 mm (two wolves), 60 x 100 mm (three wolves)
+
+Unit Size: 1-5
+
+Armour Value: 5+
+
+Equipment:
+
+Goblin Crew: Hand weapons, cavalry spears and shortbows
+
+Giant Wolves: Claws and fangs (counts as hand weapons)
+
+Special Rules: Fear of Elves, Impact Hits (D3+1), Impetuous, Open Order, Swiftstride, Warband
+
+### Orc Boar Chariot
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 5 | 5 | 4 | - | - | - |
+| Orc Crew (x2) | - | 3 | 3 | 3 | - | - | 3 | 1 | 7 |
+| War Boars (x2) | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+An Orc Boar Chariot may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Chariot
+
+Troop Type: Heavy Chariot
+
+Base Size: 50 x 100 mm
+
+Unit Size: 1
+
+Armour Value: 4+
+
+Equipment:
+
+Orc Crew: Hand weapons and cavalry spears
+
+War Boars: Tusks (counts as hand weapons)
+
+Special Rules: Choppas, Close Order, First Charge, Ignore Goblin Panic, Impact Hits (D6+1), Impetuous, Tusker Charge, Warband
+
+Optional Rules: Frenzy, Warpaint
+
+### Snotling Pump Wagon
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pump Wagon | 2D6 | - | - | 4 | 4 | 3 | - | - | - |
+| Snotling Crew (x6) | - | 2 | 2 | 2 | - | - | 3 | 1 | 4 |
+
+Unit Category: Chariot
+
+Troop Type: Light Chariot
+
+Base Size: 50 x 75 mm (min), 50 x 100 mm (max)
+
+Unit Size: 1-6
+
+Armour Value: 6+
+
+Equipment:
+
+Snotling Crew: Hand weapons and throwing weapons
+
+Special Rules: Armour Bane (3, Pump Wagon Impact Hits only), Immune to Psychology, Impact Hits (D3+1), Loner, Open Order, Random Movement
 
 ## Monster Units
 
+### Arachnarok Spider
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Arachnarok Spider | 7 | 4 | - | 5 | 6 | 7 | 4 | 6 | - |
+| Goblin Crew (x8) | - | 2 | 3 | 3 | - | - | 3 | 1 | 7 |
+
+Unit Category: Monster
+
+Troop Type: Behemoth
+
+Base Size: 100 x 150 mm
+
+Unit Size: 1
+
+Armour Value: 4+
+
+Equipment:
+
+Arachnarok Spider: Poisonous fangs (counts as a hand weapon) and venom surge
+
+Goblin Crew: Hand weapons, cavalry spears and shortbows
+
+Special Rules: Close Order, Howdah, Immune to Psychology, Large Target, Move Through Cover, Poisoned Attacks, Stomp Attacks (D6), Stubborn, Swiftstride, Terror
+
+Optional Rules: Spidersilk Lobber
+
+An Arachnarok Spider may be included in your army as a character's mount. If so, its points are added to that of its rider. Note that, because it has the Howdah special rule (and its own crew, which the character joins), an Arachnarok Spider is considered to be a chariot mount, rather than a ridden monster.
+
+### Bonegrinder Giant
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bonegrinder Giant | 6 | 3 | 1 | 7 | 6 | 8 | 3 | * | 10 |
+
+Unit Category: Monster
+
+Troop Type: Behemoth
+
+Base Size: 50 x 100 mm (min) 100 x 150 mm (max)
+
+Unit Size: 1
+
+Equipment: Bonegrinder Giant's club and calloused hide (counts as light armour)
+
+Special Rules: Bonegrinder Giant Attacks, Close Order, Immune to Psychology, Large Target, Mercenaries, Stomp Attacks (D6+1), Terror, Timmm-berrr!, Unbreakable
+
+Dogs of War: 0-1 Bonegrinder Giant may be taken as a Mercenary in any of the following Grand Army composition lists:
+
+Orc & Goblin Tribes
+
+Warriors of Chaos
+
+Beastmen Brayherds
+
+### Giant
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Giant | 6 | 3 | 1 | 6 | 6 | 6 | 2 | * | 10 |
+
+Unit Category: Monster
+
+Troop Type: Behemoth
+
+Base Size: 50 x 50 mm (min), 50 x 75 mm (max)
+
+Unit Size: 1
+
+Equipment: Giant's club and calloused hide (counts as light armour)
+
+Special Rules: Close Order, Giant Attacks, Immune to Psychology, Large Target, Pick Up And…, Stomp Attacks (D6), Terror, Timmm-berrr!, Unbreakable
+
+### Mangler Squigs
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mangler Squig | 3D6 | 4 | 0 | 6 | 5 | 4 | 3 | D6 | 4 |
+
+Unit Category: Monster
+
+Troop Type: Behemoth
+
+Base Size: 50 x 75 mm
+
+Unit Size: 1
+
+Equipment: Colossal fang-filled gob and scaly skin (counts as heavy armour)
+
+Special Rules: Close Order, Hatred (Dwarfs), Immune to Psychology, Impact Hits (D6), Ker-splat, Large Target, Random Attacks, Random Movement, Spiked Ball & Chains, Stomp Attacks (D3), Timmm-berrr!
+
+### Wyvern
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wyvern | 4 | 5 | - | 6 | (+1) | (+4) | 3 | 3 | - |
+
+A Wyvern may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster
+
+Troop Type: Monstrous Creature
+
+Base Size: 50 x 100 mm
+
+Unit Size: 1
+
+Equipment: Wicked claws, venomous tail and scaly skin (counts as heavy armour)
+
+Special Rules: Close Order, Fly (9), Large Target, Stomp Attacks (D3), Swiftstride, Terror
+
 ## War Machine Units
+
+### Doom Diver Catapult
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Doom Diver Catapult | - | - | - | - | 5 | 3 | - | - | - |
+| Goblin Crew | 4 | 2 | 3 | 3 | 3 | 3 | 3 | 3 | 4 |
+
+Unit Category: War Machine
+
+Troop Type: War Machine
+
+Base Size: 50 x 75 mm (war machine), 25 x 25 mm (crew)
+
+Unit Size: 1
+
+Equipment: Doom Diver catapult (counts as stone thrower) and hand weapons
+
+Special Rules: Doom Diver, Fear of Elves, Skirmishers
+
+### Goblin Bolt Throwa
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bolt Throwa | - | - | - | - | 5 | 3 | - | - | - |
+| Goblin Crew | 4 | 2 | 3 | 3 | 3 | 3 | 3 | 3 | 4 |
+
+Unit Category: War Machine
+
+Troop Type: War Machine
+
+Base Size: 50 x 50 mm (war machine), 25 x 25 mm (crew)
+
+Unit Size: 1
+
+Equipment: Bolt thrower and hand weapons
+
+Special Rules: Fear of Elves, Skirmishers
+
+### Goblin Rock Lobber
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rock Lobber | - | - | - | - | 6 | 4 | - | - | - |
+| Goblin Crew | 4 | 2 | 3 | 3 | 3 | 4 | 3 | 3 | 4 |
+
+Unit Category: War Machine
+
+Troop Type: War Machine
+
+Base Size: 60 x 100 mm (war machine), 25 x 25 mm (crew)
+
+Unit Size: 1
+
+Equipment: Stone thrower and hand weapons
+
+Special Rules: Fear of Elves, Skirmishers
+
+### Orc Bully
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Orc Bully | 4 | 3 | 3 | 3 | 4 | 1 | 3 | 2 | 7 |
+| Doom Diver Catapult | - | - | - | - | 5 | 3 | - | - | - |
+| Goblin Crew | 4 | 2 | 3 | 3 | 3 | 3 | 3 | 3 | 4 |
+| Bolt Throwa | - | - | - | - | 5 | 3 | - | - | - |
+| Goblin Crew | 4 | 2 | 3 | 3 | 3 | 3 | 3 | 3 | 4 |
+| Rock Lobber | - | - | - | - | 6 | 4 | - | - | - |
+| Goblin Crew | 4 | 2 | 3 | 3 | 3 | 4 | 3 | 3 | 4 |
+
+Unit Category: War Machine
+
+Troop Type (Orc Bully): Regular Infantry
+
+Troop Type (Doom Diver Catapult): War Machine
+
+Troop Type (Bolt Throwa): War Machine
+
+Troop Type (Rock Lobber): War Machine
+
+Base Size: 30 x 30 mm
+
+Unit Size: 1
+
+Equipment (Orc Bully): Hand weapon and whip
+
+Equipment (Doom Diver Catapult): Doom Diver catapult (counts as stone thrower) and hand weapons
+
+Equipment (Bolt Throwa): Bolt thrower and hand weapons
+
+Equipment (Rock Lobber): Stone thrower and hand weapons
+
+Special Rules (Orc Bully): Bully, Choppas
+
+Special Rules (Doom Diver Catapult): Doom Diver, Fear of Elves, Skirmishers
+
+Special Rules (Bolt Throwa): Fear of Elves, Skirmishers
+
+Special Rules (Rock Lobber): Fear of Elves, Skirmishers
