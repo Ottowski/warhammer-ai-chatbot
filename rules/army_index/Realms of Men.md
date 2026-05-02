@@ -55,16 +55,6 @@ Should a character with this special rule join a unit prior to making their firs
 
 For each character in your army that has the Wandering Diestro Infamous Origin, 0-1 unit of Border Princes Brigands may have a +1 modifier to their Weapon Skill characteristic for +2 points per model. In addition, once per game, models within this unit may make enemy models that direct their attacks against them during the Combat phase re-roll successful rolls To Hit.
 
-## Weapons of War
-
-### [Weapon Name]
-
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S | - |  |
-
-Notes: Add any weapon notes here.
-
 ## Warhammer Armies
 
 ### Renegade Crowns
@@ -132,28 +122,6 @@ A single Renegade Captain in your army may be upgraded to be your Battle Standar
 #### Magic Items
 
 Any models that have the option to purchase magic items may purchase Common magic items.
-
-## Narrative Battles
-
-### [Narrative Rule or Scenario]
-
-"Narrative description."
-
-Narrative rules text goes here.
-
-## The Lores of Magic
-
-### [Lore Name]
-
-#### [Spell Name]
-
-"Spell flavor text."
-
-| Type | Casting Value | Range |
-|---|---|---|
-| Enchantment | 8+ | 18" |
-
-Spell rules text goes here.
 
 ## Magic Items (and Abilities)
 
@@ -233,12 +201,14 @@ A model with the Wandering Diestro Infamous Origin:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Renegade Captain | 4 | 5 | 4 | 4 | 4 | 2 | 4 | 2 | 7 |
 
-- Unit Category: Character
-- Troop Type: Regular Infantry
-- Base Size: 25 x 25 mm
-- Unit Size: 1
-- Equipment: Hand weapon and light armour
-- Special Rules: Rallying Cry; Veteran; Warband
+Unit Category: Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+
+Equipment: Hand weapon and light armour
+
+Special Rules: Rallying Cry; Veteran; Warband
 
 ### Renegade Prince
 
@@ -246,12 +216,14 @@ A model with the Wandering Diestro Infamous Origin:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Renegade Prince | 4 | 6 | 4 | 4 | 4 | 3 | 5 | 3 | 8 |
 
-- Unit Category: Character
-- Troop Type: Regular Infantry
-- Base Size: 25 x 25 mm
-- Unit Size: 1
-- Equipment: Hand weapon and light armour
-- Special Rules: Rallying Cry; Veteran; Warband
+Unit Category: Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+
+Equipment: Hand weapon and light armour
+
+Special Rules: Rallying Cry; Veteran; Warband
 
 ## Mount Units
 
@@ -261,12 +233,14 @@ A model with the Wandering Diestro Infamous Origin:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Barded Warhorse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
 
-- Unit Category: Mount
-- Troop Type: Heavy Cavalry
-- Base Size: 30 x 60 mm
-- Unit Size: 1
-- Equipment: Iron-shod hooves (counts as a hand weapon) and barding
-- Special Rules: Counter Charge; First Charge; Swiftstride
+Unit Category: Mount
+Troop Type: Heavy Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 1
+
+Equipment: Iron-shod hooves (counts as a hand weapon) and barding
+
+Special Rules: Counter Charge; First Charge; Swiftstride
 
 ### Warhorse (Realms of Men)
 
@@ -274,12 +248,14 @@ A model with the Wandering Diestro Infamous Origin:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
 
-- Unit Category: Mount
-- Troop Type: Light Cavalry
-- Base Size: 30 x 60 mm
-- Unit Size: 1
-- Equipment: Iron-shod hooves (counts as a hand weapon)
-- Special Rules: Counter Charge; First Charge; Swiftstride
+Unit Category: Mount
+Troop Type: Light Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 1
+
+Equipment: Iron-shod hooves (counts as a hand weapon)
+
+Special Rules: Counter Charge; First Charge; Swiftstride
 
 ## Infantry Units
 
@@ -290,12 +266,14 @@ A model with the Wandering Diestro Infamous Origin:
 | Sellsword | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 5 |
 | Officer | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 2 | 6 |
 
-- Unit Category: Infantry
-- Troop Type: Regular Infantry
-- Base Size: 25 x 25 mm
-- Unit Size: 5+
-- Equipment: Hand weapons and light armour
-- Special Rules: Close Order; Detachment; Horde; Regimental Unit; Warband
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 5+
+
+Equipment: Hand weapons and light armour
+
+Special Rules: Close Order; Detachment; Horde; Regimental Unit; Warband
 
 ### Veteran Sellswords
 
@@ -304,13 +282,15 @@ A model with the Wandering Diestro Infamous Origin:
 | Veteran Sellsword | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 5 |
 | Veteran Officer | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 2 | 6 |
 
-- Unit Category: Infantry
-- Troop Type: Regular Infantry
-- Base Size: 25 x 25 mm
-- Unit Size: 5+
-- Equipment: Hand weapons and light armour
-- Special Rules: Close Order; Detachment; Horde; Regimental Unit; Warband; Veteran
-- Optional Rules: Drilled
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 5+
+
+Equipment: Hand weapons and light armour
+
+Special Rules: Close Order; Detachment; Horde; Regimental Unit; Warband; Veteran
+Optional Rules: Drilled
 
 ## Cavalry Units
 
@@ -323,15 +303,14 @@ A model with the Wandering Diestro Infamous Origin:
 | Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
 | Barded Warhorse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
 
-- Unit Category: Cavalry
-- Troop Type: Heavy Cavalry
-- Base Size: 30 x 60 mm
-- Unit Size: 5+
-- Equipment:
-  - Freeblade Knights: Hand weapons and heavy armour
-  - Warhorses: Iron-shod hooves (counts as hand weapons)
-  - Barded Warhorses: Iron-shod hooves (counts as hand weapons) and barding
-- Special Rules: Close Order; Counter Charge; First Charge; Swiftstride
+Unit Category: Cavalry
+Troop Type: Heavy Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 5+
+
+Equipment: Freeblade Knights: Hand weapons and heavy armour. Warhorses: Iron-shod hooves (counts as hand weapons). Barded Warhorses: Iron-shod hooves (counts as hand weapons) and barding.
+
+Special Rules: Close Order; Counter Charge; First Charge; Swiftstride
 
 ### Hireling Outriders
 
@@ -341,15 +320,15 @@ A model with the Wandering Diestro Infamous Origin:
 | Captain | - | 3 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
 | Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
 
-- Unit Category: Cavalry
-- Troop Type: Light Cavalry
-- Base Size: 30 x 60 mm
-- Unit Size: 5+
-- Equipment:
-  - Hireling Outriders: Hand weapons
-  - Warhorses: Iron-shod hooves (counts as hand weapons)
-- Special Rules: Fast Cavalry; Fire & Flee; Open Order; Skirmishers; Swiftstride
-- Optional Rules: Feigned Flight; Reserve Move; Vanguard
+Unit Category: Cavalry
+Troop Type: Light Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 5+
+
+Equipment: Hireling Outriders: Hand weapons. Warhorses: Iron-shod hooves (counts as hand weapons).
+
+Special Rules: Fast Cavalry; Fire & Flee; Open Order; Skirmishers; Swiftstride
+Optional Rules: Feigned Flight; Reserve Move; Vanguard
 
 ### Veteran Freeblades
 
@@ -360,19 +339,13 @@ A model with the Wandering Diestro Infamous Origin:
 | Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
 | Barded Warhorse | 7 | 3 | - | 3 | - | - | 3 | 1 | - |
 
-- Unit Category: Cavalry
-- Troop Type: Heavy Cavalry
-- Base Size: 30 x 60 mm
-- Unit Size: 5+
-- Equipment:
-  - Veteran Freeblades: Hand weapons and heavy armour
-  - Warhorses: Iron-shod hooves (counts as hand weapons)
-  - Barded Warhorses: Iron-shod hooves (counts as hand weapons) and barding
-- Special Rules: Close Order; Counter Charge; First Charge; Swiftstride; Veteran
+Unit Category: Cavalry
+Troop Type: Heavy Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 5+
+Equipment: Veteran Freeblades: Hand weapons and heavy armour. Warhorses: Iron-shod hooves (counts as hand weapons). Barded Warhorses: Iron-shod hooves (counts as hand weapons) and barding.
 
-## Chariot Units
-
-## Monster Units
+Special Rules: Close Order; Counter Charge; First Charge; Swiftstride; Veteran
 
 ## War Machine Units
 
@@ -383,12 +356,14 @@ A model with the Wandering Diestro Infamous Origin:
 | Mortar | - | - | - | - | 7 | 3 | - | - | - |
 | Gun Crew | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 7 |
 
-- Unit Category: War Machine
-- Troop Type: War Machine
-- Base Size: 50 x 75 mm (war machine), 25 x 25 mm (crew)
-- Unit Size: 1
-- Equipment: Mortar and hand weapons
-- Special Rules: Levies; Skirmishers
+Unit Category: War Machine
+Troop Type: War Machine
+Base Size: 50 x 75 mm (war machine), 25 x 25 mm (crew)
+Unit Size: 1
+
+Equipment: Mortar and hand weapons
+
+Special Rules: Levies; Skirmishers
 
 ### Border Princes Organ Gun
 
@@ -397,9 +372,11 @@ A model with the Wandering Diestro Infamous Origin:
 | Organ Gun | - | - | - | - | 7 | 3 | - | - | - |
 | Gun Crew | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 7 |
 
-- Unit Category: War Machine
-- Troop Type: War Machine
-- Base Size: 50 x 50 mm (war machine), 25 x 25 mm (crew)
-- Unit Size: 1
-- Equipment: Organ gun and hand weapons
-- Special Rules: Levies; Skirmishers
+Unit Category: War Machine
+Troop Type: War Machine
+Base Size: 50 x 50 mm (war machine), 25 x 25 mm (crew)
+Unit Size: 1
+
+Equipment: Organ gun and hand weapons
+
+Special Rules: Levies; Skirmishers
