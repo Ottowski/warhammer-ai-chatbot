@@ -1,147 +1,43 @@
 # Regiments of Renown
 
-## Special Rules
-
-### [Rule Name]
-
-"Short lore description."
-
-Rules text goes here.
-
-## Weapons of War
-
-### [Weapon Name]
-
-| Range | Strength | Armour Piercing | Special Rules |
-|---|---|---|---|
-| Combat | S | - |  |
-
-Notes: Add any weapon notes here.
-
-## Warhammer Armies
-
-### [Regiments of Renown Army List]
-
-"Army composition overview text."
-
-#### Grand Army Composition List
-
-##### Characters
-
-Add character allowances.
-
-##### Core
-
-Add core requirements.
-
-##### Special
-
-Add special allowances.
-
-##### Rare
-
-Add rare allowances.
-
-##### Mercenaries
-
-Add mercenary allowances (if applicable).
-
-##### Allies
-
-Add ally allowances (if applicable).
-
-#### Battle Standard Bearer
-
-Add BSB rules.
-
-#### Magic Items
-
-Add magic item access notes.
-
-## Narrative Battles
-
-### [Narrative Rule or Scenario]
-
-"Narrative description."
-
-Narrative rules text goes here.
-
-## The Lores of Magic
-
-### [Lore Name]
-
-#### [Spell Name]
-
-"Spell flavor text."
-
-| Type | Casting Value | Range |
-|---|---|---|
-| Enchantment | 8+ | 18" |
-
-Spell rules text goes here.
-
 ## Magic Items (and Abilities)
 
-#### Magic Weapons
+### Magic Weapons
 
-##### [Item Name]  (Magic Weapon)
+#### Dragonblade  (Magic Weapon)
 
-Points value
+| Range | Strength | Armour Piercing | Special Rules |
+| --- | --- | --- | --- |
+| Combat | S+2 | -2 | Armour Bane (1), Magical Attacks |
 
-Item rules text goes here.
-
-#### Magic Armour
-
-##### [Item Name]  (Magic Armour)
-
-Points value
-
-Item rules text goes here.
-
-#### Talismans
-
-##### [Item Name]  (Talisman)
-
-Points value
-
-Item rules text goes here.
-
-#### Magic Standards
-
-##### [Item Name]  (Magic Standard)
-
-Points value
-
-Item rules text goes here.
-
-#### Enchanted Items
-
-##### [Item Name]  (Enchanted Item)
-
-Points value
-
-Item rules text goes here.
-
-#### Arcane Items
-
-##### [Item Name]  (Arcane Item)
-
-Points value
-
-Item rules text goes here.
-
-## Named Character Units
+Notes: Dragonblade is inscribed with a Rune of Fury and a Grudge Rune, as described in Forces of Fantasy.
 
 ## Character Units
 
-## Mount Units
+### Prince Ulther's Dragon Company
 
-## Infantry Units
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Prince Ulther Stonehammer | 3 | 5 | 5 | 4 | 5 | 2 | 2 | 3 | 10 |
+| Borri Forkbeard (champion) | 3 | 4 | 4 | 3 | 4 | 1 | 2 | 2 | 9 |
+| Dragon Company trooper | 3 | 4 | 3 | 3 | 4 | 1 | 2 | 1 | 9 |
 
-## Cavalry Units
+Unit Category: Character
 
-## Chariot Units
+Troop Type: Heavy Infantry, Named Character
 
-## Monster Units
+Base Size: 25 x 25 mm
 
-## War Machine Units
+Unit Size: Minimum unit of four models: Prince Ulther, his champion Borri Forkbeard, his standard bearer and his musician (both Dragon Company troopers). To this, you may add any number of additional Dragon Company troopers.
+
+Equipment:
+
+- Prince Ulther: Hand weapon, Dragonblade, brace of pistols, light armour and shield
+- Borri Forkbeard: Hand weapon, great weapon, brace of pistols, light armour and shield
+- Dragon Company troopers: Hand weapon, brace of pistols, light armour and shields
+
+Magic Items / Abilities: Dragonblade
+
+Special Rules: Close Order, Drilled, Gromril Weapons, Hatred (Orcs & Goblins), Magic Resistance (-1), Resolute, Stubborn
+
+Regiment of Renown: Prince Ulther's Dragon Company may be taken as Mercenaries in any Dwarfen Mountain Holds or Empire of Man army made using any army composition list that includes the option to field Mercenaries.
