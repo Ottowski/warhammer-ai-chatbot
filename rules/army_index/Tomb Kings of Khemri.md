@@ -1088,16 +1088,690 @@ Remains in play. Whilst this spell is in play, friendly units whose troop type i
 
 ## Named Character Units
 
+### Nekaph
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 5 | 3 | 4 | 4 | 2 | 4 | 3 | 8 |
+
+Nekaph, Emissary of Settra is a Royal Herald. He may be included in any Tomb Kings of Khemri army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: The Flail of Conquered Kings and light armour
+
+Magic Items / Abilities: The Flail of Conquered Kings
+
+Special Rules: Dry as Dust, Flammable, Herald of Despair, Indomitable (2), Killing Blow, Nehekharan Undead, Regeneration (5+), Settra's Champion, Sworn Protector
+
+### Prince Apophas
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 4 | 3 | 4 | 3 | 4 | 1 | 5 | 8 |
+
+Prince Apophas is a Tomb Prince. He may be included in any Tomb Kings of Khemri army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon, swarming mass and light armour
+
+Special Rules: Ambushers, Fly (9), Indomitable (2), Khopesh, Loner, Nehekharan Undead, Regeneration (5+), Scarab Prince, Usirian's Reaper, Terror
+
+### Settra the Imperishable
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Settra the Imperishable | - | 7 | 3 | 6 | 5 | - | 3 | 5 | 10 |
+| Chariot of the Gods | - | - | - | 5 | 5 | 8 | - | - | - |
+| Skeletal Steed (x4) | 8 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Settra the Imperishable is a Tomb King. He may be included in any Tomb Kings of Khemri army made using any army composition list that includes this option. He must be fielded as presented here.
+
+Unit Category: Named Character
+Troop Type: Heavy Chariot
+Base Size: 100 x 150 mm
+Unit Size: 1
+Armour Value: 4+
+
+Equipment:
+
+Settra: The Blessed Blade of Ptra, the Chariot of the Gods, the Crown of Nehekhara, the Scarab Brooch of Usirian
+
+Skeletal Steed: Skeletal hooves (counts as Hand weapons)
+
+Magic: Settra the Imperishable is a Level 1 Wizard who uses spells from Lore of Nehekhara or Necromancy.
+
+Magic Items / Abilities: The Blessed Blade of Ptra, The Scarab Brooch of Usirian, The Crown of Nehekhara
+
+Special Rules: Commander of Legions, Curse of the Necropolis, Dry as Dust, Flammable, Impact Hits (2D3), Indomitable (3), Lore of Nehekhara, My Will Be Done, Nehekharan Undead, Regeneration (5+), Settra Does Not Kneel!, Settra the Great
+
 ## Character Units
+
+### Arch Necrotect
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 4 | 3 | 4 | 4 | 3 | 3 | 3 | 8 |
+
+Unit Category: Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon, whip and light armour
+
+Special Rules: Dry as Dust, Flammable, Immortal Overseer, Khopesh, Nehekharan Undead, Regeneration (5+), Stone Shaper
+
+### High Priest
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 3 | 3 | 3 | 4 | 3 | 2 | 2 | 8 |
+
+Unit Category: Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon
+
+Magic: High Priest is a Level 3 Wizard who uses spells from Elementalism, Illusion, or Necromancy.
+
+Special Rules: Arise!, Curse of the Necropolis, Indomitable (1), Khopesh, Lore of Nehekhara, Nehekharan Undead, Regeneration (5+), From Beneath the Sands
+
+### Mortuary Priest
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 7 |
+
+Unit Category: Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon
+
+Magic: Mortuary Priest is a Level 1 Wizard who uses spells from Elementalism, Illusion, or Necromancy.
+
+Special Rules: Arise!, Curse of the Necropolis, Indomitable (1), Khopesh, Lore of Nehekhara, Nehekharan Undead, Regeneration (5+), From Beneath the Sands
+
+### Necrotect
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 3 | 3 | 4 | 4 | 2 | 3 | 2 | 7 |
+
+Unit Category: Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon, whip and light armour
+
+Special Rules: Dry as Dust, Eternal Taskmaster, Flammable, Khopesh, Nehekharan Undead, Regeneration (6+)
+
+### Royal Herald
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 4 | 3 | 4 | 4 | 2 | 3 | 3 | 8 |
+
+Unit Category: Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon and light armour
+
+Special Rules: Banner of the King, Dry as Dust, Flammable, Indomitable (1), Khopesh, Nehekharan Undead, Regeneration (5+), Sworn Protector
+
+### Tomb King
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 6 | 3 | 5 | 5 | 4 | 4 | 4 | 10 |
+
+Unit Category: Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Curse of the Necropolis, Dry as Dust, Flammable, Indomitable (2), Khopesh, My Will Be Done, Nehekharan Undead, Regeneration (5+)
+
+### Tomb Prince
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 5 | 3 | 4 | 5 | 3 | 3 | 3 | 9 |
+
+Unit Category: Character
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon and light armour
+
+Special Rules: Curse of the Necropolis, Dry as Dust, Flammable, Indomitable (2), Khopesh, My Will Be Done, Nehekharan Undead, Regeneration (5+)
 
 ## Mount Units
 
+### Barded Skeletal Steed
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Mount
+Troop Type: Heavy Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 1
+Equipment: Skeletal hooves (counts as hand weapon) and barding
+
+Special Rules: Nehekharan Undead, Swiftstride, Vanguard
+
+### Skeletal Steed
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Mount
+Troop Type: Heavy Cavalry
+Base Size: 25 x 50 mm
+Unit Size: 1
+Equipment: Skeletal hooves (counts as hand weapon)
+
+Special Rules: Nehekharan Undead, Swiftstride, Vanguard
+
+### Skeleton Chariot
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 4 | 4 | 3 | - | - | - |
+| Skeletal Steed (x2) | 8 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Mount
+Troop Type: Light Chariot
+Base Size: 50 x 100 mm
+Unit Size: 1
+Armour Value: 5+
+
+Equipment:
+
+Skeletal Steed: Skeletal hooves (counts as hand weapons)
+
+Special Rules: Dry as Dust, Impact Hits (D3), Nehekharan Undead, Open Order, Reserve Move, Swiftstride
+
 ## Infantry Units
+
+### Carrion
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 3 | 0 | 4 | 4 | 2 | 3 | 3 | 4 |
+
+Unit Category: Infantry
+Troop Type: Monstrous Infantry
+Base Size: 40 x 40 mm
+Unit Size: 2+
+Equipment: Beaks and talons (counts as hand weapons)
+
+Special Rules: Fly (10), Nehekharan Undead, Regeneration (6+), Skirmishers, Swiftstride
+
+### Skeleton Archers
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skeleton Archer | 4 | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Master of Arrows | 4 | 2 | 3 | 3 | 3 | 1 | 2 | 1 | 5 |
+
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 10+ (5+ if a detachment)
+Equipment: Hand weapons and warbows
+
+Special Rules: Arrows of Asaph, Detachment, Nehekharan Undead, Open Order, Regeneration (6+)
+
+### Skeleton Infantry Cohort
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Royal Host Warrior | 4 | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Royal Host Archer | 4 | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Master of Arms | 4 | 2 | 2 | 3 | 3 | 1 | 3 | 2 | 5 |
+
+When writing your muster list, a Skeleton Infantry Cohort must contain at least ten Royal Host Warriors and ten Royal Host Archers. Royal Host Warriors always occupy the front rank(s) of the unit, pushing past any Royal Host Archers to get there if necessary (such as when the unit turns).
+
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 10+/10+
+
+Equipment:
+
+Royal Host Warriors: Hand weapons, thrusting spears, light armour and shields
+
+Royal Host Archers: Hand weapons, light armour and warbows
+
+Special Rules: Arrows of Asaph, Close Order, Horde, Motley Crew, Nehekharan Undead, Regeneration (6+), Regimental Unit, Steadfast Discipline
+
+Optional Rules: Nehekharan Phalanx
+
+### Skeleton Skirmishers
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skeleton Skirmisher | 5 | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 4 |
+
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 5-20
+Equipment: Hand weapons
+
+Special Rules: Arrows of Asaph, Chariot Runners, Nehekharan Undead, Regeneration (6+), Skirmishers, Vanguard
+
+### Skeleton Warriors
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skeleton Warrior | 4 | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Master of Arms | 4 | 2 | 2 | 3 | 3 | 1 | 2 | 2 | 5 |
+
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 10+
+Equipment: Hand weapons and shields
+
+Special Rules: Close Order, Horde, Nehekharan Undead, Regeneration (6+), Regimental Unit
+
+Optional Rules: Nehekharan Phalanx
+
+### Tomb Guard
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tomb Guard | 4 | 3 | 3 | 4 | 4 | 1 | 2 | 1 | 7 |
+| Tomb Captain | 4 | 3 | 3 | 4 | 4 | 1 | 3 | 2 | 7 |
+
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 5+
+Equipment: Hand weapons, light armour and shields
+
+Special Rules: Cleaving Blow, Close Order, Indomitable (1), Khopesh, Nehekharan Undead, Regeneration (6+), Regimental Unit
+
+Optional Rules: Drilled, Nehekharan Phalanx
+
+### Tomb Swarms
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tomb Swarm | 5 | 3 | 0 | 2 | 2 | 5 | 1 | 5 | 10 |
+
+Unit Category: Infantry
+Troop Type: Swarm
+Base Size: 40 x 40 mm
+Unit Size: 2-10
+Equipment: Venomous bites and stings (counts as hand weapons)
+
+Special Rules: Dry as Dust, Nehekharan Undead, Poisoned Attacks, Regeneration (6+), Skirmishers
+
+Optional Rules: Ambushers
+
+### Ushabti
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ushabti | 5 | 4 | 3 | 4 | 4 | 3 | 2 | 3 | 8 |
+| Ancient | 5 | 4 | 3 | 4 | 4 | 3 | 2 | 4 | 8 |
+
+Unit Category: Infantry
+Troop Type: Monstrous Infantry
+Base Size: 40 x 40 mm
+Unit Size: 3+
+Equipment: Hand weapons, ritual blades and heavy armour
+
+Special Rules: Arrows of Asaph, Close Order, Indomitable (1), Khopesh, Nehekharan Undead, Regeneration (6+)
+
+Optional Rules: Greatbow
+
+### Venerable Ushabti
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Venerable Ushabti | 4 | 5 | 3 | 5 | 4 | 3 | 2 | 3 | 8 |
+| Venerable Ancient | 4 | 5 | 3 | 5 | 4 | 3 | 2 | 4 | 8 |
+
+Unit Category: Infantry
+Troop Type: Monstrous Infantry
+Base Size: 40 x 40 mm
+Unit Size: 3+
+Equipment: Hand weapons, ritual blades and heavy armour
+
+Special Rules: Close Order, Indomitable (1), Khopesh, Magic Resistance (-2), Nehekharan Undead, Regeneration (6+)
 
 ## Cavalry Units
 
+### Necropolis Knights
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Necropolis Knight | - | 4 | 3 | 4 | 4 | 3 | 3 | 2 | 8 |
+| Necropolis Captain | - | 4 | 3 | 4 | 4 | 3 | 3 | 3 | 8 |
+| Necroserpent | 7 | 3 | - | 5 | - | - | 3 | 3 | - |
+
+Unit Category: Cavalry
+Troop Type: Monstrous Cavalry
+Base Size: 50 x 100 mm
+Unit Size: 2+
+
+Equipment:
+
+Necropolis Knights: Hand weapons, cavalry spears, light armour and shields
+
+Necroserpent: Lashing tails (counts as hand weapons)
+
+Special Rules: Armoured Hide (1), Cleaving Blow (Riders only), Close Order, Impact Hits (1), Indomitable (1), Khopesh, Nehekharan Undead, Poisoned Attacks (Necroserpent only), Regeneration (6+), Swiftstride
+
+### Necroserpents
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Necroserpent | 7 | 3 | 0 | 5 | 4 | 3 | 3 | 3 | 7 |
+
+Unit Category: Cavalry
+Troop Type: Monstrous Cavalry
+Base Size: 50 x 100 mm
+Unit Size: 2+
+Equipment: Lashing tails and venomous fangs (counts as hand weapons)
+
+Special Rules: Ambushers, Armoured Hide (1), Impact Hits (1), Indomitable (1), Move Through Cover, Nehekharan Undead, Open Order, Poisoned Attacks, Regeneration (6+), Swiftstride
+
+### Sepulchral Stalkers
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sepulchral Stalkers | 7 | 3 | 3 | 4 | 4 | 3 | 3 | 2 | 8 |
+
+Unit Category: Cavalry
+Troop Type: Monstrous Cavalry
+Base Size: 50 x 100 mm
+Unit Size: 2+
+Equipment: Hand weapons, writhing tails, halberds, petrifying gaze and heavy armour
+
+Special Rules: Close Order, Indomitable (1), Nehekharan Undead, Regeneration (6+), Swiftstride
+
+Optional Rules: Ambushers
+
+### Skeleton Cavalry Cohort
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Royal Host Horseman | - | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Royal Host Horse Archer | - | 2 | 3 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Master of Horse | - | 2 | 2 | 3 | 3 | 1 | 3 | 2 | 5 |
+| Skeletal Steed | 8 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+When writing your muster list, a Skeleton Cavalry Cohort must contain at least five Royal Host Horsemen and five Royal Host Horse Archers. Royal Host Horsemen always occupy the front rank(s) of the unit, pushing past any Royal Host Horse Archers to get there if necessary (such as when the unit turns).
+
+Unit Category: Cavalry
+Troop Type: Heavy Cavalry
+Base Size: 25 x 50 mm
+Unit Size: 5+/5+
+
+Equipment:
+
+Royal Host Horseman: Hand weapons, cavalry spears, light armour and shields
+
+Royal Host Horse Archer: Hand weapons, light armour and warbows
+
+Skeletal Steed: Skeletal hooves (counts as hand weapons)
+
+Special Rules: Arrows of Asaph, Close Order, Horde, Motley Crew, Nehekharan Undead, Regeneration (6+), Steadfast Discipline, Swiftstride, Vanguard
+
+Optional Rules: Counter Charge
+
+### Skeleton Horse Archers
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skeleton Horse Archer | - | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Master of Horse | - | 2 | 3 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Skeletal Steed | 8 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Cavalry
+Troop Type: Light Cavalry
+Base Size: 25 x 50 mm
+Unit Size: 5+
+
+Equipment:
+
+Skeleton Horse Archers: Hand weapons and warbows
+
+Skeletal Steed: Skeletal hooves (counts as hand weapons)
+
+Special Rules: Arrows of Asaph, Nehekharan Undead, Open Order, Regeneration (6+), Reserve Move, Scouts, Skirmishers, Swiftstride
+
+Optional Rules: Chariot Runners
+
+### Skeleton Horsemen
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skeleton Horseman | - | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Master of Horse | - | 2 | 2 | 3 | 3 | 1 | 2 | 2 | 5 |
+| Skeletal Steed | 8 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Cavalry
+Troop Type: Heavy Cavalry
+Base Size: 25 x 50 mm
+Unit Size: 5+
+
+Equipment:
+
+Skeleton Horsemen: Hand weapons and shields
+
+Skeletal Steed: Skeletal hooves (counts as hand weapons)
+
+Special Rules: Close Order, Horde, Nehekharan Undead, Regeneration (6+), Swiftstride, Vanguard
+
+Optional Rules: Counter Charge
+
 ## Chariot Units
+
+### Skeleton Chariots
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 4 | 4 | 3 | - | - | - |
+| Skeletal Crew (x2) | - | 3 | 2 | 3 | - | - | 2 | 1 | 7 |
+| Master Charioteer | - | 3 | 2 | 3 | - | - | 2 | 2 | 7 |
+| Skeletal Steed (x2) | 8 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Chariot
+Troop Type: Light Chariot
+Base Size: 50 x 100 mm
+Unit Size: 1+
+Armour Value: 4+
+
+Equipment:
+
+Skeleton Crew: Hand weapons, cavalry spears and warbows
+
+Skeletal Steed: Skeletal hooves (counts as hand weapons)
+
+Special Rules: Arrows of Asaph, Dry as Dust, Horde, Impact Hits (D3), Nehekharan Undead, Open Order, Regeneration (6+), Reserve Move, Swiftstride
+
+Note that a Master Charioteer, a standard bearer or a musician each replace a single Skeleton Crewman, and that each must be placed aboard a different Chariot.
+
+### Tomb Guard Chariots
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 4 | 4 | 3 | - | - | - |
+| Tomb Guard Crew (x2) | - | 3 | 3 | 4 | - | - | 2 | 1 | 7 |
+| Tomb Captain | - | 3 | 3 | 4 | - | - | 2 | 2 | 7 |
+| Skeletal Steed (x2) | 8 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Chariot
+Troop Type: Light Chariot
+Base Size: 50 x 100 mm
+Unit Size: 3+
+Armour Value: 4+
+
+Equipment:
+
+Tomb Guard Crew: Hand weapons, halberds and shields
+
+Skeletal Steed: Skeletal hooves (counts as hand weapons)
+
+Special Rules: Cleaving Blow (Tomb Guard Crew only), Dry as Dust, Impact Hits (D3+1), Indomitable (2), Khopesh, Nehekharan Undead, Open Order, Regeneration (6+), Reserve Move, Swiftstride
+
+Note that a Tomb Captain, a standard bearer or a musician each replace a single Tomb Guard crew, and that each must be placed aboard a different chariot.
 
 ## Monster Units
 
+### Khemrian Warsphinx
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Khemrian Warsphinx | 6 | 4 | - | 5 | 6 | 5 | 1 | 4 | - |
+| Tomb Guard Crew (x2) | - | 3 | 3 | 4 | - | - | 3 | 1 | 8 |
+
+This model may be included in your army as a character's mount. If so, its points are added to that of its rider. Note that, because it has the Howdah special rule (and its own crew, which the character joins), a Khemrian Warsphinx is considered to be a chariot mount, rather than a ridden monster.
+
+Unit Category: Monster
+Troop Type: Behemoth
+Base Size: 60 x 100 mm
+Unit Size: 1
+Armour Value: 5+
+
+Equipment:
+
+Khemrian Warsphinx: Wicked claws
+
+Tomb Guard Crew: Hand weapons, cavalry spears and shortbows
+
+Special Rules: Arrows of Asaph, Cleaving Blow (Tomb Guard Crew only), Close Order, Howdah, Indomitable (2), Khopesh (Tomb Guard Crew only), Large Target, Nehekharan Undead, Regeneration (6+), Stomp Attacks (D3), Terror
+
+Optional Rules: Envenomed Sting, Fiery Roar
+
+### Necrolith Bone Dragon
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Necrolith Bone Dragon | 6 | 4 | - | 6 | (+1) | (+5) | 2 | 5 | - |
+
+A Necrolith Bone Dragon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster
+Troop Type: Behemoth
+Base Size: 100 x 150 mm
+Unit Size: 1
+Equipment: Wicked claws, breath of desiccation and draconic bones (counts as full plate armour)
+
+Special Rules: Close Order, Cloud of Dust, Dry as Dust, Fly (9), Indomitable (2), Large Target, Nehekharan Undead, Stomp Attacks (D6), Swiftstride, Terror
+
+### Necrolith Colossus
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Necrolith Colossus | 6 | 3 | 2 | 6 | 6 | 5 | 1 | 4 | 8 |
+
+Unit Category: Monster
+Troop Type: Behemoth
+Base Size: 50 x 50 mm
+Unit Size: 1
+Equipment: Paired great khopeshes and heavy armour
+
+Special Rules: Close Order, Indomitable (2), Large Target, Nehekharan Undead, Regeneration (6+), Stomp Attacks (D3), Terror, Timmm-berrr!, Unstoppable Assault
+
+### Necrosphinx
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Necrosphinx | 6 | 4 | 0 | 5 | 6 | 6 | 1 | 5 | 8 |
+
+Unit Category: Monster
+Troop Type: Behemoth
+Base Size: 60 x 100 mm
+Unit Size: 1
+Equipment: Cleaving blades, decapitating strike and heavy armour
+
+Special Rules: Close Order, Fly (9), Indomitable (2), Large Target, Nehekharan Undead, Regeneration (5+), Stomp Attacks (D3+2), Swiftstride, Terror, Soul Reaper
+
+Optional Rules: Envenomed Sting
+
+### Tomb Scorpion
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tomb Scorpion | 7 | 4 | 0 | 5 | 5 | 3 | 3 | 4 | 8 |
+
+Unit Category: Monster
+Troop Type: Monstrous Creature
+Base Size: 75 x 50 mm
+Unit Size: 1
+Equipment: Decapitating claws, envenomed sting and bone carapace (counts as heavy armour)
+
+Special Rules: Close Order, Indomitable (1), Magic Resistance (-1), Nehekharan Undead, Regeneration (6+), Stomp Attacks (D3), Swiftstride, Vanguard
+
+Optional Rules: Ambushers
+
+### Winged Warsphinx
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Winged Warsphinx | 6 | 4 | 0 | 5 | 6 | 5 | 1 | 4 | 8 |
+
+Unit Category: Monster
+Troop Type: Behemoth
+Base Size: 60 x 100 mm
+Unit Size: 1
+Armour Value: 5+
+Equipment: Wicked claws and heavy armour
+
+Special Rules: Close Order, Counter Charge, Fly (9), Indomitable (2), Large Target, Nehekharan Undead, Regeneration (6+), Stomp Attacks (D3), Swiftstride, Terror
+
+Optional Rules: Envenomed Sting, Fiery Roar
+
+Creations of the Mortuary Cult: Any army made using the Tomb Kings of Khemri Grand Army composition list or the Mortuary Cult Army of Infamy composition list may include 0-1 Winged Warsphinx per 1,000 points as a Rare choice.
+
 ## War Machine Units
+
+### Casket of Souls
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Casket of Souls | - | - | - | - | 6 | 4 | - | - | - |
+| Casket Guardians | 4 | 3 | 3 | 3 | 3 | 4 | 3 | 4 | 8 |
+
+Unit Category: War Machine
+Troop Type: War Machine
+Base Size: N/A
+Unit Size: 1
+Equipment: Hand weapons, great weapons and light armour
+
+Special Rules: Cleaving Blow, Covenant of Power, Dry as Dust, Immovable Object, Indomitable (2), Nehekharan Undead, Regeneration (5+), Skirmishers, Unbound Spirits, Vortex of Souls
+
+### Screaming Skull Catapult (War Machine)
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Screaming Skull Catapult | - | - | - | - | 6 | 3 | - | - | - |
+| Skeleton Crew | 4 | 2 | 2 | 3 | 3 | 3 | 2 | 3 | 5 |
+
+Unit Category: War Machine
+Troop Type: War Machine
+Base Size: 60 x 100 mm (war machine), 25 x 25 mm (crew)
+Unit Size: 1
+Equipment: Screaming skull catapult, hand weapon and light armour
+
+Special Rules: Dry as Dust, Indomitable (1), Nehekharan Undead, Regeneration (6+), Skirmishers
+
+Optional Rules: Skulls of the Foe
