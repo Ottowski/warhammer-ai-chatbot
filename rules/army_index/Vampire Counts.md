@@ -660,18 +660,533 @@ Note that this does not increase the Wizard's Level.
 
 *Extremely Common.
 
-## Named Character Units
-
 ## Character Units
+
+### Cairn Wraith
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cairn Wraith | 6 | 4 | 0 | 3 | 3 | 3 | 2 | 2 | 6 |
+
+Unit Category: Character
+Troop Type: Regular Infantry (Character)
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Spectral scythe
+
+Special Rules: Ethereal, Indomitable (1), Necromantic Undead, Regeneration (6+), Terror
+
+### Master Necromancer
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Master Necromancer | 4 | 3 | 3 | 3 | 4 | 3 | 3 | 2 | 8 |
+
+Unit Category: Character
+Troop Type: Regular Infantry (Character)
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon
+
+Magic: Master Necromancer is a Level 3 Wizard who uses spells from Dark Magic, Illusion, or Necromancy.
+Special Rules: Dark Vitality, Indomitable (1), Invocation of Nehek, Lore of Undeath, Necromantic Undead, Regeneration (5+)
+
+### Necromantic Acolyte
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Necromantic Acolyte | 4 | 3 | 3 | 3 | 3 | 2 | 3 | 1 | 7 |
+
+Unit Category: Character
+Troop Type: Regular Infantry (Character)
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon
+
+Magic: Necromantic Acolyte is a Level 1 Wizard who uses spells from Dark Magic, Illusion, or Necromancy.
+Special Rules: Dark Vitality, Indomitable (1), Invocation of Nehek, Lore of Undeath, Necromantic Undead, Regeneration (5+)
+
+### Strigoi Ghoul King
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Strigoi Ghoul King | 6 | 6 | 3 | 5 | 5 | 3 | 7 | 5 | 8 |
+
+Unit Category: Character
+Troop Type: Regular Infantry (Character)
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon
+
+Magic: Strigoi Ghoul King that is a Wizard uses spells from Battle Magic, Dark Magic, or Necromancy.
+Special Rules: Dark Vitality, Flammable, Hatred (all enemies), Indomitable (1), Lore of Undeath, Necromantic Undead, Poisoned Attacks, Regeneration (5+), The Hunger
+
+### Tomb Banshee
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tomb Banshee | 6 | 3 | 0 | 3 | 3 | 2 | 3 | 1 | 6 |
+
+Unit Category: Character
+Troop Type: Regular Infantry (Character)
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon
+
+Special Rules: Ethereal, Indomitable (1), Magical Attacks, Necromantic Undead, Regeneration (6+), Terror, Wailing Dirge
+
+### Vampire Count
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Vampire Count | 6 | 7 | 5 | 5 | 5 | 3 | 6 | 4 | 8 |
+
+Unit Category: Character
+Troop Type: Regular Infantry (Character)
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon
+
+Magic: Vampire Count that is a Wizard uses spells from Dark Magic, Illusion, or Necromancy.
+Special Rules: Dark Vitality, Flammable, Indomitable (2), Lore of Undeath, Necromantic Undead, Regeneration (5+)
+
+### Vampire Thrall
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Vampire Thrall | 6 | 6 | 4 | 5 | 4 | 2 | 5 | 3 | 7 |
+
+Unit Category: Character
+Troop Type: Regular Infantry (Character)
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon
+
+Magic: Vampire Thrall that is a Wizard uses spells from Dark Magic, Illusion, or Necromancy.
+Special Rules: Banner of the Count, Dark Vitality, Flammable, Indomitable (1), Lore of Undeath, Necromantic Undead, Regeneration (5+)
+
+### Wight King
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wight King | 4 | 5 | 0 | 5 | 5 | 3 | 4 | 3 | 9 |
+
+Unit Category: Character
+Troop Type: Regular Infantry (Character)
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Indomitable (1), Killing Blow, Necromantic Undead, Regeneration (5+)
+
+### Wight Lord
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wight Lord | 4 | 4 | 0 | 4 | 5 | 2 | 4 | 2 | 8 |
+
+Unit Category: Character
+Troop Type: Regular Infantry (Character)
+Base Size: 25 x 25 mm
+Unit Size: 1
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Killing Blow, Necromantic Undead, Regeneration (6+), Wight Banner
 
 ## Mount Units
 
+### Nightmare
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nightmare | 7 | 3 | - | 4 | - | - | 2 | 1 | - |
+
+Unit Category: Mount
+Troop Type: Heavy Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 1
+Equipment: Iron-shod hooves (counts as a hand weapon) and barding
+
+Special Rules: Counter Charge, First Charge, Necromantic Undead, Swiftstride
+
+### Skeletal Steed (Vampire Counts)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skeletal Steed | 7 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Mount
+Troop Type: Heavy Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 1
+Equipment: Skeletal hooves (counts as hand weapon) and barding
+
+Special Rules: First Charge, Necromantic Undead, Swiftstride
+
+### Terrorgheist (Mount)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Terrorgheist (Mount) | 6 | 3 | - | 5 | (+1) | (+5) | 3 | 4 | - |
+
+A Terrorgheist may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Mount
+Troop Type: Behemoth
+Base Size: 100 x 150 mm
+Unit Size: 1
+Equipment: Filth-encrusted talons, rancid maw and calloused hide (counts as light armour)
+
+Special Rules: Close Order, Fly (9), Indomitable (1), Infested, Large Target, Necromantic Undead, Regeneration (5+), Stomp Attacks (D6), Swiftstride, Terror, Wailing Dirge
+
 ## Infantry Units
+
+### Bat Swarms
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bat Swarm | 1 | 3 | 0 | 2 | 2 | 5 | 4 | 5 | 3 |
+
+Unit Category: Infantry
+Troop Type: Swarm
+Base Size: 40 x 40 mm
+Unit Size: 3+
+Equipment: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Fly (7), Necromantic Undead, Regeneration (6+), Skirmishers
+
+### Crypt Ghouls
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Crypt Ghoul | 5 | 3 | 3 | 3 | 4 | 1 | 3 | 2 | 5 |
+| Crypt Ghast | 5 | 3 | 3 | 3 | 4 | 1 | 3 | 3 | 5 |
+
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 10+
+Equipment: Hand weapons
+
+Special Rules: Move Through Cover, Necromantic Undead, Open Order, Poisoned Attacks, Regeneration (6+), Reserve Move, Skirmishers
+
+### Crypt Horrors
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Crypt Horror | 6 | 3 | 0 | 4 | 5 | 3 | 2 | 3 | 5 |
+| Crypt Haunter | 6 | 3 | 0 | 4 | 5 | 3 | 2 | 4 | 5 |
+
+Unit Category: Infantry
+Troop Type: Monstrous Infantry
+Base Size: 40 x 40 mm
+Unit Size: 3+
+Equipment: Filth-encrusted claws
+
+Special Rules: Indomitable (1), Move Through Cover, Necromantic Undead, Open Order, Regeneration (6+), Stomp Attacks (1)
+
+### Fell Bats
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fell Bat | 1 | 3 | 0 | 3 | 3 | 2 | 3 | 2 | 3 |
+
+Unit Category: Infantry
+Troop Type: Monstrous Infantry
+Base Size: 40 x 40 mm
+Unit Size: 3+
+Equipment: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Fly (10), Necromantic Undead, Regeneration (6+), Skirmishers, Swiftstride
+
+### Grave Guard
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Grave Guard | 4 | 3 | 3 | 4 | 4 | 1 | 3 | 1 | 7 |
+| Seneschal | 4 | 3 | 3 | 4 | 4 | 1 | 3 | 2 | 7 |
+
+Unit Category: Infantry
+Troop Type: Heavy Infantry
+Base Size: 25 x 25 mm
+Unit Size: 10+
+Equipment: Hand weapons, heavy armour and shields
+
+Special Rules: Cleaving Blow, Close Order, Indomitable (1), Necromantic Undead, Regeneration (6+)
+Optional Rules: Drilled, Implacable Defence
+
+### Skeleton Warriors (Vampire Counts)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skeleton Warrior | 4 | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Skeleton Champion | 4 | 2 | 2 | 3 | 3 | 1 | 2 | 2 | 5 |
+
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 10+
+Equipment: Hand weapons, light armour and shields
+
+Special Rules: Close Order, Horde, Necromantic Undead, Regeneration (6+)
+
+### Spirit Hosts
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Spirit Host | 6 | 3 | 0 | 3 | 3 | 4 | 1 | 4 | 4 |
+
+Unit Category: Infantry
+Troop Type: Swarm
+Base Size: 40 x 40 mm
+Unit Size: 3-6
+Equipment: Hand weapons
+
+Special Rules: Bound Spirits, Ethereal, Magical Attacks, Necromantic Undead, Open Order, Regeneration (6+), Reserve Move
+
+### Vargheists
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Vargheist | 6 | 4 | 0 | 5 | 4 | 3 | 4 | 3 | 7 |
+| Vargoyle | 6 | 4 | 0 | 5 | 4 | 3 | 4 | 4 | 7 |
+
+Unit Category: Infantry
+Troop Type: Monstrous Infantry
+Base Size: 40 x 40 mm
+Unit Size: 3+
+Equipment: Wicked claws
+
+Special Rules: Armour Bane (2), Dark Vitality, Flammable, Fly (9), Frenzy, Indomitable (1), Necromantic Undead, Regeneration (6+), Skirmishers
+
+### Zombies
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Zombies | 4 | 2 | 0 | 3 | 3 | 1 | 1 | 1 | 2 |
+
+Unit Category: Infantry
+Troop Type: Regular Infantry
+Base Size: 25 x 25 mm
+Unit Size: 20-40
+Equipment: Hand weapons
+
+Special Rules: Close Order, Horde, Necromantic Undead, Regeneration (6+), The Newly Dead
 
 ## Cavalry Units
 
+### Black Knights
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Black Knight | - | 3 | 0 | 4 | 4 | 1 | 3 | 1 | 6 |
+| Hell Knight | - | 3 | 0 | 4 | 4 | 1 | 3 | 2 | 6 |
+| Skeletal Steed | 7 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Cavalry
+Troop Type: Heavy Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 5+
+Equipment:
+Black Knights: Hand weapons, heavy armour and shields
+Skeletal Steeds: Skeletal hooves (counts as hand weapons)
+
+Special Rules: Cleaving Blow (Riders only), Close Order, First Charge, Necromantic Undead, Regeneration (6+), Swiftstride
+
+### Blood Knights
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Blood Knight | - | 5 | 3 | 4 | 4 | 1 | 4 | 2 | 7 |
+| Kastellan | - | 5 | 3 | 4 | 4 | 1 | 4 | 3 | 7 |
+| Nightmare | 7 | 3 | - | 4 | - | - | 2 | 1 | - |
+
+Unit Category: Cavalry
+Troop Type: Heavy Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 5+
+Equipment:
+Blood Knights: Hand weapons, lances, heavy armour and shields
+Nightmares: Iron-shod hooves (counts as hand weapons) and barding
+
+Special Rules: Accursed Weapons, Close Order, Counter Charge, Dark Vitality, First Charge, Flammable, Indomitable (1), Martial Pride, Necromantic Undead, Regeneration (6+), Swiftstride
+Optional Rules: Drilled
+
+### Dire Wolves
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dire Wolf | 9 | 3 | 0 | 3 | 3 | 1 | 3 | 1 | 3 |
+| Doom Wolf | 9 | 3 | 0 | 3 | 3 | 1 | 3 | 2 | 3 |
+
+Unit Category: Cavalry
+Troop Type: War Beast
+Base Size: 25 x 50 mm
+Unit Size: 5-20
+Equipment: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Necromantic Undead, Open Order, Regeneration (6+), Reserve Move, Slavering Charge, Swiftstride, Vanguard
+
+### Hexwraiths
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hexwraith | - | 3 | 0 | 3 | 3 | 1 | 2 | 1 | 5 |
+| Hellwraith | - | 3 | 0 | 3 | 3 | 1 | 2 | 2 | 5 |
+| Spectral Steed | 8 | 2 | - | 3 | - | - | 2 | 1 | - |
+
+Unit Category: Cavalry
+Troop Type: Light Cavalry
+Base Size: 30 x 60 mm
+Unit Size: 5-10
+Equipment:
+Hexwraiths: Hand weapons and great weapons
+Spectral Steeds: Skeletal hooves (counts as hand weapons)
+
+Special Rules: Ethereal, Flaming Attacks, Fly (8), Magical Attacks, Necromantic Undead, Open Order, Regeneration (6+), Spectral Reapers, Swiftstride, Terror
+
 ## Chariot Units
+
+### Black Coach
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Black Coach | - | - | - | 5 | 6 | 4 | - | - | - |
+| Wraith (x1) | - | 3 | 0 | 3 | - | - | 2 | 2 | 5 |
+| Nightmares (x2) | 8 | 3 | - | 4 | - | - | 2 | 1 | - |
+
+Unit Category: Chariot
+Troop Type: Heavy Chariot
+Base Size: 50 x 100 mm
+Unit Size: 1
+Armour Value: 3+
+Equipment:
+Wraith: Spectral scythe
+Nightmares: Iron-shod hooves (counts as a hand weapon)
+
+Special Rules: Close Order, First Charge, Impact Hits (D6+2), Indomitable (1), Magical Attacks, Necromantic Undead, Regeneration (6+), Spectral Coach, Terror
+
+### Corpse Cart
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Corpse Cart | - | - | - | 4 | 4 | 4 | - | - | - |
+| Corpsemaster (x1) | - | 3 | 0 | 3 | - | - | 3 | 1 | 5 |
+| The Restless Dead | 4 | 1 | 0 | 3 | - | - | 1 | 2D6 | - |
+
+Unit Category: Chariot
+Troop Type: Heavy Chariot
+Base Size: 50 x 100 mm
+Unit Size: 1
+Armour Value: 4+
+Equipment:
+Corpsemaster: Hand weapon
+The Restless Dead: Hand weapons
+
+Magic: A Corpsemaster is a Level 1 Wizard. Every Corpsemaster knows a spell from the Necromancy Lore of Magic.
+Special Rules: Close Order, Dark Vitality, First Charge, Impact Hits (D3+1), Indomitable (1), Lore of Undeath, Necromantic Undead, Random Attacks (The Restless Dead only), Regeneration (6+)
+Optional Rules: Balefire Brazier, Warped Tintinnabulation
+
+### Coven Throne
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Coven Throne | - | - | - | 5 | 5 | 5 | - | - | - |
+| Pallid Handmaidens (x2) | - | 5 | 3 | 5 | - | - | 5 | 2 | 7 |
+| Spirit Horde | 6 | 3 | 0 | 3 | - | - | 1 | D6 | - |
+
+A Coven Throne may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Chariot
+Troop Type: Heavy Chariot
+Base Size: 50 x 100 mm
+Unit Size: 1
+Armour Value: 4+
+Equipment:
+Pallid Handmaidens: Hand weapons
+Spirit Horde: Hand weapons and lances
+
+Special Rules: Close Order, Dark Vitality, First Charge, Fly (8), Ghoulish Glamour, Impact Hits (D6+1), Large Target, Necromantic Undead, Random Attacks (Spirit Horde only), Regeneration (6+), Scrying Pool
+
+### Mortis Engine
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mortis Engine | - | - | - | 5 | 5 | 5 | - | - | - |
+| Banshees (x3) | - | 3 | 0 | 3 | - | - | 3 | 1 | 5 |
+| Spirit Horde | 6 | 3 | 0 | 3 | - | - | 1 | D6 | - |
+
+A Mortis Engine may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Chariot
+Troop Type: Heavy Chariot
+Base Size: 50 x 100 mm
+Unit Size: 1
+Armour Value: 4+
+Equipment:
+Banshees: Hand weapons
+Spirit Horde: Hand weapons and lances
+
+Special Rules: Accursed Reliquary, Blasphemous Tome, Close Order, Dark Vitality, First Charge, Fly (8), Impact Hits (D6+1), Large Target, Necromantic Undead, Random Attacks (Spirit Horde only), Regeneration (6+), Wailing Dirge
 
 ## Monster Units
 
-## War Machine Units
+### Abyssal Terror
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Abyssal Terror | 6 | 4 | - | 5 | (+1) | (+4) | 2 | 3 | - |
+
+This model may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster
+Troop Type: Monstrous Creature
+Base Size: 50 x 100 mm
+Unit Size: 1
+Equipment: Wicked claws, poisonous tail and scaly skin (counts as heavy armour)
+
+Special Rules: Close Order, Fly (9), Large Target, Necromantic Undead, Stomp Attacks (D3), Swiftstride, Terror
+
+### Terrorgheist
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Terrorgheist | 6 | 3 | 0 | 5 | 6 | 6 | 3 | 4 | 4 |
+
+Unit Category: Monster
+Troop Type: Behemoth
+Base Size: 100 x 150 mm
+Unit Size: 1
+Equipment: Filth-encrusted talons, rancid maw and calloused hide (counts as light armour)
+
+Special Rules: Close Order, Fly (9), Indomitable (1), Infested, Large Target, Necromantic Undead, Regeneration (5+), Stomp Attacks (D6), Swiftstride, Terror, Wailing Dirge
+
+### Varghulf
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Varghulf | 8 | 5 | 0 | 5 | 5 | 4 | 4 | 4 | 4 |
+
+Unit Category: Monster
+Troop Type: Monstrous Creature
+Base Size: 50 x 50 mm
+Unit Size: 1
+Equipment: Wicked claws and calloused hide (counts as light armour)
+
+Special Rules: Bestial Fury, Close Order, Counter Charge, Dark Vitality, Flammable, Frenzy, Indomitable (1), Necromantic Undead, Regeneration (5+), Swiftstride, Terror
+
+### Zombie Dragon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Zombie Dragon | 6 | 4 | - | 6 | (+1) | (+5) | 2 | 5 | - |
+
+A Zombie Dragon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster
+Troop Type: Behemoth
+Base Size: 100 x 150 mm
+Unit Size: 1
+Equipment: Wicked claws, pestilential breath and draconic scales (counts as full plate armour)
+
+Special Rules: Carrion Feeders, Close Order, Fly (9), Large Target, Necromantic Undead, Stomp Attacks (D6), Swiftstride, Terror
