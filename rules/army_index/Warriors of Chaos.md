@@ -1168,16 +1168,658 @@ Enemy units that deploy using the Scouts special rule cannot be deployed within 
 
 ## Named Character Units
 
+### Frydaal The Chainmaker
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Frydaal The Chainmaker | 4 | 6 | 3 | 5 | 4 | 3 | 5 | 4 | 9 |
+
+Frydaal The Chainmaker is an Exalted Champion. She may be included in any Warriors of Chaos army made using any army composition list that includes this option. She must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Heavy Infantry Named Character  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon, Storm's Wrath, full plate armour and shield
+
+Magic Items / Abilities: Storm's Wrath
+
+Special Rules: Ambushers, Chainmaker, Chaos Armour (5+), Commander & Captain, Ensorcelled Weapons, Gaze of the Gods, Impact Hits (1), Mark of Chaos Undivided, Peerless Raider, Rallying Cry
+
+### Galrauch
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Galrauch | 6 | 6 | 3 | 6 | 6 | 6 | 4 | 6 | 9 |
+
+Galrauch, the Great Drake may be included in any Warriors of Chaos army made using any army composition list. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type: Behemoth Named Character  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws, Dark Fire of Chaos, Fumes of Contagion and draconic scales (counts as full plate armour)
+
+Magic: Galrauch is a Level 4 Wizard who uses spells from Dark Magic.
+
+Special Rules: Armoured Hide (1), Breath of Change, Close Order, Fly (10), Large Target, Mark of Tzeentch, Regeneration (5+), Spirit of Galrauch, Stomp Attacks (D6), Swiftstride, Terror, Two-headed Dragon
+
 ## Character Units
+
+### Aspiring Champion
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aspiring Champion | 4 | 5 | 3 | 4 | 4 | 2 | 4 | 3 | 8 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Chaos Armour (5+), Ensorcelled Weapons, Gaze of the Gods, Mark of Chaos Undivided, Rallying Cry
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Chaos Lord
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Lord | 4 | 7 | 3 | 5 | 5 | 4 | 6 | 5 | 9 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon and full plate armour
+
+Special Rules: Chaos Armour (5+), Ensorcelled Weapons, Gaze of the Gods, Mark of Chaos Undivided, Rallying Cry
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Daemon Prince (Warriors of Chaos)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Daemon Prince | 6 | 7 | 5 | 6 | 5 | 4 | 7 | 5 | 9 |
+
+Unit Category: Character  
+Troop Type: Monstrous Infantry Character  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+
+Magic: Daemon Prince that is a Wizard uses spells from Battle Magic, Daemonology, or Dark Magic.
+
+Special Rules: Chaos Armour (4+), Ensorcelled Weapons, Fear, Gaze of the Gods, Immune to Psychology, Lore of Chaos, Mark of Chaos Undivided, Regeneration (5+), Unbreakable, Unstable, Warp-spawned
+
+Optional Rules: Fly (9), Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Exalted Champion
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exalted Champion | 4 | 6 | 3 | 5 | 4 | 3 | 5 | 4 | 8 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Chaos Armour (5+), Ensorcelled Weapons, Gaze of the Gods, Mark of Chaos Undivided, Rallying Cry
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Exalted Sorcerer
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exalted Sorcerer | 4 | 4 | 3 | 4 | 4 | 2 | 3 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+
+Magic: Exalted Sorcerer is a Level 1 Wizard who uses spells from Battle Magic, Daemonology, Dark Magic, or Lore of the Shadowlands.
+
+Special Rules: Chaos Armour (5+), Ensorcelled Weapons, Gaze of the Gods, Lore of Chaos, Mark of Chaos Undivided
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Marauder Tribe Chieftain
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marauder Tribe Chieftain | 4 | 5 | 3 | 4 | 4 | 2 | 4 | 3 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+
+Special Rules: Ambushers, Chaos Armour (6+), Gaze of the Gods, Mark of Chaos Undivided, Rallying Cry, Warband
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Sorcerer Lord
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sorcerer Lord | 4 | 5 | 3 | 4 | 4 | 3 | 4 | 3 | 8 |
+
+Unit Category: Character  
+Troop Type: Heavy Infantry Character  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon and heavy armour
+
+Magic: Sorcerer Lord is a Level 3 Wizard who uses spells from Battle Magic, Daemonology, Dark Magic, or Lore of the Shadowlands.
+
+Special Rules: Chaos Armour (5+), Ensorcelled Weapons, Gaze of the Gods, Lore of Chaos, Mark of Chaos Undivided
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
 
 ## Mount Units
 
+### Chaos Steed
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Steed | 7 | 3 | - | 4 | - | - | 3 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Iron-shod hooves (counts as a hand weapon) and barding
+
+Special Rules: Counter Charge, First Charge, Swiftstride
+
+### Daemonic Mount
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Daemonic Mount | 8 | 4 | - | 5 | - | (+1) | 3 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 60 mm (min), 50 x 75 mm (max)  
+Unit Size: 1  
+Equipment: Daemonic hooves (counts as a hand weapon)
+
+Special Rules: Armour Bane (1, Daemonic Mount only), Fear, Magical Attacks, Mark of Chaos (as rider), Stomp Attacks (1), Swiftstride
+
+### Warhorse (Warriors of Chaos)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Iron-shod hooves (counts as a hand weapon)
+
+Special Rules: Counter Charge, Fast Cavalry, Swiftstride
+
 ## Infantry Units
+
+### Chaos Marauders
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Marauder | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 6 |
+| Marauder Headman | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and light armour
+
+Special Rules: Close Order, Horde, Mark of Chaos Undivided, Shieldwall, Warband
+
+Optional Rules: Cult of the Bloodied Hound, Cult of the Carrion Crow, Cult of the Slithering Serpent, Cult of the Fell Raptor, Ambushers, Skirmishers, Open Order
+
+### Chaos Ogres
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Ogre | 6 | 3 | 2 | 4 | 4 | 3 | 2 | 3 | 7 |
+| Champion | 6 | 3 | 2 | 4 | 4 | 3 | 2 | 4 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Monstrous Infantry  
+Base Size: 40 x 40 mm  
+Unit Size: 3-15  
+Equipment: Hand weapons and heavy armour
+
+Special Rules: Armour Bane (1), Close Order, Fear, Impact Hits (1), Mark of Chaos Undivided, Ogre Charge
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Chaos Spawn
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Spawn | 2D6+1 | 3 | 0 | 4 | 5 | 3 | 3 | D6 | 10 |
+
+Unit Category: Infantry  
+Troop Type: Monstrous Infantry  
+Base Size: 50 x 50 mm  
+Unit Size: 1-4  
+Equipment: Flailing appendages (counts as hand weapons) and scaly skin (counts as heavy armour)
+
+Special Rules: Armour Bane (2), Fear, Immune to Psychology, Open Order, Random Attacks, Random Movement, Stomp Attacks (1), Unbreakable
+
+Optional Rules: Spawn of Khorne, Spawn of Nurgle, Spawn of Slaanesh, Spawn of Tzeentch
+
+### Chaos Trolls
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Troll | 6 | 3 | 1 | 5 | 4 | 3 | 2 | 3 | 4 |
+
+Unit Category: Infantry  
+Troop Type: Monstrous Infantry  
+Base Size: 40 x 40 mm  
+Unit Size: 1-9  
+Equipment: Hand weapons, Troll vomit and calloused hides (counts as light armour)
+
+Special Rules: Armour Bane (1), Close Order, Fear, Flammable, Motley Crew, Regeneration (5+), Stupidity
+
+### Chaos Warriors
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Warrior | 4 | 5 | 3 | 4 | 4 | 1 | 4 | 1 | 8 |
+| Champion | 4 | 5 | 3 | 4 | 4 | 1 | 4 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and heavy armour
+
+Special Rules: Close Order, Ensorcelled Weapons, Mark of Chaos Undivided
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Chosen Chaos Warriors
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chosen Chaos Warrior | 4 | 5 | 3 | 4 | 4 | 1 | 4 | 2 | 9 |
+| Champion | 4 | 5 | 3 | 4 | 4 | 1 | 4 | 3 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 5+  
+Equipment: Hand weapon and heavy armour
+
+Special Rules: Chaos Armour (6+), Close Order, Ensorcelled Weapons, Mark of Chaos Undivided, Stubborn
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch, Drilled
+
+### Forsaken
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Forsaken | 5 | 4 | 0 | 4 | 4 | 1 | 3 | D3 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Heavy Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 5+  
+Equipment: Mutated weapons (counts as hand weapons) and heavy armour
+
+Special Rules: Chaos Armour (5+), Ensorcelled Weapons, Furious Charge, Immune to Psychology, Impetuous, Loner, Open Order, Rampant Mutation, Random Attacks, Stubborn
+
+Optional Rules: Forsaken by Khorne, Forsaken by Nurgle, Forsaken by Slaanesh, Forsaken by Tzeentch
+
+### Marauder Tribe Berserkers
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marauder Tribe Berserker | 5 | 4 | 3 | 3 | 4 | 1 | 3 | 1 | 7 |
+| Headtaker | 5 | 4 | 3 | 3 | 4 | 1 | 3 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and light armour
+
+Special Rules: Frenzy, Mark of Chaos Undivided, Move Through Cover, Open Order, Relentless Warriors, Skirmishers, Warband
+
+Optional Rules: Ambushers
+
+### Skin Wolves
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skin Wolf | 7 | 5 | - | 4 | 4 | 3 | 4 | 3 | 7 |
+| Skin Wolf Jarl | 7 | 5 | - | 4 | 4 | 3 | 4 | 4 | 7 |
+
+Unit Category: Infantry  
+Troop Type: Monstrous Infantry  
+Base Size: 50 x 50 mm  
+Unit Size: 2+  
+Equipment: Claws and fangs (counts as hand weapon)
+
+Special Rules: Blood Rage, Fear, Mark of Chaos Undivided, Open Order, Primal Fury, Regeneration (5+), Skirmishers, Swiftstride, Warped Form
 
 ## Cavalry Units
 
+### Chaos Knights
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Knight | - | 5 | 3 | 4 | 4 | 1 | 4 | 1 | 8 |
+| Champion | - | 5 | 3 | 4 | 4 | 1 | 4 | 2 | 8 |
+| Chaos Steed | 7 | 3 | - | 4 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 4+
+
+Equipment:  
+Chaos Knights: Hand weapons, heavy armour and shields  
+Chaos Steeds: Iron-shod hooves (counts as a hand weapon) and barding
+
+Special Rules: Close Order, Counter Charge, Ensorcelled Weapons, First Charge, Mark of Chaos Undivided, Swiftstride
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Chaos Warhound Handler
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Warhound Handler | 5 | 5 | 3 | 4 | 4 | 1 | 4 | 1 | 8 |
+| Chaos Warhound | 7 | 4 | 0 | 3 | 3 | 1 | 3 | 1 | 6 |
+
+Unit Category: Cavalry  
+Troop Type (Chaos Warhound Handler): Regular Infantry Character  
+Troop Type (Chaos Warhound): War Beast  
+Base Size: 30 x 30 mm  
+Unit Size: 1
+
+Equipment (Chaos Warhound Handler): Hand weapon and heavy armour
+
+Equipment (Chaos Warhound): Claws and fangs (counts as a hand weapon)
+
+Special Rules (Chaos Warhound Handler): Handler, Loner, Mark of Chaos Undivided, Move Through Cover, Vanguard
+
+Special Rules (Chaos Warhound): Loner, Move Through Cover, Open Order, Swiftstride
+
+Optional Rules (Chaos Warhound): Armoured Hide (1), Poisoned Attacks, Vanguard
+
+### Chaos Warhounds
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Warhound | 7 | 4 | 0 | 3 | 3 | 1 | 3 | 1 | 6 |
+
+Unit Category: Cavalry  
+Troop Type: War Beast  
+Base Size: 25 x 50 mm  
+Unit Size: 5+  
+Equipment: Claws and fangs (counts as a hand weapon)
+
+Special Rules: Loner, Move Through Cover, Open Order, Swiftstride
+
+Optional Rules: Armoured Hide (1), Poisoned Attacks, Vanguard
+
+### Chosen Chaos Knights
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chosen Chaos Knight | - | 5 | 3 | 4 | 4 | 1 | 4 | 2 | 9 |
+| Champion | - | 5 | 3 | 4 | 4 | 1 | 4 | 3 | 9 |
+| Chaos Steed | 7 | 3 | - | 4 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 4+
+
+Equipment:  
+Chosen Chaos Knights: Hand weapons, heavy armour and shields  
+Chaos Steeds: Iron-shod hooves (counts as a hand weapon) and barding
+
+Special Rules: Chaos Armour (6+), Close Order, Counter Charge, Ensorcelled Weapons, First Charge, Mark of Chaos Undivided, Stubborn, Swiftstride
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch, Drilled
+
+### Marauder Horsemen
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marauder Horseman | - | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 6 |
+| Marauder Horsemaster | - | 4 | 3 | 3 | 3 | 1 | 3 | 2 | 7 |
+| Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+
+
+Equipment:  
+Marauder Horseman: Hand weapons, light armour and shields  
+Warhorse: Iron-shod hooves (counts as a hand weapon)
+
+Special Rules: Fast Cavalry, Fire & Flee, Mark of Chaos Undivided, Open Order, Swiftstride, Warband
+
+Optional Rules: Cult of the Bloodied Hound, Cult of the Carrion Crow, Cult of the Slithering Serpent, Cult of the Fell Raptor, Ambushers, Skirmishers
+
+### Marauder Tribe Huscarls
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Marauder Tribe Huscarl | 4 | 4 | 3 | 3 | 4 | 1 | 3 | 1 | 7 |
+| First Sword | 4 | 4 | 3 | 3 | 4 | 1 | 3 | 2 | 8 |
+| Warhorse | 8 | 3 | - | 3 | - | - | 3 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+
+
+Equipment:  
+Marauder Tribe Huscarls: Hand weapons and light armour  
+Warhorses: Iron-shod hooves (counts as a hand weapon)
+
+Special Rules: Close Order, Counter Charge, Furious Charge, Mark of Chaos Undivided, Swiftstride, Warband
+
+Optional Rules: Drilled, Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
 ## Chariot Units
+
+### Chaos Chariot
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 5 | 5 | 4 | - | - | - |
+| Chaos Charioteer (x2) | - | 5 | 3 | 4 | - | - | 4 | 1 | 8 |
+| Chaos Steed (x2) | 7 | 3 | - | 4 | - | - | 3 | 1 | - |
+
+A Chaos Chariot may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Armour Value: 3+
+
+Equipment:  
+Chaos Charioteers: Hand weapons and halberds  
+Chaos Steeds: Iron-shod hooves (counts as a hand weapon)
+
+Special Rules: Close Order, Ensorcelled Weapons, First Charge, Impact Hits (D6+1), Mark of Chaos Undivided
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+### Chosen Chaos Chariot
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 5 | 5 | 4 | - | - | - |
+| Chosen Charioteer (x2) | - | 5 | 3 | 4 | - | - | 4 | 2 | 9 |
+| Chaos Steed (x2) | 7 | 3 | - | 4 | - | - | 3 | 1 | - |
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Armour Value: 3+
+
+Equipment:  
+Chosen Charioteers: Hand weapons and halberds  
+Chaos Steeds: Iron-shod hooves (counts as a hand weapon)
+
+Special Rules: Close Order, Counter Charge, Ensorcelled Weapons, First Charge, Impact Hits (D6+1, Chariot only), Mark of Chaos Undivided
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
+
+Character Mount: In an army made using the Heralds of Darkness Army of Infamy muster list, Chosen Chariots may be included as character mounts in addition to being taken as Special choices. If so, the chariot's points are added to that of its rider.
+
+A Chaos Lord, Exalted Champion or Aspiring Champion may be mounted on a Chosen Chaos Chariot (+140 points).
+
+### Gorebeast Chariot
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 5 | 5 | 4 | - | - | - |
+| Chaos Charioteer (x2) | - | 5 | 3 | 4 | - | - | 4 | 1 | 8 |
+| Gorebeast (x1) | 6 | 4 | - | 5 | - | - | 2 | 3 | - |
+
+A Gorebeast Chariot may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Armour Value: 3+
+
+Equipment:  
+Chaos Charioteers: Hand weapons and halberds  
+Gorebeast: Goring horns (counts as a hand weapon)
+
+Special Rules: Armour Bane (1, Gorebeast only), Close Order, Ensorcelled Weapons, First Charge, Impact Hits (D6+2), Killing Blow (Gorebeast only), Mark of Chaos Undivided
+
+Optional Rules: Mark of Khorne, Mark of Nurgle, Mark of Slaanesh, Mark of Tzeentch
 
 ## Monster Units
 
-## War Machine Units
+### Chaos Dragon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chaos Dragon | 6 | 6 | - | 7 | (+1) | (+6) | 4 | 6 | - |
+
+A Chaos Dragon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws, Dark Fire of Chaos, Fumes of Contagion and draconic scales (counts as full plate armour)
+
+Special Rules: Close Order, Fly (10), Impetuous, Large Target, Stomp Attacks (D6), Swiftstride, Terror, Two-headed Dragon
+
+### Chimera
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chimera | 6 | 4 | 0 | 6 | 5 | 4 | 3 | 6 | 5 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Claws and fangs (counts as a hand weapon) and scaly skin (counts as heavy armour)
+
+Special Rules: Armour Bane (2, claws and fangs only), Close Order, Fly (10), Large Target, Stomp Attacks (1), Swiftstride, Terror
+
+Optional Rules: Regeneration (5+), Flaming Breath, Poisoned Attacks, Fiend Tail
+
+### Gigantic Spawn of Chaos
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gigantic Spawn | 3D6 | 3 | 0 | 6 | 6 | 6 | 3 | D6+1 | 10 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Slashing talons, gnashing maws and scaly skin (counts as heavy armour)
+
+Special Rules: Armour Bane (2), Close Order, First Charge, Immune to Psychology, Large Target, Random Attacks, Random Movement, Stomp Attacks (D6), Terror, Timmm-berrr!, Unbreakable
+
+Optional Rules: Cursed by the Gods, Gigantic Spawn of Khorne, Gigantic Spawn of Nurgle, Gigantic Spawn of Slaanesh, Gigantic Spawn of Tzeentch
+
+Chaos Incarnate: Any army made using the Warriors of Chaos or Beastmen Brayherds Grand Army composition lists may include 0-1 Gigantic Spawn of Chaos per 1,000 points as a Rare choice.
+
+### Hellcannon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hellcannon | 3 | 4 | 3 | 5 | 6 | 5 | 1 | 5 | 4 |
+| Chaos Dwarf Handlers (x3) | 3 | 4 | - | 3 | - | - | 2 | 1 | 9 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 100 x 150 mm (Hellcannon), 25 x 25 mm (Chaos Dwarf Handlers)  
+Unit Size: 1  
+Armour Value: 4+
+
+Equipment:  
+Hellcannon: Doomfire and hand weapons  
+Chaos Dwarf Handlers: Hand weapons
+
+Special Rules: Armour Bane (1), Caged Fury, Close Order, Ensorcelled Weapons, Immune to Psychology, Impact Hits (D6), Large Target, Monster Handlers, Regeneration (6+), Terror, Unbreakable, Warp-spawned
+
+### Manticore (Warriors of Chaos)
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Manticore | 6 | 5 | - | 5 | - | (+4) | 5 | 4 | - |
+
+A Manticore may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws and scaly skin (counts as heavy armour)
+
+Special Rules: Close Order, Fly (9), Large Target, Stomp Attacks (D3), Swiftstride, Terror, Wilful Beast
+
+Optional Rules: Venomous Tail
+
+### Warpfire Dragon
+
+| Unit | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Warpfire Dragon | 6 | 6 | 0 | 6 | 6 | 6 | 3 | 5 | 8 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws, Warpfire Blast and draconic scales (counts as full plate armour)
+
+Magic: Warpfire Dragon that is a Wizard uses spells from Battle Magic, Daemonology, or Dark Magic.
+
+Special Rules: Close Order, Explosive Demise, Fire & Chaos, Fly (10), Large Target, Lore of Chaos, Magical Attacks, Magic Resistance (-2), Mark of Chaos Undivided, Regeneration (5+), Stomp Attacks (D6), Swiftstride, Terror, Warpfire Aura
+
+Pledged to the Darkness: Any army made using the Warriors of Chaos Grand Army composition list may include 0-1 Warpfire Dragon as a Rare choice.
