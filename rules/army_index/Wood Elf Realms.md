@@ -1152,16 +1152,635 @@ Infantry only. A character belonging to the Scout Kindred gains the Quick Shot a
 
 ## Named Character Units
 
-### Named Characters
+### Araloth, Lord of Talsyn
 
-### Mounts
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 8 | 7 | 4 | 3 | 3 | 8 | 4 | 10 |
 
-### Infantry
+Araloth, Lord of Talsyn, is a Glade Lord. He may be included in any Wood Elf Realms army made using any army composition list. He must be fielded as presented here.
 
-### Cavalry
+Unit Category: Named Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Heavy armour, shield and the Spear of Talsyn
 
-### Chariots
+Magic Items / Abilities: Spear of Talsyn  
+Special Rules: Boldest of the Bold, Evasive, Favour of the Goddess, Move Through Cover, Rallying Cry, Skaryn the Eye Thief, Strike First, Stubborn
 
-### Monsters
+### Orion, the King in the Woods
 
-### War Machines
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Orion, the King in the Woods | 9 | 8 | 6 | 5 | 5 | 5 | 8 | 5 | 10 |
+| Hound of Orion | 9 | 4 | 0 | 4 | 4 | 1 | 4 | 1 | 6 |
+
+Orion may be included in any Wood Elf Realms army made using any army composition list. He must be fielded as presented here.
+
+Unit Category: Named Character  
+Troop Type (Orion, the King in the Woods): Monstrous Infantry  
+Troop Type (Hound of Orion): War Beast  
+Base Size: 50 x 50 mm (Orion), 25 x 50 mm (Hounds of Orion)  
+Unit Size: 3*  
+Equipment (Orion, the King in the Woods): Cloak of Isha, Hawk's Talon, Horn of the Wild Hunt, Spear of Kurnous  
+Equipment (Hound of Orion): Claws and fangs (counts as a hand weapon)
+
+Magic Items / Abilities (Orion, the King in the Woods): Hawk's Talon, The Spear of Kurnous, Cloak of Isha, Horn of the Wild Hunt  
+Special Rules (Orion, the King in the Woods): Frenzy, Immune to Psychology, Magic Resistance (-2), Move Through Cover, Open Order*, Stomp Attacks (D3+2), Strike First, Terror, Unbreakable  
+Special Rules (Hound of Orion): Fear, Frenzy, Immune to Psychology, Magical Attacks, Move Through Cover, Open Order*, Spectral Hounds, Unbreakable
+
+*Note that Orion and his Hounds form a single unit which Orion cannot leave. Should this unit be reduced to a single model, it remains in an Open Order formation.
+
+## Character Units
+
+### Branchwraith
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 6 | 6 | 4 | 4 | 2 | 6 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 1  
+Equipment: Hand weapon and sapwood flesh (counts as light armour)
+
+Magic: A Branchwraith is a Level 1 Wizard. Every Branchwraith knows spells from the following Lores of Magic: Battle Magic, Elementalism, Illusion.
+
+Special Rules: Fear, Flammable, Immune to Psychology, Lore of Athel Loren, Magical Attacks, Move Through Cover, Regeneration (6+), Tree Spirit
+
+### Glade Captain
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 6 | 6 | 4 | 3 | 2 | 5 | 3 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, Asrai longbow and light armour
+
+Special Rules: The Arrow of Kurnous, Evasive, Fire & Flee, Ignores Cover, Move Through Cover, Rallying Cry, Strike First  
+Optional Rules: Arcane Bodkins, Hagbane Tips, Moonfire Shot, Swiftshiver Shards, Trueflight Arrows
+
+Note that Strike First does not apply to this model's mount (should it have one).
+
+### Glade Lord
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 7 | 7 | 4 | 3 | 3 | 6 | 4 | 10 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon, Asrai longbow and light armour
+
+Special Rules: The Arrow of Kurnous, Evasive, Fire & Flee, Ignores Cover, Move Through Cover, Rallying Cry, Strike First  
+Optional Rules: Arcane Bodkins, Hagbane Tips, Moonfire Shot, Swiftshiver Shards, Trueflight Arrows
+
+Note that Strike First does not apply to this model's mount (should it have one).
+
+### Shadowdancer
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 8 | 6 | 4 | 3 | 2 | 7 | 3 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: A Shadowdancer that is a Wizard uses spells from Battle Magic or Illusion.
+
+Special Rules: Evasive, Furious Charge, Immune to Psychology, Loner, Move Through Cover, Strike First, Talismanic Tattoos, Troubadour of Loec  
+Optional Rules: Spear of Loec, Trickster's Blades
+
+### Spellsinger
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 4 | 4 | 3 | 3 | 2 | 4 | 1 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Spellsinger is a Level 1 Wizard who uses spells from Battle Magic, Elementalism, High Magic or Illusion.
+
+Special Rules: Elven Reflexes, Lore of Athel Loren, Magical Attacks, Move Through Cover  
+Optional Rules: Talismanic Tattoos
+
+### Spellweaver
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 4 | 4 | 3 | 3 | 3 | 4 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Spellweaver is a Level 3 Wizard who uses spells from Battle Magic, Elementalism, High Magic or Illusion.
+
+Special Rules: Elven Reflexes, Lore of Athel Loren, Magical Attacks, Move Through Cover  
+Optional Rules: Talismanic Tattoos
+
+### Treeman Ancient
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 5 | 5 | 5 | 6 | 6 | 2 | 3 | 10 |
+
+Unit Category: Character  
+Troop Type: Behemoth  
+Base Size: 50 x 50 mm (min), 50 x 75 mm (max)  
+Unit Size: 1  
+Equipment: Oaken fists, Strangleroots and arboreal armour (counts as full plate armour)
+
+Magic: Treeman Ancient is a Level 2 Wizard who uses spells from Battle Magic or Elementalism.
+
+Special Rules: Close Order, Flammable, Immune to Psychology, Large Target, Lore of Athel Loren, Magical Attacks, Move Through Cover, Regeneration (5+), Stomp Attacks (D3), Stubborn, Terror, Timmm-berrr!, Tree Spirit, Tree Whack
+
+### Warden of Talsyn
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 7 | 4 | 4 | 3 | 3 | 6 | 4 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Equipment: Hand weapon, Asrai spear and light armour
+
+Special Rules: Close Order, Courage Beyond Compare, Drilled, Elven Reflexes, Immune to Psychology, Move Through Cover, Parry, Strike First, Stubborn
+
+### Waystalker
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 6 | 7 | 4 | 3 | 2 | 5 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and Asrai longbow
+
+Special Rules: Elven Reflexes, Evasive, Feigned Flight, Fire & Flee, Hawk-eyed Archer, Ignores Cover, Move Through Cover, Scouts  
+Optional Rules: Arcane Bodkins, Hagbane Tips, Moonfire Shot, Swiftshiver Shards, Trueflight Arrows, Ambushers
+
+## Mount Units
+
+### Elven Steed
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Hooves (counts as a hand weapon)
+
+Special Rules: Fast Cavalry, Swiftstride
+
+### Great Eagle (Mount)
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 5 | - | 4 | (+1) | (+1) | 4 | 3 | - |
+
+A Great Eagle may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Mount  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Wicked claws and serrated maw
+
+Special Rules: Close Order, Fear, Fly (10), Stomp Attacks (1), Swiftstride
+
+### Great Stag
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8 | 4 | - | 5 | (+1) | (+1) | 4 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Mighty antlers
+
+Special Rules: Armoured Hide (2), Crown of Antlers, Fear, First Charge, Impact Hits (1), Move Through Cover, Stomp Attacks (1), Swiftstride
+
+### Unicorn
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 | 4 | - | 4 | - | (+1) | 5 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 60 mm  
+Unit Size: 1  
+Equipment: Hooves and horn (counts as a hand weapon)
+
+Special Rules: Armour Bane (2, Unicorn only), Armoured Hide (1), Beguiling Aura, Counter Charge, Magical Attacks, Stomp Attacks (1), Swiftstride
+
+### Warhawk
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 3 | - | 4 | (+1) | - | 4 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Wicked claws
+
+Special Rules: Evasive, Fear, Feigned Flight, Fly (10), Swiftstride
+
+## Infantry Units
+
+### Bear of Loren
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 4 | - | 4 | 4 | 2 | 3 | 2 | 6 |
+
+Unit Category: Infantry  
+Troop Type: War Beast  
+Base Size: 25 x 50 mm  
+Equipment: Claws, fangs, tusks and teeth (counts as hand weapons)
+
+Special Rules: Armoured Hide (1), Cleaving Blow, Fear, Motley Crew, Run with the Pack, Skirmishers
+
+### Beast Keeper
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Equipment: Hand weapon and light armour
+
+Special Rules: Elven Reflexes, Motley Crew, Move Through Cover, Run with the Pack, Skirmishers
+
+*Note that each Beast Keeper within a Beast Pack must take the same beast type. In other words, a Beast Pack can only contain Deepwood Hounds, Forest Cats, Sylvan Boars or Bears of Loren, not a mixture of different beasts.
+
+### Deepwood Hound
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9 | 4 | - | 3 | 3 | 1 | 3 | 1 | 5 |
+
+Unit Category: Infantry  
+Troop Type: War Beast  
+Base Size: 25 x 50 mm  
+Unit Size: 1-3  
+Equipment: Claws, fangs, tusks and teeth (counts as hand weapons)
+
+Special Rules: Motley Crew, Run with the Pack, Skirmishers, Warband
+
+### Deepwood Scouts
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Deepwood Scout | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Lord's Bowman | 5 | 4 | 5 | 3 | 3 | 1 | 4 | 1 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and Asrai longbows
+
+Special Rules: Elven Reflexes, Evasive, Fire & Flee, Move Through Cover, Open Order, Scouts, Skirmishers  
+Optional Rules: Arcane Bodkins, Hagbane Tips, Moonfire Shot, Swiftshiver Shards, Trueflight Arrows
+
+### Dryads
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dryad | 6 | 4 | 4 | 3 | 4 | 1 | 4 | 2 | 8 |
+| Nymph | 6 | 4 | 4 | 3 | 4 | 1 | 4 | 3 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 30 x 30 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and sapwood flesh (counts as light armour)
+
+Special Rules: Armour Bane (1), Fear, Flammable, Immune to Psychology, Magical Attacks, Move Through Cover, Open Order, Regeneration (6+), Skirmishers, Stubborn, Tree Spirit
+
+### Eternal Guard
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Eternal Guard | 5 | 5 | 4 | 3 | 3 | 1 | 4 | 1 | 9 |
+| Eternal Warden | 5 | 5 | 4 | 3 | 3 | 1 | 4 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, Asrai spears and light armour
+
+Special Rules: Close Order, Elven Reflexes, Martial Prowess, Move Through Cover, Stubborn  
+Optional Rules: Drilled, Veteran
+
+### Forest Cat
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7 | 4 | - | 3 | 3 | 1 | 4 | 1 | 5 |
+
+Unit Category: Infantry  
+Troop Type: War Beast  
+Base Size: 25 x 50 mm  
+Unit Size: 1-3  
+Equipment: Claws, fangs, tusks and teeth (counts as hand weapons)
+
+Special Rules: Armour Bane (1), Motley Crew, Run with the Pack, Skirmishers
+
+### Glade Guard
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Glade Guard | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Lord's Bowman | 5 | 4 | 5 | 3 | 3 | 1 | 4 | 1 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and Asrai longbows
+
+Special Rules: Elven Reflexes, Move Through Cover, Open Order  
+Optional Rules: Arcane Bodkins, Hagbane Tips, Moonfire Shot, Swiftshiver Shards, Trueflight Arrows, Fire & Flee, Vanguard
+
+### Guardians of Talsyn
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Guardian of Talsyn | 5 | 5 | 4 | 3 | 3 | 1 | 4 | 2 | 9 |
+| Watchmaster | 5 | 5 | 4 | 3 | 3 | 1 | 4 | 3 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapon, Asrai spear and light armour
+
+Special Rules: Close Order, Drilled, Elven Reflexes, Martial Prowess, Move Through Cover, Parry, Stubborn, Veteran
+
+### Sylvan Boar
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6 | 3 | - | 4 | 4 | 1 | 3 | 1 | 5 |
+
+Unit Category: Infantry  
+Troop Type: War Beast  
+Base Size: 25 x 50 mm  
+Unit Size: 1-3  
+Equipment: Claws, fangs, tusks and teeth (counts as hand weapons)
+
+Special Rules: Furious Charge, Motley Crew, Razor Tusks, Run with the Pack, Skirmishers
+
+### Tree Kin
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tree Kin | 5 | 4 | 4 | 4 | 5 | 3 | 3 | 3 | 8 |
+| Elder | 5 | 4 | 4 | 4 | 5 | 3 | 3 | 4 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Monstrous Infantry  
+Base Size: 50 x 50 mm  
+Unit Size: 2+  
+Equipment: Hand weapons and hardwood flesh (counts as heavy armour)
+
+Special Rules: Armour Bane (2), Close Order, Fear, Flammable, Immune to Psychology, Magical Attacks, Move Through Cover, Regeneration (5+), Stomp Attacks (1), Stubborn, Tree Spirit, Tree Whack
+
+### Wardancers
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wardancer | 5 | 6 | 4 | 3 | 3 | 1 | 6 | 1 | 8 |
+| Bladesinger | 5 | 6 | 4 | 3 | 3 | 1 | 6 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons
+
+Special Rules: Dances of Loec, Evasive, Furious Charge, Immune to Psychology, Loner, Motley Crew, Move Through Cover, Open Order, Skirmishers, Strike First, Talismanic Tattoos
+
+### Waywatchers
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Waywatcher | 5 | 4 | 5 | 3 | 3 | 1 | 5 | 1 | 8 |
+| Sentinel | 5 | 4 | 6 | 3 | 3 | 1 | 5 | 1 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and Asrai longbows
+
+Special Rules: Elven Reflexes, Evasive, Feigned Flight, Fire & Flee, Ignores Cover, Move Through Cover, Scouts, Skirmishers  
+Optional Rules: Arcane Bodkins, Hagbane Tips, Moonfire Shot, Swiftshiver Shards, Trueflight Arrows, Ambushers, Vanguard, Veteran
+
+### Wildwood Rangers
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wildwood Ranger | 5 | 5 | 4 | 3 | 3 | 1 | 4 | 1 | 9 |
+| Wildwood Warden | 5 | 5 | 4 | 3 | 3 | 1 | 4 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons, ranger's glaives and light armour
+
+Special Rules: Close Order, Elven Reflexes, Guardians of the Wildwood, Immune to Psychology, Move Through Cover
+
+### Wood Elf Beast Pack
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Beast Keeper | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Deepwood Hound | 9 | 4 | - | 3 | 3 | 1 | 3 | 1 | 5 |
+| Forest Cat | 7 | 4 | - | 3 | 3 | 1 | 4 | 1 | 5 |
+| Sylvan Boar | 6 | 3 | - | 4 | 4 | 1 | 3 | 1 | 5 |
+| Bear of Loren | 5 | 4 | - | 4 | 4 | 2 | 3 | 2 | 6 |
+
+Unit Category: Infantry  
+Troop Type (Beast Keeper): Regular Infantry  
+Troop Type (Deepwood Hound): War Beast  
+Troop Type (Forest Cat): War Beast  
+Troop Type (Sylvan Boar): War Beast  
+Troop Type (Bear of Loren): War Beast  
+Base Size: 25 x 25 mm (Beast Keeper), 25 x 50 mm (Beast Pack)  
+Unit Size: *
+
+Equipment (Beast Keeper): Hand weapon and light armour  
+Equipment (Deepwood Hound): Claws, fangs, tusks and teeth (counts as hand weapons)  
+Equipment (Forest Cat): Claws, fangs, tusks and teeth (counts as hand weapons)  
+Equipment (Sylvan Boar): Claws, fangs, tusks and teeth (counts as hand weapons)  
+Equipment (Bear of Loren): Claws, fangs, tusks and teeth (counts as hand weapons)
+
+Special Rules (Beast Keeper): Elven Reflexes, Motley Crew, Move Through Cover, Run with the Pack, Skirmishers  
+Special Rules (Deepwood Hound): Motley Crew, Run with the Pack, Skirmishers, Warband  
+Special Rules (Forest Cat): Armour Bane (1), Motley Crew, Run with the Pack, Skirmishers  
+Special Rules (Sylvan Boar): Furious Charge, Motley Crew, Razor Tusks, Run with the Pack, Skirmishers  
+Special Rules (Bear of Loren): Armoured Hide (1), Cleaving Blow, Fear, Motley Crew, Run with the Pack, Skirmishers
+
+*Note that each Beast Keeper within a Beast Pack must take the same beast type. In other words, a Beast Pack can only contain Deepwood Hounds, Forest Cats, Sylvan Boars or Bears of Loren, not a mixture of different beasts.
+
+Beasts of the Forest: Any army made using the Wood Elf Realms Grand Army composition list may include any number of Wood Elf Beast Packs as Rare choices.
+
+## Cavalry Units
+
+### Glade Riders
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Glade Rider | - | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Glade Knight | - | 4 | 5 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Elven Steed | 9 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 4+
+
+Equipment:  
+Glade Riders: Hand weapons, cavalry spears and Asrai longbows  
+Elven Steeds: Hooves (counts as a hand weapon)
+
+Special Rules: Elven Reflexes, Fast Cavalry, Fire & Flee, Open Order, Skirmishers, Swiftstride  
+Optional Rules: Arcane Bodkins, Hagbane Tips, Moonfire Shot, Swiftshiver Shards, Trueflight Arrows, Ambushers, Drilled, Reserve Move
+
+### Sisters of the Thorn
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sister of the Thorn | - | 4 | 5 | 3 | 3 | 1 | 4 | 1 | 9 |
+| Handmaiden of the Thorn | - | 4 | 6 | 3 | 3 | 1 | 4 | 2 | 9 |
+| Steed of Isha | 8 | 3 | - | 4 | - | - | 4 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+
+
+Equipment:  
+Sister of the Thorn: Hand weapons and blackbriar javelins  
+Steeds of Isha: Hooves (counts as a hand weapon)
+
+Special Rules: Daughters of Eternity, Deepwood Coven, Elven Reflexes, Fast Cavalry, Fire & Flee, Move Through Cover, Open Order, Poisoned Attacks, Swiftstride
+
+### Warhawk Riders
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Warhawk Rider | - | 4 | 4 | 3 | 4 | 2 | 4 | 1 | 8 |
+| Wind Rider | - | 4 | 5 | 3 | 4 | 2 | 4 | 2 | 8 |
+| Warhawk | 2 | 3 | - | 4 | - | - | 4 | 2 | - |
+
+Unit Category: Cavalry  
+Troop Type: Monstrous Cavalry  
+Base Size: 50 x 50 mm  
+Unit Size: 3+
+
+Equipment:  
+Warhawk Riders: Hand weapons, cavalry spears and Asrai longbows  
+Warhawks: Wicked claws
+
+Special Rules: Elven Reflexes, Evasive, Fear, Feigned Flight, Fire & Flee, Fly (10), Skirmishers, Swiftstride  
+Optional Rules: Arcane Bodkins, Hagbane Tips, Moonfire Shot, Swiftshiver Shards, Trueflight Arrows
+
+### Wild Riders
+
+| Model | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wild Rider | - | 5 | 4 | 4 | 3 | 1 | 5 | 1 | 9 |
+| Wild Hunter | - | 5 | 4 | 4 | 3 | 1 | 5 | 2 | 9 |
+| Steed of Kurnous | 9 | 3 | - | 4 | - | - | 4 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+
+
+Equipment:  
+Wild Riders: Hand weapons, hunting spears and light armour  
+Steeds of Kurnous: Hooves (counts as a hand weapon)
+
+Special Rules: Counter Charge, Elven Reflexes, Fast Cavalry, Fear, Frenzy, Furious Charge (Riders only), Move Through Cover, Open Order, Swiftstride, Talismanic Tattoos
+
+## Monster Units
+
+### Forest Dragon
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6 | 6 | - | 7 | (+3) | (+6) | 4 | 6 | - |
+
+A Forest Dragon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws, serrated maw, soporific breath and draconic scales (counts as full plate armour)
+
+Special Rules: Close Order, Fly (10), Large Target, Stomp Attacks (D6), Swiftstride, Terror
+
+### Great Eagle
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 5 | 0 | 4 | 4 | 3 | 4 | 3 | 6 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 50 x 50 mm  
+Unit Size: 1  
+Equipment: Wicked claws and serrated maw
+
+Special Rules: Close Order, Fear, Fly (10), Stomp Attacks (1), Swiftstride
+
+### Treeman
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 6 | 4 | 5 | 6 | 5 | 2 | 5 | 9 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 50 x 50 mm (min), 50 x 75 mm (max)  
+Unit Size: 1  
+Equipment: Oaken fists, Strangleroots and arboreal armour (counts as full plate armour)
+
+Special Rules: Armour Bane (1), Close Order, Flammable, Immune to Psychology, Large Target, Magical Attacks, Move Through Cover, Regeneration (5+), Stomp Attacks (D3), Stubborn, Terror, Timmm-berrr!, Tree Spirit, Tree Whack
