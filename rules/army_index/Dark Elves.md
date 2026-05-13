@@ -492,18 +492,569 @@ The bearer of the Tome of Furion knows one more spell (chosen in the usual way) 
 
 Single use. The owner of a Focus Familiar may use it when they attempt to cast a spell. Place a marker (such as a Familiar model) completely within 12" of the owner. The range and all effects of the spell are measured from this marker, rather than from the owner. If the spell requires a line of sight, this is determined from the marker (which has a 360-degree vision arc).
 
-## Named Character Units
-
 ## Character Units
+
+### Dark Elf Dreadlord
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 7 | 7 | 4 | 3 | 3 | 6 | 4 | 10 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+
+Special Rules: Eternal Hatred, Hatred (High Elves), Murderous, Strike First  
+Optional Rules: Sea Dragon Cloak
+
+Note that Hatred (High Elves) and Strike First do not apply to this model's mount (should it have one).
+
+### Dark Elf Master
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 6 | 6 | 4 | 3 | 2 | 5 | 3 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and light armour
+
+Special Rules: Eternal Hatred, Hatred (High Elves), Murderous, Strike First  
+Optional Rules: Sea Dragon Cloak
+
+Note that Hatred (High Elves) and Strike First do not apply to this model's mount (should it have one).
+
+### Death Hag
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 6 | 6 | 4 | 3 | 2 | 7 | 3 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Two hand weapons
+
+Special Rules: Eternal Hatred, Frenzy, Hatred (all enemies), Loner, Murderous, Poisoned Attacks, Strike First  
+Optional Rules: Cry of War, Rune of Khaine, Witchbrew
+
+### High Beastmaster
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| - | 7 | 7 | 4 | 3 | 3 | 5 | 3 | 9 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: (as mount)  
+Unit Size: 1  
+Equipment: Hand weapon, whip and light armour
+
+Special Rules: Eternal Hatred, Goad Beast, Hatred (High Elves), Murderous, Strike First
+
+Note that Hatred (High Elves) and Strike First do not apply to this model's mount (should it have one).
+
+### Khainite Assassin
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 8 | 7 | 4 | 3 | 2 | 7 | 3 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon and throwing weapons
+
+Special Rules: Eternal Hatred, Hatred (all enemies), Hidden, Immune to Psychology, Murderous, Strike First  
+Optional Rules: Black Lotus, Dark Venom, Manbane
+
+### Sorceress
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 4 | 4 | 3 | 3 | 2 | 4 | 1 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Sorceress is a Level 1 Wizard who uses spells from Battle Magic, Daemonology, Dark Magic, Elementalism, or Illusion.
+
+Special Rules: Elven Reflexes, Eternal Hatred, Hatred (High Elves), Hekarti's Blessing, Lore of Naggaroth, Murderous
+
+### Supreme Sorceress
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | 4 | 4 | 3 | 3 | 3 | 5 | 2 | 8 |
+
+Unit Category: Character  
+Troop Type: Regular Infantry Character  
+Base Size: 25 x 25 mm  
+Unit Size: 1  
+Equipment: Hand weapon
+
+Magic: Supreme Sorceress is a Level 3 Wizard who uses spells from Battle Magic, Daemonology, Dark Magic, Elementalism, or Illusion.
+
+Special Rules: Elven Reflexes, Eternal Hatred, Hatred (High Elves), Hekarti's Blessing, Lore of Naggaroth, Murderous
 
 ## Mount Units
 
+### Cold One (Dark Elves)
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7 | 3 | - | 4 | (+1) | - | 2 | 2 | - |
+
+Unit Category: Mount  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Claws and teeth (counts as a hand weapon)
+
+Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Fear, First Charge, Stupidity, Swiftstride
+
+### Dark Pegasus
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 8 | 3 | - | 4 | - | (+1) | 4 | 3 | - |
+
+Unit Category: Mount  
+Troop Type: Monstrous Cavalry  
+Base Size: 40 x 60 mm  
+Unit Size: 1  
+Equipment: Hooves (counts as a hand weapon)
+
+Special Rules: Armour Bane (1, Dark Pegasus only), Counter Charge, First Charge, Fly (10), Swiftstride
+
+### Dark Steed
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Mount  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 1  
+Equipment: Hooves (counts as a hand weapon)
+
+Special Rules: Fast Cavalry, Swiftstride
+
 ## Infantry Units
+
+### Black Ark Corsairs
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Corsair | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Reaver | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons and light armour
+
+Special Rules: Elven Reflexes, Hatred (High Elves), Move Through Cover, Open Order, Sea Dragon Cloak
+
+### Black Guard of Naggarond
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Black Guard | 5 | 5 | 4 | 3 | 3 | 1 | 5 | 1 | 9 |
+| Tower Master | 5 | 5 | 4 | 3 | 3 | 1 | 5 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons, dread halberds and full plate armour
+
+Special Rules: Close Order, Elven Reflexes, Eternal Hatred, Hatred (High Elves), Immune to Psychology, Martial Prowess, Stubborn
+
+### Dark Elf Shades
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shade | 5 | 5 | 5 | 3 | 3 | 1 | 5 | 1 | 8 |
+| Bloodshade | 5 | 5 | 6 | 3 | 3 | 1 | 5 | 1 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Hand weapons and repeater crossbows
+
+Special Rules: Elven Reflexes, Evasive, Hatred (High Elves), Move Through Cover, Scouts, Skirmishers  
+Optional Rules: Ambushers, Chariot Runners, Veteran
+
+### Dark Elf Warriors
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dark Elf Warrior | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Lordling | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons, light armour and shields
+
+Special Rules: Close Order, Elven Reflexes, Hatred (High Elves), Martial Prowess  
+Optional Rules: Veteran
+
+### Har Ganeth Executioners
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Executioner | 5 | 5 | 4 | 4 | 3 | 1 | 5 | 1 | 9 |
+| Draich Master | 5 | 5 | 4 | 4 | 3 | 1 | 5 | 2 | 9 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons, Har Ganeth greatswords and heavy armour
+
+Special Rules: Close Order, Elven Reflexes, Hatred (High Elves), Murderous, Veteran  
+Optional Rules: Drilled
+
+### Harpies
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Harpy | 5 | 3 | 0 | 3 | 3 | 1 | 5 | 2 | 6 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 5+  
+Equipment: Claws (counts as hand weapons)
+
+Special Rules: Fly (10), Move Through Cover, Scouts, Skirmishers, Swiftstride
+
+### Repeater Crossbowmen
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Repeater Crossbowman | 5 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Lordling | 5 | 4 | 5 | 3 | 3 | 1 | 4 | 1 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons, repeater crossbows and light armour
+
+Special Rules: Close Order, Elven Reflexes, Hatred (High Elves), Martial Prowess  
+Optional Rules: Veteran
+
+### Sisters of Slaughter
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sister of Slaughter | 5 | 5 | 4 | 3 | 3 | 1 | 6 | 2 | 9 |
+| Hag | 5 | 5 | 4 | 3 | 3 | 1 | 6 | 3 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Hand weapons and lash & buckler
+
+Special Rules: Dance of Death, Elven Reflexes, Hatred (High Elves), Impetuous, Loner, Murderous, Open Order
+
+### Witch Elves
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Witch Elf | 5 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 |
+| Hag | 5 | 4 | 4 | 3 | 3 | 1 | 5 | 2 | 8 |
+
+Unit Category: Infantry  
+Troop Type: Regular Infantry  
+Base Size: 25 x 25 mm  
+Unit Size: 10+  
+Equipment: Two hand weapons
+
+Special Rules: Close Order, Elven Reflexes, Frenzy, Hatred (High Elves), Horde, Loner, Murderous, Poisoned Attacks
 
 ## Cavalry Units
 
+### Cold One Knights
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cold One Knight | - | 5 | 4 | 4 | 4 | 1 | 5 | 1 | 9 |
+| Dread Knight | - | 5 | 4 | 4 | 4 | 1 | 5 | 2 | 9 |
+| Cold One | 7 | 3 | - | 4 | - | - | 2 | 2 | - |
+
+Unit Category: Cavalry  
+Troop Type: Heavy Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+
+
+Equipment:
+
+Cold One Knights: Hand weapons, lances, heavy armour and shields
+
+Cold Ones: Claws and teeth (counts as a hand weapons)
+
+Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Close Order, Elven Reflexes, Fear, First Charge, Hatred (High Elves), Stupidity, Swiftstride
+
+### Dark Riders
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dark Rider | - | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+| Herald | - | 4 | 4 | 3 | 3 | 1 | 4 | 2 | 8 |
+| Dark Steed | 9 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+
+
+Equipment:
+
+Dark Riders: Hand weapons, cavalry spears and light armour
+
+Dark Steeds: Hooves (counts as a hand weapons)
+
+Special Rules: Elven Reflexes, Fast Cavalry, Hatred (High Elves), Open Order, Skirmishers, Swiftstride  
+Optional Rules: Fire & Flee, Scouts
+
+### Doomfire Warlocks
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Doomfire Warlock | - | 4 | 4 | 4 | 3 | 1 | 5 | 1 | 8 |
+| Master | - | 4 | 4 | 4 | 3 | 1 | 5 | 2 | 8 |
+| Dark Steed | 9 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+Unit Category: Cavalry  
+Troop Type: Light Cavalry  
+Base Size: 30 x 60 mm  
+Unit Size: 5+
+
+Equipment:
+
+Doomfire Warlocks: Hand weapons
+
+Dark Steeds: Hooves (counts as a hand weapons)
+
+Special Rules: Cursed Coven, Dark Runes, Elven Reflexes, Fast Cavalry, Hatred (High Elves), Open Order, Poisoned Attacks (Riders only), Swiftstride
+
 ## Chariot Units
+
+### Bloodwrack Shrine
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bloodwrack Shrine | 2 | - | - | 5 | 5 | 5 | - | - | - |
+| Shrinekeeper (x2) | - | 4 | 4 | 3 | - | - | 5 | 1 | 8 |
+| Bloodwrack Medusa | - | 5 | 5 | 4 | - | - | 5 | 3 | - |
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+
+
+Equipment:
+
+Shrinekeepers: Cavalry spears
+
+Bloodwrack Medusa: Cavalry spear and petrifying gaze
+
+Special Rules: Close Order, Dragged Along, Elven Reflexes, Frenzy, Hatred (High Elves), Impact Hits (D6+1), Large Target, Magic Resistance (-1), Murderous, Poisoned Attacks, Stony Stare, Terror
+
+### Cauldron of Blood
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cauldron of Blood | 2 | - | - | 5 | 5 | 5 | - | - | - |
+| Witch Elf Crew (x2) | - | 4 | 4 | 3 | - | - | 5 | 1 | 9 |
+
+A Cauldron of Blood may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+
+
+Equipment:
+
+Witch Elf Crew: Two hand weapons
+
+Special Rules: Blessings of Khaine, Close Order, Dragged Along, Elven Reflexes, Frenzy, Hatred (High Elves), Impact Hits (D6+1), Large Target, Magic Resistance (-1), Murderous, Poisoned Attacks, Terror
+
+### Cold One Chariot
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 5 | 5 | 4 | - | - | - |
+| Knight Charioteer (x2) | - | 5 | 4 | 4 | - | - | 5 | 1 | 9 |
+| Cold One (x2) | 7 | 3 | - | 4 | - | - | 2 | 2 | - |
+
+A Cold One Chariot may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Heavy Chariot  
+Base Size: 50 x 100 mm  
+Unit Size: 1  
+Armour Value: 4+
+
+Equipment:
+
+Knight Charioteers: Hand weapons, cavalry spears and repeater crossbows
+
+Cold Ones: Claws and teeth (counts as a hand weapons)
+
+Special Rules: Armour Bane (1, Cold One only), Close Order, Elven Reflexes, Fear, First Charge, Hatred (High Elves), Impact Hits (D6+1), Stupidity
+
+### Scourgerunner Chariot
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Chariot | - | - | - | 4 | 4 | 4 | - | - | - |
+| Beastmaster Crew (x2) | - | 4 | 4 | 3 | - | - | 4 | 1 | 8 |
+| Dark Steed (x2) | 9 | 3 | - | 3 | - | - | 4 | 1 | - |
+
+A Scourgerunner Chariot may be included in your army as a character's mount. If so, its points are added to that of its rider.
+
+Unit Category: Chariot  
+Troop Type: Light Chariot  
+Base Size: 50 x 100 mm  
+Unit Size: 1-3  
+Armour Value: 5+
+
+Equipment:
+
+Chariot: Ravager harpoon
+
+Beastmaster Crew: Hand weapons, cavalry spears and repeater crossbows
+
+Dark Steeds: Hooves (counts as hand weapons)
+
+Special Rules: Elven Reflexes, Hatred (High Elves), Impact Hits (D6), Open Order, Sea Dragon Cloak, Swiftstride
 
 ## Monster Units
 
+### Black Dragon
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6 | 6 | - | 7 | (+3) | (+6) | 4 | 6 | - |
+
+A Black Dragon may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws, serrated maw, noxious breath and draconic scales (counts as full plate armour)
+
+Special Rules: Close Order, Fly (10), Hatred (High Elves), Large Target, Stomp Attacks (D6), Swiftstride, Terror
+
+### Bloodwrack Medusa
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 7 | 5 | 5 | 4 | 4 | 4 | 5 | 3 | 7 |
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 40 x 40 mm  
+Unit Size: 1  
+Equipment: Hand weapon, petrifying gaze and light armour
+
+Special Rules: Close Order, Elven Reflexes, Fear, Frenzy, Hatred (High Elves), Magic Resistance (-1), Murderous, Poisoned Attacks, Stony Stare
+
+### Kharibdyss
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kharibdyss | 6 | 5 | 0 | 7 | 5 | 5 | 3 | 5 | 6 |
+| Beastmaster Handlers (x2) | 6 | 4 | - | 3 | - | - | 4 | 1 | 8 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm (Kharibdyss), 25 x 25 mm (Beastmaster Handlers)  
+Unit Size: 1  
+Armour Value: 5+
+
+Equipment:
+
+Kharibdyss: Cavernous maw and writhing tentacles
+
+Beastmaster Handlers: Hand weapons and whips
+
+Special Rules: Abyssal Howl, Close Order, Immune to Psychology, Large Target, Monster Handlers, Stomp Attacks (D3+1), Terror
+
+### Manticore (Dark Elves)
+
+| M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6 | 5 | - | 5 | (+1) | (+4) | 5 | 4 | - |
+
+A Manticore may only be included in your army as a character's mount. Its points are added to that of its rider.
+
+Unit Category: Monster  
+Troop Type: Monstrous Creature  
+Base Size: 60 x 100 mm  
+Unit Size: 1  
+Equipment: Wicked claws and scaly skin (counts as heavy armour)
+
+Special Rules: Close Order, Fly (9), Large Target, Stomp Attacks (D3), Swiftstride, Terror, Wilful Beast  
+Optional Rules: Venomous Tail
+
+### War Hydra
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| War Hydra | 6 | 4 | 0 | 5 | 5 | 5 | 3 | 2 | 6 |
+| Beastmaster Handlers (x2) | 6 | 4 | - | 3 | - | - | 4 | 1 | 8 |
+
+Unit Category: Monster  
+Troop Type: Behemoth  
+Base Size: 60 x 100 mm (War Hydra), 25 x 25 mm (Beastmaster Handlers)  
+Unit Size: 1  
+Armour Value: 5+
+
+Equipment:
+
+War Hydra: Wicked claws, serrated maws and fiery breath
+
+Beastmaster Handlers: Hand weapons and whips
+
+Special Rules: Close Order, Extra Attacks (+remaining Wounds), Immune to Psychology, Large Target, Monster Handlers, Regeneration (5+), Stomp Attacks (D3), Terror
+
 ## War Machine Units
+
+### Reaper Bolt Thrower
+
+| | M | WS | BS | S | T | W | I | A | Ld |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Reaper Bolt Thrower | - | - | - | - | 6 | 2 | - | - | - |
+| Dark Elf Crew | 5 | 4 | 4 | 3 | 3 | 2 | 4 | 2 | 8 |
+
+Unit Category: War Machine  
+Troop Type: War Machine  
+Base Size: 50 x 50 mm (war machine), 25 x 25 mm (crew)  
+Unit Size: 1  
+Equipment: Repeater bolt thrower, hand weapons and light armour
+
+Special Rules: Elven Reflexes, Hatred (High Elves), Skirmishers
