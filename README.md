@@ -2,38 +2,35 @@
 
 An AI chatbot for Warhammer rules built with FastAPI + React.
 
-## Running the app
+## Desktop App (.exe)
 
-You need two terminals running at the same time.
+Package the full app (backend + frontend + rules) as a native Windows desktop executable.
 
-### 1. Start the backend (API)
+### Build
 
-```bash
-cd "WH AI chatbot"
+From the project root:
+
+```powershell
 .venv\Scripts\Activate.ps1
-python -m uvicorn api:app --reload
+.\build_desktop.ps1
 ```
 
-Wait until you see `Application startup complete.` in the terminal (if you start the app the first time, it may take 10–30 seconds).
+### Run
 
-### 2. Start the frontend (React)
+After the build finishes, start:
 
-Open a new terminal:
-
-```bash
-cd "WH AI chatbot\frontend"
-npm run dev
+```powershell
+dist\WH AI Chatbot.exe
 ```
 
-### 3. Open the browser
-
-Navigate to: **http://localhost:5173**
-
----
+Notes:
+- The app opens in a native desktop window (pywebview).
+- The frontend is bundled from `frontend/dist`.
+- The backend API runs inside the app process.
+- Persistent vector store data is written under `%LOCALAPPDATA%\WH-AI-Chatbot\data\vector_store` in desktop mode.
 
 ## Requirements
 
-- Python 3.10+ with a virtual environment (`.venv`)
+- Python 3.11 with a virtual environment (`.venv`)
 - Node.js 18+
-- Dependencies installed: `pip install -r requirements.txt` and `npm install`
-- `uvicorn` is required for the backend and is already included in `requirements.txt`
+- Dependencies installed by the build script (`pip install -r requirements.txt` and `npm install`)
