@@ -15,12 +15,32 @@ From the project root:
 .\build_desktop.ps1
 ```
 
+If your project path contains spaces, this also works from anywhere:
+
+```powershell
+Set-Location "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot"
+.venv\Scripts\Activate.ps1
+.\build_desktop.ps1
+```
+
 ### Run
 
 After the build finishes, start:
 
 ```powershell
-dist\WH AI Chatbot.exe
+& ".\dist\WH AI Chatbot.exe"
+```
+
+From another folder, use the full path:
+
+```powershell
+& "C:\Users\Input your user here\OneDrive\Desktop\WH AI chatbot\dist\WH AI Chatbot.exe"
+```
+
+Build and run in one go:
+
+```powershell
+Set-Location "C:\Users\Input your user here\OneDrive\Desktop\WH AI chatbot"; .venv\Scripts\Activate.ps1; .\build_desktop.ps1; & ".\dist\WH AI Chatbot.exe"
 ```
 
 Notes:
@@ -28,6 +48,7 @@ Notes:
 - The frontend is bundled from `frontend/dist`.
 - The backend API runs inside the app process.
 - Persistent vector store data is written under `%LOCALAPPDATA%\WH-AI-Chatbot\data\vector_store` in desktop mode.
+- In PowerShell, paths containing spaces must be quoted. Use `&` when launching executables.
 
 ## Requirements
 
