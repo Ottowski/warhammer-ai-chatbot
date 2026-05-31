@@ -29,20 +29,21 @@ class DocumentLoader:
         ids = []
         doc_id_counter = 0
         
-        # Scan rules directory for markdown and txt files
+        # Scan rules directory recursively for markdown and txt files
         if not os.path.exists(self.rules_directory):
             print(f"Warning: Rules directory not found at {self.rules_directory}")
             return documents, metadatas, ids
         
-        rule_files = list(Path(self.rules_directory).glob("*.md")) + \
-                     list(Path(self.rules_directory).glob("*.txt"))
+        rules_root = Path(self.rules_directory)
+        rule_files = sorted(list(rules_root.rglob("*.md")) + list(rules_root.rglob("*.txt")))
         
         if not rule_files:
             print(f"Warning: No rule files found in {self.rules_directory}")
             return documents, metadatas, ids
         
         for file_path in rule_files:
-            print(f"Loading: {file_path.name}")
+            relative_path = file_path.relative_to(rules_root)
+            print(f"Loading: {relative_path}")
             
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
@@ -54,7 +55,7 @@ class DocumentLoader:
                 if chunk.strip():  # Skip empty chunks
                     documents.append(chunk)
                     metadatas.append({
-                        "source": file_path.name,
+                        "source": str(relative_path),
                         "file_path": str(file_path)
                     })
                     ids.append(f"doc_{doc_id_counter}")
