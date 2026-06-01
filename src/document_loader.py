@@ -14,12 +14,17 @@ class DocumentLoader:
         """
         self.rules_directory = rules_directory
     
-    def load_all_documents(self, chunk_size: int = 500) -> Tuple[List[str], List[dict], List[str]]:
+    def load_all_documents(
+        self,
+        chunk_size: int = 500,
+        chunk_overlap: int = 100,
+    ) -> Tuple[List[str], List[dict], List[str]]:
         """
         Load all rule documents from the rules directory
         
         Args:
             chunk_size: Approximate size of text chunks for chunking large documents
+            chunk_overlap: Number of overlapping characters between chunks
             
         Returns:
             Tuple of (documents, metadatas, ids)
@@ -49,7 +54,7 @@ class DocumentLoader:
                 content = f.read()
             
             # Chunk large documents
-            chunks = self._chunk_text(content, chunk_size)
+            chunks = self._chunk_text(content, chunk_size, chunk_overlap)
             
             for chunk in chunks:
                 if chunk.strip():  # Skip empty chunks
@@ -78,6 +83,8 @@ class DocumentLoader:
         """
         if len(text) <= chunk_size:
             return [text]
+
+        overlap = max(0, overlap)
         
         # Split by markdown headings first (better for question matching)
         import re
@@ -99,10 +106,11 @@ class DocumentLoader:
                 if section.startswith('#'):
                     current_chunk = section
                 else:
-                    # Create small overlap from previous chunk
-                    lines = current_chunk.split('\n')
-                    overlap_text = '\n'.join(lines[-3:]) if len(lines) > 3 else current_chunk
-                    current_chunk = overlap_text + '\n\n' + section
+                    overlap_text = current_chunk[-overlap:].strip() if overlap else ""
+                    if overlap_text:
+                        current_chunk = overlap_text + '\n\n' + section
+                    else:
+                        current_chunk = section
             else:
                 if current_chunk:
                     current_chunk += '\n' + section
