@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-from typing import List, Tuple
+from typing import List, Optional, Tuple
 
 class DocumentLoader:
     """Loads and processes rule documents"""
@@ -33,6 +33,15 @@ class DocumentLoader:
         metadatas = []
         ids = []
         doc_id_counter = 0
+
+        if chunk_size <= 0:
+            raise ValueError("chunk_size must be greater than 0")
+
+        if chunk_overlap < 0:
+            chunk_overlap = 0
+        elif chunk_overlap >= chunk_size:
+            # Keep overlap valid to avoid ineffective or duplicate-heavy chunking.
+            chunk_overlap = chunk_size - 1
         
         # Scan rules directory recursively for markdown and txt files
         if not os.path.exists(self.rules_directory):
@@ -49,9 +58,10 @@ class DocumentLoader:
         for file_path in rule_files:
             relative_path = file_path.relative_to(rules_root)
             print(f"Loading: {relative_path}")
-            
-            with open(file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+
+            content = self._read_text_file(file_path)
+            if content is None:
+                continue
             
             # Chunk large documents
             chunks = self._chunk_text(content, chunk_size, chunk_overlap)
@@ -68,6 +78,15 @@ class DocumentLoader:
         
         print(f"Loaded {len(documents)} document chunks from {len(rule_files)} files")
         return documents, metadatas, ids
+
+    def _read_text_file(self, file_path: Path) -> Optional[str]:
+        """Read a text file safely and return None if it cannot be decoded."""
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                return f.read()
+        except (OSError, UnicodeDecodeError) as exc:
+            print(f"Warning: Skipping unreadable file {file_path}: {exc}")
+            return None
     
     def _chunk_text(self, text: str, chunk_size: int = 500, overlap: int = 100) -> List[str]:
         """
@@ -138,9 +157,10 @@ class DocumentLoader:
         if not file_path.exists():
             print(f"Error: File not found at {file_path}")
             return [], [], []
-        
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
+
+        content = self._read_text_file(file_path)
+        if content is None:
+            return [], [], []
         
         documents = [content]
         metadatas = [{"source": file_name, "file_path": str(file_path)}]
