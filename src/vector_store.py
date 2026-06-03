@@ -57,6 +57,13 @@ class VectorStoreManager:
         """
         if self.collection is None:
             raise ValueError("Collection not initialized. Call create_collection first.")
+
+        if not (len(documents) == len(metadatas) == len(ids)):
+            raise ValueError("documents, metadatas, and ids must have the same length.")
+
+        if not documents:
+            print("No documents to add; skipping insert.")
+            return
         
         self.collection.add(
             documents=documents,
