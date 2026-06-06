@@ -1,42 +1,77 @@
 import threading
 import time
-
-import requests
-import uvicorn
 import webview
-
-from api import app
 
 APP_URL = "http://127.0.0.1:8000"
 
+LOADING_HTML = """<!DOCTYPE html>
+<html>
+<head>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #1a1a2e;
+    display: flex; align-items: center; justify-content: center;
+    height: 100vh; font-family: 'Segoe UI', sans-serif;
+  }
+  .container { text-align: center; color: #c8a84b; }
+  h1 { font-size: 2.2rem; margin-bottom: 0.5rem; letter-spacing: 2px; }
+  p { color: #888; font-size: 0.95rem; margin-top: 1.2rem; }
+  .dots span {
+    display: inline-block; width: 10px; height: 10px; margin: 0 4px;
+    background: #c8a84b; border-radius: 50%;
+    animation: bounce 1.4s infinite ease-in-out both;
+  }
+  .dots span:nth-child(2) { animation-delay: 0.2s; }
+  .dots span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes bounce {
+    0%, 80%, 100% { transform: scale(0); opacity: 0.3; }
+    40% { transform: scale(1); opacity: 1; }
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>&#9876; WH AI Chatbot</h1>
+    <div class="dots"><span></span><span></span><span></span></div>
+    <p>Loading AI model and knowledge base...</p>
+  </div>
+</body>
+</html>"""
 
-def wait_for_api(url: str, timeout: int = 120) -> bool:
-    start = time.time()
-    while time.time() - start < timeout:
-        try:
-            response = requests.get(f"{url}/health", timeout=2)
-            if response.ok:
-                return True
-        except requests.RequestException:
-            pass
-        time.sleep(1)
-    return False
 
-
-def run_api() -> None:
-    config = uvicorn.Config(app=app, host="127.0.0.1", port=8000, log_level="warning")
+def _run_api() -> None:
+    import uvicorn
+    from api import app as fastapi_app
+    config = uvicorn.Config(app=fastapi_app, host="127.0.0.1", port=8000, log_level="warning")
     server = uvicorn.Server(config)
     server.run()
 
 
+def _wait_and_navigate(window) -> None:
+    import requests
+    while True:
+        try:
+            r = requests.get(f"{APP_URL}/health", timeout=2)
+            if r.ok:
+                break
+        except Exception:
+            pass
+        time.sleep(1)
+    window.load_url(APP_URL)
+
+
 def main() -> None:
-    api_thread = threading.Thread(target=run_api, daemon=True)
-    api_thread.start()
+    window = webview.create_window(
+        "WH AI Chatbot",
+        html=LOADING_HTML,
+        width=1280,
+        height=800,
+    )
 
-    if not wait_for_api(APP_URL):
-        raise RuntimeError("Backend API did not start in time.")
+    threading.Thread(target=_run_api, daemon=True).start()
+    threading.Thread(target=_wait_and_navigate, args=(window,), daemon=True).start()
 
-    webview.create_window("WH AI Chatbot", APP_URL, width=1280, height=800)
     webview.start()
 
 

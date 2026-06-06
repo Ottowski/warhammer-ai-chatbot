@@ -1,5 +1,6 @@
 import os
 import sys
+import threading
 from contextlib import asynccontextmanager
 from pathlib import Path
 
@@ -41,6 +42,18 @@ class AskResponse(BaseModel):
 
 
 rag_pipeline: RAGPipeline | None = None
+_pipeline_ready: bool = False
+_pipeline_status: str = "initializing"
+
+
+def _init_pipeline_bg(pipeline: RAGPipeline) -> None:
+    global _pipeline_ready, _pipeline_status
+    try:
+        pipeline.initialize_knowledge_base()
+        _pipeline_ready = True
+        _pipeline_status = "ready"
+    except Exception as exc:
+        _pipeline_status = f"error: {exc}"
 
 
 @asynccontextmanager
@@ -58,7 +71,7 @@ async def lifespan(app: FastAPI):
         rules_directory=str(rules_directory),
         vector_store_path=str(vector_store_path),
     )
-    rag_pipeline.initialize_knowledge_base()
+    threading.Thread(target=_init_pipeline_bg, args=(rag_pipeline,), daemon=True).start()
     yield
 
 
@@ -82,10 +95,15 @@ def health() -> dict:
     return {"status": "ok"}
 
 
+@app.get("/status")
+def status() -> dict:
+    return {"ready": _pipeline_ready, "message": _pipeline_status}
+
+
 @app.post("/ask", response_model=AskResponse)
 def ask_question(payload: AskRequest) -> AskResponse:
-    if rag_pipeline is None:
-        raise HTTPException(status_code=503, detail="Knowledge base is not initialized yet")
+    if not _pipeline_ready:
+        raise HTTPException(status_code=503, detail="Knowledge base is still loading, please wait a moment and try again.")
 
     try:
         result = rag_pipeline.answer_question(payload.question.strip(), use_llm=payload.use_llm)

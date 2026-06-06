@@ -1,3 +1,6 @@
+import hashlib
+import pickle
+from pathlib import Path
 from typing import List, Tuple
 import numpy as np
 from src.embeddings import EmbeddingManager
@@ -17,38 +20,75 @@ class RAGPipeline:
         # Initialize components
         self.embedding_manager = EmbeddingManager()
         self.document_loader = DocumentLoader(rules_directory=rules_directory)
+        self.rules_directory = rules_directory
+        self.vector_store_path = Path(vector_store_path)
         
         # In-memory storage for documents and embeddings
         self.documents = []
         self.embeddings = None
         self.metadatas = []
+
+    def _rules_hash(self) -> str:
+        """Compute a hash of all rules files to detect changes."""
+        hasher = hashlib.md5()
+        rules_path = Path(self.rules_directory)
+        for f in sorted(rules_path.rglob("*.md")):
+            hasher.update(f.name.encode())
+            hasher.update(str(f.stat().st_mtime_ns).encode())
+        return hasher.hexdigest()
     
     def initialize_knowledge_base(self, force_rebuild: bool = False):
         """
-        Load documents and build in-memory embedding store
-        
-        Args:
-            force_rebuild: If True, rebuild the store from scratch
+        Load documents and build in-memory embedding store.
+        Embeddings are cached to disk and reused unless rules files change.
         """
-        print("Initializing knowledge base...")
-        
-        # Load documents
+        cache_hash_file = self.vector_store_path / "cache_hash.txt"
+        embeddings_file = self.vector_store_path / "embeddings.npy"
+        documents_file = self.vector_store_path / "documents.pkl"
+        metadatas_file = self.vector_store_path / "metadatas.pkl"
+
+        current_hash = self._rules_hash()
+        cache_valid = (
+            not force_rebuild
+            and cache_hash_file.exists()
+            and embeddings_file.exists()
+            and documents_file.exists()
+            and metadatas_file.exists()
+            and cache_hash_file.read_text().strip() == current_hash
+        )
+
+        if cache_valid:
+            print("Loading knowledge base from cache...")
+            self.embeddings = np.load(str(embeddings_file))
+            with open(documents_file, "rb") as f:
+                self.documents = pickle.load(f)
+            with open(metadatas_file, "rb") as f:
+                self.metadatas = pickle.load(f)
+            print(f"Loaded {len(self.documents)} documents from cache")
+            return
+
+        print("Building knowledge base (first run or rules changed)...")
         documents, metadatas, ids = self.document_loader.load_all_documents()
-        
         if not documents:
             print("Warning: No documents loaded!")
             return
-        
-        # Store documents and metadata
+
         self.documents = documents
         self.metadatas = metadatas
-        
-        # Generate embeddings
+
         print("Generating embeddings...")
         embeddings_list = self.embedding_manager.embed_texts(documents)
         self.embeddings = np.array(embeddings_list)
-        
-        print(f"Loaded {len(documents)} documents with embeddings")
+
+        # Save to disk cache
+        self.vector_store_path.mkdir(parents=True, exist_ok=True)
+        np.save(str(embeddings_file), self.embeddings)
+        with open(documents_file, "wb") as f:
+            pickle.dump(self.documents, f)
+        with open(metadatas_file, "wb") as f:
+            pickle.dump(self.metadatas, f)
+        cache_hash_file.write_text(current_hash)
+        print(f"Loaded {len(documents)} documents with embeddings (cache saved)")
     
     def retrieve_context(self, query: str, top_k: int = 3) -> Tuple[List[str], List[dict]]:
         """

@@ -7,7 +7,24 @@ function App() {
   const [messages, setMessages] = useState([])
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
+  const [appReady, setAppReady] = useState(false)
   const bottomRef = useRef(null)
+
+  useEffect(() => {
+    let timer
+    async function pollStatus() {
+      try {
+        const res = await fetch(`${API_URL}/status`)
+        if (res.ok) {
+          const data = await res.json()
+          if (data.ready) { setAppReady(true); return }
+        }
+      } catch (_) {}
+      timer = setTimeout(pollStatus, 1500)
+    }
+    pollStatus()
+    return () => clearTimeout(timer)
+  }, [])
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' })
@@ -69,11 +86,14 @@ function App() {
           type="text"
           value={input}
           onChange={e => setInput(e.target.value)}
-          placeholder="Skriv din fråga här..."
-          disabled={loading}
+          placeholder={appReady ? "Skriv din fråga här..." : "Laddar AI-modell, vänta..."}
+          disabled={loading || !appReady}
         />
-        <button type="submit" disabled={loading || !input.trim()}>Skicka</button>
+        <button type="submit" disabled={loading || !input.trim() || !appReady}>Skicka</button>
       </form>
+      {!appReady && (
+        <div className="init-banner">Laddar AI-modell och kunskapsbas...</div>
+      )}
     </div>
   )
 }

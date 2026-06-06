@@ -155,3 +155,18 @@ body {
   background: #555;
   cursor: not-allowed;
 }
+
+.init-banner {
+  text-align: center;
+  padding: 8px;
+  background: #2a2a1a;
+  color: #c8a84b;
+  font-size: 0.85rem;
+  border-top: 1px solid #444;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
