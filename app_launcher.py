@@ -1,3 +1,5 @@
+import os
+import sys
 import threading
 import time
 import webview
@@ -40,6 +42,43 @@ LOADING_HTML = """<!DOCTYPE html>
 </html>"""
 
 
+def _apply_window_icon() -> None:
+    """Set the title bar icon to match the exe icon (Windows only)."""
+    if sys.platform != 'win32':
+        return
+    import ctypes
+    import ctypes.wintypes as wintypes
+
+    hwnd = ctypes.windll.user32.FindWindowW(None, "WH AI Chatbot")
+    if not hwnd:
+        return
+
+    WM_SETICON = 0x0080
+    ICON_SMALL = 0
+    ICON_BIG = 1
+
+    h_large = wintypes.HICON()
+    h_small = wintypes.HICON()
+
+    if getattr(sys, 'frozen', False):
+        src = sys.executable
+    else:
+        src = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                           'frontend', 'public', 'app_icon.ico')
+
+    if not os.path.exists(src):
+        return
+
+    count = ctypes.windll.shell32.ExtractIconExW(
+        src, 0, ctypes.byref(h_large), ctypes.byref(h_small), 1
+    )
+    if count > 0:
+        if h_large.value:
+            ctypes.windll.user32.SendMessageW(hwnd, WM_SETICON, ICON_BIG, h_large.value)
+        if h_small.value:
+            ctypes.windll.user32.SendMessageW(hwnd, WM_SETICON, ICON_SMALL, h_small.value)
+
+
 def _run_api() -> None:
     import uvicorn
     from api import app as fastapi_app
@@ -72,7 +111,7 @@ def main() -> None:
     threading.Thread(target=_run_api, daemon=True).start()
     threading.Thread(target=_wait_and_navigate, args=(window,), daemon=True).start()
 
-    webview.start()
+    webview.start(func=_apply_window_icon)
 
 
 if __name__ == '__main__':
