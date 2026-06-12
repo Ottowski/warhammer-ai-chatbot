@@ -49,7 +49,7 @@ function App() {
       const data = await res.json()
       setMessages(prev => [...prev, { role: 'assistant', text: data.answer, sources: data.sources }])
     } catch (err) {
-      setMessages(prev => [...prev, { role: 'error', text: `Fel: ${err.message}` }])
+      setMessages(prev => [...prev, { role: 'error', text: `Error: ${err.message}` }])
     } finally {
       setLoading(false)
     }
@@ -63,7 +63,7 @@ function App() {
 
       <div className="chat-window">
         {messages.length === 0 && (
-          <p className="placeholder">Ställ en fråga om Warhammer-reglerna...</p>
+          <p className="placeholder">Ask a question about the Warhammer rules...</p>
         )}
         {messages.map((msg, i) => (
           <div key={i} className={`message ${msg.role}`}>
@@ -86,14 +86,12 @@ function App() {
           type="text"
           value={input}
           onChange={e => setInput(e.target.value)}
-          placeholder={appReady ? "Skriv din fråga här..." : "Laddar AI-modell, vänta..."}
+          placeholder="Type your question here..."
           disabled={loading || !appReady}
         />
-        <button type="submit" disabled={loading || !input.trim() || !appReady}>Skicka</button>
+        <button type="submit" disabled={loading || !input.trim() || !appReady}>Send</button>
       </form>
-      {!appReady && (
-        <div className="init-banner">Laddar AI-modell och kunskapsbas...</div>
-      )}
+
     </div>
   )
 }
