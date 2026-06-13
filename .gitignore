@@ -42,6 +42,10 @@ data/vector_store/
 *.sqlite
 *.sqlite3
 
+# Build output (large binaries — use build_desktop.ps1 to generate locally)
+"WH AI Chatbot/"
+build/
+
 # Environment variables
 .env
 .env.local
