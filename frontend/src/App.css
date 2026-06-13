@@ -6,24 +6,19 @@
 
 body {
   font-family: system-ui, sans-serif;
-  background: #1a1a2e;
+  background: #16213e;
   color: #e0e0e0;
   height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  overflow: hidden;
 }
 
 .app {
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 700px;
-  height: 90vh;
+  height: 100vh;
   background: #16213e;
-  border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 }
 
 .header {

@@ -104,8 +104,8 @@ def main() -> None:
     window = webview.create_window(
         "WH AI Chatbot",
         html=LOADING_HTML,
-        width=1280,
-        height=800,
+        width=700,
+        height=750,
     )
 
     threading.Thread(target=_run_api, daemon=True).start()
