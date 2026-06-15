@@ -34,13 +34,13 @@ After the build finishes, start:
 From another folder, use the full path:
 
 ```powershell
-& "C:\Users\Input your user here\OneDrive\Desktop\WH AI chatbot\dist\WH AI Chatbot.exe"
+& "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot\dist\WH AI Chatbot.exe"
 ```
 
 Build and run in one go:
 
 ```powershell
-Set-Location "C:\Users\Input your user here\OneDrive\Desktop\WH AI chatbot"; .venv\Scripts\Activate.ps1; .\build_desktop.ps1; & ".\dist\WH AI Chatbot.exe"
+Set-Location "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot"; .venv\Scripts\Activate.ps1; .\build_desktop.ps1; & ".\dist\WH AI Chatbot.exe" 
 ```
 
 Notes:

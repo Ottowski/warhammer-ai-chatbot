@@ -218,7 +218,7 @@ Answer:"""
             doc = doc.strip()
             # Add separator between chunks for readability
             if i > 1:
-                answer_parts.append("\n" + "─" * 60 + "\n")
+                answer_parts.append("\n\n---\n\n")
             answer_parts.append(doc)
         
         return "".join(answer_parts)

@@ -81,6 +81,52 @@ body {
   margin: 0;
 }
 
+.message h1, .message h2, .message h3, .message h4 {
+  color: #c8a84b;
+  margin: 0.75em 0 0.25em;
+}
+
+.message ul, .message ol {
+  padding-left: 1.4em;
+  margin: 0.4em 0;
+}
+
+.message li {
+  margin: 0.2em 0;
+}
+
+.message hr {
+  border: none;
+  border-top: 1px solid #444;
+  margin: 0.75em 0;
+}
+
+.message code {
+  background: #0f1b36;
+  padding: 0.1em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+.message pre {
+  background: #0f1b36;
+  padding: 0.75em 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin: 0.5em 0;
+}
+
+.message table {
+  border-collapse: collapse;
+  margin: 0.5em 0;
+  font-size: 0.9em;
+}
+
+.message th, .message td {
+  border: 1px solid #444;
+  padding: 4px 8px;
+}
+
 .message.user {
   background: #0f3460;
   align-self: flex-end;

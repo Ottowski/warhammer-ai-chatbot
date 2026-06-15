@@ -106,6 +106,7 @@ def main() -> None:
         html=LOADING_HTML,
         width=700,
         height=750,
+        text_select=True,
     )
 
     threading.Thread(target=_run_api, daemon=True).start()
