@@ -4,34 +4,29 @@ from chromadb.config import Settings
 from typing import List, Tuple
 
 class VectorStoreManager:
-    """Manages Chroma vector store for rule documents"""
-    
+    """
+    An alternative vector store using ChromaDB instead of raw numpy arrays.
+    ChromaDB handles the similarity search for you and persists to disk automatically.
+    NOTE: This isn't currently used by RAGPipeline — it's an alternative approach.
+    """
+    # This class is not currently integrated into the RAGPipeline, but it provides an alternative way to manage vector storage using ChromaDB.
     def __init__(self, persist_directory: str = "./data/vector_store"):
-        """
-        Initialize vector store
-        
-        Args:
-            persist_directory: Path where vector store will be persisted
-        """
         self.persist_directory = persist_directory
         os.makedirs(persist_directory, exist_ok=True)
         
-        # Initialize Chroma client with persistence
+        # Start a ChromaDB client that saves to disk
         settings = Settings(
             chroma_db_impl="duckdb+parquet",
             persist_directory=persist_directory,
             anonymized_telemetry=False
         )
         self.client = chromadb.Client(settings)
-        self.collection = None
+        self.collection = None  # Populated by create_collection()
     
     def create_collection(self, name: str = "warhammer_rules", embedding_function=None):
         """
-        Create or get a collection for storing embeddings
-        
-        Args:
-            name: Name of the collection
-            embedding_function: Optional custom embedding function
+        Get an existing collection or create a new one.
+        A collection is like a table — it holds all the rule chunks + their vectors.
         """
         try:
             # Try to get existing collection
@@ -42,25 +37,16 @@ class VectorStoreManager:
             self.collection = self.client.create_collection(
                 name=name,
                 embedding_function=embedding_function,
-                metadata={"hnsw:space": "cosine"}
+                metadata={"hnsw:space": "cosine"}  # Use cosine distance for similarity
             )
             print(f"Created new collection: {name}")
     
     def add_documents(self, documents: List[str], metadatas: List[dict], ids: List[str]):
-        """
-        Add documents to the vector store
-        
-        Args:
-            documents: List of document texts
-            metadatas: List of metadata dicts (e.g., source file, section)
-            ids: List of unique document IDs
-        """
+        """Insert rule chunks into the collection so they can be searched later."""
         if self.collection is None:
             raise ValueError("Collection not initialized. Call create_collection first.")
-
         if not (len(documents) == len(metadatas) == len(ids)):
             raise ValueError("documents, metadatas, and ids must have the same length.")
-
         if not documents:
             print("No documents to add; skipping insert.")
             return
@@ -73,16 +59,7 @@ class VectorStoreManager:
         print(f"Added {len(documents)} documents to collection")
     
     def query(self, query_text: str, n_results: int = 3) -> Tuple[List[str], List[dict]]:
-        """
-        Query the vector store for relevant documents
-        
-        Args:
-            query_text: User's question or search query
-            n_results: Number of results to return
-            
-        Returns:
-            Tuple of (documents, metadatas)
-        """
+        """Find the n most relevant rule chunks for a given question."""
         if self.collection is None:
             raise ValueError("Collection not initialized. Call create_collection first.")
         
@@ -91,13 +68,13 @@ class VectorStoreManager:
             n_results=n_results
         )
         
-        # Extract and flatten results
+        # ChromaDB returns results nested in lists — flatten them
         documents = results["documents"][0] if results["documents"] else []
         metadatas = results["metadatas"][0] if results["metadatas"] else []
         
         return documents, metadatas
     
     def persist(self):
-        """Persist the vector store to disk"""
+        """Manually flush the in-memory state to disk (call before shutting down)."""
         self.client.persist()
         print("Vector store persisted to disk")

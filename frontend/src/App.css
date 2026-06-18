@@ -1,9 +1,11 @@
-﻿* {
+﻿* 
+/* Global CSS styles for the AI chatbot application */
+{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
-
+/* Set the body to use a dark theme with a specific font and colors */
 body {
   font-family: system-ui, sans-serif;
   background: #16213e;
@@ -11,7 +13,7 @@ body {
   height: 100vh;
   overflow: hidden;
 }
-
+/* Main container for the app, using flexbox to layout header and chat window */
 .app {
   display: flex;
   flex-direction: column;
@@ -20,19 +22,19 @@ body {
   background: #16213e;
   overflow: hidden;
 }
-
+/* Header styling with a dark background and contrasting text */
 .header {
   background: #0f3460;
   padding: 16px 20px;
   border-bottom: 2px solid #e94560;
 }
-
+/* Header title styling with a specific font size and color */
 .header h1 {
   font-size: 1.2rem;
   color: #fff;
   letter-spacing: 1px;
 }
-
+/* Chat window styling with padding, scroll behavior, and custom scrollbar */
 .chat-window {
   flex: 1;
   overflow-y: auto;
@@ -44,70 +46,70 @@ body {
   flex-direction: column;
   gap: 12px;
 }
-
+/* Custom scrollbar styles for WebKit browsers */
 .chat-window::-webkit-scrollbar {
   width: 10px;
 }
-
+/* Scrollbar track styling */
 .chat-window::-webkit-scrollbar-track {
   background: #0f1b36;
   border-radius: 10px;
 }
-
+/* Scrollbar thumb styling with a gradient and hover effect */
 .chat-window::-webkit-scrollbar-thumb {
   background: linear-gradient(180deg, #6b7ea6, #4f628a);
   border-radius: 10px;
   border: 2px solid #0f1b36;
 }
-
+/* Scrollbar thumb hover effect */
 .chat-window::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(180deg, #7e94be, #6075a1);
 }
-
+/* Placeholder text styling for when there are no messages */
 .placeholder {
   color: #666;
   text-align: center;
   margin-top: 40px;
 }
-
+/* Message bubble styling for user, assistant, and error messages */
 .message {
   max-width: 85%;
   padding: 10px 14px;
   border-radius: 8px;
   line-height: 1.5;
 }
-
+/* Common styles for all message types */
 .message p {
   margin: 0;
 }
-
+/* Heading styles within messages */
 .message h1, .message h2, .message h3, .message h4 {
   color: #c8a84b;
   margin: 0.75em 0 0.25em;
 }
-
+/* List styles within messages */
 .message ul, .message ol {
   padding-left: 1.4em;
   margin: 0.4em 0;
 }
-
+/* List item styles within messages */
 .message li {
   margin: 0.2em 0;
 }
-
+/* Horizontal rule styling within messages */
 .message hr {
   border: none;
   border-top: 1px solid #444;
   margin: 0.75em 0;
 }
-
+/* Code block styling within messages */
 .message code {
   background: #0f1b36;
   padding: 0.1em 0.4em;
   border-radius: 3px;
   font-size: 0.9em;
 }
-
+/* Preformatted text styling within messages */
 .message pre {
   background: #0f1b36;
   padding: 0.75em 1em;
@@ -116,49 +118,50 @@ body {
   margin: 0.5em 0;
 }
 
+/* Table styling within messages */
 .message table {
   border-collapse: collapse;
   margin: 0.5em 0;
   font-size: 0.9em;
 }
-
+/* Table header and cell styling */
 .message th, .message td {
   border: 1px solid #444;
   padding: 4px 8px;
 }
-
+/* Table header styling */
 .message.user {
   background: #0f3460;
   align-self: flex-end;
   color: #fff;
 }
-
+/* Assistant message styling with a dark background and border */
 .message.assistant {
   background: #1a1a2e;
   border: 1px solid #333;
   align-self: flex-start;
 }
-
+/* Error message styling with a red background and border */
 .message.error {
   background: #4a1010;
   border: 1px solid #e94560;
   align-self: flex-start;
   color: #ff8080;
 }
-
+/* Loading message styling with a specific font size, letter spacing, and color */
 .message.loading {
   font-size: 1.4rem;
   letter-spacing: 4px;
   color: #888;
 }
-
+/* Sources text styling with a smaller font size and lighter color */
 .sources {
   margin-top: 8px;
   padding-left: 16px;
   font-size: 0.8rem;
   color: #888;
 }
-
+/* Input row styling with flexbox, padding, gap, and background */
 .input-row {
   display: flex;
   padding: 12px;
@@ -166,7 +169,7 @@ body {
   border-top: 1px solid #333;
   background: #16213e;
 }
-
+/* Input field styling with padding, border, background, and focus effect */
 .input-row input {
   flex: 1;
   padding: 10px 14px;
@@ -177,11 +180,11 @@ body {
   font-size: 1rem;
   outline: none;
 }
-
+/* Input field focus effect with a blue border */
 .input-row input:focus {
   border-color: #4a7cdc;
 }
-
+/* Send button styling with padding, border, background, color, and cursor */
 .input-row button {
   padding: 10px 20px;
   border-radius: 6px;
@@ -191,12 +194,12 @@ body {
   font-size: 1rem;
   cursor: pointer;
 }
-
+/* Send button disabled state styling with a gray background and not-allowed cursor */
 .input-row button:disabled {
   background: #555;
   cursor: not-allowed;
 }
-
+/* Responsive design for smaller screens */
 .init-banner {
   text-align: center;
   padding: 8px;
@@ -206,7 +209,7 @@ body {
   border-top: 1px solid #444;
   animation: pulse 1.5s ease-in-out infinite;
 }
-
+/* Keyframes for the pulse animation used in the init banner */
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.5; }

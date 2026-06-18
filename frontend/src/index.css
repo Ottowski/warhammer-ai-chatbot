@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Spectral:wght@400;500;700&display=swap');
 
+/* Global CSS variables and base styles */
 :root {
   --paper: #e8d8bc;
   --paper-light: #f2e6d2;
@@ -11,16 +12,19 @@
   --body: 'Spectral', 'Times New Roman', serif;
 }
 
+/* Reset default margins and paddings for all elements */
 * {
   box-sizing: border-box;
 }
 
+/* Reset default margins and paddings for all elements */
 html,
 body,
 #root {
   height: 100%;
 }
 
+/* Set the body to use the custom font, colors, and background gradients */
 body {
   margin: 0;
   font-family: var(--body);

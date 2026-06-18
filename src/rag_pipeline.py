@@ -7,29 +7,30 @@ from src.embeddings import EmbeddingManager
 from src.document_loader import DocumentLoader
 
 class RAGPipeline:
-    """Main RAG pipeline for question answering"""
+    """
+    The main brain of the app. Ties everything together:
+    loads rules → turns them into vectors → finds relevant chunks
+    for a question → builds an answer.
+    RAG = Retrieval-Augmented Generation.
+    """
     
     def __init__(self, rules_directory: str = "./rules", vector_store_path: str = "./data/vector_store"):
-        """
-        Initialize RAG pipeline
-        
-        Args:
-            rules_directory: Path to rules documents
-            vector_store_path: Path for storing embeddings
-        """
-        # Initialize components
+        # Wire up the helper classes
         self.embedding_manager = EmbeddingManager()
         self.document_loader = DocumentLoader(rules_directory=rules_directory)
         self.rules_directory = rules_directory
         self.vector_store_path = Path(vector_store_path)
         
-        # In-memory storage for documents and embeddings
+        # These get populated when initialize_knowledge_base() is called
         self.documents = []
         self.embeddings = None
         self.metadatas = []
 
     def _rules_hash(self) -> str:
-        """Compute a hash of all rules files to detect changes."""
+        """
+        Fingerprint all the rules files using their names + last-modified times.
+        If any file changes, the hash changes and the cache gets rebuilt.
+        """
         hasher = hashlib.md5()
         rules_path = Path(self.rules_directory)
         for f in sorted(rules_path.rglob("*.md")):
@@ -39,8 +40,10 @@ class RAGPipeline:
     
     def initialize_knowledge_base(self, force_rebuild: bool = False):
         """
-        Load documents and build in-memory embedding store.
-        Embeddings are cached to disk and reused unless rules files change.
+        Load all rules into memory as vectors.
+        On the first run this takes a while; after that it loads from a cache
+        on disk so startup is fast. The cache is automatically invalidated
+        if any rules file changes.
         """
         cache_hash_file = self.vector_store_path / "cache_hash.txt"
         embeddings_file = self.vector_store_path / "embeddings.npy"
@@ -48,6 +51,8 @@ class RAGPipeline:
         metadatas_file = self.vector_store_path / "metadatas.pkl"
 
         current_hash = self._rules_hash()
+
+        # Check if a valid cache already exists
         cache_valid = (
             not force_rebuild
             and cache_hash_file.exists()
@@ -58,6 +63,7 @@ class RAGPipeline:
         )
 
         if cache_valid:
+            # Fast path: load pre-computed vectors from disk
             print("Loading knowledge base from cache...")
             self.embeddings = np.load(str(embeddings_file))
             with open(documents_file, "rb") as f:
@@ -67,6 +73,7 @@ class RAGPipeline:
             print(f"Loaded {len(self.documents)} documents from cache")
             return
 
+        # Slow path: read files, generate vectors, save to cache
         print("Building knowledge base (first run or rules changed)...")
         documents, metadatas, ids = self.document_loader.load_all_documents()
         if not documents:
@@ -80,7 +87,7 @@ class RAGPipeline:
         embeddings_list = self.embedding_manager.embed_texts(documents)
         self.embeddings = np.array(embeddings_list)
 
-        # Save to disk cache
+        # Save everything so next startup is instant
         self.vector_store_path.mkdir(parents=True, exist_ok=True)
         np.save(str(embeddings_file), self.embeddings)
         with open(documents_file, "wb") as f:
@@ -92,26 +99,22 @@ class RAGPipeline:
     
     def retrieve_context(self, query: str, top_k: int = 3) -> Tuple[List[str], List[dict]]:
         """
-        Retrieve relevant context using hybrid search (semantic + keyword)
-        
-        Args:
-            query: User's question
-            top_k: Number of top results to retrieve
-            
-        Returns:
-            Tuple of (relevant_documents, metadatas)
+        Find the most relevant rule chunks for a question using two signals:
+        - Semantic similarity: do the meanings match? (70% weight)
+        - Keyword overlap: do the same words appear? (30% weight)
+        Returns the top_k best matching chunks.
         """
         if self.embeddings is None or len(self.documents) == 0:
             return [], []
         
-        # Get query embedding
+        # Embed the question so we can compare it against stored rule vectors
         query_embedding = np.array(self.embedding_manager.embed_text(query))
         
-        # Compute cosine similarity
+        # Score every chunk by how similar it is to the question (cosine similarity)
         from sklearn.metrics.pairwise import cosine_similarity
         semantic_scores = cosine_similarity([query_embedding], self.embeddings)[0]
         
-        # Add keyword boosting for better results
+        # Also score by raw keyword overlap as a secondary signal
         query_lower = query.lower()
         query_words = set(query_lower.split())
         
@@ -120,23 +123,22 @@ class RAGPipeline:
             doc_lower = doc.lower()
             # Boost if document contains query words
             matching_words = sum(1 for word in query_words if word in doc_lower)
-            # Give extra boost if heading matches query
+            # Extra boost if a section heading directly matches a query word
             if any(heading in doc_lower for heading in ['###', '##']):
                 for word in query_words:
                     if f"## {word}" in doc_lower or f"### {word}" in doc_lower:
                         matching_words += 3
             keyword_scores[i] = matching_words
         
-        # Normalize keyword scores
+        # Normalise keyword scores to 0–1 so they're on the same scale as cosine scores
         if keyword_scores.max() > 0:
             keyword_scores = keyword_scores / keyword_scores.max()
         
-        # Combine scores (70% semantic, 30% keyword)
+        # Blend the two scores
         combined_scores = 0.7 * semantic_scores + 0.3 * keyword_scores
         
-        # Get top-k indices
+        # Pick the highest-scoring chunks
         top_indices = np.argsort(combined_scores)[-top_k:][::-1]
-        
         # Retrieve documents and metadata
         retrieved_docs = [self.documents[i] for i in top_indices]
         retrieved_meta = [self.metadatas[i] for i in top_indices]
@@ -145,25 +147,16 @@ class RAGPipeline:
     
     def generate_answer(self, query: str, context_documents: List[str]) -> str:
         """
-        Generate an answer based on retrieved context
-        
-        This is a simple template-based approach. For more sophisticated answers,
-        integrate with an LLM like OpenAI or a local model via ollama.
-        
-        Args:
-            query: Original user question
-            context_documents: Retrieved relevant documents
-            
-        Returns:
-            Generated answer
+        Builds the prompt that would be sent to an LLM.
+        Right now this just formats the text — actual LLM integration is TODO.
         """
         if not context_documents:
             return "No relevant information found in the knowledge base."
         
-        # Simple approach: combine context and generate prompt
+        # Combine the top 3 chunks into one block of context
         context = "\n\n".join(context_documents[:3])
         
-        # Create a prompt for an LLM (if you integrate one)
+        # Ready-to-send prompt for an LLM
         prompt = f"""Based on the following Warhammer: The Old World rules, answer the question:
 
 Question: {query}
@@ -177,28 +170,22 @@ Answer:"""
     
     def answer_question(self, query: str, use_llm: bool = False) -> dict:
         """
-        Complete RAG pipeline: retrieve and answer
-        
-        Args:
-            query: User's question
-            use_llm: If True, use LLM to generate answer (requires LLM setup)
-            
-        Returns:
-            Dictionary with answer and references
+        The main entry point. Given a question, returns an answer + sources.
+        Set use_llm=True once an LLM is wired up; for now it falls back
+        to returning the raw matched rule text.
         """
-        # Step 1: Retrieve relevant context (retrieve more chunks for better results)
+        # Step 1: Find the most relevant rule chunks
         relevant_docs, metadatas = self.retrieve_context(query, top_k=5)
         
-        # Step 2: Generate answer
+        # Step 2: Generate an answer from those chunks
         if use_llm:
-            # This would integrate with OpenAI, ollama, or other LLM
-            # For now, return the prompt that would be sent to LLM
+            # Returns a formatted prompt (LLM not yet integrated)
             answer = self.generate_answer(query, relevant_docs)
         else:
-            # Simple approach: return extracted context
+            # Just display the matched rule text directly
             answer = self._simple_answer(relevant_docs)
         
-        # Step 3: Return with references
+        # Step 3: Package everything up for the caller
         return {
             "query": query,
             "answer": answer,
@@ -207,7 +194,7 @@ Answer:"""
         }
     
     def _simple_answer(self, documents: List[str]) -> str:
-        """Generate a simple answer by presenting retrieved documents cleanly"""
+        """Combine the top 3 matched chunks into a clean readable block of text."""
         if not documents:
             return "No relevant information found."
         
@@ -216,9 +203,9 @@ Answer:"""
         for i, doc in enumerate(documents[:3], 1):
             # Clean up the text
             doc = doc.strip()
-            # Add separator between chunks for readability
+            # Remove any excessive newlines
             if i > 1:
-                answer_parts.append("\n\n---\n\n")
+                answer_parts.append("\n\n---\n\n")  # Visual separator between chunks
             answer_parts.append(doc)
         
         return "".join(answer_parts)

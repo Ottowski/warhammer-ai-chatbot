@@ -3,15 +3,10 @@ from pathlib import Path
 from typing import List, Optional, Tuple
 
 class DocumentLoader:
-    """Loads and processes rule documents"""
+    """Reads rule files from disk and breaks them into smaller searchable chunks."""
     
     def __init__(self, rules_directory: str = "./rules"):
-        """
-        Initialize document loader
-        
-        Args:
-            rules_directory: Path to directory containing rule files
-        """
+        # Where to look for rule files
         self.rules_directory = rules_directory
     
     def load_all_documents(
@@ -20,34 +15,29 @@ class DocumentLoader:
         chunk_overlap: int = 100,
     ) -> Tuple[List[str], List[dict], List[str]]:
         """
-        Load all rule documents from the rules directory
-        
-        Args:
-            chunk_size: Approximate size of text chunks for chunking large documents
-            chunk_overlap: Number of overlapping characters between chunks
-            
-        Returns:
-            Tuple of (documents, metadatas, ids)
+        Scans the rules folder, reads every .md and .txt file,
+        and splits them into chunks. Returns the chunks, where each
+        came from, and a unique ID for each.
         """
         documents = []
         metadatas = []
         ids = []
         doc_id_counter = 0
 
+        # Sanity-check the chunking settings
         if chunk_size <= 0:
             raise ValueError("chunk_size must be greater than 0")
-
         if chunk_overlap < 0:
             chunk_overlap = 0
         elif chunk_overlap >= chunk_size:
-            # Keep overlap valid to avoid ineffective or duplicate-heavy chunking.
             chunk_overlap = chunk_size - 1
         
-        # Scan rules directory recursively for markdown and txt files
+        # Bail out early if the rules folder doesn't exist
         if not os.path.exists(self.rules_directory):
             print(f"Warning: Rules directory not found at {self.rules_directory}")
             return documents, metadatas, ids
         
+        # Find all .md and .txt files, sorted so order is consistent
         rules_root = Path(self.rules_directory)
         rule_files = sorted(list(rules_root.rglob("*.md")) + list(rules_root.rglob("*.txt")))
         
@@ -61,13 +51,13 @@ class DocumentLoader:
 
             content = self._read_text_file(file_path)
             if content is None:
-                continue
+                continue  # Skip files that couldn't be read
             
-            # Chunk large documents
+            # Split the file into overlapping chunks
             chunks = self._chunk_text(content, chunk_size, chunk_overlap)
             
             for chunk in chunks:
-                if chunk.strip():  # Skip empty chunks
+                if chunk.strip():  # Skip any chunks that are just whitespace
                     documents.append(chunk)
                     metadatas.append({
                         "source": str(relative_path),
@@ -80,7 +70,7 @@ class DocumentLoader:
         return documents, metadatas, ids
 
     def _read_text_file(self, file_path: Path) -> Optional[str]:
-        """Read a text file safely and return None if it cannot be decoded."""
+        """Safely read a file. Returns None if the file can't be opened or decoded."""
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 return f.read()
@@ -90,24 +80,17 @@ class DocumentLoader:
     
     def _chunk_text(self, text: str, chunk_size: int = 500, overlap: int = 100) -> List[str]:
         """
-        Split text into overlapping chunks at section boundaries
-        
-        Args:
-            text: Text to chunk
-            chunk_size: Target size of each chunk (approximate)
-            overlap: Number of characters to overlap between chunks
-            
-        Returns:
-            List of text chunks
+        Splits a long text into smaller chunks at markdown heading boundaries.
+        Chunks overlap slightly so context isn't lost at the edges.
         """
+        # If the whole text fits in one chunk, just return it as-is
         if len(text) <= chunk_size:
             return [text]
 
         overlap = max(0, overlap)
         
-        # Split by markdown headings first (better for question matching)
         import re
-        # Split on markdown headings (## or ###)
+        # Split on ## or ### headings — these are natural section breaks in rule docs
         sections = re.split(r'(\n#{2,3}\s+[^\n]+\n)', text)
         
         chunks = []
@@ -118,10 +101,11 @@ class DocumentLoader:
             if not section:
                 continue
                 
-            # If this would exceed chunk size, save current and start new
+            # If adding this section would overflow the chunk, save what we have
             if len(current_chunk) + len(section) > chunk_size and current_chunk:
                 chunks.append(current_chunk.strip())
-                # Start new chunk with heading if current section is a heading
+                # When starting a new chunk, carry over some text from the end
+                # of the previous one so context isn't cut off abruptly
                 if section.startswith('#'):
                     current_chunk = section
                 else:
@@ -131,27 +115,20 @@ class DocumentLoader:
                     else:
                         current_chunk = section
             else:
+                # Keep building the current chunk
                 if current_chunk:
                     current_chunk += '\n' + section
                 else:
                     current_chunk = section
         
-        # Add the last chunk
+        # Don't forget the last chunk
         if current_chunk.strip():
             chunks.append(current_chunk.strip())
         
         return chunks
     
     def load_single_document(self, file_name: str) -> Tuple[List[str], List[dict], List[str]]:
-        """
-        Load a single document by filename
-        
-        Args:
-            file_name: Name of the file to load
-            
-        Returns:
-            Tuple of (documents, metadatas, ids)
-        """
+        """Load just one specific file by name, without chunking."""
         file_path = Path(self.rules_directory) / file_name
         
         if not file_path.exists():

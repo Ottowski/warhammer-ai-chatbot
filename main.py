@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from src.rag_pipeline import RAGPipeline
 
-
+# Print application header
 def print_header():
     """Print application header"""
     print("\n" + "=" * 60)
@@ -15,7 +15,7 @@ def print_header():
     print("Ask questions about the rules in natural language")
     print("Type 'exit' or 'quit' to quit\n")
 
-
+# Format and print the answer with sources
 def format_answer(result: dict):
     """Format and print the answer with sources"""
     print("\n" + "-" * 60)
@@ -23,17 +23,17 @@ def format_answer(result: dict):
     
     print("ANSWER:")
     print(result['answer'])
-    
+    # If there are sources, list them below the answer
     if result['sources']:
         print("\n" + "-" * 60)
         print("SOURCES:")
         for i, source in enumerate(result['sources'], 1):
             source_file = source.get('source', 'Unknown')
             print(f"  {i}. {source_file}")
-    
+    # If no sources were found, indicate that as well
     print("-" * 60 + "\n")
 
-
+# Main application loop
 def main():
     """Main application loop"""
     print_header()
@@ -88,6 +88,6 @@ def main():
         except Exception as e:
             print(f"Error processing question: {e}\n")
 
-
+# Run the main function when this script is executed
 if __name__ == "__main__":
     main()
