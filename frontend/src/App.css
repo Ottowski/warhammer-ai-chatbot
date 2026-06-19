@@ -135,11 +135,15 @@ body {
   align-self: flex-end;
   color: #fff;
 }
-/* Assistant message styling with a dark background and border */
+/* Answer message styling with a dark background and border */
 .message.assistant {
   background: #1a1a2e;
   border: 1px solid #333;
   align-self: flex-start;
+  /* Allow text selectable for copying from the answer messages */
+  user-select: text;
+  -webkit-user-select: text;
+  cursor: text;
 }
 /* Error message styling with a red background and border */
 .message.error {
