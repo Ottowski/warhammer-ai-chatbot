@@ -117,7 +117,7 @@ class DocumentLoader:
             else:
                 # Keep building the current chunk
                 if current_chunk:
-                    current_chunk += '\n' + section
+                    current_chunk += '\n\n' + section
                 else:
                     current_chunk = section
         

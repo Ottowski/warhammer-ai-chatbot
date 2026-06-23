@@ -28,19 +28,19 @@ Set-Location "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot"
 After the build finishes, start:
 
 ```powershell
-& ".\dist\WH AI Chatbot.exe"
+& ".\WH AI Chatbot\WH AI Chatbot.exe"
 ```
 
 From another folder, use the full path:
 
 ```powershell
-& "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot\dist\WH AI Chatbot.exe"
+& "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot\WH AI Chatbot\WH AI Chatbot.exe"
 ```
 
 Build and run in one go:
 
 ```powershell
-Set-Location "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot"; .venv\Scripts\Activate.ps1; .\build_desktop.ps1; & ".\dist\WH AI Chatbot.exe" 
+Set-Location "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot"; .venv\Scripts\Activate.ps1; .\build_desktop.ps1; & ".\WH AI Chatbot\WH AI Chatbot.exe" 
 ```
 
 Notes:

@@ -1,5 +1,6 @@
 import hashlib
 import pickle
+import re
 from pathlib import Path
 from typing import List, Tuple
 import numpy as np
@@ -154,7 +155,7 @@ class RAGPipeline:
             return "No relevant information found in the knowledge base."
         
         # Combine the top 3 chunks into one block of context
-        context = "\n\n".join(context_documents[:3])
+        context = "\n\n".join(self._normalize_markdown_for_display(d) for d in context_documents[:3])
         
         # Ready-to-send prompt for an LLM
         prompt = f"""Based on the following Warhammer: The Old World rules, answer the question:
@@ -202,10 +203,51 @@ Answer:"""
         answer_parts = []
         for i, doc in enumerate(documents[:3], 1):
             # Clean up the text
-            doc = doc.strip()
+            doc = self._normalize_markdown_for_display(doc)
             # Remove any excessive newlines
             if i > 1:
                 answer_parts.append("\n\n---\n\n")  # Visual separator between chunks
             answer_parts.append(doc)
         
         return "".join(answer_parts)
+
+    def _normalize_markdown_for_display(self, text: str) -> str:
+        """
+        Keep markdown readable even if any upstream step flattens whitespace.
+
+        This fixes two common cases seen in imported rule docs:
+        1) table rows collapsed into one line: "| ... | | --- | ..."
+        2) key-value lines collapsed together: "Unit Category: ...Troop Type: ..."
+        """
+        if not text:
+            return ""
+
+        s = text.replace("\r\n", "\n").replace("\r", "\n").strip()
+
+        # Re-split collapsed markdown table rows.
+        # If rows were flattened, they often appear as "| ... | | ...".
+        s = re.sub(r"\|\s+\|", "|\n|", s)
+
+        # Ensure each heading starts on its own line.
+        s = re.sub(r"(?<!\n)(#{2,3}\s)", r"\n\1", s)
+
+        # If a heading and a table header were flattened onto one line,
+        # split at the first table pipe.
+        s = re.sub(r"^(#{2,3}\s[^\n|]+?)\s+(\|\s*[^\n]+)$", r"\1\n\2", s, flags=re.MULTILINE)
+
+        # Ensure common unit stat fields each start on their own line.
+        labels = [
+            "Unit Category:",
+            "Troop Type:",
+            "Base Size:",
+            "Unit Size:",
+            "Equipment:",
+            "Special Rules:",
+            "Optional Rules:",
+        ]
+        label_pattern = "|".join(re.escape(label) for label in labels)
+        s = re.sub(rf"(?<!\n)({label_pattern})", r"\n\1", s)
+
+        # Keep output tidy.
+        s = re.sub(r"\n{3,}", "\n\n", s)
+        return s.strip()
