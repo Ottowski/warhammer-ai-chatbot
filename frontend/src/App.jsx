@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 import ReactMarkdown from 'react-markdown'
 import './App.css'
+import remarkGfm from 'remark-gfm'
 
 const API_URL = import.meta.env.VITE_API_URL ?? ''
 // Main application component
@@ -77,7 +78,7 @@ function App() {
         {messages.map((msg, i) => (
           <div key={i} className={`message ${msg.role}`}>
             {msg.role === 'assistant'
-              ? <ReactMarkdown>{msg.text}</ReactMarkdown>
+              ? <ReactMarkdown remarkPlugins={[remarkGfm]}>{msg.text}</ReactMarkdown>
               : <p>{msg.text}</p>
             }
             {/* If the assistant message includes sources, display them in a list */}
@@ -95,13 +96,17 @@ function App() {
         <div ref={bottomRef} />
       </div>
 
+      {!appReady && (
+        <div className="init-banner">Initializing rule engine, please wait...</div>
+      )}
+
       {/* Input form for the user to type their question */}
       <form className="input-row" onSubmit={sendMessage}>
         <input
           type="text"
           value={input}
           onChange={e => setInput(e.target.value)}
-          placeholder="Type your question here..."
+          placeholder={appReady ? 'Type your question here...' : 'Loading rules, input will unlock shortly...'}
           disabled={loading || !appReady}
         />
         <button type="submit" disabled={loading || !input.trim() || !appReady}>Send</button>

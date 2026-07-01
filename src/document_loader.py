@@ -90,6 +90,10 @@ class DocumentLoader:
         overlap = max(0, overlap)
         
         import re
+
+        # Normalize line endings so markdown table rows don't get collapsed onto one line
+        text = text.replace('\r\n', '\n').replace('\r', '\n')
+
         # Split on ## or ### headings — these are natural section breaks in rule docs
         sections = re.split(r'(\n#{2,3}\s+[^\n]+\n)', text)
         
@@ -97,7 +101,12 @@ class DocumentLoader:
         current_chunk = ""
         
         for section in sections:
-            section = section.strip()
+            # Only strip leading/trailing whitespace for non-table sections
+            # Stripping table sections collapses rows onto one line
+            if '|' in section:
+               section = section.strip('\r\n')  # remove surrounding blank lines only, not internal newlines
+            else:
+               section = section.strip()
             if not section:
                 continue
                 
@@ -117,7 +126,7 @@ class DocumentLoader:
             else:
                 # Keep building the current chunk
                 if current_chunk:
-                    current_chunk += '\n\n' + section
+                    current_chunk += '\n\n' + section  # \n\n preserves markdown table row breaks
                 else:
                     current_chunk = section
         
