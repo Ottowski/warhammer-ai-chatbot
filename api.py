@@ -4,6 +4,12 @@ import threading
 from contextlib import asynccontextmanager
 from pathlib import Path
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # dotenv not required in production (Render sets env vars directly)
+
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
@@ -83,7 +89,13 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://localhost",
+        "http://localhost:5173",   # Vite dev server
+        "capacitor://localhost",   # Capacitor Android
+        "ionic://localhost",       # Capacitor iOS
+        "https://localhost",
+    ],
     allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],

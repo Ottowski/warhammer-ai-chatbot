@@ -1,4 +1,5 @@
 import hashlib
+import os
 import pickle
 import re
 from pathlib import Path
@@ -6,6 +7,12 @@ from typing import List, Tuple
 import numpy as np
 from src.embeddings import EmbeddingManager
 from src.document_loader import DocumentLoader
+
+try:
+    from groq import Groq as _GroqClient
+    _groq_client = _GroqClient(api_key=os.getenv("GROQ_API_KEY")) if os.getenv("GROQ_API_KEY") else None
+except ImportError:
+    _groq_client = None
 
 class RAGPipeline:
     """
@@ -148,17 +155,17 @@ class RAGPipeline:
     
     def generate_answer(self, query: str, context_documents: List[str]) -> str:
         """
-        Builds the prompt that would be sent to an LLM.
-        Right now this just formats the text — actual LLM integration is TODO.
+        Generates an answer using Groq (if GROQ_API_KEY is set) or falls back
+        to returning the raw matched rule text.
         """
         if not context_documents:
             return "No relevant information found in the knowledge base."
-        
-        # Combine the top 3 chunks into one block of context
+
         context = "\n\n".join(self._normalize_markdown_for_display(d) for d in context_documents[:3])
-        
-        # Ready-to-send prompt for an LLM
-        prompt = f"""Based on the following Warhammer: The Old World rules, answer the question:
+
+        prompt = f"""You are an expert Warhammer: The Old World rules arbiter. \
+Using only the rules excerpts below, answer the question accurately and concisely. \
+If the answer is not covered by the excerpts, say so clearly.
 
 Question: {query}
 
@@ -166,24 +173,32 @@ Relevant Rules:
 {context}
 
 Answer:"""
-        
-        return prompt
+
+        if _groq_client:
+            response = _groq_client.chat.completions.create(
+                model="llama-3.1-8b-instant",
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=512,
+                temperature=0.1,
+            )
+            return response.choices[0].message.content
+
+        # Groq not available — return the raw context chunks
+        return self._simple_answer(context_documents)
     
     def answer_question(self, query: str, use_llm: bool = False) -> dict:
         """
         The main entry point. Given a question, returns an answer + sources.
-        Set use_llm=True once an LLM is wired up; for now it falls back
-        to returning the raw matched rule text.
+        Automatically uses Groq if GROQ_API_KEY is present; otherwise falls
+        back to returning the raw matched rule text.
         """
         # Step 1: Find the most relevant rule chunks
         relevant_docs, metadatas = self.retrieve_context(query, top_k=5)
-        
-        # Step 2: Generate an answer from those chunks
-        if use_llm:
-            # Returns a formatted prompt (LLM not yet integrated)
+
+        # Step 2: Generate an answer — use LLM if Groq is available
+        if use_llm or _groq_client:
             answer = self.generate_answer(query, relevant_docs)
         else:
-            # Just display the matched rule text directly
             answer = self._simple_answer(relevant_docs)
         
         # Step 3: Package everything up for the caller

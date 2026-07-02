@@ -1,0 +1,8 @@
+{
+  "appId": "com.towarbiter.app",
+  "appName": "TOW Arbiter",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

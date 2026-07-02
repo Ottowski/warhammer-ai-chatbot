@@ -55,3 +55,58 @@ Notes:
 - Python 3.11 with a virtual environment (`.venv`)
 - Node.js 18+
 - Dependencies installed by the build script (`pip install -r requirements.txt` and `npm install`)
+
+---
+
+## Mobile App (Android & iOS)
+
+The mobile app is powered by a backend hosted on Render (free) and wrapped with Capacitor.
+
+### Step 1 — Get a free Groq API key
+
+1. Go to [console.groq.com](https://console.groq.com) and create a free account.
+2. Generate an API key.
+
+### Step 2 — Deploy the backend to Render
+
+1. Push this repo to GitHub (if not already done).
+2. Go to [render.com](https://render.com) → New → Web Service → connect your repo.
+3. Render will detect `render.yaml` automatically. Click **Deploy**.
+4. In the Render dashboard, go to **Environment** and add:
+   - `GROQ_API_KEY` = your key from Step 1
+5. After deploy, copy your service URL (e.g. `https://tow-arbiter-api.onrender.com`).
+
+### Step 3 — Configure the mobile frontend
+
+Edit `frontend/.env.mobile` and replace the placeholder with your Render URL:
+
+```
+VITE_API_URL=https://tow-arbiter-api.onrender.com
+```
+
+### Step 4 — Install Capacitor and add platforms
+
+```powershell
+cd frontend
+npm install
+npx cap add android   # Creates the Android project
+# npx cap add ios     # macOS + Xcode only
+```
+
+### Step 5 — Build and sync
+
+```powershell
+npm run mobile:build   # Builds React with mobile env, copies to Capacitor
+```
+
+### Step 6 — Open in Android Studio / Xcode
+
+```powershell
+npx cap open android   # Opens Android Studio
+# npx cap open ios     # Opens Xcode (macOS only)
+```
+
+Then build and run from Android Studio / Xcode onto a device or emulator.
+
+> **Note:** After any frontend change, re-run `npm run mobile:build` then `npx cap open android` again.
+

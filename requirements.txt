@@ -6,6 +6,10 @@ numpy>=1.24.0
 # Optional: For ChatGPT integration
 # openai>=1.3.0
 
+# Optional: For Groq LLM (cloud & mobile backend)
+groq>=0.4.0
+python-dotenv>=1.0.0
+
 # Optional: For Ollama local LLM
 # ollama>=0.0.1
 
