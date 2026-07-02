@@ -43,7 +43,7 @@ data/vector_store/
 *.sqlite3
 
 # Build output (large binaries — use build_desktop.ps1 to generate locally)
-"WH AI Chatbot/"
+"TOW Arbiter/"
 build/
 
 # Environment variables

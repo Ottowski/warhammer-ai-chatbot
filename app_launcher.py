@@ -34,7 +34,7 @@ LOADING_HTML = """<!DOCTYPE html>
 </head>
 <body>
   <div class="container">
-    <h1>&#9876; WH AI Chatbot</h1>
+    <h1>&#9876; TOW Arbiter</h1>
     <div class="dots"><span></span><span></span><span></span></div>
     <p>Loading AI model and knowledge base...</p>
   </div>
@@ -49,7 +49,7 @@ def _apply_window_icon() -> None:
     import ctypes
     import ctypes.wintypes as wintypes
 
-    hwnd = ctypes.windll.user32.FindWindowW(None, "WH AI Chatbot")
+    hwnd = ctypes.windll.user32.FindWindowW(None, "TOW Arbiter")
     if not hwnd:
         return
 
@@ -102,7 +102,7 @@ def _wait_and_navigate(window) -> None:
 
 def main() -> None:
     window = webview.create_window(
-        "WH AI Chatbot",
+        "TOW Arbiter",
         html=LOADING_HTML,
         width=700,
         height=750,

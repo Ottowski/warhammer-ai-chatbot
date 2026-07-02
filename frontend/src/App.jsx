@@ -67,7 +67,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>Warhammer Rules Assistant</h1>
+        <h1>TOW Arbiter</h1>
       </header>
       {/* Chat window displaying the conversation history */}
       <div className="chat-window">

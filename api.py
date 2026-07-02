@@ -23,7 +23,7 @@ def _resource_root() -> Path:
 
 def _writable_data_root() -> Path:
     if getattr(sys, "frozen", False):
-        base = Path(os.getenv("LOCALAPPDATA", str(Path.home()))) / "WH-AI-Chatbot"
+        base = Path(os.getenv("LOCALAPPDATA", str(Path.home()))) / "TOW-Arbiter"
     else:
         base = Path(__file__).resolve().parent
     base.mkdir(parents=True, exist_ok=True)
@@ -76,7 +76,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="Warhammer Rules Assistant API",
+    title="TOW Arbiter API",
     version="0.1.0",
     lifespan=lifespan,
 )

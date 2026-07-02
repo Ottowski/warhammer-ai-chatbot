@@ -120,7 +120,7 @@ def check_imports():
 def main():
     """Run all verification checks"""
     print("=" * 60)
-    print("WH AI CHATBOT - SETUP VERIFICATION")
+    print("TOW ARBITER - SETUP VERIFICATION")
     print("=" * 60)
     print()
     

@@ -1,6 +1,6 @@
-# Warhammer Rules Assistant
+# TOW Arbiter
 
-An AI chatbot for Warhammer rules built with FastAPI + React.
+An AI rules assistant for Warhammer: The Old World, built with FastAPI + React.
 
 ## Desktop App (.exe)
 
@@ -28,26 +28,26 @@ Set-Location "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot"
 After the build finishes, start:
 
 ```powershell
-& ".\WH AI Chatbot\WH AI Chatbot.exe"
+& ".\TOW Arbiter\TOW Arbiter.exe"
 ```
 
 From another folder, use the full path:
 
 ```powershell
-& "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot\WH AI Chatbot\WH AI Chatbot.exe"
+& "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot\TOW Arbiter\TOW Arbiter.exe"
 ```
 
 Build and run in one go:
 
 ```powershell
-Set-Location "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot"; .venv\Scripts\Activate.ps1; .\build_desktop.ps1; & ".\WH AI Chatbot\WH AI Chatbot.exe" 
+Set-Location "C:\Users\ottoa\OneDrive\Skrivbord\WH AI chatbot"; .venv\Scripts\Activate.ps1; .\build_desktop.ps1; & ".\TOW Arbiter\TOW Arbiter.exe" 
 ```
 
 Notes:
 - The app opens in a native desktop window (pywebview).
 - The frontend is bundled from `frontend/dist`.
 - The backend API runs inside the app process.
-- Persistent vector store data is written under `%LOCALAPPDATA%\WH-AI-Chatbot\data\vector_store` in desktop mode.
+- Persistent vector store data is written under `%LOCALAPPDATA%\TOW-Arbiter\data\vector_store` in desktop mode.
 - In PowerShell, paths containing spaces must be quoted. Use `&` when launching executables.
 
 ## Requirements

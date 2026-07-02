@@ -34,7 +34,7 @@ Write-Host 'Creating desktop executable with PyInstaller...'
   --onedir `
   --windowed `
   --distpath "." `
-  --name "WH AI Chatbot" `
+  --name "TOW Arbiter" `
   --icon "frontend/public/app_icon.ico" `
   --add-data "rules;rules" `
   --add-data "frontend/dist;frontend/dist" `
@@ -43,4 +43,4 @@ Write-Host 'Creating desktop executable with PyInstaller...'
 
 Write-Host ''
 Write-Host 'Build finished.'
-Write-Host 'Executable: WH AI Chatbot\WH AI Chatbot.exe'
+Write-Host 'Executable: TOW Arbiter\TOW Arbiter.exe'
