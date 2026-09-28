@@ -109,6 +109,28 @@ body {
   border-radius: 3px;
   font-size: 0.9em;
 }
+
+/* Clickable special-rule references inside assistant answers */
+.message.assistant .rule-link {
+  border: 0;
+  background: rgba(201, 168, 75, 0.16);
+  color: #f5d27a;
+  padding: 0.05em 0.45em;
+  border-radius: 999px;
+  font: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.message.assistant .rule-link:hover {
+  background: rgba(201, 168, 75, 0.28);
+  color: #ffe39c;
+}
+
+.message.assistant .rule-link:focus-visible {
+  outline: 2px solid #c8a84b;
+  outline-offset: 2px;
+}
 /* Preformatted text styling within messages */
 .message pre {
   background: #0f1b36;

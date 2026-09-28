@@ -4,12 +4,52 @@ import './App.css'
 import remarkGfm from 'remark-gfm'
 
 const API_URL = import.meta.env.VITE_API_URL ?? ''
+
+// Internal markdown URL prefix used to tag in-app rule links.
+const SPECIAL_RULE_LINK_PREFIX = 'special-rule:'
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+// Convert known special rule names in the text into clickable markdown links.
+function linkifySpecialRules(text, specialRules) {
+  if (!text || specialRules.length === 0) return text
+
+  const orderedRules = [...specialRules].sort((left, right) => right.length - left.length)
+  const pattern = orderedRules
+    .map(rule => escapeRegExp(rule))
+    .join('|')
+
+  if (!pattern) return text
+
+  const matcher = new RegExp(`(^|[^\\w\\[])(${pattern})(?=$|[^\\w\\]])`, 'g')
+
+  // Convert known rule names into markdown links that our custom renderer can intercept.
+  return text.replace(matcher, (_match, prefix, ruleName) => {
+    return `${prefix}[${ruleName}](${SPECIAL_RULE_LINK_PREFIX}${encodeURIComponent(ruleName)})`
+  })
+}
+
+//
+function getNodeText(node) {
+  if (typeof node === 'string' || typeof node === 'number') {
+    return String(node)
+  }
+
+  if (!node || !Array.isArray(node.props?.children)) {
+    return typeof node?.props?.children === 'string' ? node.props.children : ''
+  }
+
+  return node.props.children.map(getNodeText).join('')
+}
+
 // Main application component
 function App() {
   const [messages, setMessages] = useState([])
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
   const [appReady, setAppReady] = useState(false)
+  const [specialRules, setSpecialRules] = useState([])
   const bottomRef = useRef(null)
 
   // Poll the backend for readiness status every 1.5 seconds until it reports ready
@@ -31,15 +71,29 @@ function App() {
     return () => clearTimeout(timer)
   }, [])
 
+  useEffect(() => {
+    async function loadSpecialRules() {
+      try {
+        // Fetch rule names once so message text can be auto-linkified consistently.
+        const res = await fetch(`${API_URL}/special-rules`)
+        if (!res.ok) return
+        const data = await res.json()
+        if (Array.isArray(data.special_rules)) {
+          setSpecialRules(data.special_rules)
+        }
+      } catch (_) {}
+    }
+
+    loadSpecialRules()
+  }, [])
+
   // Scroll to the bottom of the chat window whenever messages or loading state changes
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' })
   }, [messages, loading])
 
   // Handle sending a message when the user submits the form
-  async function sendMessage(e) {
-    e.preventDefault()
-    const question = input.trim()
+  async function submitQuestion(question) {
     if (!question || loading) return
     // Add the user's question to the chat history
     setMessages(prev => [...prev, { role: 'user', text: question }])
@@ -64,6 +118,57 @@ function App() {
     }
   }
 
+  async function sendMessage(e) {
+    e.preventDefault()
+    await submitQuestion(input.trim())
+  }
+
+  async function handleSpecialRuleClick(e, ruleName) {
+    e.preventDefault()
+    // Clicking a rule should behave exactly like user-submitting that rule as a query.
+    await submitQuestion(ruleName)
+  }
+
+  const markdownComponents = {
+    a({ href, children }) {
+      const linkText = getNodeText({ props: { children } }).trim()
+      const matchingRule = specialRules.find(rule => rule.toLowerCase() === linkText.toLowerCase())
+
+      // Primary path: if visible link text matches a known special rule, force in-app query behavior.
+      if (matchingRule) {
+        return (
+          <button
+            type="button"
+            className="rule-link"
+            onClick={e => handleSpecialRuleClick(e, matchingRule)}
+          >
+            {children}
+          </button>
+        )
+      }
+
+      // Fallback path: support prefixed links emitted by linkifySpecialRules.
+      if (href?.startsWith(SPECIAL_RULE_LINK_PREFIX)) {
+        const ruleName = decodeURIComponent(href.slice(SPECIAL_RULE_LINK_PREFIX.length))
+        return (
+          <button
+            type="button"
+            className="rule-link"
+            onClick={e => handleSpecialRuleClick(e, ruleName)}
+          >
+            {children}
+          </button>
+        )
+      }
+
+      return (
+        <a href={href} target="_blank" rel="noreferrer">
+          {children}
+        </a>
+      )
+    },
+  }
+
   return (
     <div className="app">
       <header className="header">
@@ -78,7 +183,7 @@ function App() {
         {messages.map((msg, i) => (
           <div key={i} className={`message ${msg.role}`}>
             {msg.role === 'assistant'
-              ? <ReactMarkdown remarkPlugins={[remarkGfm]}>{msg.text}</ReactMarkdown>
+              ? <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>{linkifySpecialRules(msg.text, specialRules)}</ReactMarkdown>
               : <p>{msg.text}</p>
             }
             {/* If the assistant message includes sources, display them in a list */}

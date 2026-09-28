@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 import threading
 from contextlib import asynccontextmanager
@@ -44,6 +45,37 @@ class AskResponse(BaseModel):
 rag_pipeline: RAGPipeline | None = None
 _pipeline_ready: bool = False
 _pipeline_status: str = "initializing"
+# Cached at startup and returned to the frontend so it can make rule names clickable.
+_special_rule_names: list[str] = []
+
+
+def _load_special_rule_names(resource_root: Path) -> list[str]:
+    # Extract top-level special rule headings from the source markdown.
+    special_rules_file = resource_root / "rules" / "special_rules.md"
+    if not special_rules_file.exists():
+        return []
+
+    headings: list[str] = []
+    ignored = {
+        "What are Special Rules?",
+        "Universal Special Rules",
+        "Army Special Rules",
+        "Unique Special Rules",
+        "What Special Rules Does it Have?",
+        "Rule Priority",
+        "Cumulative Special Rules",
+    }
+
+    for line in special_rules_file.read_text(encoding="utf-8").splitlines():
+        match = re.match(r"^##\s+(.+?)\s*$", line)
+        if not match:
+            continue
+
+        heading = match.group(1).strip()
+        if heading and heading not in ignored:
+            headings.append(heading)
+
+    return headings
 
 
 def _init_pipeline_bg(pipeline: RAGPipeline) -> None:
@@ -58,10 +90,12 @@ def _init_pipeline_bg(pipeline: RAGPipeline) -> None:
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    global rag_pipeline
+    global rag_pipeline, _special_rule_names
 
     resource_root = _resource_root()
     writable_root = _writable_data_root()
+
+    _special_rule_names = _load_special_rule_names(resource_root)
 
     rules_directory = resource_root / "rules"
     vector_store_path = writable_root / "data" / "vector_store"
@@ -98,6 +132,12 @@ def health() -> dict:
 @app.get("/status")
 def status() -> dict:
     return {"ready": _pipeline_ready, "message": _pipeline_status}
+
+
+@app.get("/special-rules")
+def special_rules() -> dict:
+    # Frontend uses this list to convert rule names in answers into one-click follow-up searches.
+    return {"special_rules": _special_rule_names}
 
 
 @app.post("/ask", response_model=AskResponse)
