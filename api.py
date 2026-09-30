@@ -48,7 +48,7 @@ _pipeline_status: str = "initializing"
 # Cached at startup and returned to the frontend so it can make rule names clickable.
 _special_rule_names: list[str] = []
 
-
+# Load special rule names from the resource root at startup so they can be served to the frontend.
 def _load_special_rule_names(resource_root: Path) -> list[str]:
     # Extract top-level special rule headings from the source markdown.
     special_rules_file = resource_root / "rules" / "special_rules.md"
@@ -65,7 +65,7 @@ def _load_special_rule_names(resource_root: Path) -> list[str]:
         "Rule Priority",
         "Cumulative Special Rules",
     }
-
+    # Return the list of special rule headings extracted from the markdown file.
     for line in special_rules_file.read_text(encoding="utf-8").splitlines():
         match = re.match(r"^##\s+(.+?)\s*$", line)
         if not match:
@@ -77,7 +77,7 @@ def _load_special_rule_names(resource_root: Path) -> list[str]:
 
     return headings
 
-
+# Initialize the RAG pipeline in a background thread to avoid blocking the main application startup.
 def _init_pipeline_bg(pipeline: RAGPipeline) -> None:
     global _pipeline_ready, _pipeline_status
     try:
@@ -87,9 +87,10 @@ def _init_pipeline_bg(pipeline: RAGPipeline) -> None:
     except Exception as exc:
         _pipeline_status = f"error: {exc}"
 
-
+# Application lifespan context manager for initializing the RAG pipeline.
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    # Initialize the RAG pipeline and load special rule names before the application starts serving requests.
     global rag_pipeline, _special_rule_names
 
     resource_root = _resource_root()

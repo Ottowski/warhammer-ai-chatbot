@@ -30,8 +30,9 @@ function linkifySpecialRules(text, specialRules) {
   })
 }
 
-//
+// Recursively extract plain text from a React node, used for custom markdown rendering.
 function getNodeText(node) {
+  // Base case: if the node is a string or number, return it as a string.
   if (typeof node === 'string' || typeof node === 'number') {
     return String(node)
   }
@@ -118,11 +119,12 @@ function App() {
     }
   }
 
+  // Handle the form submission for sending a message
   async function sendMessage(e) {
     e.preventDefault()
     await submitQuestion(input.trim())
   }
-
+  // Handle clicking on a special rule link within the chat messages.
   async function handleSpecialRuleClick(e, ruleName) {
     e.preventDefault()
     // Clicking a rule should behave exactly like user-submitting that rule as a query.

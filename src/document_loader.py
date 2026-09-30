@@ -81,7 +81,7 @@ class DocumentLoader:
     def _chunk_text(self, text: str, chunk_size: int = 500, overlap: int = 100) -> List[str]:
         """
         Splits a long text into smaller chunks at markdown heading boundaries.
-        Chunks overlap slightly so context isn't lost at the edges.
+        Chunks follow section boundaries to keep rule text readable.
         """
         # If the whole text fits in one chunk, just return it as-is
         if len(text) <= chunk_size:
@@ -113,16 +113,10 @@ class DocumentLoader:
             # If adding this section would overflow the chunk, save what we have
             if len(current_chunk) + len(section) > chunk_size and current_chunk:
                 chunks.append(current_chunk.strip())
-                # When starting a new chunk, carry over some text from the end
-                # of the previous one so context isn't cut off abruptly
-                if section.startswith('#'):
-                    current_chunk = section
-                else:
-                    overlap_text = current_chunk[-overlap:].strip() if overlap else ""
-                    if overlap_text:
-                        current_chunk = overlap_text + '\n\n' + section
-                    else:
-                        current_chunk = section
+                # Start the next chunk at a clean section boundary.
+                # Character-level overlap can start mid-word and produce text fragments
+                # like "tains ten or more models" in answers.
+                current_chunk = section
             else:
                 # Keep building the current chunk
                 if current_chunk:

@@ -7,6 +7,9 @@ import numpy as np
 from src.embeddings import EmbeddingManager
 from src.document_loader import DocumentLoader
 
+# Cache schema version for invalidating old caches when the chunking logic changes.
+CACHE_SCHEMA_VERSION = "chunking-v2"
+
 class RAGPipeline:
     """
     The main brain of the app. Ties everything together:
@@ -33,11 +36,36 @@ class RAGPipeline:
         If any file changes, the hash changes and the cache gets rebuilt.
         """
         hasher = hashlib.md5()
+        # Include processing schema version so loader/chunking changes invalidate stale cache.
+        hasher.update(CACHE_SCHEMA_VERSION.encode())
         rules_path = Path(self.rules_directory)
         for f in sorted(rules_path.rglob("*.md")):
             hasher.update(f.name.encode())
             hasher.update(str(f.stat().st_mtime_ns).encode())
         return hasher.hexdigest()
+
+    # Extract a special rule section from the special_rules.md file, if it exists.
+    def _extract_special_rule_section(self, rule_name: str) -> tuple[str, dict] | None:
+        """Return the exact section for a special rule name if it exists."""
+        special_rules_file = Path(self.rules_directory) / "special_rules.md"
+        if not special_rules_file.exists():
+            return None
+
+        # Read the special rules file and extract the section for the given rule name.
+        text = special_rules_file.read_text(encoding="utf-8")
+        section_pattern = re.compile(
+            rf"(?ms)^(##\s+{re.escape(rule_name)}\s*)$\n(.*?)(?=^##\s+|\Z)",
+            flags=re.IGNORECASE,
+        )
+        match = section_pattern.search(text)
+        if not match:
+            return None
+
+        section_text = f"{match.group(1).strip()}\n{match.group(2).strip()}".strip()
+        return section_text, {
+            "source": "special_rules.md",
+            "file_path": str(special_rules_file),
+        }
     
     def initialize_knowledge_base(self, force_rebuild: bool = False):
         """
@@ -108,6 +136,16 @@ class RAGPipeline:
         if self.embeddings is None or len(self.documents) == 0:
             return [], []
         
+        query_lower = query.lower().strip()
+        query_words = {w for w in re.findall(r"[a-z0-9']+", query_lower) if w}
+
+        # Exact special-rule names should resolve to the canonical special_rules.md entry.
+        # This keeps short rule lookups like "Veteran" from being diluted by army-index hits.
+        exact_special_rule = self._extract_special_rule_section(query_lower)
+        if exact_special_rule is not None:
+            document, metadata = exact_special_rule
+            return [document], [metadata]
+
         # Embed the question so we can compare it against stored rule vectors
         query_embedding = np.array(self.embedding_manager.embed_text(query))
         
@@ -115,28 +153,48 @@ class RAGPipeline:
         from sklearn.metrics.pairwise import cosine_similarity
         semantic_scores = cosine_similarity([query_embedding], self.embeddings)[0]
         
-        # Also score by raw keyword overlap as a secondary signal
-        query_lower = query.lower()
-        query_words = set(query_lower.split())
-        
+        # Also score by keyword overlap and heading quality as secondary signals
         keyword_scores = np.zeros(len(self.documents))
+        heading_scores = np.zeros(len(self.documents))
+
+        exact_heading_pattern = re.compile(
+            rf"^\s*###+\s+{re.escape(query_lower)}\s*$",
+            flags=re.IGNORECASE | re.MULTILINE,
+        )
+        prefix_heading_pattern = re.compile(
+            rf"^\s*###+\s+{re.escape(query_lower)}\b",
+            flags=re.IGNORECASE | re.MULTILINE,
+        )
+
         for i, doc in enumerate(self.documents):
             doc_lower = doc.lower()
-            # Boost if document contains query words
-            matching_words = sum(1 for word in query_words if word in doc_lower)
-            # Extra boost if a section heading directly matches a query word
-            if any(heading in doc_lower for heading in ['###', '##']):
-                for word in query_words:
-                    if f"## {word}" in doc_lower or f"### {word}" in doc_lower:
-                        matching_words += 3
+            source_name = str(self.metadatas[i].get("source", ""))
+
+            # Boost for whole-word keyword hits to reduce noisy substring matches.
+            matching_words = sum(
+                1
+                for word in query_words
+                if re.search(rf"\b{re.escape(word)}\b", doc_lower)
+            )
+
+            # Strongly prefer chunks that contain an exact heading match for the full query.
+            if query_lower and exact_heading_pattern.search(doc):
+                heading_scores[i] += 1.0
+            elif query_lower and prefix_heading_pattern.search(doc):
+                heading_scores[i] += 0.25
+
+            # Light preference to core special-rules source for short rule-style queries.
+            if len(query_words) <= 3 and source_name.endswith("special_rules.md"):
+                heading_scores[i] += 0.15
+
             keyword_scores[i] = matching_words
         
         # Normalise keyword scores to 0–1 so they're on the same scale as cosine scores
         if keyword_scores.max() > 0:
             keyword_scores = keyword_scores / keyword_scores.max()
         
-        # Blend the two scores
-        combined_scores = 0.7 * semantic_scores + 0.3 * keyword_scores
+        # Blend semantic, keyword and heading signals.
+        combined_scores = 0.65 * semantic_scores + 0.2 * keyword_scores + heading_scores
         
         # Pick the highest-scoring chunks
         top_indices = np.argsort(combined_scores)[-top_k:][::-1]
