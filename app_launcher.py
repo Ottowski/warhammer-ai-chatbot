@@ -78,7 +78,7 @@ def _apply_window_icon() -> None:
         if h_small.value:
             ctypes.windll.user32.SendMessageW(hwnd, WM_SETICON, ICON_SMALL, h_small.value)
 
-
+# Run the API server in a separate thread.
 def _run_api() -> None:
     import uvicorn
     from api import app as fastapi_app
@@ -86,13 +86,14 @@ def _run_api() -> None:
     server = uvicorn.Server(config)
     server.run()
 
-
+# Wait for the API to be ready and then navigate the webview window to the app URL.
 def _wait_and_navigate(window) -> None:
     import requests
     while True:
         try:
-            r = requests.get(f"{APP_URL}/health", timeout=2)
-            if r.ok:
+            # Check if the API server is ready by querying the /status endpoint.
+            r = requests.get(f"{APP_URL}/status", timeout=2)
+            if r.ok and r.json().get("ready"):
                 break
         except Exception:
             pass

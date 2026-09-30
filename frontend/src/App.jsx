@@ -52,6 +52,7 @@ function App() {
   const [appReady, setAppReady] = useState(false)
   const [specialRules, setSpecialRules] = useState([])
   const bottomRef = useRef(null)
+  const inputRef = useRef(null)
 
   // Poll the backend for readiness status every 1.5 seconds until it reports ready
   useEffect(() => {
@@ -124,11 +125,12 @@ function App() {
     e.preventDefault()
     await submitQuestion(input.trim())
   }
-  // Handle clicking on a special rule link within the chat messages.
-  async function handleSpecialRuleClick(e, ruleName) {
+  // Put a clicked special rule into the search field for editing or submission.
+  function handleSpecialRuleClick(e, ruleName) {
+    // Prevent the default link behavior and populate the input field with the clicked rule name.
     e.preventDefault()
-    // Clicking a rule should behave exactly like user-submitting that rule as a query.
-    await submitQuestion(ruleName)
+    setInput(ruleName)
+    inputRef.current?.focus()
   }
 
   const markdownComponents = {
@@ -210,6 +212,7 @@ function App() {
       {/* Input form for the user to type their question */}
       <form className="input-row" onSubmit={sendMessage}>
         <input
+          ref={inputRef}
           type="text"
           value={input}
           onChange={e => setInput(e.target.value)}
