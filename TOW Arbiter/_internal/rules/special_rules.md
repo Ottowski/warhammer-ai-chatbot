@@ -464,6 +464,10 @@ Warriors that excel at hit and run warfare advance quickly, unleashing a deadly 
 
 Unless it charged, marched or fled during the Movement phase, a unit in which the majority of the models have this special rule may make a Reserve move at the end of the Shooting phase of its turn, after all shooting has been resolved. A unit making a Reserve move moves as described in the Basic Movement rules. It may manoeuvre normally, but cannot march.
 
+## Resolute
+
+Models with this special rule suffer a -1 modifier to any Flee roll or Pursuit roll they make, down to a minimum of 1. It is commonly found on Dwarf units. This penalty does not apply to Chaos Dwarf mounted characters.
+
 ## Scouts
 
 Scouts are advance troops who sneak onto the battlefield in order to seize vital locations before the two armies clash.

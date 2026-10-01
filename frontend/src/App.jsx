@@ -6,18 +6,26 @@ import remarkGfm from 'remark-gfm'
 const API_URL = import.meta.env.VITE_API_URL ?? ''
 
 // Internal markdown URL prefix used to tag in-app rule links.
-const SPECIAL_RULE_LINK_PREFIX = 'special-rule:'
+const SPECIAL_RULE_LINK_PREFIX = '#special-rule='
 
 function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
 }
+
+// Generate a regex pattern for matching a special rule, accounting for optional parenthetical content.
+function specialRulePattern(rule) {
+  return escapeRegExp(rule)
+    .replace(/X\\\+/g, '[^)]*')
+    .replace(/X/g, '[^)]*')
+}
+
 // Convert known special rule names in the text into clickable markdown links.
 function linkifySpecialRules(text, specialRules) {
   if (!text || specialRules.length === 0) return text
 
   const orderedRules = [...specialRules].sort((left, right) => right.length - left.length)
   const pattern = orderedRules
-    .map(rule => escapeRegExp(rule))
+    .map(rule => specialRulePattern(rule))
     .join('|')
 
   if (!pattern) return text

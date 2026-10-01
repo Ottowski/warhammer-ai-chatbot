@@ -75,6 +75,10 @@ def _load_special_rule_names(resource_root: Path) -> list[str]:
         if heading and heading not in ignored:
             headings.append(heading)
 
+    # Ensure "Resolute" is always included as a special rule heading.
+    if "Resolute" not in headings:
+        headings.append("Resolute")
+
     return headings
 
 # Initialize the RAG pipeline in a background thread to avoid blocking the main application startup.

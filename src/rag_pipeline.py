@@ -53,19 +53,63 @@ class RAGPipeline:
 
         # Read the special rules file and extract the section for the given rule name.
         text = special_rules_file.read_text(encoding="utf-8")
+        rule_name = rule_name.strip()
+        heading_names = [rule_name]
+        base_name = re.sub(r"\s*\([^)]*\)\s*$", "", rule_name).strip()
+        # If the rule name contains a parenthetical, also consider the base name without it.
+        if base_name and base_name != rule_name:
+            heading_names.append(base_name)
+
+        heading_pattern = "|".join(
+            re.escape(name) for name in heading_names if name
+        )
         section_pattern = re.compile(
-            rf"(?ms)^(##\s+{re.escape(rule_name)}\s*)$\n(.*?)(?=^##\s+|\Z)",
+            rf"(?ms)^##\s+(?:{heading_pattern})(?:\s+\([^)]*X[^)]*\))?\s*$\n"
+            rf"(.*?)(?=^##\s+|\Z)",
             flags=re.IGNORECASE,
         )
         match = section_pattern.search(text)
         if not match:
             return None
 
-        section_text = f"{match.group(1).strip()}\n{match.group(2).strip()}".strip()
+        section_text = f"{match.group(0).splitlines()[0].strip()}\n{match.group(1).strip()}".strip()
         return section_text, {
             "source": "special_rules.md",
             "file_path": str(special_rules_file),
         }
+
+    def _extract_unit_section(self, unit_name: str) -> tuple[str, dict] | None:
+        """Return an exact army-unit section if it exists."""
+        army_index = Path(self.rules_directory) / "army_index"
+        if not army_index.exists():
+            return None
+
+        # Ensure the unit name is not empty after stripping whitespace.
+        unit_name = unit_name.strip()
+        unit_names = [unit_name]
+        if unit_name.endswith("s"):
+            unit_names.append(unit_name[:-1])
+        else:
+            unit_names.append(f"{unit_name}s")
+        # Compile a regex pattern to match the unit headings in the markdown files.
+        heading_pattern = "|".join(re.escape(name) for name in unit_names)
+        section_pattern = re.compile(
+            rf"(?ms)^###\s+(?P<title>{heading_pattern})\s*$\n"
+            rf"(?P<body>.*?)(?=^##\s+|^###\s+|\Z)",
+            flags=re.IGNORECASE,
+        )
+        # Search through all unit markdown files in the army index for a matching section.
+        for unit_file in sorted(army_index.rglob("*.md")):
+            text = unit_file.read_text(encoding="utf-8")
+            match = section_pattern.search(text)
+            if match:
+                section_text = f"### {match.group('title')}\n{match.group('body').strip()}".strip()
+                return section_text, {
+                    "source": str(unit_file.relative_to(self.rules_directory)),
+                    "file_path": str(unit_file),
+                }
+
+        return None
     
     def initialize_knowledge_base(self, force_rebuild: bool = False):
         """
@@ -144,6 +188,11 @@ class RAGPipeline:
         exact_special_rule = self._extract_special_rule_section(query_lower)
         if exact_special_rule is not None:
             document, metadata = exact_special_rule
+            return [document], [metadata]
+
+        exact_unit = self._extract_unit_section(query_lower)
+        if exact_unit is not None:
+            document, metadata = exact_unit
             return [document], [metadata]
 
         # Embed the question so we can compare it against stored rule vectors
