@@ -112,6 +112,7 @@ Great war engines may be dragged to battle by hordes of infantry.
 
 A model with this special rule that begins its movement within 1" of a friendly unit whose troop type is infantry, that is not fleeing and that contains ten or more models, may replace its Movement characteristic with that of the unit.
 
+
 ## Drilled
 
 Some regiments spend endless hours training to perform complex manoeuvres.
@@ -119,6 +120,12 @@ Some regiments spend endless hours training to perform complex manoeuvres.
 Unless it is fleeing, a Drilled unit may perform a free redress the ranks manoeuvre immediately before moving. Once this manoeuvre is complete, the unit moves as normal. In addition, a Drilled unit can march whilst within 8" of an enemy unit without first having to make a Leadership test.
 
 Note that any character that joins a Drilled unit is considered to be Drilled as well.
+
+## Elven Reflexes
+
+Elves possess phenomenal speed and grace, striking at their enemies faster than the eye can see.
+
+A model with this special rule (but not its mount) has a +1 modifier to its Initiative characteristic (to a maximum of 10) during the first round of any combat.
 
 ## Ethereal
 
@@ -320,6 +327,7 @@ Any attack made or hit caused by a model with this special rule, or made using a
 
 Note that all spells are considered to have this special rule, as are any hits caused by magic items.
 
+
 ## Magic Resistance (-X)
 
 Some creatures are naturally resistant to magic, whilst others bear charms or fetishes intended to ward off its effects.
@@ -327,6 +335,12 @@ Some creatures are naturally resistant to magic, whilst others bear charms or fe
 The Casting roll of any enemy spell (including Bound spells) that targets a unit that includes one or more models with this special rule suffers a modifier, as shown in brackets after the name of this special rule (shown here as '-X').
 
 Note that this special rule is not cumulative. If two or more models in a unit have this special rule, use the highest modifier.
+
+## Martial Prowess
+
+Elven warriors spend many hours mastering the art of war, wielding their weapons with a skill and grace absent from the ranks of their enemies.
+
+During the first round of combat, a unit with this special rule gains a +1 modifier to its Weapon Skill characteristic. In addition, a unit with this special rule can make supporting attacks to its flank or rear, as well as to its front.
 
 ## Mercenaries
 
@@ -571,6 +585,12 @@ Many evil creatures are not truly alive, but are driven instead by magic. Should
 If a unit with this special rule loses a round of combat, it loses one additional Wound for every combat result point by which it lost. These Wounds are lost after combat results have been calculated but before Break tests are made. These Wounds cannot be recovered by a Regeneration save.
 
 If an Unstable unit contains any Unstable characters, allocate wounds to the unit until each model has been allocated one wound. Any remaining wounds are divided as equally as possible between the character(s) and the unit.
+
+## Valour of Ages
+
+Throughout the ages, the High Elves of Ulthuan have stood firm against the multitudinous forces of the ruinous powers. They have faced daemonic legions, hordes of black armoured Chaos warriors, and even their own treacherous kin, sacrificing all to defend their realms.
+
+A unit with this special rule may re-roll any failed Panic test caused by taking heavy casualties or by being fled through by a friendly unit.
 
 ## Vanguard
 
